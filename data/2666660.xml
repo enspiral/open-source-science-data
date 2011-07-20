@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:32:11Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2666660" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2666660</identifier><datestamp>2009-04-08</datestamp><setSpec>virolj</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Virol J</journal-id>
+      <journal-title>Virology Journal</journal-title>
+      <issn pub-type="epub">1743-422X</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2666660</article-id>
+      <article-id pub-id-type="publisher-id">1743-422X-5-160</article-id>
+      <article-id pub-id-type="pmid">19105834</article-id>
+      <article-id pub-id-type="doi">10.1186/1743-422X-5-160</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Extensive purifying selection acting on synonymous sites in HIV-1 Group M sequences</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="A1" contrib-type="author">
+          <name>
+            <surname>Ngandu</surname>
+            <given-names>Nobubelo K</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>nobubelo@cbio.uct.ac.za</email>
+        </contrib>
+        <contrib id="A2" contrib-type="author">
+          <name>
+            <surname>Scheffler</surname>
+            <given-names>Konrad</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>konrad@cbio.uct.ac.za</email>
+        </contrib>
+        <contrib id="A3" contrib-type="author">
+          <name>
+            <surname>Moore</surname>
+            <given-names>Penny</given-names>
+          </name>
+          <xref ref-type="aff" rid="I3">3</xref>
+          <email>pennym@nicd.ac.za</email>
+        </contrib>
+        <contrib id="A4" contrib-type="author">
+          <name>
+            <surname>Woodman</surname>
+            <given-names>Zenda</given-names>
+          </name>
+          <xref ref-type="aff" rid="I4">4</xref>
+          <email>zenda.woodman@uct.ac.za</email>
+        </contrib>
+        <contrib id="A5" contrib-type="author">
+          <name>
+            <surname>Martin</surname>
+            <given-names>Darren</given-names>
+          </name>
+          <xref ref-type="aff" rid="I4">4</xref>
+          <email>Darrin.Martin@uct.ac.za</email>
+        </contrib>
+        <contrib id="A6" corresp="yes" contrib-type="author">
+          <name>
+            <surname>Seoighe</surname>
+            <given-names>Cathal</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>cseoighe@gmail.com</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>National Bioinformatics Network Node, Institute of Infectious Diseases and Molecular Medicine, Faculty of Health Sciences, University of Cape Town, Anzio Road, Observatory, 7925, South Africa</aff>
+      <aff id="I2"><label>2</label>Computer Science Division, Dept of Mathematical Sciences, University of Stellenbosch, Private Bag X1, 7602 Matieland, Stellenbosch, South Africa</aff>
+      <aff id="I3"><label>3</label>National Institute for Communicable Diseases, Private Bag X4, Sandringham, Johannesburg, 2131, South Africa</aff>
+      <aff id="I4"><label>4</label>HIV Diversity and Pathogenesis Group, Institute of Infectious Diseases and Molecular Medicine, Faculty of Health Sciences, University of Cape Town, Anzio Road, Observatory, 7925, Cape Town, South Africa</aff>
+      <pub-date pub-type="collection">
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>12</month>
+        <year>2008</year>
+      </pub-date>
+      <volume>5</volume>
+      <fpage>160</fpage>
+      <lpage>160</lpage>
+      <ext-link ext-link-type="uri" xlink:href="http://www.virologyj.com/content/5/1/160"/>
+      <history>
+        <date date-type="received">
+          <day>2</day>
+          <month>12</month>
+          <year>2008</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>12</month>
+          <year>2008</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2008 Ngandu et al; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2008</copyright-year>
+        <copyright-holder>Ngandu et al; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0"/>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p>
+          <!--<rdf xmlns="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dcterms="http://purl.org/dc/terms"><Work xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by/2.0"/><dc:type rdf:resource="http://purl.org/dc/dcmitype/Text"/><dc:author>
+               Ngandu
+               K
+               Nobubelo
+               
+               nobubelo@cbio.uct.ac.za
+            </dc:author><dc:title>
+            Extensive purifying selection acting on synonymous sites in HIV-1 Group M sequences
+         </dc:title><dc:date>2008</dc:date><dcterms:bibliographicCitation>Virology Journal 5(1): 160-. (2008)</dcterms:bibliographicCitation><dc:identifier type="sici">1743-422X(2008)5:1&#x0003c;160&#x0003e;</dc:identifier><dcterms:isPartOf>urn:ISSN:1743-422X</dcterms:isPartOf><License rdf:about="http://creativecommons.org/licenses/by/2.0"><permits rdf:resource="http://web.resource.org/cc/Reproduction" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/Distribution" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Notice" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Attribution" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" xmlns=""/></License></Work></rdf>-->
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>Positive selection pressure acting on protein-coding sequences is usually inferred when the rate of nonsynonymous substitution is greater than the synonymous rate. However, purifying selection acting directly on the nucleotide sequence can lower the synonymous substitution rate. This could result in false inference of positive selection because when synonymous changes at some sites are under purifying selection, the average synonymous rate is an underestimate of the neutral rate of evolution. Even though HIV-1 coding sequences contain a number of regions that function at the nucleotide level, and are thus likely to be affected by purifying selection, studies of positive selection assume that synonymous substitutions can be used to estimate the neutral rate of evolution.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>We modelled site-to-site variation in the synonymous substitution rate across coding regions of the HIV-1 genome. Synonymous substitution rates were found to vary significantly within and between genes. Surprisingly, regions of the genome that encode proteins in more than one frame had significantly higher synonymous substitution rates than regions coding in a single frame. We found evidence of strong purifying selection pressure affecting synonymous mutations in fourteen regions with known functions. These included an exonic splicing enhancer, the rev-responsive element, the poly-purine tract and a transcription factor binding site. A further five highly conserved regions were located within known functional domains. We also found four conserved regions located in <italic>env </italic>and <italic>vpu </italic>which have not been characterized previously.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>We provide the coordinates of genomic regions with markedly lower synonymous substitution rates, which are putatively under the influence of strong purifying selection pressure at the nucleotide level as well as regions encoding proteins in more than one frame. These regions should be excluded from studies of positive selection acting on HIV-1 coding regions.</p>
+        </sec>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>Several statistical models of codon evolution have been developed and applied to protein-coding sequences from viral and other pathogens [<xref ref-type="bibr" rid="B1">1</xref>-<xref ref-type="bibr" rid="B4">4</xref>]. The primary application of these models has been the detection of evidence of diversifying selection acting on protein coding DNA sequences. Within maximum likelihood or Bayesian frameworks these models can be used to identify specific sites at which adaptive mutations have occurred. In the context of virus infections this information can be especially useful for identifying immune escape and drug resistance mutations [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B6">6</xref>].</p>
+      <p>Positive selection is frequently inferred by comparing the rate of non-synonymous substitutions per non-synonymous site (dN) to the rate of synonymous substitutions per synonymous site (dS). The ratio of these two rates is often represented by the symbol ω. Under the assumption that synonymous substitutions are neutral and that the synonymous substitution rate therefore approximates the neutral rate of evolution, diversifying selection can be inferred when ω is greater than one. Several methods exist to determine whether there is evidence that ω is greater than one at a subset of sites in a protein-coding gene (i.e. the gene is evolving under diversifying selection) and to identify the sites within the gene at which diversifying selection occurs [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>,<xref ref-type="bibr" rid="B7">7</xref>-<xref ref-type="bibr" rid="B9">9</xref>].</p>
+      <p>In many of the situations in which this strategy is applied, the assumption that synonymous substitutions are fixed at a constant rate and provide a good estimate of the neutral rate of evolution, may not hold. Kosakovsky Pond &amp; Muse reported that coding sequences from a wide range of taxa, including HIV-1, show strong evidence of variation in the rate of synonymous substitution across coding regions [<xref ref-type="bibr" rid="B10">10</xref>]. There are two possible causes of synonymous rate variation. If synonymous substitutions are indeed neutral, variation in the mutation rate can cause the synonymous substitution rate to vary. In such a case, it is possible to include a varying synonymous substitution rate in the codon models of evolution and inference of positive selection from comparison of the local synonymous and nonsynonymous substitution rates remains feasible. However, if the variation in synonymous substitution rate is caused by selection acting to preserve functions that are encoded at the nucleotide level, even a comparison of local nonsynonymous and synonymous substitution rates cannot be used to infer positive selection because the synonymous substitution rate is no longer a valid proxy for the neutral rate of evolution and the standard approach of inferring the action of diversifying selection when ω &gt; 1 is not valid.</p>
+      <p>Failure to model variation in synonymous substitution rate will result in an overall underestimate of the neutral rate of evolution. This undermines the validity of the inference of selection, because nonsynonymous substitution rates are compared against a rate which is no longer a good estimate of the neutral rate, and this is likely to result in inference of diversifying selection at a proportion of the sites that are actually evolving neutrally. Indeed, as the number of taxa increases, we expect an ever greater proportion of the neutral sites to be classified as diversifying selection sites in this scenario. Alternatively, if the synonymous substitution rate variation is modeled and selection inferred when dN is greater than the local dS rate then we expect a very high probability of false inference of selection at codons where the synonymous positions happen to be functionally important and conserved, and the nonsynonymous positions are neutral or experience less purifying selection. Thus, in general, in a codon-based method, analysis of selection is unreliable when there is purifying selection acting to preserve functions at the nucleotide level. An example where an elevated ω was attributable to purifying selection acting on synonymous sites was reported by Hurst &amp; Pal [<xref ref-type="bibr" rid="B11">11</xref>].</p>
+      <p>Several examples of sequence motifs within protein-coding sequences that are expected to be under purifying selection at the nucleotide level are known in HIV-1, many of which are involved in regulating gene expression. Examples include the 3' long terminal repeat (LTR) region, part of which also encodes the Nef protein [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B13">13</xref>]. In addition to conserved RNA secondary structures, the LTR contains several regulatory elements, some of which directly interact with cellular transcription factors (e.g. the Ets protein family) [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B15">15</xref>]. The viral sequence also has an intragenic nuclease hypersensitive region involved in regulating gene expression (also referred to as HS7) in the <italic>pol </italic>gene [<xref ref-type="bibr" rid="B16">16</xref>-<xref ref-type="bibr" rid="B18">18</xref>] and the rev-responsive element (RRE) in the <italic>env </italic>gene which interacts with the Rev protein to transport unspliced or partially spliced RNA from the nucleus to the cytoplasm of the infected cell [<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B19">19</xref>-<xref ref-type="bibr" rid="B21">21</xref>]. Some functionally important regions of the RRE have previously been found to be conserved at the nucleotide sequence level, presumably the result of purifying selection pressure to preserve this function [<xref ref-type="bibr" rid="B22">22</xref>]. The inhibitory sequence elements (INS) in gag and the cis-repressive sequence (CRS) in <italic>pol </italic>are examples of negative regulators of transcription [<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B26">26</xref>]. If these functional sites are important for viral viability, then we expect them to be preserved by purifying selection.</p>
+      <p>While it represents a significant challenge for studies of selection acting on the HIV-1 amino acid sequence, the variability in the synonymous substitution rate may also provide useful information about previously unknown sequence motifs within the coding fraction of the HIV-1 genome that function at the nucleotide level. Although some variability can be explained by a variable mutation rate, the identification of regions of very high conservation that cannot be explained by selection acting on the amino acid sequence or by known motifs that function at the nucleotide level has the potential to highlight novel functions encoded in the HIV-1 genome.</p>
+      <p>Here we use an existing model of codon sequence evolution [<xref ref-type="bibr" rid="B10">10</xref>] to provide the first complete overview of site-to-site variation in synonymous substitution rate across the whole HIV-1 genome and identify selection pressures likely to be driving this variation. This model allows dN and dS to vary independently across sites, ensuring that the estimated dS values reflect selection pressure acting upon the nucleotide sequence and not at the amino acid level. It is worthwhile to distinguish between selective pressure acting at the nucleotide level, affecting both synonymous and nonsynonymous changes, and at the amino acid level, affecting nonsynonymous changes only. Unfortunately, quantifying the relative contributions of nucleotide and amino acid level effects on nonsynonymous changes is highly sensitive to model assumptions. We therefore restricted the analysis to synonymous changes and do not attempt to quantify the nucleotide-level selective pressure on nonsynonymous changes. We took into account recombination breakpoints in order to avoid biased estimates that can result from fitting phylogenetic models that do not take recombination into account [<xref ref-type="bibr" rid="B27">27</xref>,<xref ref-type="bibr" rid="B28">28</xref>].</p>
+      <p>We report patterns of sequence conservation around nucleotide sequence motifs with known functions and identify additional conserved nucleotide elements that do not fall within any currently characterized functional motifs. Finally, we report the locations of all HIV-1 genome regions where we infer that purifying selection acting directly on the nucleotide sequence is likely to cause a substantial reduction in the synonymous substitution rate. These are provided with respect to the HXB2 reference strain, to enable other researchers to mask these regions from their analyses of positive selection acting on HIV-1 genes.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Sequence data</title>
+        <p>Nucleotide sequence alignments consisting of HIV-1 Group M subtype reference sequences were downloaded from the Los Alamos database <ext-link ext-link-type="uri" xlink:href="http://www.hiv.lanl.gov"/> for each gene of the HIV-1 genome [<xref ref-type="bibr" rid="B29">29</xref>]. Each alignment had at least one sequence (total ranging from 32 to 37) from each of the 11 non-recombinant HIV-1 group M subtypes A1, A2, B, C, D, F1, F2, G, H, J and K [Genbank: <ext-link ext-link-type="gen" xlink:href="AB253421">AB253421</ext-link>, <ext-link ext-link-type="gen" xlink:href="AB253429">AB253429</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF004885">AF004885</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF005494">AF005494</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF005496">AF005496</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF061641">AF061641</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF061642">AF061642</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF067155">AF067155</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF069670">AF069670</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF075703">AF075703</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF077336">AF077336</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF082394">AF082394</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF082395">AF082395</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF084936">AF084936</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF190127">AF190127</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF190128">AF190128</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF286237">AF286237</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF286238">AF286238</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF377956">AF377956</ext-link>, <ext-link ext-link-type="gen" xlink:href="AF484509">AF484509</ext-link>, <ext-link ext-link-type="gen" xlink:href="AJ249235">AJ249235</ext-link>, <ext-link ext-link-type="gen" xlink:href="AJ249236">AJ249236</ext-link>, <ext-link ext-link-type="gen" xlink:href="AJ249237">AJ249237</ext-link>, <ext-link ext-link-type="gen" xlink:href="AJ249238">AJ249238</ext-link>, <ext-link ext-link-type="gen" xlink:href="AJ249239">AJ249239</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY173951">AY173951</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY253311">AY253311</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY331295">AY331295</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY371157">AY371157</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY371158">AY371158</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY423387">AY423387</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY612637">AY612637</ext-link>, <ext-link ext-link-type="gen" xlink:href="AY772699">AY772699</ext-link>, <ext-link ext-link-type="gen" xlink:href="DQ676872">DQ676872</ext-link>, <ext-link ext-link-type="gen" xlink:href="DQ853463">DQ853463</ext-link>, <ext-link ext-link-type="gen" xlink:href="K03454">K03454</ext-link>, <ext-link ext-link-type="gen" xlink:href="K03455">K03455</ext-link>, <ext-link ext-link-type="gen" xlink:href="U46016">U46016</ext-link>, <ext-link ext-link-type="gen" xlink:href="U51190">U51190</ext-link>, <ext-link ext-link-type="gen" xlink:href="U52953">U52953</ext-link>, <ext-link ext-link-type="gen" xlink:href="U88824">U88824</ext-link>, <ext-link ext-link-type="gen" xlink:href="U88826">U88826</ext-link>]. All regions encoding amino acids in more than one frame were identified and regions judged by eye to be unreliably aligned, i.e., positions 6544–6595, 6700–6715, 7318–7375 of the <italic>env </italic>gene region, were excluded from the analysis. We used the HIV-1 genome map and sequence annotations available from the Los Alamos database to identify the regions of the genome that encode proteins in a single reading frame (see Table <xref ref-type="table" rid="T1">1</xref>) [<xref ref-type="bibr" rid="B29">29</xref>].</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Summary of HIV-1 reference sequence data used</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td align="left">
+                  <bold>
+                    <italic>Gene</italic>
+                  </bold>
+                </td>
+                <td align="left">
+                  <bold>
+                    <italic>Non-overlapping region used </italic>
+                  </bold>
+                </td>
+                <td align="left">
+                  <bold>
+                    <italic>Position on genome</italic>
+                  </bold>
+                </td>
+                <td align="left">
+                  <bold>
+                    <italic>Number of sequences</italic>
+                  </bold>
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">
+                  <italic>env</italic>
+                </td>
+                <td align="left">88 – 2154</td>
+                <td align="left">6313 – 8379</td>
+                <td align="left">37</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>gag</italic>
+                </td>
+                <td align="left">1 – 1295</td>
+                <td align="left">790 – 2084</td>
+                <td align="left">37</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>nef</italic>
+                </td>
+                <td align="left">1 – 621</td>
+                <td align="left">8797 – 9417</td>
+                <td align="left">32</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>pol</italic>
+                </td>
+                <td align="left">211 – 2955</td>
+                <td align="left">2296 – 5040</td>
+                <td align="left">37</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>tat</italic>
+                </td>
+                <td align="left">22 – 138</td>
+                <td align="left">5851 – 5967</td>
+                <td align="left">37</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>vif</italic>
+                </td>
+                <td align="left">58 – 519</td>
+                <td align="left">5098 – 5559</td>
+                <td align="left">37</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>vpr</italic>
+                </td>
+                <td align="left">61 – 273</td>
+                <td align="left">5620 – 5832</td>
+                <td align="left">37</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>vpu</italic>
+                </td>
+                <td align="left">1 – 162</td>
+                <td align="left">6061 – 6222</td>
+                <td align="left">37</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Rev</italic>
+                </td>
+                <td align="left">total overlap</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>genome</italic>
+                </td>
+                <td align="left">Includes overlapping sites</td>
+                <td align="left">790 – 9417</td>
+                <td align="left">36</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>The HXB2 genome numbering is used.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>We identified recombination breakpoints in each alignment using the GARD (Genetic Algorithm for Recombination Detection) algorithm implemented in the HyPhy (Hypothesis testing using Phylogenies) package [<xref ref-type="bibr" rid="B30">30</xref>,<xref ref-type="bibr" rid="B31">31</xref>]. Evidence of recombination was detected in all genes except <italic>tat</italic>, <italic>vpr </italic>and <italic>vpu</italic>. GARD outputs both an alignment showing the positions of recombination breakpoints and separate tree topologies for each of the sequence alignment segments bounded by these breakpoints.</p>
+      </sec>
+      <sec>
+        <title>Synonymous substitution rate estimation</title>
+        <p>Synonymous substitution rates were estimated using a version of the MG94 codon substitution model [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B10">10</xref>]. We used the Dual Model, which allows dS to vary independently of dN and used three discrete categories for each rate. We ran the selected models using a HyPhy batch script for analysis of selection acting on recombining sequences which we developed previously [<xref ref-type="bibr" rid="B32">32</xref>]. This method uses separate tree topologies for each partition of the sequence alignment while keeping the rest of the model parameters fixed across all partitions. We used sliding window plots of mean dS values, calculated over three adjacent codons, to identify regions with low synonymous substitution rates.</p>
+        <p>We also analyzed an alignment of HIV-1 subtype C <italic>gag </italic>sequences [Genbank: <ext-link ext-link-type="gen" xlink:href="DQ792982">DQ792982</ext-link>-<ext-link ext-link-type="gen" xlink:href="DQ793045">DQ793045</ext-link>] described previously [<xref ref-type="bibr" rid="B33">33</xref>] to assess the impact of conservation acting on synonymous substitutions on inference of positive selection. We inferred positive selection using model M2a of Yang and colleagues [<xref ref-type="bibr" rid="B34">34</xref>], taking recombination into account [<xref ref-type="bibr" rid="B32">32</xref>].</p>
+      </sec>
+      <sec>
+        <title>Simulations</title>
+        <p>We used HyPhy to generate simulated data under a neutral model with trees generated from the original alignments (or the tree from the largest un-recombined region for alignments where recombination was detected). The same sequence alignments used as input in the initial analysis were used and one hundred simulated datasets were generated for each alignment. Each simulated dataset was then analyzed using the Dual Model as described above. For each gene the minimum value of mean dS across all sliding windows of three adjacent codons, in all of the one hundred simulated datasets, was used as a conservative threshold to identify windows of reduced dS in the observed data. This stringent threshold and a less stringent one that included 95% of the values inferred from the simulated data are shown in the sliding window plots.</p>
+      </sec>
+      <sec>
+        <title>Functional analysis of a novel nucleotide sequence motif in <italic>env</italic></title>
+        <p>JC53-bl and 293T cells were obtained from Dr George Shaw (University of Alabama, Birmingham, AL) and cultured as described previously [<xref ref-type="bibr" rid="B35">35</xref>]. M7-Luc cells (5.25.EGFP.Luc.M7) were kindly provided by Dr Nathaniel Landau through the AIDS Research and Reference Reagent Program, Division of AIDS, NIAID. M7-Luc cells were cultured in RPMI-1640 medium containing 2 mM L-glutamine, 25 mM HEPES, 10% heat-inactivated fetal bovine serum (FBS) and 50 ug/ml gentamicin (Sigma), supplemented with 10 μg/ml DEAE-Dextran for infectivity assays. An infectious molecular clone, p81, was obtained through the AIDS Research and Reference Reagent Program, Division of AIDS, NIAID, NIH: p81A-4 (Cat#11440) from Dr. Bruce Chesebro. Mutations were introduced into p81 using the Stratagene QuickChange XL kit. Infectious viral particles were produced by transfection of 293T cells using Fugene reagent (Roche BioSciences), and transfection output was assessed by determination of TCID<sub>50 </sub>in JC53-bl cells as described previously [<xref ref-type="bibr" rid="B35">35</xref>]. Equivalent numbers of TCID<sub>50 </sub>were used to infect M7-luc cells seeded into 96 well plates at a density of 7.5 × 10<sup>5 </sup>cells/ml followed by a washout step12 hours post-infection. Replication was monitored by measurement of p24 production using the Vironostica HIV-1 antigen Microelisa system (Biomerieux) over 5 days.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <p>Consistent with previous reports [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B10">10</xref>], we found evidence of variation in synonymous substitution rates within and across HIV-1 genes (Figure <xref ref-type="fig" rid="F1">1</xref>). For all genes the Dual Model [<xref ref-type="bibr" rid="B10">10</xref>], which allows independent variation of dS and dN had a much better fit to the data than a model with constant dN and dS (referred to as the Constant model in Table <xref ref-type="table" rid="T2">2</xref>) or than a model in which only dN varied across sites (the Nonsynonymous model in Table <xref ref-type="table" rid="T2">2</xref>). The variance of dS gives an indication of the extent of site-to-site synonymous rate heterogeneity within the different genomic regions (Table <xref ref-type="table" rid="T3">3</xref>). There was significant variation between genes (p-value = 2 × 10<sup>-7</sup>, from Levene's test) with the least site-to-site variation in dS observed in <italic>vpu </italic>and the most in <italic>vpr </italic>followed by <italic>nef </italic>and <italic>env </italic>(Figure <xref ref-type="fig" rid="F2">2</xref>).</p>
+      <table-wrap position="float" id="T2">
+        <label>Table 2</label>
+        <caption>
+          <p>AIC model selection index to show how different models fit to the data.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td align="left">
+                <bold>Gene regions</bold>
+              </td>
+              <td align="center" colspan="3">
+                <bold>Akaike Information Criterion index (AIC) per Model</bold>
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td/>
+              <td align="left">
+                <bold>Dual</bold>
+              </td>
+              <td align="left">
+                <bold>Nonsynonymous</bold>
+              </td>
+              <td align="left">
+                <bold>Constant</bold>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="4">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">Gag</td>
+              <td align="left">23862.95</td>
+              <td align="left">23963.83</td>
+              <td align="left">25889.10</td>
+            </tr>
+            <tr>
+              <td align="left">Pol</td>
+              <td align="left">41504.20</td>
+              <td align="left">41668.99</td>
+              <td align="left">45642.96</td>
+            </tr>
+            <tr>
+              <td align="left">Vif</td>
+              <td align="left">9794.65</td>
+              <td align="left">9843.41</td>
+              <td align="left">10502.37</td>
+            </tr>
+            <tr>
+              <td align="left">Vpr</td>
+              <td align="left">9581.57</td>
+              <td align="left">9692.29</td>
+              <td align="left">10869.78</td>
+            </tr>
+            <tr>
+              <td align="left">Tat</td>
+              <td align="left">2834.49</td>
+              <td align="left">2878.99</td>
+              <td align="left">3110.23</td>
+            </tr>
+            <tr>
+              <td align="left">Vpu</td>
+              <td align="left">11701.57</td>
+              <td align="left">11832.41</td>
+              <td align="left">12938.54</td>
+            </tr>
+            <tr>
+              <td align="left">Env</td>
+              <td align="left">45201.62</td>
+              <td align="left">45422.72</td>
+              <td align="left">48658.16</td>
+            </tr>
+            <tr>
+              <td align="left">Nef</td>
+              <td align="left">13984.66</td>
+              <td align="left">14061.46</td>
+              <td align="left">14986.75</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <p>The Dual Model which allows dS to vary across sites has the lowest AIC (best fit to the data) for all 8 genes.</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="T3">
+        <label>Table 3</label>
+        <caption>
+          <p>Regions of the HIV-1 sequence which should be considered for exclusion in positive selection analysis studies.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td align="left">
+                <bold>Gene</bold>
+              </td>
+              <td align="left">
+                <bold>dS Variance</bold>
+              </td>
+              <td align="left">
+                <bold>Overlapping regions</bold>
+              </td>
+              <td align="left">
+                <bold>Highly conserved (most stringent cutoff)</bold>
+              </td>
+              <td align="left">
+                <bold>Other sites conserved at 0.05 significance</bold>
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left">
+                <italic>gag</italic>
+              </td>
+              <td align="left">2.1</td>
+              <td align="left">2086 – 2295 (gag/pol)</td>
+              <td align="left">793 – 807</td>
+              <td align="left">821–823</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">898 – 903</td>
+              <td align="left">1036–1038</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">985 – 996</td>
+              <td align="left">1810–1812</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">1309 – 1314</td>
+              <td align="left">1831–1833</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td/>
+              <td align="left">1969 – 1974</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td/>
+              <td align="left">2002–2004</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td/>
+              <td align="left">2023 – 2025</td>
+            </tr>
+            <tr>
+              <td align="left">
+                <italic>pol</italic>
+              </td>
+              <td align="left">1.8</td>
+              <td align="left">5041 – 5097 (pol/vif)</td>
+              <td align="left">4092 – 4094</td>
+              <td align="left">2490–2495</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">4764 – 4790</td>
+              <td align="left">2850 – 2858</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">4864 – 4866</td>
+              <td align="left">3252 – 3257</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">4926 – 4937</td>
+              <td align="left">3304 – 3312</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td/>
+              <td align="left">3867 – 3881</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td/>
+              <td align="left">3966 – 3971</td>
+            </tr>
+            <tr>
+              <td align="left">
+                <italic>vif</italic>
+              </td>
+              <td align="left">2.7</td>
+              <td align="left">5560 – 5619 (vif/vpr)</td>
+              <td align="left">-</td>
+              <td align="left">-</td>
+            </tr>
+            <tr>
+              <td align="left">
+                <italic>vpr</italic>
+              </td>
+              <td align="left">3.9</td>
+              <td align="left">5833 – 5850 (vpr/tat)</td>
+              <td align="left">5769 – 5777</td>
+              <td align="left">-</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">5794 – 5805</td>
+              <td align="left"/>
+            </tr>
+            <tr>
+              <td align="left">
+                <italic>tat</italic>
+              </td>
+              <td align="left">2.9</td>
+              <td align="left">5968 – 6060 (tat/rev)</td>
+              <td align="left">5855 – 5863</td>
+              <td align="left">-</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">5957 – 5968</td>
+              <td/>
+            </tr>
+            <tr>
+              <td align="left">
+                <italic>vpu</italic>
+              </td>
+              <td align="left">1.4</td>
+              <td align="left">6223 – 6312 (vpu/env)</td>
+              <td align="left">6101 – 6106</td>
+              <td align="left">-</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">6143 – 6151</td>
+              <td/>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">6167 – 6178</td>
+              <td/>
+            </tr>
+            <tr>
+              <td align="left">
+                <italic>env</italic>
+              </td>
+              <td align="left">3. 2</td>
+              <td align="left">8380 – 8796 (env/rev)</td>
+              <td align="left">7656 – 7667</td>
+              <td align="left">7077 – 7082</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">7834 – 7842</td>
+              <td align="left">7125 – 7130</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">8349 – 8354</td>
+              <td align="left">7629 – 7634</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">8376 – 8378</td>
+              <td/>
+            </tr>
+            <tr>
+              <td align="left">
+                <italic>nef</italic>
+              </td>
+              <td align="left">3.6</td>
+              <td/>
+              <td align="left">9067 – 9086</td>
+              <td align="left">8869 – 8874</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td align="left">-</td>
+              <td align="left">9087 – 9093 (nef/LTR)</td>
+              <td align="left">8887 – 8892 9121 – 9126</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">9183 – 9192 (nef/LTR)</td>
+              <td align="left">9235 – 9237</td>
+            </tr>
+            <tr>
+              <td align="left"/>
+              <td/>
+              <td/>
+              <td align="left">9391 – 9399 (nef/LTR)</td>
+              <td/>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <p>Co-ordinates are adapted from the HXB2 numbering system. Dashes indicate that there are no sites within that category for a particular gene.</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <fig position="float" id="F1">
+        <label>Figure 1</label>
+        <caption>
+          <p><bold>HIV-1 genome-wide plot of mean nonsynonymous substitution rates</bold>. A 30 codon sliding window was used. Regions coding for proteins in more than one frame are shaded in pink. The frames that were used in each region are shown in grey rectangles, with frame 1 at the top and frame 3 at the bottom.</p>
+        </caption>
+        <graphic xlink:href="1743-422X-5-160-1"/>
+      </fig>
+      <fig position="float" id="F2">
+        <label>Figure 2</label>
+        <caption>
+          <p><bold>Box-and-whisker plot showing variation of dS values per gene</bold>. The values are from non-overlapping regions of HIV-1 genes.</p>
+        </caption>
+        <graphic xlink:href="1743-422X-5-160-2"/>
+      </fig>
+      <p>We found evidence of strong purifying selection acting directly on the nucleotide sequence at twenty-three sites across the HIV-1 genome (Figures <xref ref-type="fig" rid="F3">3</xref>, <xref ref-type="fig" rid="F4">4</xref>, <xref ref-type="fig" rid="F5">5</xref> and <xref ref-type="fig" rid="F6">6</xref>). Fourteen of these regions (marked in black in Figures <xref ref-type="fig" rid="F3">3</xref> and <xref ref-type="fig" rid="F4">4</xref>) coincided exactly with well characterized functional motifs while for another five (marked in green in Figure <xref ref-type="fig" rid="F3">3</xref>), we were able to identify possible functions based on the known functions of the sequence domains in which they were situated. We could not, however, find plausible explanations for high degrees of sequence conservation observed within a twelve-nucleotide region of the <italic>env </italic>gene and three other regions in <italic>vpu </italic>(marked in red in Figure <xref ref-type="fig" rid="F4">4</xref>). Sequence logos illustrating the conservation in each of these twenty-three significantly conserved regions are shown in Figure <xref ref-type="fig" rid="F5">5</xref> (for those with known specific function) and Figure <xref ref-type="fig" rid="F6">6</xref> (for those with predicted and unknown functions).</p>
+      <fig position="float" id="F3">
+        <label>Figure 3</label>
+        <caption>
+          <p><bold>Mean (blue) synonymous substitution rates observed across <italic>gag, pol</italic>, <italic>vif and vpr </italic>genes</bold>. Mean dS was calculated over sliding windows of three codons. Horizontal lines mark the most stringent (red) and less stringent (purple) significance thresholds. (a) dS across the <italic>gag </italic>gene. 'sl4'; the fourth stem loop of the encapsidation signal, 'INS1'; a motif within the first inhibitory sequence region, 'INS2'; a motif within the second inhibitory sequence region. (b) dS across the <italic>pol </italic>gene. 'crs'; start of the cis-repressive sequence, horizontal dotted line is the nuclease hypersensitive region and sites 'B', 'G', 'C' and 'D' are confirmed transcription factor binding sites known as site-B, GC-box, site-C and site-D respectively. 'p1'and 'p2'; conserved sites within nuclease hypersensitive region. "ese"; exonic splicing enhancer. (c) dS across the <italic>vif </italic>gene. (d) dS across the <italic>vpr </italic>gene. 'ssa3'; 3' splice acceptor site A3, 'rnase'; RNae-V1 cleavage site.</p>
+        </caption>
+        <graphic xlink:href="1743-422X-5-160-3"/>
+      </fig>
+      <fig position="float" id="F4">
+        <label>Figure 4</label>
+        <caption>
+          <p><bold>Mean (blue) synonymous substitution rates observed across <italic>tat, vpu</italic>, <italic>env and nef </italic>genes</bold>. (a) dS across the <italic>tat </italic>gene. 'ess2'; exonic splicing silencer ESS2, 'ssa4b'; 3' splice acceptor site A4b. (b) dS across the <italic>vpu </italic>gene. 'n2', 'n3' and 'n4'; novel conserved sites. (c) dS across the <italic>env </italic>gene. "n1" is the novel conserved site. The black dotted horizontal lines indicate poorly aligned regions that were excluded from the analysis. "rre"; rev-responsive element, *; the 9 nucleotides (5' GACGGUACA 3') which bind to the Rev protein with highest affinity, "ss"; splice site region for the <italic>tat </italic>and <italic>rev </italic>3' exons. (d) dS across the <italic>nef </italic>gene. "G-A"; G-to-A hypermutations (see Additional file <xref ref-type="supplementary-material" rid="S1">1</xref>), 'var'; highly variable region, 'ppt'; poly-purine tract, "c"; PPT integrase attachment site, 'nre'; start of the negative repressive sequence, 'ets'; Ets-1 transcription factor binding site.</p>
+        </caption>
+        <graphic xlink:href="1743-422X-5-160-4"/>
+      </fig>
+      <fig position="float" id="F5">
+        <label>Figure 5</label>
+        <caption>
+          <p><bold>Sequence motifs for the highly conserved regions with known function</bold>. The fourteen regions with known specific functions found to be under strong purifying selection in HIV-1 genes. The range of coordinates on the HIV-1 genome for each motif is given in column 2. Numbers above each logo represent the degeneracy at each nucleotide site.</p>
+        </caption>
+        <graphic xlink:href="1743-422X-5-160-5"/>
+      </fig>
+      <fig position="float" id="F6">
+        <label>Figure 6</label>
+        <caption>
+          <p><bold>Sequence motifs for the highly conserved regions with unknown specific function</bold>. The five regions with predicted functions and four regions with unknown functions found to be under strong purifying selection in HIV-1 genes. The range of coordinates on the HIV-1 genome for each motif is given in column 2. Numbers above each logo represent the degeneracy at each nucleotide site.</p>
+        </caption>
+        <graphic xlink:href="1743-422X-5-160-6"/>
+      </fig>
+      <p>The fourteen regions with known functions included one region consisting of fifteen nucleotides following the <italic>gag </italic>start codon, positions 793–807 of HXB2. This forms the fourth stem loop (sl4, Figure <xref ref-type="fig" rid="F3">3a</xref>) of the dimerization/encapsidation signal. The encapsidation signal is a four stem-loop structure which stretches from the 5' LTR and interacts with the nucleo-capsid protein, promoting formation of genomic RNA and blocking the initiation of transcription [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B36">36</xref>,<xref ref-type="bibr" rid="B37">37</xref>].</p>
+      <p>In the <italic>pol </italic>gene, we found two highly conserved regions with known functions. One corresponded to the first three nucleotides (HXB2 coordinate positions 4092–4094) of the 260 nucleotide long cis-repressive sequence (CRS; Figure <xref ref-type="fig" rid="F3">3b</xref>). The cis-repressive sequence inhibits expression of structural protein mRNAs by preventing their transportation from the nucleus – a process that is reversed by the rev-responsive element (RRE) [<xref ref-type="bibr" rid="B24">24</xref>-<xref ref-type="bibr" rid="B26">26</xref>]. The other was found at the 3' end of the intragenic nuclease hypersensitive domain (hs7 in Figure <xref ref-type="fig" rid="F3">3b</xref>). The latter motif, located between positions 4926 and 4937 and labeled "ese" in Figure <xref ref-type="fig" rid="F3">3b</xref>, is also located within HIV-1 exon 2 and the last six nucleotides, TGGAAA, of this conserved region form a known exonic splicing enhancer (ESE) of HIV mRNAs [<xref ref-type="bibr" rid="B38">38</xref>-<xref ref-type="bibr" rid="B42">42</xref>].</p>
+      <p>Two regions in <italic>vpr</italic>, a 3' splice acceptor site [<xref ref-type="bibr" rid="B41">41</xref>] and an RNase-V1 cleavage site [<xref ref-type="bibr" rid="B43">43</xref>,<xref ref-type="bibr" rid="B44">44</xref>] were also conserved (labeled ssa3 and rnase respectively in Figure <xref ref-type="fig" rid="F3">3d</xref>) at positions 5759–5777 and 5794–5805 respectively. An additional two highly conserved regions were observed within the <italic>tat </italic>gene, one containing an exonic splicing silencer, ESS2 between nucleotide positions 5855 and 5863 and the other at the 3' splice acceptor site A4b located at positions 5957 to 5968 (ess2 and ssa4b respectively in Figure <xref ref-type="fig" rid="F4">4a</xref>) [<xref ref-type="bibr" rid="B41">41</xref>].</p>
+      <p>Three of the highly conserved regions with known functions were in the <italic>env </italic>gene and included a nine-nucleotide long motif from position 7834 to 7842 within the RRE. The approximately two hundred nucleotides long RRE element within <italic>env</italic>, is known to interact with the Rev protein and facilitates the transport of late un-spliced and partially-spliced RNAs from the nucleus to the cytoplasm [<xref ref-type="bibr" rid="B19">19</xref>-<xref ref-type="bibr" rid="B21">21</xref>]. Although the RRE is associated with a long stretch of sequence that forms a well characterized secondary structure with various conserved domains [<xref ref-type="bibr" rid="B22">22</xref>], only the nine nucleotides that bind Rev with highest affinity [<xref ref-type="bibr" rid="B21">21</xref>,<xref ref-type="bibr" rid="B45">45</xref>] were sufficiently conserved to be detected using our conservative threshold (Figure <xref ref-type="fig" rid="F4">4c</xref>). Also conserved within the <italic>env </italic>gene were the two splice site regions at the end of the <italic>tat</italic>/<italic>rev </italic>exon, positions 8349–8354 and 8376–8378, usually referred to as 7a/7b, and 7 ("ss" in Figure <xref ref-type="fig" rid="F4">4c</xref>; [<xref ref-type="bibr" rid="B39">39</xref>,<xref ref-type="bibr" rid="B41">41</xref>,<xref ref-type="bibr" rid="B46">46</xref>,<xref ref-type="bibr" rid="B47">47</xref>]</p>
+      <p>The last four of the significantly conserved regions with known function were in the <italic>nef </italic>gene and coincided with the poly-purine tract (PPT), integrase attachment site, negative regulatory element (NRE) and Ets-1 transcription factor binding site (Figure <xref ref-type="fig" rid="F4">4d</xref>) (with HXB2 coordinates 9066–9083, 9084–9091, 9183–9192 and 9391–9399 respectively). The PPT precedes the start of the LTR and is known to associate with the 3' LTR, serving as a primer for the initiation of HIV-1 plus strand DNA replication [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B48">48</xref>-<xref ref-type="bibr" rid="B50">50</xref>]. A previous detailed RT RNase-H binding analysis revealed that priming of the plus strand occurs specifically at the 3' end of the PPT, at the "GGGGGG" motif [<xref ref-type="bibr" rid="B51">51</xref>-<xref ref-type="bibr" rid="B53">53</xref>]. The region adjacent to the 3' end of the PPT was also highly conserved. This region corresponds to the start of the 3'LTR and contains the cleavage site of the PPT by RNAse H as well as the start of integrase attachment region for the integration of the viral genome into the genome of the host [<xref ref-type="bibr" rid="B48">48</xref>,<xref ref-type="bibr" rid="B53">53</xref>-<xref ref-type="bibr" rid="B55">55</xref>]. Two codons in the central region of <italic>nef </italic>were highly variable, one dominated by G-to-A mutations in a sequence context consistent with APOBEC-induced hypermutations when compared to the Group M ancestral sequence [<xref ref-type="bibr" rid="B56">56</xref>] (see Additional file <xref ref-type="supplementary-material" rid="S1">1</xref>) and the second had a high rate of synonymous and nonsynonymous substitutions (labeled "G-A" and "var" in Figure <xref ref-type="fig" rid="F4">4d</xref> respectively).</p>
+      <p>One of the novel regions, the twelve nucleotide long motif in <italic>env</italic>, upstream of the RRE showed the highest degree of conservation of any region in the <italic>env </italic>gene ('n1' in Figure <xref ref-type="fig" rid="F4">4c</xref>; positions 7656–7667 of HXB2). Introduction of synonymous point mutations at positions 7, 9 and 12 in this nucleotide motif had no effect on virus output from transfected 293T cells (see Additional file <xref ref-type="supplementary-material" rid="S2">2(a)</xref>). No significant differences were observed between the wild type and mutated viruses with respect to their infectivity in M7-Luc cells (see Additional file <xref ref-type="supplementary-material" rid="S2">2(b)</xref>). Although the effect of mutations within this region is therefore not clear at present, future work making use of more sensitive competitive replication assays will determine whether these changes have an impact on viral fitness. Functional analyses of the three novel conserved regions in <italic>vpu</italic>, with HXB2 coordinates 6101–6106, 6143–6151 and 6167–6178 (n2, n3, n4 in Figure <xref ref-type="fig" rid="F4">4b</xref>) are being considered. The protein products of <italic>vpu </italic>and <italic>env </italic>are known to be produced from a bicistronic transcript [<xref ref-type="bibr" rid="B46">46</xref>] and the conserved regions in <italic>vpu </italic>may be involved in the control of translation.</p>
+      <p>In order to assess whether purifying selection is likely to cause false inference of positive selection we used standard methods to detect positive selection in a subtype C <italic>gag </italic>coding sequence alignment described previously [<xref ref-type="bibr" rid="B33">33</xref>]. Sites with ω significantly greater than one, implying positive selection, overlapped significantly with sites that had lower than average dS values (Fisher's exact test odds ratio = 4.4; p-value = 0.006; Additional file <xref ref-type="supplementary-material" rid="S3">3</xref>). This is consistent with a substantial proportion of the positive selection signals resulting from conservation of the synonymous sites rather than diversifying selection acting on the nonsynonymous sites.</p>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>This is the first study to provide a detailed analysis of site-to-site variation in the rate of synonymous substitutions across the HIV-1 genome. In the past, site-to-site variation in dS in HIV-1 has been investigated in a single gene [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B10">10</xref>] and in another study a single overall synonymous substitution rate for the entire genome was determined for comparison to other viral lineages [<xref ref-type="bibr" rid="B57">57</xref>]. We modeled site-to-site synonymous rate variation using a similar approach to a previous study [<xref ref-type="bibr" rid="B10">10</xref>], in that case only one HIV-1 gene, <italic>vif</italic>, was considered and sites that encode proteins in multiple reading frames were included. As a consequence, it was not clear whether the observed site-to-site rate variation resulted from variation in the synonymous rate or from selection acting on nonsynonymous substitutions in another reading frame. Here we focused primarily on regions of the HIV genome that encode proteins in a single reading frame and explored functions of nucleotide sequences that have the largest influence on synonymous substitution rate variation.</p>
+      <p>Previous studies have demonstrated that recombination causes false inference of positive selection. Since recombination affects tree topologies used in fitting phylogenetic models, it is also likely to cause biased estimates of dS. The recent development of methods to account for recombination in selection analyses [<xref ref-type="bibr" rid="B32">32</xref>] permitted us to remove recombination as a source of bias in our estimates of synonymous substitution rates.</p>
+      <p>In addition to the fourteen conserved regions with known functions and the novel sites in <italic>env </italic>and <italic>vpu</italic>, five conserved sites without previously reported specific functions occurred within known functional domains. These include three short (3–6 bp) motifs in the inhibitory (INS) sequence regions of gag (HXB2 positions 898–903, 985–996 and 1309–1314, Figure <xref ref-type="fig" rid="F3">3a</xref>). Previous <italic>in-vitro </italic>analyses have shown that short motifs within the approximately two hundred bp long INS regions, are responsible for the actual inhibition of mRNA expression [<xref ref-type="bibr" rid="B23">23</xref>,<xref ref-type="bibr" rid="B24">24</xref>,<xref ref-type="bibr" rid="B26">26</xref>]. Although the three motifs we find within this region have not been specifically identified <italic>in-vitro</italic>, a computational study by Wolff et al (2003) showed that the INS sequences have several short functional motifs within them [<xref ref-type="bibr" rid="B26">26</xref>]. The conserved sites we identified within INS1 and INS2 could serve the same inhibitory function. Functional assays elucidating the role of these sites in the inhibition of mRNA expression could help to determine the precise mechanisms by which inhibition occurs and whether these sites also play a role. In another previous study which analyzed the RNA secondary structure of the 5' region of HIV-1, these two regions, labeled 'INS1' in Figure <xref ref-type="fig" rid="F3">3a</xref>, were found to be involved in conserved Watson-Crick base-pairing [<xref ref-type="bibr" rid="B58">58</xref>]</p>
+      <p>The last two of the five conserved regions with unidentified specific functions were within the <italic>pol </italic>HS7. HS7 spans five hundred nucleotides, between positions 4481 and 4982 of the HIV-1 genome, and has an LTR-like regulatory function [<xref ref-type="bibr" rid="B16">16</xref>,<xref ref-type="bibr" rid="B17">17</xref>]. Previous studies revealed four domains towards the 3' end of this region (PU box, GC-box, site-C and site-D) that bind to specific transcription factors (TFs) and are also important for viral infectivity [<xref ref-type="bibr" rid="B16">16</xref>,<xref ref-type="bibr" rid="B17">17</xref>]. In these studies, the Oct-1, Oct-2, PU.1, Sp1 and Sp3 transcription factors were found to bind to at least one of the four identified sites. The two conserved regions we identified are outside these specific identified functional domains, but one of them at positions 4767–4790 (labeled "p1" in Figure <xref ref-type="fig" rid="F3">3b</xref>) showed potential binding to Oct-1 using the MATCH tool from the TRANSFAC database [<xref ref-type="bibr" rid="B59">59</xref>,<xref ref-type="bibr" rid="B60">60</xref>]. Potential association with a transcription factor was not observed for the three nucleotides (positions 4864–4866) labeled 'p2' and its adjacent sites.</p>
+      <p>Knowledge of regions of the genome that function at the nucleotide level is important for positive selection analysis. Conserved synonymous sites can cause false detection of positive selection and need to be either excluded from analyses or modeled appropriately. The danger is that some sites may be assumed to be evolving adaptively simply as a result of the purifying selection acting directly on the nucleotide sequence. We found evidence of this in subtype C <italic>gag </italic>sequences where positively selected sites significantly coincided with significantly low dS (Additional file <xref ref-type="supplementary-material" rid="S3">3</xref>). In addition, a study by Hurst &amp; Pal (2001) also showed false detection of positive selection caused by purifying selection pressure acting on synonymous sites.</p>
+      <p>In many selection, studies the synonymous rate is assumed to be constant. However, negative selection acting on synonymous sites can potentially reduce gene-wide estimates of the synonymous rates below the neutral evolution rate. Comparison of site-specific nonsynonymous substitution rates against this underestimate of the neutral rate is likely to cause a proportion of the selectively neutral nonsynonymous sites to seem as though they are evolving adaptively. We have, however, used a very stringent cutoff to identify the twenty three regions within the HIV genome that have obviously reduced synonymous substitution rates. For a more conservative analysis of selection, all the significantly conserved sites, i.e., including those conserved at 95% confidence (p-value &lt; 0.05, listed in Table <xref ref-type="table" rid="T3">3</xref>) should be excluded from analyses along with sites that encode proteins in multiple frames. Surprisingly, we found that the rate of synonymous substitution, was higher, on average, in overlapping gene regions that encode proteins in more than one frame (p = 6 × 10<sup>-7 </sup>from Wilcoxon rank sum test; Figure <xref ref-type="fig" rid="F1">1</xref>); however, lower dS was observed within some genome regions that are translated in multiple reading frames. Analysis of the most diverse sequences within subtype B and C revealed more highly conserved sites across the RRE and INS1 regions at the subtype level (Additional file <xref ref-type="supplementary-material" rid="S4">4</xref>). These putatively functional domains could also be removed in more conservative studies of selection acting on HIV protein sequences.</p>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>We have analyzed sequence variation at the synonymous sites of non-overlapping regions of HIV-1 genes. We found substantial site-to-site variation in the rate of synonymous substitution with evidence of purifying selection pressure within functional domains such as the Rev-responsive element. The majority of conserved sites we identified are within functional regions that are well documented in the literature; however, the total number of sites that function at the nucleotide level is unknown and it is therefore difficult to assess the fraction of the known and novel functional sites that are detectable using our method. In addition to identifying putatively functional sites under purifying selection, these results contribute to the robustness of analyses of positive selection by identifying conserved synonymous sites that can cause false positive inference of selection. The sites presented in Table <xref ref-type="table" rid="T3">3</xref> and Figures <xref ref-type="fig" rid="F5">5</xref> and <xref ref-type="fig" rid="F6">6</xref> thus form a resource for future studies of selection pressures acting on HIV-1 genes.</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>NKN carried out the analysis, interpreted the results and drafted the manuscript. KS provided HyPhy scripts, contributed to the methodology and participated in drafting the manuscript. PM carried out the biochemical fitness assays and participated in writing the manuscript. ZW and DM participated in validating the results and editing the manuscript. CS conceived and supervised the study and participated in writing the manuscript.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material content-type="local-data" id="S1">
+        <caption>
+          <title>Additional file 1</title>
+          <p>G-A mutations in a variable region in the <italic>nef </italic>gene. Mutations observed in reference sequences in comparison to Group M ancestral sequence identified using the hypermut tool available in the Los Alamos database. The highly variable region (labeled "G-A" in Figure <xref ref-type="fig" rid="F3">3d</xref>) showed G-A mutations and is boxed in red.</p>
+        </caption>
+        <media xlink:href="1743-422X-5-160-S1.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S2">
+        <caption>
+          <title>Additional file 2</title>
+          <p>Functional analysis of a novel region in the <italic>env </italic>gene. (a) Production of p24 from transfected wildtype p81 and 3 mutants produced from synonymous mutations introduced in the previously uncharacterized conserved region in <italic>env</italic>. (b) Comparison of infectivity between wildtype and the mutants.</p>
+        </caption>
+        <media xlink:href="1743-422X-5-160-S2.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S3">
+        <caption>
+          <title>Additional file 3</title>
+          <p>Evidence of overlap between high omega at a codon and low dS at the synonymous sites. Positively selected sites at which a significantly low dS was observed at the synonymous sites. Positively selected sites are shown in blue vertical lines and sites with low dS are shaded in light blue.</p>
+        </caption>
+        <media xlink:href="1743-422X-5-160-S3.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S4">
+        <caption>
+          <title>Additional file 4</title>
+          <p>Highly conserved regions observed at the subtype-level. dS across subtypes B and C <italic>gag </italic>and <italic>env </italic>genes showing more conserved sites at the subtype sequence level within the INS regions in <italic>gag </italic>and RRE in <italic>env</italic>.</p>
+        </caption>
+        <media xlink:href="1743-422X-5-160-S4.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>This study was funded by the South African National Bioinformatics Network. NKN was supported by a training grant under the Stanford-South Africa Biomedical Informatics Training Program which is supported by the Fogarty International Center, part of the National Institutes of Health (grant no. 5D43 TW006993).</p>
+      </sec>
+    </ack>
+    <ref-list>
+      <ref id="B1">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muse</surname>
+              <given-names>SV</given-names>
+            </name>
+            <name>
+              <surname>Gaut</surname>
+              <given-names>BS</given-names>
+            </name>
+          </person-group>
+          <article-title>A likelihood approach for comparing synonymous and nonsynonymous nucleotide substitution rates, with application to the chloroplast genome</article-title>
+          <source>Mol Biol Evol</source>
+          <year>1994</year>
+          <volume>11</volume>
+          <fpage>715</fpage>
+          <lpage>724</lpage>
+          <pub-id pub-id-type="pmid">7968485</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goldman</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>A codon-based model of nucleotide substitution for protein-coding DNA sequences</article-title>
+          <source>Mol Biol Evol</source>
+          <year>1994</year>
+          <volume>11</volume>
+          <fpage>725</fpage>
+          <lpage>736</lpage>
+          <pub-id pub-id-type="pmid">7968486</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Likelihood models for detecting positively selected amino acid sites and applications to the HIV-1 envelope gene</article-title>
+          <source>Genetics</source>
+          <year>1998</year>
+          <volume>148</volume>
+          <fpage>929</fpage>
+          <lpage>936</lpage>
+          <pub-id pub-id-type="pmid">9539414</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Goldman</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>AM</given-names>
+            </name>
+          </person-group>
+          <article-title>Codon-substitution models for heterogeneous selection pressure at amino acid sites</article-title>
+          <source>Genetics</source>
+          <year>2000</year>
+          <volume>155</volume>
+          <fpage>431</fpage>
+          <lpage>449</lpage>
+          <pub-id pub-id-type="pmid">10790415</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lemey</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kosakovsky Pond</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Drummond</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Barroso</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Taveira</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Rambaut</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Synonymous substitution rates predict HIV disease progression as a result of underlying replication dynamics</article-title>
+          <source>PLoS Comput Biol</source>
+          <year>2007</year>
+          <volume>3</volume>
+          <fpage>e29</fpage>
+          <pub-id pub-id-type="pmid">17305421</pub-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pcbi.0030029</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seoighe</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ketwaroo</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Pillay</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Scheffler</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Duffet</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zvelebil</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Martinson</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>McIntyre</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Morris</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hide</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>A model of directional selection applied to the evolution of drug resistance in HIV-1</article-title>
+          <source>Mol Biol Evol</source>
+          <year>2007</year>
+          <volume>24</volume>
+          <fpage>1025</fpage>
+          <lpage>1031</lpage>
+          <pub-id pub-id-type="pmid">17272680</pub-id>
+          <pub-id pub-id-type="doi">10.1093/molbev/msm021</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Choisy</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Woelk</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Guegan</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative study of adaptive molecular evolution in different human immunodeficiency virus groups and subtypes</article-title>
+          <source>J Virol</source>
+          <year>2004</year>
+          <volume>78</volume>
+          <fpage>1962</fpage>
+          <lpage>1970</lpage>
+          <pub-id pub-id-type="pmid">14747561</pub-id>
+          <pub-id pub-id-type="doi">10.1128/JVI.78.4.1962-1970.2004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Oliveira</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Salemi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vandamme</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>van Rensburg</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Engelbrecht</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Coovadia</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Cassol</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Mapping sites of positive selection and amino acid diversification in the HIV genome: an alternative approach to vaccine design?</article-title>
+          <source>Genetics</source>
+          <year>2004</year>
+          <volume>167</volume>
+          <fpage>1047</fpage>
+          <lpage>1058</lpage>
+          <pub-id pub-id-type="pmid">15280222</pub-id>
+          <pub-id pub-id-type="doi">10.1534/genetics.103.018135</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zanotto</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Kallas</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>de Souza</surname>
+              <given-names>RF</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <article-title>Genealogical evidence for positive selection in the nef gene of HIV-1</article-title>
+          <source>Genetics</source>
+          <year>1999</year>
+          <volume>153</volume>
+          <fpage>1077</fpage>
+          <lpage>1089</lpage>
+          <pub-id pub-id-type="pmid">10545443</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kosakovsky Pond</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Muse</surname>
+              <given-names>SV</given-names>
+            </name>
+          </person-group>
+          <article-title>Site-to-site variation of synonymous substitution rates</article-title>
+          <source>Mol Biol Evol</source>
+          <year>2005</year>
+          <volume>22</volume>
+          <fpage>2375</fpage>
+          <lpage>2385</lpage>
+          <pub-id pub-id-type="pmid">16107593</pub-id>
+          <pub-id pub-id-type="doi">10.1093/molbev/msi232</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hurst</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Pal</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence for purifying selection acting on silent sites in <italic>BRCA1</italic></article-title>
+          <source>TRENDS in Genetics</source>
+          <year>2001</year>
+          <volume>17</volume>
+          <fpage>62</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="pmid">11173101</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0168-9525(00)02173-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quinones-Mateu</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Mas</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lain</surname>
+              <given-names>dL</given-names>
+            </name>
+            <name>
+              <surname>Soriano</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Alcami</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lederman</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Domingo</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>LTR and tat variability of HIV-1 isolates from patients with divergent rates of disease progression</article-title>
+          <source>Virus Res</source>
+          <year>1998</year>
+          <volume>57</volume>
+          <fpage>11</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">9833881</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0168-1702(98)00082-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Das</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Klaver</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Berkhout</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>The 5' and 3' TAR elements of human immunodeficiency virus exert effects at several points in the virus life cycle</article-title>
+          <source>J Virol</source>
+          <year>1998</year>
+          <volume>72</volume>
+          <fpage>9217</fpage>
+          <lpage>9223</lpage>
+          <pub-id pub-id-type="pmid">9765469</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Gorelick</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Vasa</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Guex</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Rein</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mathews</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Giddings</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Weeks</surname>
+              <given-names>KM</given-names>
+            </name>
+          </person-group>
+          <article-title>High-throughput SHAPE analysis reveals structures in HIV-1 genomic RNA strongly conserved across distinct biological states</article-title>
+          <source>PLoS Biol</source>
+          <year>2008</year>
+          <volume>6</volume>
+          <fpage>e96</fpage>
+          <pub-id pub-id-type="pmid">18447581</pub-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pbio.0060096</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pereira</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Bentley</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Peeters</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Churchill</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Deacon</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <article-title>A compilation of cellular transcription factor interactions with the HIV-1 LTR promoter</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2000</year>
+          <volume>28</volume>
+          <fpage>663</fpage>
+          <lpage>668</lpage>
+          <pub-id pub-id-type="pmid">10637316</pub-id>
+          <pub-id pub-id-type="doi">10.1093/nar/28.3.663</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goffin</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Demonte</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Vanhulle</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>de Walque</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>de Launoit</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Burny</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Collette</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Van Lint</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcription factor binding sites in the pol gene intragenic regulatory region of HIV-1 are important for virus infectivity</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2005</year>
+          <volume>33</volume>
+          <fpage>4285</fpage>
+          <lpage>4310</lpage>
+          <pub-id pub-id-type="pmid">16061936</pub-id>
+          <pub-id pub-id-type="doi">10.1093/nar/gki720</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van Lint</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ghysdael</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Paras</surname>
+              <given-names>P</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Burny</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Verdin</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>A transcriptional regulatory element is associated with a nuclease-hypersensitive site in the pol gene of human immunodeficiency virus type 1</article-title>
+          <source>J Virol</source>
+          <year>1994</year>
+          <volume>68</volume>
+          <fpage>2632</fpage>
+          <lpage>2648</lpage>
+          <pub-id pub-id-type="pmid">8139041</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verdin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Becker</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Bex</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Droogmans</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Burny</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and characterization of an enhancer in the coding region of the genome of human immunodeficiency virus type 1</article-title>
+          <source>Proc Natl Acad Sci</source>
+          <year>1990</year>
+          <volume>87</volume>
+          <fpage>4874</fpage>
+          <lpage>4878</lpage>
+          <pub-id pub-id-type="pmid">2352955</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.87.12.4874</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hadzopoulou-Cladaras</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Felber</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Cladaras</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Athanassopoulos</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tse</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pavlakis</surname>
+              <given-names>GN</given-names>
+            </name>
+          </person-group>
+          <article-title>The rev (trs/art) protein of human immunodeficiency virus type 1 affects viral mRNA and protein expression via a cis-acting sequence in the env region</article-title>
+          <source>J Virol</source>
+          <year>1989</year>
+          <volume>63</volume>
+          <fpage>1265</fpage>
+          <lpage>1274</lpage>
+          <pub-id pub-id-type="pmid">2783738</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Renwick</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Critchley</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Price</surname>
+              <given-names>NC</given-names>
+            </name>
+            <name>
+              <surname>Stockley</surname>
+              <given-names>PG</given-names>
+            </name>
+          </person-group>
+          <article-title>Probing the details of the HIV-1 Rev-Rev-responsive element interaction: effects of modified nucleotides on protein affinity and conformational changes during complex formation</article-title>
+          <source>Biochem J</source>
+          <year>1995</year>
+          <volume>308</volume>
+          <fpage>447</fpage>
+          <lpage>453</lpage>
+          <pub-id pub-id-type="pmid">7772026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peterson</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Feigon</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural change in Rev responsive element RNA of HIV-1 on binding Rev peptide</article-title>
+          <source>J Mol Biol</source>
+          <year>1996</year>
+          <volume>264</volume>
+          <fpage>863</fpage>
+          <lpage>877</lpage>
+          <pub-id pub-id-type="pmid">9000617</pub-id>
+          <pub-id pub-id-type="doi">10.1006/jmbi.1996.0683</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phuphuakrat</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Auewarakul</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterogeneity of HIV-1 Rev response element</article-title>
+          <source>AIDS Res Hum Retroviruses</source>
+          <year>2003</year>
+          <volume>19</volume>
+          <fpage>569</fpage>
+          <lpage>574</lpage>
+          <pub-id pub-id-type="pmid">12908934</pub-id>
+          <pub-id pub-id-type="doi">10.1089/088922203322230932</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schwartz</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Nasioulas</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Harrison</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Felber</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Pavlakis</surname>
+              <given-names>GN</given-names>
+            </name>
+          </person-group>
+          <article-title>Mutational inactivation of an inhibitory sequence in human immunodeficiency virus type 1 results in Rev-independent gag expression</article-title>
+          <source>J Virol</source>
+          <year>1992</year>
+          <volume>66</volume>
+          <fpage>7176</fpage>
+          <lpage>7182</lpage>
+          <pub-id pub-id-type="pmid">1433510</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schneider</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Nasioulas</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Felber</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Pavlakis</surname>
+              <given-names>GN</given-names>
+            </name>
+          </person-group>
+          <article-title>Inactivation of the human immunodeficiency virus type 1 inhibitory elements allows Rev-independent expression of Gag and Gag/protease and particle formation</article-title>
+          <source>J Virol</source>
+          <year>1997</year>
+          <volume>71</volume>
+          <fpage>4892</fpage>
+          <lpage>4903</lpage>
+          <pub-id pub-id-type="pmid">9188551</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cochrane</surname>
+              <given-names>AW</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Beidas</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dillon</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Skalka</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and characterization of intragenic sequences which repress human immunodeficiency virus structural gene expression</article-title>
+          <source>J Virol</source>
+          <year>1991</year>
+          <volume>65</volume>
+          <fpage>5305</fpage>
+          <lpage>5313</lpage>
+          <pub-id pub-id-type="pmid">1895385</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolff</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Brack-Werner</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Neumann</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Werner</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Schneider</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Intergrated functional and bioinformatics approach for the identification and experimental verification of RNA signals: application to HIV-1 INS</article-title>
+          <source>Nucleic Acids Research</source>
+          <year>2003</year>
+          <volume>31</volume>
+          <fpage>2839</fpage>
+          <lpage>2851</lpage>
+          <pub-id pub-id-type="pmid">12771211</pub-id>
+          <pub-id pub-id-type="doi">10.1093/nar/gkg390</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anisimova</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of recombination on the accuracy of the likelihood method for detecting positive selection at amino acid sites</article-title>
+          <source>Genetics</source>
+          <year>2003</year>
+          <volume>164</volume>
+          <fpage>1229</fpage>
+          <lpage>1236</lpage>
+          <pub-id pub-id-type="pmid">12871927</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shriner</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Nickle</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Mullins</surname>
+              <given-names>JI</given-names>
+            </name>
+          </person-group>
+          <article-title>Potential impact of recombination on sitewise approaches for detecting positive natural selection</article-title>
+          <source>Genet Res</source>
+          <year>2003</year>
+          <volume>81</volume>
+          <fpage>115</fpage>
+          <lpage>121</lpage>
+          <pub-id pub-id-type="pmid">12872913</pub-id>
+          <pub-id pub-id-type="doi">10.1017/S0016672303006128</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29">
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leitner</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Foley</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hahn</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Marx</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>McCutchan</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Mellors</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wolinsky</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Korber</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV Sequence Compendium</article-title>
+          <source>Theoretical Biology and Biophysics Group, Los Alamos National Laboratory, NM, LA-UR</source>
+          <year>2005</year>
+          <fpage>06</fpage>
+          <lpage>0680</lpage>
+        </citation>
+      </ref>
+      <ref id="B30">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kosakovsky Pond</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Frost</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Muse</surname>
+              <given-names>SV</given-names>
+            </name>
+          </person-group>
+          <article-title>HyPhy: hypothesis testing using phylogenies</article-title>
+          <source>Bioinformatics</source>
+          <year>2005</year>
+          <volume>21</volume>
+          <fpage>676</fpage>
+          <lpage>679</lpage>
+          <pub-id pub-id-type="pmid">15509596</pub-id>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/bti079</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kosakovsky Pond</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Posada</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Gravenor</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Woelk</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Frost</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Automated Phylogenetic Detection of Recombination Using a Genetic Algorithm</article-title>
+          <source>Mol Biol Evol</source>
+          <year>2006</year>
+          <volume>23</volume>
+          <fpage>1891</fpage>
+          <lpage>1901</lpage>
+          <pub-id pub-id-type="pmid">16818476</pub-id>
+          <pub-id pub-id-type="doi">10.1093/molbev/msl051</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scheffler</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Seoighe</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Robust inference of positive selection from recombining coding sequences</article-title>
+          <source>Bioinformatics</source>
+          <year>2006</year>
+          <volume>22</volume>
+          <fpage>2493</fpage>
+          <lpage>2499</lpage>
+          <pub-id pub-id-type="pmid">16895925</pub-id>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btl427</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ngandu</surname>
+              <given-names>NG</given-names>
+            </name>
+            <name>
+              <surname>Bredell</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Seoighe</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>CTL response to HIV type 1 subtype C is poorly predicted by known epitope motifs</article-title>
+          <source>AIDS Res Hum Retroviruses</source>
+          <year>2007</year>
+          <volume>23</volume>
+          <fpage>1033</fpage>
+          <lpage>1041</lpage>
+          <pub-id pub-id-type="pmid">17725421</pub-id>
+          <pub-id pub-id-type="doi">10.1089/aid.2007.0024</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Bayes empirical bayes inference of amino acid sites under positive selection</article-title>
+          <source>Mol Biol Evol</source>
+          <year>2005</year>
+          <volume>22</volume>
+          <fpage>1107</fpage>
+          <lpage>1118</lpage>
+          <pub-id pub-id-type="pmid">15689528</pub-id>
+          <pub-id pub-id-type="doi">10.1093/molbev/msi097</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Choge</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Ranchobe</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Mlisana</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Abdool Karim</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Morris</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The c3-v4 region is a major target of autologous neutralizing antibodies in human immunodeficiency virus type 1 subtype C infection</article-title>
+          <source>J Virol</source>
+          <year>2008</year>
+          <volume>82</volume>
+          <fpage>1860</fpage>
+          <lpage>1869</lpage>
+          <pub-id pub-id-type="pmid">18057243</pub-id>
+          <pub-id pub-id-type="doi">10.1128/JVI.02187-07</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clever</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sassetti</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Parslow</surname>
+              <given-names>TG</given-names>
+            </name>
+          </person-group>
+          <article-title>RNA secondary structure and binding sites for gag gene products in the 5' packaging signal of human immunodeficiency virus type 1</article-title>
+          <source>J Virol</source>
+          <year>1995</year>
+          <volume>69</volume>
+          <fpage>2101</fpage>
+          <lpage>2109</lpage>
+          <pub-id pub-id-type="pmid">7884856</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huthoff</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Vink</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Klaver</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zorgdrager</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Cornelissen</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Berkhout</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>A human immunodeficiency virus type 1-infected individual with low viral load harbors a virus variant that exhibits an in vitro RNA dimerization defect</article-title>
+          <source>J Virol</source>
+          <year>2004</year>
+          <volume>78</volume>
+          <fpage>4907</fpage>
+          <lpage>4913</lpage>
+          <pub-id pub-id-type="pmid">15078972</pub-id>
+          <pub-id pub-id-type="doi">10.1128/JVI.78.9.4907-4913.2004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Exline</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Stoltzfus</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Negative and positive mRNA splicing elements act competitively to regulate human immunodeficiency virus type 1 vif gene expression</article-title>
+          <source>J Virol</source>
+          <year>2008</year>
+          <volume>82</volume>
+          <fpage>3921</fpage>
+          <lpage>3931</lpage>
+          <pub-id pub-id-type="pmid">18272582</pub-id>
+          <pub-id pub-id-type="doi">10.1128/JVI.01558-07</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schwartz</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Felber</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Benko</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Fenyo</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Pavlakis</surname>
+              <given-names>GN</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloning and functional analysis of multiply spliced mRNA species of human immunodeficiency virus type 1</article-title>
+          <source>J Virol</source>
+          <year>1990</year>
+          <volume>64</volume>
+          <fpage>2519</fpage>
+          <lpage>2529</lpage>
+          <pub-id pub-id-type="pmid">2335812</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Madsen</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Stoltzfus</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>A suboptimal 5' splice site downstream of HIV-1 splice site A1 is required for unspliced viral mRNA accumulation and efficient virus replication</article-title>
+          <source>Retrovirology</source>
+          <year>2006</year>
+          <volume>3</volume>
+          <fpage>10</fpage>
+          <pub-id pub-id-type="pmid">16457729</pub-id>
+          <pub-id pub-id-type="doi">10.1186/1742-4690-3-10</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kammler</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Otte</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hauber</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kjems</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hauber</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schaal</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>The strength of the HIV-1 3' splice sites affects Rev function</article-title>
+          <source>Retrovirology</source>
+          <year>2006</year>
+          <volume>3</volume>
+          <fpage>89</fpage>
+          <pub-id pub-id-type="pmid">17144911</pub-id>
+          <pub-id pub-id-type="doi">10.1186/1742-4690-3-89</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krummheuer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lenz</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kammler</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Scheid</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Schaal</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of the small leader exons 2 and 3 on human immunodeficiency virus type 1 gene expression</article-title>
+          <source>Virology</source>
+          <year>2001</year>
+          <volume>286</volume>
+          <fpage>276</fpage>
+          <lpage>289</lpage>
+          <pub-id pub-id-type="pmid">11485396</pub-id>
+          <pub-id pub-id-type="doi">10.1006/viro.2001.0974</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jacquenet</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mereau</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bilodeau</surname>
+              <given-names>PS</given-names>
+            </name>
+            <name>
+              <surname>Damier</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Stoltzfus</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Branlant</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>A second exon splicing silencer within human immunodeficiency virus type 1 tat exon 2 represses splicing of Tat mRNA and binds protein hnRNP H</article-title>
+          <source>J Biol Chem</source>
+          <year>2001</year>
+          <volume>276</volume>
+          <fpage>40464</fpage>
+          <lpage>40475</lpage>
+          <pub-id pub-id-type="pmid">11526107</pub-id>
+          <pub-id pub-id-type="doi">10.1074/jbc.M104070200</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jacquenet</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ropers</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bilodeau</surname>
+              <given-names>PS</given-names>
+            </name>
+            <name>
+              <surname>Damier</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mougin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Stoltzfus</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Branlant</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Conserved stem-loop structures in the HIV-1 RNA region containing the A3 3' splice site and its cis-regulatory element: possible involvement in RNA splicing</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2001</year>
+          <volume>29</volume>
+          <fpage>464</fpage>
+          <lpage>478</lpage>
+          <pub-id pub-id-type="pmid">11139617</pub-id>
+          <pub-id pub-id-type="doi">10.1093/nar/29.2.464</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hung</surname>
+              <given-names>LW</given-names>
+            </name>
+            <name>
+              <surname>Holbrook</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Holbrook</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <article-title>The crystal structure of the Rev binding element of HIV-1 reveals novel base pairing and conformational variability</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2000</year>
+          <volume>97</volume>
+          <fpage>5107</fpage>
+          <lpage>5112</lpage>
+          <pub-id pub-id-type="pmid">10792052</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.090588197</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schwartz</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Felber</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Fenyo</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Pavlakis</surname>
+              <given-names>GN</given-names>
+            </name>
+          </person-group>
+          <article-title>Env and Vpu proteins of human immunodeficiency virus type 1 are produced from multiple bicistronic mRNAs</article-title>
+          <source>J Virol</source>
+          <year>1990</year>
+          <volume>64</volume>
+          <fpage>5448</fpage>
+          <lpage>5456</lpage>
+          <pub-id pub-id-type="pmid">2214021</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Swanson</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Stoltzfus</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Overlapping cis sites used for splicing of HIV-1 env/nef and rev mRNAs</article-title>
+          <source>J Biol Chem</source>
+          <year>1998</year>
+          <volume>273</volume>
+          <fpage>34551</fpage>
+          <lpage>34557</lpage>
+          <pub-id pub-id-type="pmid">9852125</pub-id>
+          <pub-id pub-id-type="doi">10.1074/jbc.273.51.34551</pub-id>
+        </citation>
+      </ref>
+      <ref id="B48">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miles</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Agresta</surname>
+              <given-names>BE</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Powell</surname>
+              <given-names>MD</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of polypurine tract (PPT) mutations on human immunodeficiency virus type 1 replication: a virus with a completely randomized PPT retains low infectivity</article-title>
+          <source>J Virol</source>
+          <year>2005</year>
+          <volume>79</volume>
+          <fpage>6859</fpage>
+          <lpage>6867</lpage>
+          <pub-id pub-id-type="pmid">15890925</pub-id>
+          <pub-id pub-id-type="doi">10.1128/JVI.79.11.6859-6867.2005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>GX</given-names>
+            </name>
+            <name>
+              <surname>Sharmeen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Specificities involved in the initiation of retroviral plus-strand DNA</article-title>
+          <source>J Virol</source>
+          <year>1990</year>
+          <volume>64</volume>
+          <fpage>592</fpage>
+          <lpage>597</lpage>
+          <pub-id pub-id-type="pmid">1688626</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rausch</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Le Grice</surname>
+              <given-names>SF</given-names>
+            </name>
+          </person-group>
+          <article-title>Purine analog substitution of the HIV-1 polypurine tract primer defines regions controlling initiation of plus-strand DNA synthesis</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2007</year>
+          <volume>35</volume>
+          <fpage>256</fpage>
+          <lpage>268</lpage>
+          <pub-id pub-id-type="pmid">17164285</pub-id>
+          <pub-id pub-id-type="doi">10.1093/nar/gkl909</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Powell</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequence and structural determinants required for priming of plus-strand DNA synthesis by the human immunodeficiency virus type 1 polypurine tract</article-title>
+          <source>J Virol</source>
+          <year>1996</year>
+          <volume>70</volume>
+          <fpage>5288</fpage>
+          <lpage>5296</lpage>
+          <pub-id pub-id-type="pmid">8764039</pub-id>
+        </citation>
+      </ref>
+      <ref id="B52">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pullen</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Rattray</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Champoux</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The sequence features important for plus strand priming by human immunodeficiency virus type 1 reverse transcriptase</article-title>
+          <source>J Biol Chem</source>
+          <year>1993</year>
+          <volume>268</volume>
+          <fpage>6221</fpage>
+          <lpage>6227</lpage>
+          <pub-id pub-id-type="pmid">7681062</pub-id>
+        </citation>
+      </ref>
+      <ref id="B53">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rausch</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Le Grice</surname>
+              <given-names>SF</given-names>
+            </name>
+          </person-group>
+          <article-title>'Binding, bending and bonding': polypurine tract-primed initiation of plus-strand DNA synthesis in human immunodeficiency virus</article-title>
+          <source>Int J Biochem Cell Biol</source>
+          <year>2004</year>
+          <volume>36</volume>
+          <fpage>1752</fpage>
+          <lpage>1766</lpage>
+          <pub-id pub-id-type="pmid">15183342</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.biocel.2004.02.016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B54">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Masuda</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kuroda</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Specific and independent recognition of U3 and U5 att sites by human immunodeficiency virus type 1 integrase in vivo</article-title>
+          <source>J Virol</source>
+          <year>1998</year>
+          <volume>72</volume>
+          <fpage>8396</fpage>
+          <lpage>8402</lpage>
+          <pub-id pub-id-type="pmid">9733892</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Engelman</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure-based mutagenesis of the human immunodeficiency virus type 1 DNA attachment site: effects on integration and cDNA synthesis</article-title>
+          <source>J Virol</source>
+          <year>1999</year>
+          <volume>73</volume>
+          <fpage>9011</fpage>
+          <lpage>9020</lpage>
+          <pub-id pub-id-type="pmid">10516007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B56">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rose</surname>
+              <given-names>PP</given-names>
+            </name>
+            <name>
+              <surname>Korber</surname>
+              <given-names>BT</given-names>
+            </name>
+          </person-group>
+          <article-title>Detecting hypermutations in viral sequences with an emphasis on G --&gt; A hypermutation</article-title>
+          <source>Bioinformatics</source>
+          <year>2000</year>
+          <volume>16</volume>
+          <fpage>400</fpage>
+          <lpage>401</lpage>
+          <pub-id pub-id-type="pmid">10869039</pub-id>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/16.4.400</pub-id>
+        </citation>
+      </ref>
+      <ref id="B57">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanada</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Gojobori</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>A large variation in the rates of synonymous substitution for RNA viruses and its relationship to a diversity of viral infection and transmission modes</article-title>
+          <source>Mol Biol Evol</source>
+          <year>2004</year>
+          <volume>21</volume>
+          <fpage>1074</fpage>
+          <lpage>1080</lpage>
+          <pub-id pub-id-type="pmid">15014142</pub-id>
+          <pub-id pub-id-type="doi">10.1093/molbev/msh109</pub-id>
+        </citation>
+      </ref>
+      <ref id="B58">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paillart</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Skripkin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ehresmann</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Ehresmann</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Marquet</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro evidence for a long range pseudoknot in the 5'-untranslated and matrix coding regions of HIV-1 genomic RNA</article-title>
+          <source>J Biol Chem</source>
+          <year>2002</year>
+          <volume>277</volume>
+          <fpage>5995</fpage>
+          <lpage>6004</lpage>
+          <pub-id pub-id-type="pmid">11744696</pub-id>
+          <pub-id pub-id-type="doi">10.1074/jbc.M108972200</pub-id>
+        </citation>
+      </ref>
+      <ref id="B59">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kel</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Gossling</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Reuter</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Cheremushkin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kel-Margoulis</surname>
+              <given-names>OV</given-names>
+            </name>
+            <name>
+              <surname>Wingender</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>MATCH: A tool for searching transcription factor binding sites in DNA sequences</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2003</year>
+          <volume>31</volume>
+          <fpage>3576</fpage>
+          <lpage>3579</lpage>
+          <pub-id pub-id-type="pmid">12824369</pub-id>
+          <pub-id pub-id-type="doi">10.1093/nar/gkg585</pub-id>
+        </citation>
+      </ref>
+      <ref id="B60">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matys</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Fricke</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Geffers</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gossling</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Haubrock</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hehl</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hornischer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Karas</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kel</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Kel-Margoulis</surname>
+              <given-names>OV</given-names>
+            </name>
+            <name>
+              <surname>Kloos</surname>
+              <given-names>DU</given-names>
+            </name>
+            <name>
+              <surname>Land</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lewicki-Potapov</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Michael</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Munch</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Reuter</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Rotert</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Saxel</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Scheer</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Thiele</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wingender</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>TRANSFAC: transcriptional regulation, from patterns to profiles</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2003</year>
+          <volume>31</volume>
+          <fpage>374</fpage>
+          <lpage>378</lpage>
+          <pub-id pub-id-type="pmid">12520026</pub-id>
+          <pub-id pub-id-type="doi">10.1093/nar/gkg108</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

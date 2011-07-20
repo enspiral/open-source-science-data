@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:42Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2756585" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2756585</identifier><datestamp>2009-10-26</datestamp><setSpec>ploscomp</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="discussion">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Comput Biol</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">ploscomp</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Computational Biology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-734X</issn>
+      <issn pub-type="epub">1553-7358</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2756585</article-id>
+      <article-id pub-id-type="pmid">19855824</article-id>
+      <article-id pub-id-type="publisher-id">09-PLCB-PV-0558R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pcbi.1000505</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Perspective</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Evolutionary Biology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Discovering the Phylodynamics of RNA Viruses</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Holmes</surname>
+            <given-names>Edward C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grenfell</surname>
+            <given-names>Bryan T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Center for Infectious Disease Dynamics, Department of Biology, The Pennsylvania State University, Mueller Laboratory, University Park, Pennsylvania, United States of America</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Fogarty International Center, National Institutes of Health, Bethesda, Maryland, United States of America</addr-line>
+      </aff>
+      <aff id="aff3">
+        <label>3</label>
+        <addr-line>Department of Ecology and Evolutionary Biology and Woodrow Wilson School, Princeton University, Princeton, New Jersey, United States of America</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Fraenkel</surname>
+            <given-names>Ernest</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">Massachusetts Institute of Technology, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>ech15@psu.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>10</issue>
+      <elocation-id>e1000505</elocation-id>
+      <permissions>
+        <copyright-statement>Holmes, Grenfell. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <counts>
+        <page-count count="6"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Phylodynamics: The Discovery Phase</title>
+      <p>The advent of extremely high throughput DNA sequencing ensures that genomic data from microbial organisms can be acquired in unprecedented quantities and with remarkable rapidity. Although this genomic revolution will affect all microbes alike, our focus here is on RNA viruses, as the rapidity of their evolution, which is observable over the time scale of human observation, allows phylodynamic inferences to be made with great precision. In the foreseeable future it is likely that complete genome sequencing will become the standard method of viral characterization, providing the highest possible resolution for phylogenetic studies. The rapidity with which genome sequence data were generated from the ongoing epidemic of swine-origin H1N1 influenza A virus <xref ref-type="bibr" rid="pcbi.1000505-Novel1">[1]</xref> is testament to the power of this technology.</p>
+      <p>Understandably, pathogen discovery is a major focus of this new-scale genome sequencing <xref ref-type="bibr" rid="pcbi.1000505-Lipkin1">[2]</xref>. It is now possible to sequence the entire assemblage of viruses in a particular tissue type or host species <xref ref-type="bibr" rid="pcbi.1000505-CoxFoster1">[3]</xref>–<xref ref-type="bibr" rid="pcbi.1000505-Zhang1">[5]</xref>, as well as all those viruses that are associated with specific disease syndromes <xref ref-type="bibr" rid="pcbi.1000505-Palacios1">[6]</xref>,<xref ref-type="bibr" rid="pcbi.1000505-Palmenberg1">[7]</xref>. In essence, this new era of metagenomics constitutes a crucial taxonomic discovery phase in virology and epidemiology that allows the genetic characterization of new viruses within hours of their isolation.</p>
+      <p>Assembling an inventory of viruses that may emerge in human populations is of major importance to public health and to students of biodiversity. However, it is only the first step in developing a full quantitative understanding of the processes that shape the epidemiology and evolution—the phylodynamics—of RNA virus infections <xref ref-type="bibr" rid="pcbi.1000505-Grenfell1">[8]</xref>. To achieve this goal, we argue here that the field of viral phylodynamics requires its own discovery phase; that is, a comprehensive and quantitative analysis of the interaction between the ecological and evolutionary dynamics of all circulating RNA viruses from the molecular to the global scale. Such a marriage of phylogenetic and epidemiological dynamics is currently only potentially possible for the select few human viruses for which large genome sequence datasets have been acquired, such as HIV and influenza A virus, and even here fundamental gaps in our knowledge remain (see below). Indeed, it is striking that so few complete genome sequences are currently available for viruses whose epidemiological dynamics are known in exquisite detail, such as measles <xref ref-type="bibr" rid="pcbi.1000505-Bjrnstad1">[9]</xref>,<xref ref-type="bibr" rid="pcbi.1000505-Grenfell2">[10]</xref>; these sequences have been so sparsely sampled in both time and space that a full phylodynamic perspective has not yet been achieved. We contend that a better understanding of RNA virus phylodynamics will allow more directed attempts at pathogen surveillance, facilitate more accurate predictions of the epidemiological impact of newly emerged viruses, and assist in the control of those viruses that exhibit complex patterns of antigenic variation such as dengue and influenza. Just as PCR and first-generation DNA sequencing ushered in the science of molecular epidemiology, so next-generation sequencing may herald the age of phylodynamics. <xref ref-type="boxed-text" rid="pcbi-1000505-box001">Box 1</xref> lists a number of key questions that can be addressed within this phylodynamics research program.</p>
+      <boxed-text id="pcbi-1000505-box001" position="float">
+        <sec id="s1a1">
+          <title>Box 1. Key Research Questions in RNA Virus Phylodynamics</title>
+          <list list-type="order">
+            <list-item>
+              <p>What is the range of phylodynamic patterns observed in RNA viruses? Can they be categorized into specific groups? How do these patterns relate to other “life history” variables exhibited by RNA viruses?</p>
+            </list-item>
+            <list-item>
+              <p>What epidemiological and evolutionary processes give rise to these phylodynamic patterns? What generalities can be drawn?</p>
+            </list-item>
+            <list-item>
+              <p>How commonly does natural selection (compared to neutral evolutionary processes) determine the population dynamics of pathogens? On what scale does natural selection act? How does viral immune escape reduce herd immunity at the population level and allow the persistence of viral lineages in epidemic troughs?</p>
+            </list-item>
+            <list-item>
+              <p>What is the range of spatial patterns exhibited by RNA viruses? What epidemiological factors are responsible for these patterns?</p>
+            </list-item>
+            <list-item>
+              <p>How do different viral species (various respiratory viruses, for example) interact in host immunity?</p>
+            </list-item>
+          </list>
+        </sec>
+      </boxed-text>
+      <p>A number of important advances are needed to meet our goal of a comprehensive catalog of the diversity of phylodynamic patterns in RNA viruses. Because answers to many of the most interesting research questions depend on sufficiently large sample sizes, we require large numbers of sequences that have been rigorously sampled according to strict temporal, spatial, and clinical criteria, and that as much of these data are publicly accessible as possible. A phylodynamic analysis has little value unless viral genomes are sampled on the same scale as the epidemiological processes under investigation.</p>
+      <p>The only acute virus for which a suitably expansive genome dataset currently exists is influenza. In this case, the &gt;4,000 complete genomes generated under the Influenza Genome Sequencing Project <xref ref-type="bibr" rid="pcbi.1000505-Ghedin1">[11]</xref> have provided important new insights into the evolution and epidemiology of this major human pathogen <xref ref-type="bibr" rid="pcbi.1000505-Nelson1">[12]</xref>. To highlight one key insight here, these genome sequence data have revealed that multiple lineages of influenza virus are imported and circulate within specific geographic localities (even within relatively isolated populations), generating both frequent mixed infections <xref ref-type="bibr" rid="pcbi.1000505-Ghedin2">[13]</xref> and reassortment events <xref ref-type="bibr" rid="pcbi.1000505-Nelson2">[14]</xref>. Even so, the sampling of these genome sequences (and associated epidemiological covariates) may not be dense enough to fully capture spatial dynamics <xref ref-type="bibr" rid="pcbi.1000505-Nelson3">[15]</xref>. There is also a marked absence of samples from asymptomatically infected patients (or those with mild disease), so it is impossible to link genetic variation to clinical syndrome. Such a bias against viruses sampled from individuals with asymptomatic infections is a common problem in molecular epidemiology.</p>
+    </sec>
+    <sec id="s2">
+      <title>Epidemiological Factors</title>
+      <p>It is also clear that for many RNA viruses we need to better understand a number of key epidemiological factors, such as the interaction between local persistence, epidemic dynamics in both time and space, the impact of measures to control the spread of infection, and the consequences of adaptive evolution in those viral genes that interact most intimately with the host immune response. It is instructive to imagine the ideal database for addressing these issues. In the case of acute infections, the goal would be to collect four parallel datasets on the appropriate scale of interest during outbreaks (<xref ref-type="fig" rid="pcbi-1000505-g001">Figure 1</xref>). This database would comprise, first, <italic>epidemic dynamics in time and space</italic>, ideally at a comparable or higher frequency than the generation time of individual infections. Second, and in parallel, our ideal study would collect <italic>viral genome sequence data</italic> at these time points, sampling both within and among infected hosts. Both disease incidence data (bolstered by contact tracing) and viral sequence data furnish information on the transmission network traced by an outbreak. Third, we would need to know the underlying <italic>contact network</italic> of susceptible individuals, which serves as fuel for the epidemic. This is a difficult structure to measure directly, although novel measurements of human interactions are increasingly shedding light on the problem <xref ref-type="bibr" rid="pcbi.1000505-Gonzalez1">[16]</xref>. Finally, measurements of the <italic>immunity structure</italic> of our contact network <xref ref-type="bibr" rid="pcbi.1000505-Smith1">[17]</xref>—reflecting the past history of the virus in the population—are key for understanding both the dynamics of epidemic spread and the evolutionary pressures that shape virus diversity.</p>
+      <fig id="pcbi-1000505-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pcbi.1000505.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Sampling scales for acute RNA viruses and the associated phylodynamic processes that viral genome sequence data and host sampling can elucidate.</title>
+        </caption>
+        <graphic xlink:href="pcbi.1000505.g001"/>
+      </fig>
+      <p>The outbreak of foot-and-mouth disease (FMD, an RNA virus infection of cattle) in the UK in 2001 resulted in a database that is arguably closest to our ideal on the epidemiological scale <xref ref-type="bibr" rid="pcbi.1000505-Cottam1">[18]</xref>,<xref ref-type="bibr" rid="pcbi.1000505-Keeling1">[19]</xref>. Notwithstanding a variety of gaps in data from the epidemic <xref ref-type="bibr" rid="pcbi.1000505-Cottam2">[20]</xref>, it is one of the most well-documented large outbreaks in terms of the availability of spatiotemporal incidence data in parallel with contact tracing and the underlying spatial pattern of the susceptible farms as a measure of the contact network. In addition, analyses of viral sequences from relatively small samples of farms have drawn important conclusions about epidemic spread and allowed the testing of new methods to recover the spatiotemporal patterns written into sequence data <xref ref-type="bibr" rid="pcbi.1000505-Cottam1">[18]</xref>,<xref ref-type="bibr" rid="pcbi.1000505-Cottam2">[20]</xref>. Importantly, samples exist from over half the ∼2,000 confirmed infected premises in 2001: sequencing whole FMD virus genomes from these samples would provide a vast resource for basic and applied developments in integrating epidemiological and phylogenetic information to dissect spatiotemporal spread. We suggest that achieving this task would be a huge contribution to understanding the phylodynamics of acute viruses. Another virtue of animal infections like FMD is that the relationship between the determinants of viral variability within and between hosts can also be dissected by experimental infections (see <xref ref-type="bibr" rid="pcbi.1000505-Hoelzer1">[21]</xref> for another example).</p>
+      <p>A parallel limitation of many phylogenetic approaches to viral epidemiology is that they have often proceeded in the absence of the necessary metadata, such as the precise time and place of sampling or those that relate to clinical syndrome <xref ref-type="bibr" rid="pcbi.1000505-Holmes1">[22]</xref>. A perhaps more challenging goal for phylodynamics is therefore to integrate phylogenetic patterns with other biological variables, such as the nature of antigenic variation, the capacity for drug resistance, or the clinical syndrome of the host, as well as the spatial host network data outlined above. Cohort studies may be the most productive way to link genomics with epidemiological variables.</p>
+      <p>The lack of a synthesis of phylogenetic and phenotypic/epidemiological data is reflected in the current debate over the mode of antigenic evolution in human influenza A virus. Although it has long been known that the hemagglutinin (HA) and neuraminidase (NA) proteins of human influenza A virus evolve by strong natural selection to evade the host immune response—a process commonly called antigenic drift <xref ref-type="bibr" rid="pcbi.1000505-Fitch1">[23]</xref>,<xref ref-type="bibr" rid="pcbi.1000505-Webster1">[24]</xref>—the precise mechanisms by which such drift occurs are uncertain. From a phylodynamics perspective, the key observation is that over long time periods a single lineage of HA sequences from subtype A/H3N2 influenza viruses links epidemic to epidemic <xref ref-type="bibr" rid="pcbi.1000505-Fitch1">[23]</xref>, although intensive sampling has revealed that single populations may harbor far higher levels of genetic diversity <xref ref-type="bibr" rid="pcbi.1000505-Holmes2">[25]</xref>. Rather different phylodynamic patterns are seen in other influenza viruses, including those sampled from birds (<xref ref-type="fig" rid="pcbi-1000505-g002">Figure 2</xref>). Three models have been proposed to explain the distinctive phylodynamic pattern observed in human A/H3N2 viruses: (i) that there is short-lived cross-immunity among viral strains <xref ref-type="bibr" rid="pcbi.1000505-Ferguson1">[26]</xref>, (ii) that the HA evolves in a punctuated manner among antigenic types that are linked by a network of neutrally evolving sites <xref ref-type="bibr" rid="pcbi.1000505-Koelle1">[27]</xref>, and (iii) that the virus continually reuses a limited number of antigenic combinations <xref ref-type="bibr" rid="pcbi.1000505-Recker1">[28]</xref>.</p>
+      <fig id="pcbi-1000505-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pcbi.1000505.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Phylodynamic patterns of human and avian influenza viruses.</title>
+          <p>The left diagram shows the phylogeny of the hemagglutinin (HA) gene of human H3N2 influenza A viruses sampled between 1985 and 2005, revealing the “ladder-like” branching structure indicative of antigenic drift. By comparison, the phylogeny of the HA gene of human influenza B virus sampled over the same interval (center diagram) shows the co-circulation of the antigenically distinct “Victoria 1987” and “Yamagata 1988” lineages, as well a shorter length from root to tip, reflecting a lower rate of evolutionary change. Finally, the phylogeny for the HA gene of H4 avian influenza virus (right diagram) reveals the deep geographic division between the Eurasian and Australian versus North American lineages of this virus.</p>
+        </caption>
+        <graphic xlink:href="pcbi.1000505.g002"/>
+      </fig>
+      <p>To determine which combination of these models best explains influenza phylodynamics will require more expansive genome sequence data, as well as focused sampling and epidemiological surveillance in Southeast Asia, which is likely the global source population for the virus <xref ref-type="bibr" rid="pcbi.1000505-Russell1">[29]</xref>. More importantly, it is also crucial that these phylogenetic data are combined with detailed, spatiotemporally disaggregated antigenic information. Indeed, it is remarkable that despite the abundance of information on the antigenic characteristics of individual influenza viruses, most notably through the use of the hemagglutinin inhibition (HI) assay <xref ref-type="bibr" rid="pcbi.1000505-Smith1">[17]</xref>, these data have not been routinely linked to phylogenetic information. It is clear that both antigenic and phylogenetic analyses would greatly benefit from each other.</p>
+    </sec>
+    <sec id="s3">
+      <title>New-Generation Computational Tools</title>
+      <p>Another important challenge for phylodynamics is to match the remarkable ongoing developments in genome sequencing technology to the increase in the power of the computational tools available to analyze these sequence data. Crucially, in phylogenetics, the size of the space of possible trees increases faster than exponentially with the number of sequences, such that the availability of datasets comprising thousands of complete genomes <xref ref-type="bibr" rid="pcbi.1000505-Rambaut1">[30]</xref> presents a major combinatorial problem. This problem creates a growing discrepancy between our ability to generate genome sequence data and our capacity to analyze them using the most sophisticated methods. Redressing this balance should be the major goal of bioinformatics in the future; and in fact some progress has been made recently <xref ref-type="bibr" rid="pcbi.1000505-Suchard1">[31]</xref>.</p>
+      <p>It is also clear that improvements need to be made to the methods that are available to analyze genome sequence data. A powerful set of research tools in this area comprises those based on coalescent theory, as this provides a natural link between the analysis of epidemiological and phylogenetic patterns <xref ref-type="bibr" rid="pcbi.1000505-Grenfell1">[8]</xref>,<xref ref-type="bibr" rid="pcbi.1000505-Drummond1">[32]</xref>. In particular, the coalescent allows the demographic characteristics of viral populations (particularly population size and growth rate) to be inferred directly from gene sequence data. Coalescent analyses are especially powerful in the case of RNA viruses, because their rapid evolution means that temporal and spatial dynamics are discernable over the period of human observation <xref ref-type="bibr" rid="pcbi.1000505-Drummond2">[33]</xref> and can in theory be combined with time series epidemiological data. However, currently available coalescent methods are restricted by the limited scope of demographic models and their inability to fully incorporate spatial information. In particular, most acute RNA viruses have complex population dynamics that combine distinct periods of growth and decline. The most commonly used phylodynamic tool available in such cases is the Bayesian skyline plot (and the related Bayesian “skyride” <xref ref-type="bibr" rid="pcbi.1000505-Minin1">[34]</xref>), which represents a piecewise graphical depiction of changes in genetic diversity through time <xref ref-type="bibr" rid="pcbi.1000505-Drummond1">[32]</xref>. In the case of neutral evolution, such changes in genetic diversity also reflect underlying changes in the number of infected hosts. Although the Bayesian skyline plot can reveal unique features of epidemic dynamics (<xref ref-type="fig" rid="pcbi-1000505-g003">Figure 3</xref>) <xref ref-type="bibr" rid="pcbi.1000505-Rambaut1">[30]</xref>, precise estimates of parameters such as population growth rate are not yet possible.</p>
+      <fig id="pcbi-1000505-g003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pcbi.1000505.g003</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Fluctuating genetic diversity of influenza A virus.</title>
+          <p>The figure shows a Bayesian skyline plot of changing levels of genetic diversity through time for the HA gene (165 sequences) of A/H3N2 virus sampled from the state of New York, US, during the period 2001–2003. The <italic>y</italic>-axes depict relative genetic diversity (<italic>N</italic><sub>e</sub><italic>t</italic>, where <italic>N</italic><sub>e</sub> is the effective population size, and <italic>t</italic> the generation time from infected host to infected host), which can be considered a measure of effective population size under strictly neutral evolution. Peaks of genetic diversity, reflecting the seasonal occurrence of influenza, are clearly visible. See <xref ref-type="bibr" rid="pcbi.1000505-Rambaut1">[30]</xref> for a more detailed analysis.</p>
+        </caption>
+        <graphic xlink:href="pcbi.1000505.g003"/>
+      </fig>
+      <p>The coalescent methods commonly used to study RNA virus evolution focus largely on temporal dynamics (a natural function of the rapidity of viral evolution), with little consideration of patterns of spatial diffusion. Although these phylogeographic patterns are becoming increasingly well described for RNA viruses <xref ref-type="bibr" rid="pcbi.1000505-Holmes3">[35]</xref>, few methods effectively recover the spatial component in genome sequence data. For example, commonly used parsimony-based approaches consider a single phylogenetic tree without an explicit spatial model (see, for example, <xref ref-type="bibr" rid="pcbi.1000505-Wallace1">[36]</xref>). In addition, these methods usually describe the place of origin and direction of spread of viral lineages without formal tests of competing spatial hypotheses. As a specific case in point, although gravity models (in which patterns of viral transmission reflect the size of and distance between population centers) have been applied successfully to morbidity and mortality data from human influenza A virus to describe its spread across the United States <xref ref-type="bibr" rid="pcbi.1000505-Viboud1">[37]</xref>, they have yet to be interpreted within a phylogenetic setting. A clear push for the future should therefore be the development of coalescent tools that integrate the analysis of spatial and temporal dynamics within a single framework, with a focus on those that combine phylogenetic data and information on the dynamics of the host contact network of susceptible, infected, and immune individuals.</p>
+    </sec>
+    <sec id="s4">
+      <title>Looking beyond the Consensus Sequence</title>
+      <p>The vast majority of studies of RNA virus evolution undertaken to date, particularly of those viruses that cause acute infections, rely on the analysis of consensus sequences in which the nucleotide shown for any given site is the most common among all the genomes within a patient. Although the use of consensus sequences is adequate for many aspects of molecular epidemiology, in which complete genomes may suffice to determine even tight transmission chains <xref ref-type="bibr" rid="pcbi.1000505-Cottam2">[20]</xref>, there is growing evidence that key evolutionary processes occur beyond the consensus. In particular, extensive intra-host gene sequencing has revealed the existence of minor viral subpopulations within individual hosts that are not detected by consensus sequencing and that are sometimes of great phenotypic importance <xref ref-type="bibr" rid="pcbi.1000505-Aaskov1">[38]</xref>,<xref ref-type="bibr" rid="pcbi.1000505-Jerzak1">[39]</xref>. Given the intrinsically high mutation rates of RNA viruses, as well as the immense size of intra-host populations, such extensive genetic and phenotypic diversity is only to be expected.</p>
+      <p>A full description of the extent and structure of intra-host viral genetic variation is critical for understanding evolutionary dynamics, informing on such issues as the frequency of mixed infection, and hence the degree and extent of cross-immunity; the frequency with which antigenic variants are produced and whether antigenic evolution can occur on the time scale of individual infections; and the size of the population bottleneck that might accompany inter-host transmission. As a case in point, it is commonly assumed that viruses experience a severe population bottleneck as they are transmitted to new hosts, a phenomenon that greatly restricts the power of natural selection to fix advantageous mutations. Although this assumption appears to be true in some cases <xref ref-type="bibr" rid="pcbi.1000505-Keele1">[40]</xref>, whether this is a general property of RNA viruses is unclear; the evidence that multiple viral lineages can be transmitted among hosts argues against a narrow bottleneck in all cases <xref ref-type="bibr" rid="pcbi.1000505-Holmes4">[41]</xref>. To more accurately determine the size of the transmission bottleneck, analyses of intra-host genetic diversity along known transmission chains will be essential. On a larger scale, it is unclear whether phylodynamic patterns differ within and among hosts, and whether any differences among these scales of analysis are qualitative or quantitative.</p>
+      <p>Intra-host sequence data are also essential for understanding the process of cross-species virus transmission and emergence. Key parameters in determining whether a virus will adapt successfully to a new host species include the extent of intra-host genetic diversity, the fitness distribution of the mutations produced, and how many of these mutations will assist adaptation to new host species <xref ref-type="bibr" rid="pcbi.1000505-Holmes4">[41]</xref>–<xref ref-type="bibr" rid="pcbi.1000505-Parrish1">[43]</xref>. No such data are available for any acute RNA virus, so testing models for viral emergence is difficult. We believe, however, that understanding the mechanics of this adaptive process is at least as important as surveying for new emerging viruses.</p>
+    </sec>
+    <sec id="s5">
+      <title>Challenges for the Future</title>
+      <p>Our discussion has highlighted a number of key challenges for a successful phylodynamic research agenda. These challenges comprise data, theory, and methodological issues, and are briefly summarized as follows. First, with respect to data, it is clear that more genome sequences must be acquired and with increased temporal and spatial precision. For example, wherever possible, GenBank records should contain the exact day and precise latitude and longitude of sampling. In addition, it is essential that these sequence data be linked with the relevant metadata, such as the associated clinical syndrome and (if applicable) measure of antigenicity. Similarly, it is essential that equivalent genome sequence data be acquired from multiple time points within individual hosts. Second, in terms of theory, it is crucial that we fully integrate patterns of viral evolution across multiple epidemiological scales, from within hosts, to local outbreaks, and on to global pandemics. Although the coalescent is hugely useful in this respect, it is essential that its theoretical framework be extended to incorporate models of population growth and decline that most accurately reflect the population dynamics of acute RNA viruses, in particular the dynamics of the susceptible “denominator” that fuels epidemics. Sequencing of all available samples from the UK 2001 FMD epidemic would yield great scientific dividends here. Third and finally, with respect to methodology, new computational tools are needed to rapidly make phylodynamic inferences from genomic datasets that may contain thousands of sequences and that efficiently integrate genomic with other forms of biological data. We hope this review will stimulate research in all these areas.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="pcbi.1000505-Novel1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dawood</surname>
+              <given-names>FS</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Finelli</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>MW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <collab>Novel Swine-Origin Influenza A (H1N1) Virus Investigation Team</collab>
+          <year>2009</year>
+          <article-title>Emergence of a novel swine-origin influenza A (H1N1) virus in humans.</article-title>
+          <source>N Engl J Med</source>
+          <volume>360</volume>
+          <fpage>2605</fpage>
+          <lpage>2615</lpage>
+          <pub-id pub-id-type="pmid">19423869</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Lipkin1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lipkin</surname>
+              <given-names>WI</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Microbe hunting in the 21st century.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>106</volume>
+          <fpage>6</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">19118201</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-CoxFoster1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cox-Foster</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Conlan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Palacios</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>JD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>A metagenomic survey of microbes in honey bee colony collapse disorder.</article-title>
+          <source>Science</source>
+          <volume>318</volume>
+          <fpage>283</fpage>
+          <lpage>287</lpage>
+          <pub-id pub-id-type="pmid">17823314</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Finkbeiner1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Finkbeiner</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Allred</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Tarr</surname>
+              <given-names>PI</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Kirkwood</surname>
+              <given-names>CD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Metagenomic analysis of human diarrhea: viral detection and discovery.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4(2)</volume>
+          <fpage>e1000011</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000011">10.1371/journal.ppat.1000011</ext-link></comment>
+          <pub-id pub-id-type="pmid">18398449</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Zhang1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Breitbart</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>WH</given-names>
+            </name>
+            <name>
+              <surname>Run</surname>
+              <given-names>JQ</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>CL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>RNA viral community in human feces: Prevalence of plant pathogenic viruses.</article-title>
+          <source>PLoS Biol</source>
+          <volume>4(1)</volume>
+          <fpage>e3</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0040003">10.1371/journal.pbio.0040003</ext-link></comment>
+          <pub-id pub-id-type="pmid">16336043</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Palacios1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Palacios</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Druce</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Tran</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Birch</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>A new arenavirus in a cluster of fatal transplant-associated diseases.</article-title>
+          <source>N Engl J Med</source>
+          <volume>358</volume>
+          <fpage>991</fpage>
+          <lpage>998</lpage>
+          <pub-id pub-id-type="pmid">18256387</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Palmenberg1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Palmenberg</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Spiro</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kuzmickas</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Djikeng</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Sequencing and analyses of all known human rhinovirus genomes reveals structure and evolution.</article-title>
+          <source>Science</source>
+          <volume>324</volume>
+          <fpage>55</fpage>
+          <lpage>59</lpage>
+          <pub-id pub-id-type="pmid">19213880</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Grenfell1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grenfell</surname>
+              <given-names>BT</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Gog</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>JLN</given-names>
+            </name>
+            <name>
+              <surname>Daly</surname>
+              <given-names>JM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Unifying the epidemiological and evolutionary dynamics of pathogens.</article-title>
+          <source>Science</source>
+          <volume>303</volume>
+          <fpage>327</fpage>
+          <lpage>332</lpage>
+          <pub-id pub-id-type="pmid">14726583</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Bjrnstad1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bjørnstad</surname>
+              <given-names>ON</given-names>
+            </name>
+            <name>
+              <surname>Finkenstädt</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Grenfell</surname>
+              <given-names>BT</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Dynamics of measles epidemics. I. estimating scaling of transmission rates using a time series SIR model.</article-title>
+          <source>Ecol Monogr</source>
+          <volume>72</volume>
+          <fpage>169</fpage>
+          <lpage>184</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Grenfell2">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grenfell</surname>
+              <given-names>BT</given-names>
+            </name>
+            <name>
+              <surname>Bjornstad</surname>
+              <given-names>ON</given-names>
+            </name>
+            <name>
+              <surname>Finkenstädt</surname>
+              <given-names>BF</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Dynamics of measles epidemics. II. Scaling noise, determinism and predictability with the time series SIR model.</article-title>
+          <source>Ecol Monogr</source>
+          <volume>72</volume>
+          <fpage>185</fpage>
+          <lpage>202</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Ghedin1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghedin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sengamalay</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Shumway</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zaborsky</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Feldblyum</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Large-scale sequencing of human influenza reveals the dynamic nature of viral genome evolution.</article-title>
+          <source>Nature</source>
+          <volume>437</volume>
+          <fpage>1162</fpage>
+          <lpage>1166</lpage>
+          <pub-id pub-id-type="pmid">16208317</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Nelson1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The evolution of epidemic influenza.</article-title>
+          <source>Nat Rev Genet</source>
+          <volume>8</volume>
+          <fpage>196</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="pmid">17262054</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Ghedin2">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghedin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Fitch</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Boyne</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>DePasse</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bera</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Mixed infection and the genesis of influenza diversity.</article-title>
+          <source>J Virol</source>
+          <volume>83</volume>
+          <fpage>8832</fpage>
+          <lpage>8841</lpage>
+          <pub-id pub-id-type="pmid">19553313</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Nelson2">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Simonsen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Stochastic processes are key determinants of the short-term evolution of influenza A virus.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>2</volume>
+          <fpage>e125</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.0020125">10.1371/journal.ppat.0020125</ext-link></comment>
+          <pub-id pub-id-type="pmid">17140286</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Nelson3">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Edelman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Spiro</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Boyne</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Bera</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Molecular epidemiology of A/H3N2 and A/H1N1 influenza virus during a single epidemic season in the United States.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4(8)</volume>
+          <fpage>e1000133</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000133">10.1371/journal.ppat.1000133</ext-link></comment>
+          <pub-id pub-id-type="pmid">18725925</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Gonzalez1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gonzalez</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Hidalgo</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Barabasi</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Understanding individual human mobility patterns.</article-title>
+          <source>Nature</source>
+          <volume>453</volume>
+          <fpage>779</fpage>
+          <lpage>782</lpage>
+          <pub-id pub-id-type="pmid">18528393</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Smith1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Lapedes</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>de Jong</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Bestebroer</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Rimmelzwaan</surname>
+              <given-names>GF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Mapping the antigenic and genetic evolution of influenza virus.</article-title>
+          <source>Science</source>
+          <volume>305</volume>
+          <fpage>371</fpage>
+          <lpage>376</lpage>
+          <pub-id pub-id-type="pmid">15218094</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Cottam1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cottam</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Haydon</surname>
+              <given-names>DT</given-names>
+            </name>
+            <name>
+              <surname>Paton</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Gloster</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wilesmith</surname>
+              <given-names>JW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Molecular epidemiology of the foot-and-mouth disease virus outbreak in the United Kingdom in 2001.</article-title>
+          <source>J Virol</source>
+          <volume>80</volume>
+          <fpage>11274</fpage>
+          <lpage>11282</lpage>
+          <pub-id pub-id-type="pmid">16971422</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Keeling1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keeling</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Woolhouse</surname>
+              <given-names>MEJ</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Matthews</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Chase-Topping</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Dynamics of the 2001 UK foot and mouth epidemic: stochastic dispersal in a heterogeneous landscape.</article-title>
+          <source>Science</source>
+          <volume>294</volume>
+          <fpage>813</fpage>
+          <lpage>817</lpage>
+          <pub-id pub-id-type="pmid">11679661</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Cottam2">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cottam</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Wadsworth</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Rowlands</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Goatley</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Transmission pathways of foot-and-mouth disease virus in the United Kingdom in 2007.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4(4)</volume>
+          <fpage>e1000050</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000050">10.1371/journal.ppat.1000050</ext-link></comment>
+          <pub-id pub-id-type="pmid">18421380</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Hoelzer1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoelzer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Shackelton</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Parrish</surname>
+              <given-names>CR</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Within-host genetic diversity of endemic and emerging parvoviruses of cats and dogs.</article-title>
+          <source>J Virol</source>
+          <volume>82</volume>
+          <fpage>11096</fpage>
+          <lpage>11105</lpage>
+          <pub-id pub-id-type="pmid">18768982</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Holmes1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Viral evolution in the genomic age.</article-title>
+          <source>PLoS Biol</source>
+          <volume>5(10)</volume>
+          <fpage>e278</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0050278">10.1371/journal.pbio.0050278</ext-link></comment>
+          <pub-id pub-id-type="pmid">17914905</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Fitch1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fitch</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Leiter</surname>
+              <given-names>JME</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Palese</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>1991</year>
+          <article-title>Positive Darwinian evolution in human influenza A viruses.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>88</volume>
+          <fpage>4270</fpage>
+          <lpage>4274</lpage>
+          <pub-id pub-id-type="pmid">1840695</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Webster1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Webster</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Laver</surname>
+              <given-names>WG</given-names>
+            </name>
+            <name>
+              <surname>Air</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Schild</surname>
+              <given-names>GC</given-names>
+            </name>
+          </person-group>
+          <year>1982</year>
+          <article-title>Molecular mechanisms of variation in influenza viruses.</article-title>
+          <source>Nature</source>
+          <volume>296</volume>
+          <fpage>115</fpage>
+          <lpage>121</lpage>
+          <pub-id pub-id-type="pmid">6174870</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Holmes2">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Ghedin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Whole genome analysis of human influenza A virus reveals multiple persistent lineages and reassortment among recent H3N2 viruses.</article-title>
+          <source>PLoS Biol</source>
+          <volume>3(9)</volume>
+          <fpage>e300</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0030300">10.1371/journal.pbio.0030300</ext-link></comment>
+          <pub-id pub-id-type="pmid">16026181</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Ferguson1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferguson</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Galvani</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Bush</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Ecological and immunological determinants of influenza evolution.</article-title>
+          <source>Nature</source>
+          <volume>422</volume>
+          <fpage>428</fpage>
+          <lpage>433</lpage>
+          <pub-id pub-id-type="pmid">12660783</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Koelle1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koelle</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Cobey</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Grenfell</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Pascual</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Epochal evolution shapes the phylodynamics of interpandemic influenza A (H3N2) in humans.</article-title>
+          <source>Science</source>
+          <volume>314</volume>
+          <fpage>1898</fpage>
+          <lpage>1903</lpage>
+          <pub-id pub-id-type="pmid">17185596</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Recker1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Recker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Nee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The generation of influenza outbreaks by a network of host immune responses against a limited set of antigenic types.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>104</volume>
+          <fpage>7711</fpage>
+          <lpage>7716</lpage>
+          <pub-id pub-id-type="pmid">17460037</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Russell1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Russell</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Barr</surname>
+              <given-names>IG</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Garten</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The global circulation of seasonal influenza A (H3N2) viruses.</article-title>
+          <source>Science</source>
+          <volume>320</volume>
+          <fpage>340</fpage>
+          <lpage>346</lpage>
+          <pub-id pub-id-type="pmid">18420927</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Rambaut1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rambaut</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Taubenberger</surname>
+              <given-names>JK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The genomic and epidemiological dynamics of human influenza A virus.</article-title>
+          <source>Nature</source>
+          <volume>453</volume>
+          <fpage>615</fpage>
+          <lpage>619</lpage>
+          <pub-id pub-id-type="pmid">18418375</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Suchard1">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suchard</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Rambaut</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Many-core algorithms for statistical phylogenetics.</article-title>
+          <source>Bioinformatics</source>
+          <volume>25</volume>
+          <fpage>1370</fpage>
+          <lpage>1376</lpage>
+          <pub-id pub-id-type="pmid">19369496</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Drummond1">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Drummond</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Rambaut</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Bayesian coalescent inference of past population dynamics from molecular sequences.</article-title>
+          <source>Mol Biol Evol</source>
+          <volume>22</volume>
+          <fpage>1185</fpage>
+          <lpage>1192</lpage>
+          <pub-id pub-id-type="pmid">15703244</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Drummond2">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Drummond</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Rambaut</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Forsberg</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Rodrigo</surname>
+              <given-names>AG</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Measurably evolving populations.</article-title>
+          <source>Trends Ecol Evol</source>
+          <volume>18</volume>
+          <fpage>481</fpage>
+          <lpage>488</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Minin1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Minin</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Bloomquist</surname>
+              <given-names>EW</given-names>
+            </name>
+            <name>
+              <surname>Suchard</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Smooth skyride through a rough skyline: Bayesian coalescent-based inference of population dynamics.</article-title>
+          <source>Mol Biol Evol</source>
+          <volume>25</volume>
+          <fpage>1459</fpage>
+          <lpage>1471</lpage>
+          <pub-id pub-id-type="pmid">18408232</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Holmes3">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The evolutionary history and phylogeography of human viruses.</article-title>
+          <source>Annu Rev Microbiol</source>
+          <volume>62</volume>
+          <fpage>307</fpage>
+          <lpage>328</lpage>
+          <pub-id pub-id-type="pmid">18785840</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Wallace1">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wallace</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Hodac</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Lathrop</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Fitch</surname>
+              <given-names>WM</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>A statistical phylogeography of influenza A H5N1.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>104</volume>
+          <fpage>4473</fpage>
+          <lpage>4478</lpage>
+          <pub-id pub-id-type="pmid">17360548</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Viboud1">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Bjornstad</surname>
+              <given-names>ON</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Simonsen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Synchrony, waves, and spatial hierarchies in the spread of influenza.</article-title>
+          <source>Science</source>
+          <volume>312</volume>
+          <fpage>447</fpage>
+          <lpage>451</lpage>
+          <pub-id pub-id-type="pmid">16574822</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Aaskov1">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aaskov</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Buzacott</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Thu</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Lowry</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Long-term transmission of defective RNA viruses in humans and <italic>Aedes</italic> mosquitoes.</article-title>
+          <source>Science</source>
+          <volume>311</volume>
+          <fpage>236</fpage>
+          <lpage>238</lpage>
+          <pub-id pub-id-type="pmid">16410525</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Jerzak1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jerzak</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bernard</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Kramer</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Ebel</surname>
+              <given-names>GD</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Genetic variation in West Nile virus from naturally infected mosquitoes and birds suggests quasispecies structure and strong purifying selection.</article-title>
+          <source>J Gen Virol</source>
+          <volume>86</volume>
+          <fpage>2175</fpage>
+          <lpage>2183</lpage>
+          <pub-id pub-id-type="pmid">16033965</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Keele1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keele</surname>
+              <given-names>BF</given-names>
+            </name>
+            <name>
+              <surname>Giorgi</surname>
+              <given-names>EE</given-names>
+            </name>
+            <name>
+              <surname>Salazar-Gonzalez</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Decker</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Pham</surname>
+              <given-names>KT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Identification and characterization of transmitted and early founder virus envelopes in primary HIV-1 infection.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>105</volume>
+          <fpage>7552</fpage>
+          <lpage>7557</lpage>
+          <pub-id pub-id-type="pmid">18490657</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Holmes4">
+        <label>41</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>The evolution and emergence of RNA viruses. Oxford Series in Ecology and Evolution.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Harvey</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>May</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Kuiken1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuiken</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>McCauley</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rimmelzwaan</surname>
+              <given-names>GF</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>CS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Host species barriers to influenza virus infections.</article-title>
+          <source>Science</source>
+          <volume>312</volume>
+          <fpage>394</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="pmid">16627737</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000505-Parrish1">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parrish</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Morens</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Burke</surname>
+              <given-names>DS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Cross-species viral transmission and the emergence of new epidemic diseases.</article-title>
+          <source>Microbiol Mol Biol Rev</source>
+          <volume>72</volume>
+          <fpage>457</fpage>
+          <lpage>470</lpage>
+          <pub-id pub-id-type="pmid">18772285</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>BTG was supported by the RAPIDD program of the Science &amp; Technology Directorate of the Department of Homeland Security and the National Institutes of Health (NIH), and National Science Foundation grant 0742373. ECH was supported by the NIH (grant GM080533). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

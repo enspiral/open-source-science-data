@@ -1,0 +1,3302 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:31:05Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2743850" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2743850</identifier><datestamp>2009-09-16</datestamp><setSpec>jbb</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Biomed Biotechnol</journal-id>
+      <journal-id journal-id-type="publisher-id">JBB</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Biomedicine and Biotechnology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1110-7243</issn>
+      <issn pub-type="epub">1110-7251</issn>
+      <publisher>
+        <publisher-name>Hindawi Publishing Corporation</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2743850</article-id>
+      <article-id pub-id-type="pmid">19759918</article-id>
+      <article-id pub-id-type="doi">10.1155/2009/594738</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Evolutionary Perspective of Animal MicroRNAs and Their Targets</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shomron</surname>
+            <given-names>Noam</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Golan</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hornstein</surname>
+            <given-names>Eran</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><sup>1</sup>Department of Cell &amp; Developmental Biology, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 69978, Israel</aff>
+      <aff id="I2"><sup>2</sup>Department of Molecular Genetics, Weizmann Institute of Science, Rehovot 76100, Israel</aff>
+      <author-notes>
+        <corresp id="cor1">*Noam Shomron: <email>nshomron@post.tau.ac.il</email></corresp>
+        <fn fn-type="other">
+          <p>Recommended by Bibekanand Mallick</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>9</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <elocation-id>594738</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>3</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>6</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2009 Noam Shomron et al.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license license-type="open-access">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>MicroRNAs (miRNAs) are short noncoding RNAs that regulate gene expression through translational inhibition or mRNA degradation by binding to sequences on the target mRNA. miRNA regulation appears to be the most abundant mode of posttranscriptional regulation affecting ∼50% of the transcriptome. miRNA genes are often clustered and/or located in introns, and each targets a variable and often large number of mRNAs. Here we discuss the genomic architecture of animal miRNA genes and their evolving interaction with their target mRNAs.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="section" id="sec1">
+      <title>1. Introduction</title>
+      <p>MicroRNAs (miRNAs) are short noncoding RNAs that regulate gene expression by binding to sequences on the target mRNA (reviewed by [<xref ref-type="bibr" rid="B3">1</xref>–<xref ref-type="bibr" rid="B60">7</xref>]. Gene silencing initiates when the miRNA, located within an RNA-Induced Silencing Complex (RISC), directs binding to complementary sequences on the mRNA's 3′ untranslated region (UTR). The miRNA-mRNA recognition binding sequences are short, usually 6–8 nt [<xref ref-type="bibr" rid="B45">8</xref>–<xref ref-type="bibr" rid="B92">11</xref>]. Inhibition of gene expression takes place via facilitated mRNA degradation, mRNA cleavage, or interference with translation.</p>
+    </sec>
+    <sec sec-type="section" id="sec2">
+      <title>2. Generation of miRNA Genes</title>
+      <sec sec-type="subsection" id="sec2.1">
+        <title>2.1. miRNA Gene Origins</title>
+        <p>During animal evolution there were distinct, characterized phases of large scale genome duplications [<xref ref-type="bibr" rid="B56">12</xref>–<xref ref-type="bibr" rid="B49">14</xref>]. miRNA origin, as well, is traced back to genomic episodes dominated by large duplication events which coincide with the advent of bilaterians, vertebrates, and (placental) mammals [<xref ref-type="bibr" rid="B26">15</xref>]. The current wealth of miRNA genes results, additionally, from specific duplication events of miRNA clusters [<xref ref-type="bibr" rid="B9">16</xref>, <xref ref-type="bibr" rid="B79">17</xref>] and from mechanisms such as the integration of repetitive genetic elements [<xref ref-type="bibr" rid="B59">18</xref>].</p>
+      </sec>
+      <sec sec-type="subsection" id="sec2.2">
+        <title>2.2. The Gatekeeper of the miRNA Biogenesis</title>
+        <p>The transcription of miRNA genes is controlled by enhancer-promoter elements comparable with those of protein-coding genes [<xref ref-type="bibr" rid="B93">19</xref>]. Additional regulation of miRNA expression is obtained through posttranscriptional processing [<xref ref-type="bibr" rid="B71">20</xref>], RNA A-to-I editing [<xref ref-type="bibr" rid="B75">21</xref>, <xref ref-type="bibr" rid="B34">22</xref>], selective export into the cytoplasm [<xref ref-type="bibr" rid="B48">23</xref>, <xref ref-type="bibr" rid="B77">24</xref>], and subcellular localization [<xref ref-type="bibr" rid="B29">25</xref>] (<xref ref-type="fig" rid="fig1">Figure 1 </xref>(see [<xref ref-type="bibr" rid="B6">2</xref>, <xref ref-type="bibr" rid="B81">26</xref>–<xref ref-type="bibr" rid="B91">43</xref>]) also see review by [<xref ref-type="bibr" rid="B94">44</xref>]).</p>
+        <p>While several mechanisms control miRNA's expression along its biogenesis pathway, it seems that the rate limiting step in acquiring a novel miRNA is the recognition of the RNA secondary structure by Drosha. This stems from the fact that mammals express only several hundred miRNAs from myriad amounts of expressed RNA secondary structures [<xref ref-type="bibr" rid="B9">16</xref>, <xref ref-type="bibr" rid="B12">45</xref>–<xref ref-type="bibr" rid="B40">47</xref>]. Thus, processing of miRNA precursor by the microprocessor is probably the gatekeeper of the miRNA biogenesis pathway, which allows for only a portion of the transcribed RNA hairpins to be further processed down the miRNA biosynthetic pathway. Analysis of miR-220 recent evolution provides an intriguing example for a gene that apparently did not encode for a miRNA but became competent for Drosha-dependent microprocessing. miR-220, which contains sequences of a tubulin gene, was probably originally processed from an antisense strand (see [<xref ref-type="bibr" rid="B76">48</xref>, <xref ref-type="bibr" rid="B42">49</xref>]) of tubulin, which folds back into a proper stem-loop structure in human but not in other vertebrates [<xref ref-type="bibr" rid="B26">15</xref>]. Comparative studies of the tubulin antisense strand sequence may shed light on the reasons for which human Drosha enables microprocessing while in other species it is skipped. Though canonical miRNA bioprocessing is Drosha-dependent, a novel splicing-dependent [<xref ref-type="bibr" rid="B10">33</xref>] mechanism was suggested recently to bypass initial steps of microprocessing [<xref ref-type="bibr" rid="B10">33</xref>, <xref ref-type="bibr" rid="B57">50</xref>, <xref ref-type="bibr" rid="B95">51</xref>]. Despite the functional robustness of miRNA secondary structures in light of accumulating mutations it is still not clear what the precise requirements for passing the gatekeeper of miRNA biogenesis are.</p>
+      </sec>
+    </sec>
+    <sec sec-type="section" id="sec3">
+      <title>3. The Genomic Architecture of miRNA Genes and Their Expression</title>
+      <p>Two characteristics of miRNA genes stand out in regard to genomic organization of protein-coding genes. First, miRNA genes are often found in clusters (30%–42%) [<xref ref-type="bibr" rid="B37">52</xref>–<xref ref-type="bibr" rid="B2">54</xref>]. Additionally, miRNA genes are often embedded within introns (25% or more) [<xref ref-type="bibr" rid="B62">27</xref>, <xref ref-type="bibr" rid="B7">55</xref>–<xref ref-type="bibr" rid="B35">59</xref>].</p>
+      <sec sec-type="subsection" id="sec3.1">
+        <title>3.1. Chromosomal Organization of miRNA Genes</title>
+        <p>In accordance with genomic duplication events that accompany evolution of species, we see a correlation between the number of miRNA genes and chromosome length. miRNA gene number per chromosome also correlates with the protein-coding gene density (<xref ref-type="fig" rid="fig2">Figure 2(a) </xref>and <xref ref-type="fig" rid="fig2">2(b)</xref>). This indicates that integration and/or maintenance of miRNA genes roughly follows protein-coding genes.</p>
+        <p>However, <italic>Homo  Sapiens</italic> chromosomes 14, 19, and X are exceptionally enriched for miRNA genes. Chromosomes 14 and 19 both possess a single miRNA cluster, accounting for 93% and 80% of the total number of miRNA genes on each chromosome, respectively [<xref ref-type="bibr" rid="B9">16</xref>, <xref ref-type="bibr" rid="B67">61</xref>]. The cluster on chromosome 14 is located in the human imprinted domain (14 q32) where only maternally inherited miRNAs are expressed [<xref ref-type="bibr" rid="B65">62</xref>]. Chromosome 19 hosts the primate-specific “500” cluster [<xref ref-type="bibr" rid="B9">16</xref>], a recently emerging, placental-specific cluster [<xref ref-type="bibr" rid="B9">16</xref>]. The <italic>X</italic> chromosome, on the other hand, does not have one large cluster, but it exhibits rapid emergence of smaller miRNA clusters due to frequent tandem duplications and nucleotide substitutions [<xref ref-type="bibr" rid="B79">17</xref>]. We note that despite the parallel evolution of miRNAs in animals and plants, miRNA clusters were observed in both kingdoms [<xref ref-type="bibr" rid="B97">63</xref>].</p>
+      </sec>
+      <sec sec-type="subsection" id="sec3.2">
+        <title>3.2. Clusters of miRNA Genes</title>
+        <p>Plausibly, employment of an already existing functional promoter by new miRNA genes is an efficient way to express new miRNAs, eliminating the need for <italic>de novo</italic> establishment of promoter-enhancer sequences upstream of the miRNA gene (such as in [<xref ref-type="bibr" rid="B55">64</xref>–<xref ref-type="bibr" rid="B80">66</xref>]). This may be the rational underlying miRNA aggregation into polycistronic miRNA clusters and for their genomic preference for introns of transcribed genes (see <xref ref-type="fig" rid="fig2">Figure 2(c)</xref>).  The consequence on the genomic level is that many miRNAs within up to 50 kb DNA fragment tend to be coexpressed [<xref ref-type="bibr" rid="B2">54</xref>, <xref ref-type="bibr" rid="B7">55</xref>]. Amplification of an ancestral miRNA inside a cluster [<xref ref-type="bibr" rid="B2">54</xref>, <xref ref-type="bibr" rid="B74">56</xref>] could contribute to the effective dosage of a given expressed miRNA homolog. However, at lower copy number gene dose does not seem to be a powerful predictor of expression levels (<xref ref-type="fig" rid="fig2">Figure 2(d)</xref>). The most likely interpretation is that the magnitude of promoter activity probably dominates regulation of miRNA expression. The correlation between miRNA gene copy number and expression level that was noted in some cases [<xref ref-type="bibr" rid="B5">67</xref>] may nonetheless suggest that when miRNA copy number is high (&gt;3; <xref ref-type="fig" rid="fig2">Figure 2(d)</xref>), it may also serve to impact the expression level.</p>
+      </sec>
+      <sec sec-type="subsection" id="sec3.3">
+        <title>3.3. Intronic miRNA Genes</title>
+        <p>At least 25% of miRNA genes are hosted in introns of both protein-coding and noncoding RNAs (<xref ref-type="fig" rid="fig2">Figure 2(c) </xref>also see [<xref ref-type="bibr" rid="B62">27</xref>, <xref ref-type="bibr" rid="B74">56</xref>, <xref ref-type="bibr" rid="B35">59</xref>]). This is a striking feature of noncoding RNAs (reviewed by [<xref ref-type="bibr" rid="B22">68</xref>]), plausibly implying that some noncoding RNAs have developed a functional relationship with their host genes [<xref ref-type="bibr" rid="B27">38</xref>, <xref ref-type="bibr" rid="B73">69</xref>]. The use of the same promoter-enhancer system enables coupling of miRNA expression with its host gene, therefore not surprisingly frequently seen [<xref ref-type="bibr" rid="B62">27</xref>, <xref ref-type="bibr" rid="B7">55</xref>, <xref ref-type="bibr" rid="B72">70</xref>]. When derived from the same primary transcript, it appears that pri-miRNA maturation by the microprocessor and pre-mRNA editing by the Spliceosome can either coexist independently or interconnect. While some studies imply that these processes hardly interact [<xref ref-type="bibr" rid="B35">59</xref>], others have shown strong interactions initiating at transcription [<xref ref-type="bibr" rid="B98">71</xref>–<xref ref-type="bibr" rid="B100">73</xref>]. Overall, given the tight proximity of these cellular events in time and space it is hard to imagine how these functional complexes avoid each other. Further analysis would be required to determine the extent of this interaction and whether this is true for all given transcripts [<xref ref-type="bibr" rid="B101">74</xref>].</p>
+      </sec>
+      <sec sec-type="subsection" id="sec3.4">
+        <title>3.4. Functional Expression of miRNAs and Their Host Genes</title>
+        <p>While mRNA/miRNA derived from the same transcript may simply reflect an efficient use of a promoter-enhancer cassette [<xref ref-type="bibr" rid="B35">59</xref>], in a subset of cases a coordinated expression of an miRNA-protein pair from the same genomic locus may reflect a genetic interaction. For example, platelets contain two cAMP phosphodiesterases (PDEs)—PDE2A and PDE3A—each regulating a specific intracellular pool of cAMP [<xref ref-type="bibr" rid="B14">75</xref>]. miR-139 that is hosted in an intron of the PDE2A targets PDE3A (TargetScanS, see [<xref ref-type="bibr" rid="B44">76</xref>]), implying that the miRNA expression from PDE2A regulates the balance between the two isoforms. Similarly, miR-208 is encoded by an intron of the cardiac-specific alpha myosin heavy chain (MHC) gene, a major cardiac contractile protein. Alpha MHC responses to stress and hypothyroidism [<xref ref-type="bibr" rid="B51">35</xref>, <xref ref-type="bibr" rid="B52">77</xref>] partially by coexpressing miR-208. The miRNA targets and downregulates beta MHC expression [<xref ref-type="bibr" rid="B72">70</xref>]. Thus, the precision in regulating an miRNA and a gene product may be hardwired into the genomic organization, to promise proper balance in their opposing or collaborating functions.</p>
+      </sec>
+    </sec>
+    <sec sec-type="section" id="sec4">
+      <title>4. Generation of miRNA Targets and Their Interaction with miRNAs</title>
+      <sec sec-type="subsection" id="sec4.1">
+        <title>4.1. Reciprocal Evolutionary Interaction between miRNAs and Their Targets</title>
+        <p>Our current understanding of miRNA binding sites suggests that a stretch of 6 nucleotide “seed” region, matching between the 5′ end of the miRNA and the mRNA 3′ UTR, may suffice for regulation by miRNAs [<xref ref-type="bibr" rid="B13">9</xref>, <xref ref-type="bibr" rid="B36">10</xref>, <xref ref-type="bibr" rid="B44">76</xref>, <xref ref-type="bibr" rid="B23">78</xref>]. Because changes in <italic>cis</italic> sequences often dominates rewiring of genetic networks, [<xref ref-type="bibr" rid="B61">79</xref>] it is likely that the 3′ UTR of mRNA targets change their repertoire of seed matches faster than the highly conserved transacting miRNAs. This can be intuitively explained merely because the large number of targets affected by mutations in any given miRNA gene acts as a stabilizing element on the miRNA itself. So given a virtually fixed population of miRNAs, targets gain and lose binding sites in a way that supports their controlled miRNA expression. This can be viewed as an evolutionary reciprocal interaction between the miRNA and its accumulating targets. After miRNA emergence, once a critical number of targets are functionally regulated by the miRNA, stabilization of its primary sequence is gained [<xref ref-type="bibr" rid="B66">80</xref>], while at the same time, stabilizing selection decreases variation in target seed match [<xref ref-type="bibr" rid="B30">28</xref>, <xref ref-type="bibr" rid="B16">81</xref>, <xref ref-type="bibr" rid="B64">82</xref>]. </p>
+        <p>The target set size is also dramatically affected by the nucleotide composition of the new miRNA, and, as mentioned above, this characteristic affects the average selective pressure on the miRNA itself [<xref ref-type="bibr" rid="B23">78</xref>]. Given a set of 17 000 3′ UTRs (“Known Genes” in the UCSC genome browser database), some  ~2000 UTRs would randomly have a single binding site for a heptamer seed composed of A/U residues. This number falls to only  ~200 seed matches with a G/C-only seed content and is somewhere in between (~800) for a mixed nucleotide composition (equal number of A/U and G/C). Once emerged, the set of targets affected by a novel miRNA is subject to selective pressure which molds the transcriptome such that binding sites would either be acquired or lost. In fact, selective loss of seed matches, to a level below the randomly predicted baseline, dubbed “anti-targets” [<xref ref-type="bibr" rid="B13">9</xref>, <xref ref-type="bibr" rid="B20">83</xref>], provides strong support for the evolutionary power underlying the structure of miRNA binding sites (also see [<xref ref-type="bibr" rid="B102">84</xref>]).</p>
+        <p>The reciprocal interaction between miRNAs and their targets gets an additional perception when looking at this relationship in viral miRNAs. Several viruses express miRNAs for controlling specific cellular genes or pathways. For this purpose, most cellular mRNA targets of viral miRNAs identified to date play a role in either regulation of apoptosis or host antiviral immune response. miRNAs are suitable for a viral genome expression as they are short and compact. In addition, they can be generated more readily than proteins against new target genes and do not elicit any antigenic response. Their evolutionary flexibility is based on the high mutation rates of the viruses. This leads to modifications in the miRNA genes themselves, and thus even the largest virus family containing miRNAs (herpesvirus) shows little conservation between their miRNAs. It also indicates that it is unlikely that host miRNA targets viral mRNAs as these would mutate away from disruptive regulation (also see [<xref ref-type="bibr" rid="B103">85</xref>, <xref ref-type="bibr" rid="B104">86</xref>]).</p>
+      </sec>
+      <sec sec-type="subsection" id="sec4.2">
+        <title>4.2. The Large Variation in miRNA Target Sites</title>
+        <p>Conserved complementarities to a minimal hexamer region (matching nt 2–7 of the miRNA) [<xref ref-type="bibr" rid="B45">8</xref>] indicates that once a seed match emerges, it becomes functional. If the binding is preferentially beneficial, it might serve as a favorable and directional intermediate species. Within Tetrapods, the average number of predicted conserved sites per miRNA is at the range of 200 (<xref ref-type="fig" rid="fig3">Figure 3(a)</xref>, TargetScanS, plotted for Human miRNAs). However, the number of targets is skewed to the higher values, while the upper and lower 10-percentiles regulate more than 450 or less than 50 genes, respectively (also see [<xref ref-type="bibr" rid="B33">87</xref>, <xref ref-type="bibr" rid="B68">88</xref>]). Comparative genomics suggests that ancient miRNAs have on average twofold more targets than newly generated ones (compare 453 to 194, resp.). Some discrepancies result from misestimating miRNA antiquity or overlapping miRNA functional sites. Specifically, the age of some miRNA genes might have been misestimated, as cross-species orthologues searches are not exhausted yet. miR-761, for example, identified only in mouse [<xref ref-type="bibr" rid="B11">57</xref>] is in fact conserved in six other mammals (including human and opossum; see [<xref ref-type="bibr" rid="B105">89</xref>] also see miRviewer at <ext-link ext-link-type="uri" xlink:href="http://people.csail.mit.edu/akiezun/miRviewer">http://people.csail.mit.edu/akiezun/miRviewer</ext-link>). Alternatively, overlapping functional sites shared by miRNAs and other regulatory factors may bias the distribution of targets. For example, pre-existing “scaffolds” of other regulatory systems could serve as anchors for miRNA binding. In the case of miR-16, a component of the AU-rich mediated deregulation of mRNA stability [<xref ref-type="bibr" rid="B32">90</xref>], the miRNA is a late addition onto a mechanism that was probably functional in the common ancestor of yeast [<xref ref-type="bibr" rid="B8">91</xref>], before the innovation of miRNAs. In this train of thought, some transcriptional termination or pause sites [<xref ref-type="bibr" rid="B4">92</xref>, <xref ref-type="bibr" rid="B78">93</xref>] overlap with miRNA seed-matches (miR-525 and miR-488). In human, <italic>Alu</italic> transposable elements exhibit complementarities in some of their regions to almost 30 human miRNAs [<xref ref-type="bibr" rid="B69">94</xref>]. In other instances, the attempt to avoid specific protein binding domains in the 3′ UTRs may expel miRNA binding sites. For example, 3′ UTRs may avoid miR-518a seed (which has only 26 predicted conserved targets) because it perfectly matches the proline and acidic rich (PAR) protein binding sequence [<xref ref-type="bibr" rid="B53">95</xref>]. Other miRNA interference events may involve binding to promoters <italic>via</italic> antisense transcription, which is estimated to be as common as 15% in the human genome [<xref ref-type="bibr" rid="B41">96</xref>]. Overlapping sequences as such might coincide with promiscuous promoter-associated functions of small RNAs [<xref ref-type="bibr" rid="B31">36</xref>] or increase in transcription [<xref ref-type="bibr" rid="B46">97</xref>]. Plausibly a selective pressure to avoid the binding of the aryl hydrocarbon receptor (AhR) [<xref ref-type="bibr" rid="B63">98</xref>] onto miR-521 sites (AhR and miR-521 share the same sequence) may explain how miRNAs of similar antiquity and A/U content (compare to miR-520 h) dramatically vary in their predicted numbers of conserved targets (compare 8 to &gt;400, resp.; both miRNAs are part of the same primary transcript, BF773110). It is noteworthy that the low number of miR-521 targets cannot be explained by a conflict of expression in a broad set of tissues since miR-521 is expressed only in placenta.</p>
+      </sec>
+      <sec sec-type="subsection" id="sec4.3">
+        <title>4.3. Unique Features of miRNAs with Most Number of Targets</title>
+        <p>In order to further explore the characteristics of miRNAs with extreme number of targets we compared the group of miRNAs with the largest number of targets to that with the least number of targets (<xref ref-type="fig" rid="fig3">Figure 3(b)</xref>, shaded red and green, resp.). We found some correlation between miRNA conservation and its potential number of predicted targets. This correlation is emphasized in the conserved target sets where human-to-mouse conserved miRNAs have on average 197 predicted conserved targets; human-to-dog conserved miRNAs have 245, and human-to-chicken conserved miRNAs 453. miRNAs with the largest number of targets tend to be expressed mostly from one arm of the pre-miRNA hairpin (they do not exhibit both 5′ and 3′ arm expression) and are often expressed at higher levels and in a broader set of tissues compared to miRNAs with the least number of targets  (also see [<xref ref-type="bibr" rid="B17">99</xref>]).</p>
+        <p>miRNAs with the largest number of targets are A/U-rich. The average A/U percentage within the seed of the top 20 miRNAs with the largest number of targets is 57%, compared to 41% for those with the least number of targets. This may be required for weaker secondary structures in the target mRNA and for ongoing accessibility [<xref ref-type="bibr" rid="B92">11</xref>]. Consistently, a general mutational trend (in the human genome) from G-to-A and C-to-T is more abundant than the reverse direction [<xref ref-type="bibr" rid="B39">100</xref>]. Analysis of human Single Nucleotide Polymorphisms (SNPs) on a representative chromosome (chromosome 1; 661 SNPs) confirms that the majority of polymorphisms generating new potential miRNA binding sites are G-to-A and C-to-T substitutions (occurring 1.7-fold more than the reverse direction). Interestingly, the two most pronounced examples of target polymorphic changes are G-to-A mutations [<xref ref-type="bibr" rid="B18">39</xref>, <xref ref-type="bibr" rid="B1">101</xref>].</p>
+        <p>In summary, miRNA gene integration and maintenance roughly follow protein-coding genes. After emergence, the miRNA gene sequence is refined through an evolutionary reciprocal interaction with its accumulating targets, and these later stabilize the miRNA when reaching a large enough number of functional targets. Finally, overlapping functional sites shared by miRNAs and other regulatory factors may facilitate or inhibit miRNA target formation and thus influence miRNA target set size.</p>
+      </sec>
+    </sec>
+    <sec sec-type="section" id="sec5">
+      <title>5. A Timescale for miRNA Target-Site Evolution</title>
+      <p>It would take several million years for a specific 7-mer binding site to evolve from a complete null binding sequence [<xref ref-type="bibr" rid="B107">102</xref>]. However, miRNA binding sites evolve from existing sequences, and based on these partial binding sequences, (“almost-binding” sites or “pre-seed” sites), a corrected estimated time for a miRNA binding site to emerge is 0.2 million years (Durrett R., personal communications). For example, a 5 nt pre-seed site will appear every 1024 nt (4<sup>⋀</sup>5) or even 20 times more often since the position of the 5 nt within the 7 nt is not restricted and may also include inserts. Thus, a 1 kb 3′ UTR will contain several potential pre-seed sequences. A human specific miRNA that is absent even from the chimp genome should be roughly 6 million years old (last estimated split between human and chimp). Given 0.2 million years required for a 7-mer binding site to evolve, around 30 perfect 7-mer binding sites are expected. For an miRNA that is traced back to mouse (split more than 100 million years ago from human), about 500 conserved targets per miRNA are reasonable. This simplified calculation might indicate that, given a spontaneous mutation rate, there should be a direct correlation between the age of an miRNA and the number of targets it possesses and also to the number of duplicated events of the same miRNA site on one transcript. Eventually, it is not enough for the mutation to occur—it should also be maintained in the population after exhibiting a strong selective pressure towards a favorable regulation which can only take place when an miRNA and its targets are spatially and temporally coexpressed [<xref ref-type="bibr" rid="B20">83</xref>, <xref ref-type="bibr" rid="B70">103</xref>]. This calculation allows us to set the general time line of events for miRNA formation. Nevertheless there are many outstanding exceptions of small and large miRNA target repertoires (also see <xref ref-type="fig" rid="fig4">Figure 4</xref>).</p>
+    </sec>
+    <sec sec-type="section" id="sec6">
+      <title>Websites Used</title>
+      <p>Ensembl: <ext-link ext-link-type="uri" xlink:href="http://www.ensembl.org">http://www.ensembl.org</ext-link></p>
+      <p>GenBank: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov">http://www.ncbi.nlm.nih.gov</ext-link></p>
+      <p>miRBase: <ext-link ext-link-type="uri" xlink:href="http://microrna.sanger.ac.uk/">http://microrna.sanger.ac.uk/</ext-link></p>
+      <p>miRNAminer: <ext-link ext-link-type="uri" xlink:href="http://groups.csail.mit.edu/pag/mirnaminer">http://groups.csail.mit.edu/pag/mirnaminer</ext-link></p>
+      <p>miRviewer: <ext-link ext-link-type="uri" xlink:href="http://people.csail.mit.edu/akiezun/miRviewer">http://people.csail.mit.edu/akiezun/miRviewer</ext-link></p>
+      <p>Patrocles: <ext-link ext-link-type="uri" xlink:href="http://www.patrocles.org/">http://www.patrocles.org/</ext-link></p>
+      <p>TargetRank: <ext-link ext-link-type="uri" xlink:href="http://hollywood.mit.edu/targetrank">http://hollywood.mit.edu/targetrank</ext-link></p>
+      <p>TargetScanS: <ext-link ext-link-type="uri" xlink:href="http://www.targetscan.org">http://www.targetscan.org</ext-link></p>
+      <p>UCSC genome browser: <ext-link ext-link-type="uri" xlink:href="http://genome.ucsc.edu">http://genome.ucsc.edu</ext-link>.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors thank the following people for commenting on their manuscript: Brad Friedman, Alex Stark, Iftach Nachman, Robin Friedman, Eric Wang, Rickard Sandberg, Etgar Levy-Nissenbaum, and the Shomron lab members. They thank Rick Durrett and Deena Schmidt for assistance in statistical calculations. Work at the NS lab is supported by the Israeli Ministry of Health and the Kunz-Lion Foundation. EH is the incumbent of the Helen and Milton A. Kimmelman Career Development Chair. Work at the EH lab is supported by grants from the JDRF, ISF, ISf-Legacy, GIF, the Benoziyo Center for Neurological Disease, the Estate of Flourence Blau and the Wolfson Family Charitable trust for miRNA.</p>
+    </ack>
+    <ref-list>
+      <ref id="B3">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ambros</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>The functions of animal microRNAs</article-title>
+          <source>
+            <italic>Nature</italic>
+          </source>
+          <year>2004</year>
+          <volume>431</volume>
+          <issue>7006</issue>
+          <fpage>350</fpage>
+          <lpage>355</lpage>
+          <pub-id pub-id-type="pmid">15372042</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>MicroRNAs: genomics, biogenesis, mechanism, and function</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2004</year>
+          <volume>116</volume>
+          <issue>2</issue>
+          <fpage>281</fpage>
+          <lpage>297</lpage>
+          <pub-id pub-id-type="pmid">14744438</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hannon</surname>
+              <given-names>GJ</given-names>
+            </name>
+          </person-group>
+          <article-title>MicroRNAs: small RNAs with a big role in gene regulation</article-title>
+          <source>
+            <italic>Nature Reviews Genetics</italic>
+          </source>
+          <year>2004</year>
+          <volume>5</volume>
+          <issue>7</issue>
+          <fpage>522</fpage>
+          <lpage>531</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Du</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Zamore</surname>
+              <given-names>PD</given-names>
+            </name>
+          </person-group>
+          <article-title>microPrimer: the biogenesis and function of microRNA</article-title>
+          <source>
+            <italic>Development</italic>
+          </source>
+          <year>2005</year>
+          <volume>132</volume>
+          <issue>21</issue>
+          <fpage>4645</fpage>
+          <lpage>4652</lpage>
+          <pub-id pub-id-type="pmid">16224044</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filipowicz</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Jaskiewicz</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kolb</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Pillai</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>Post-transcriptional gene silencing by siRNAs and miRNAs</article-title>
+          <source>
+            <italic>Current Opinion in Structural Biology</italic>
+          </source>
+          <year>2005</year>
+          <volume>15</volume>
+          <issue>3</issue>
+          <fpage>331</fpage>
+          <lpage>341</lpage>
+          <pub-id pub-id-type="pmid">15925505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carthew</surname>
+              <given-names>RW</given-names>
+            </name>
+          </person-group>
+          <article-title>Gene regulation by microRNAs</article-title>
+          <source>
+            <italic>Current Opinion in Genetics and Development</italic>
+          </source>
+          <year>2006</year>
+          <volume>16</volume>
+          <issue>2</issue>
+          <fpage>203</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="pmid">16503132</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B60">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Plasterk</surname>
+              <given-names>RHA</given-names>
+            </name>
+          </person-group>
+          <article-title>Micro RNAs in animal development</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2006</year>
+          <volume>124</volume>
+          <issue>5</issue>
+          <fpage>877</fpage>
+          <lpage>881</lpage>
+          <pub-id pub-id-type="pmid">16530032</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewis</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>Shih</surname>
+              <given-names>I-H</given-names>
+            </name>
+            <name>
+              <surname>Jones-Rhoades</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Burge</surname>
+              <given-names>CB</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of mammalian microRNA targets</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2003</year>
+          <volume>115</volume>
+          <issue>7</issue>
+          <fpage>787</fpage>
+          <lpage>798</lpage>
+          <pub-id pub-id-type="pmid">14697198</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brennecke</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Stark</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Principles of microRNA-target recognition</article-title>
+          <source>
+            <italic>PLoS Biology</italic>
+          </source>
+          <year>2005</year>
+          <volume>3</volume>
+          <issue>3, article e85</issue>
+        </element-citation>
+      </ref>
+      <ref id="B36">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krek</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Grün</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Poy</surname>
+              <given-names>MN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Combinatorial microRNA target predictions</article-title>
+          <source>
+            <italic>Nature Genetics</italic>
+          </source>
+          <year>2005</year>
+          <volume>37</volume>
+          <issue>5</issue>
+          <fpage>495</fpage>
+          <lpage>500</lpage>
+          <pub-id pub-id-type="pmid">15806104</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B92">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Shomron</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Sandberg</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hornstein</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kitzman</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Burge</surname>
+              <given-names>CB</given-names>
+            </name>
+          </person-group>
+          <article-title>Determinants of targeting by endogenous and exogenous microRNAs and siRNAs</article-title>
+          <source>
+            <italic>RNA</italic>
+          </source>
+          <year>2007</year>
+          <volume>13</volume>
+          <issue>11</issue>
+          <fpage>1894</fpage>
+          <lpage>1910</lpage>
+          <pub-id pub-id-type="pmid">17872505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B56">
+        <label>12</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohno</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic>Evolution by Gene Duplication</italic>
+          </source>
+          <year>1970</year>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <publisher-name>Springer</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holland</surname>
+              <given-names>PWH</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Fernandez</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Sidow</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Gene duplications and the origins of vertebrate development</article-title>
+          <source>
+            <italic>Development</italic>
+          </source>
+          <year>1994</year>
+          <volume>120</volume>
+          <issue>supplement</issue>
+          <fpage>125</fpage>
+          <lpage>133</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B49">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lundin</surname>
+              <given-names>L-G</given-names>
+            </name>
+          </person-group>
+          <article-title>Gene duplications in early metazoan evolution</article-title>
+          <source>
+            <italic>Seminars in Cell and Developmental Biology</italic>
+          </source>
+          <year>1999</year>
+          <volume>10</volume>
+          <issue>5</issue>
+          <fpage>523</fpage>
+          <lpage>530</lpage>
+          <pub-id pub-id-type="pmid">10597636</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hertel</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lindemeyer</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Missal</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The expansion of the metazoan microRNA repertoire</article-title>
+          <source>
+            <italic>BMC Genomics</italic>
+          </source>
+          <year>2006</year>
+          <volume>7, article 25</volume>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bentwich</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Avniel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Karov</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of hundreds of conserved and nonconserved human microRNAs</article-title>
+          <source>
+            <italic>Nature Genetics</italic>
+          </source>
+          <year>2005</year>
+          <volume>37</volume>
+          <issue>7</issue>
+          <fpage>766</fpage>
+          <lpage>770</lpage>
+          <pub-id pub-id-type="pmid">15965474</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B79">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid evolution of an X-linked microRNA cluster in primates</article-title>
+          <source>
+            <italic>Genome Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>17</volume>
+          <issue>5</issue>
+          <fpage>612</fpage>
+          <lpage>617</lpage>
+          <pub-id pub-id-type="pmid">17416744</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B59">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piriyapongsa</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mariño-Ramírez</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>IK</given-names>
+            </name>
+          </person-group>
+          <article-title>Origin and evolution of human microRNAs from transposable elements</article-title>
+          <source>
+            <italic>Genetics</italic>
+          </source>
+          <year>2007</year>
+          <volume>176</volume>
+          <issue>2</issue>
+          <fpage>1323</fpage>
+          <lpage>1337</lpage>
+          <pub-id pub-id-type="pmid">17435244</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B93">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ozsolak</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Poling</surname>
+              <given-names>LL</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Chromatin structure analyses identify miRNA promoters</article-title>
+          <source>
+            <italic>Genes &amp; Development</italic>
+          </source>
+          <year>2008</year>
+          <volume>22</volume>
+          <issue>22</issue>
+          <fpage>3172</fpage>
+          <lpage>3183</lpage>
+          <pub-id pub-id-type="pmid">19056895</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B71">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thomson</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Newman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Morin-Kensicki</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hammond</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Extensive post-transcriptional regulation of microRNAs and its implications for cancer</article-title>
+          <source>
+            <italic>Genes &amp; Development</italic>
+          </source>
+          <year>2006</year>
+          <volume>20</volume>
+          <issue>16</issue>
+          <fpage>2202</fpage>
+          <lpage>2207</lpage>
+          <pub-id pub-id-type="pmid">16882971</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B75">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Chendrimada</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Modulation of microRNA processing and expression through RNA editing by ADAR deaminases</article-title>
+          <source>
+            <italic>Nature Structural and Molecular Biology</italic>
+          </source>
+          <year>2006</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>13</fpage>
+          <lpage>21</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B34">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kawahara</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zinshteyn</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sethupathy</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Iizasa</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hatzigeorgiou</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Nishikura</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Redirection of silencing targets by adenosine-to-inosine editing of miRNAs</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2007</year>
+          <volume>315</volume>
+          <issue>5815</issue>
+          <fpage>1137</fpage>
+          <lpage>1140</lpage>
+          <pub-id pub-id-type="pmid">17322061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B48">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lund</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Güttinger</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Calado</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Dahlberg</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Kutay</surname>
+              <given-names>U</given-names>
+            </name>
+          </person-group>
+          <article-title>Nuclear export of microRNA precursors</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2004</year>
+          <volume>303</volume>
+          <issue>5654</issue>
+          <fpage>95</fpage>
+          <lpage>98</lpage>
+          <pub-id pub-id-type="pmid">14631048</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B77">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Doehle</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Macara</surname>
+              <given-names>IG</given-names>
+            </name>
+            <name>
+              <surname>Cullen</surname>
+              <given-names>BR</given-names>
+            </name>
+          </person-group>
+          <article-title>Overexpression of exportin 5 enhances RNA interference mediated by short hairpin RNAs and microRNAs</article-title>
+          <source>
+            <italic>RNA</italic>
+          </source>
+          <year>2005</year>
+          <volume>11</volume>
+          <issue>2</issue>
+          <fpage>220</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="pmid">15613540</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hwang</surname>
+              <given-names>H-W</given-names>
+            </name>
+            <name>
+              <surname>Wentzel</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Mendell</surname>
+              <given-names>JT</given-names>
+            </name>
+          </person-group>
+          <article-title>A hexanucleotide element directs microRNA nuclear import</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2007</year>
+          <volume>315</volume>
+          <issue>5808</issue>
+          <fpage>97</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="pmid">17204650</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B81">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanzer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Stadler</surname>
+              <given-names>PF</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular evolution of a microRNA cluster</article-title>
+          <source>
+            <italic>Journal of Molecular Biology</italic>
+          </source>
+          <year>2004</year>
+          <volume>339</volume>
+          <issue>2</issue>
+          <fpage>327</fpage>
+          <lpage>335</lpage>
+          <pub-id pub-id-type="pmid">15136036</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B62">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rodriguez</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Griffiths-Jones</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ashurst</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of mammalian microRNA host genes and transcription units</article-title>
+          <source>
+            <italic>Genome Research</italic>
+          </source>
+          <year>2004</year>
+          <volume>14</volume>
+          <issue>10A</issue>
+          <fpage>1902</fpage>
+          <lpage>1910</lpage>
+          <pub-id pub-id-type="pmid">15364901</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iwai</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Naraba</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymorphisms in human pre-miRNAs</article-title>
+          <source>
+            <italic>Biochemical and Biophysical Research Communications</italic>
+          </source>
+          <year>2005</year>
+          <volume>331</volume>
+          <issue>4</issue>
+          <fpage>1439</fpage>
+          <lpage>1444</lpage>
+          <pub-id pub-id-type="pmid">15883035</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B82">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weber</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Stresemann</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Brueckner</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lyko</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Methylation of human MicroRNA genes in normal and neoplastic cells</article-title>
+          <source>
+            <italic>Cell Cycle</italic>
+          </source>
+          <year>2007</year>
+          <volume>6</volume>
+          <issue>9</issue>
+          <fpage>1001</fpage>
+          <lpage>1005</lpage>
+          <pub-id pub-id-type="pmid">17457051</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B83">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Retained introns increase putative microRNA targets within 3′ UTRs of human mRNA</article-title>
+          <source>
+            <italic>FEBS Letters</italic>
+          </source>
+          <year>2007</year>
+          <volume>581</volume>
+          <issue>6</issue>
+          <fpage>1081</fpage>
+          <lpage>1086</lpage>
+          <pub-id pub-id-type="pmid">17320082</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B84">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gregory</surname>
+              <given-names>RI</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>K-P</given-names>
+            </name>
+            <name>
+              <surname>Amuthan</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The Microprocessor complex mediates the genesis of microRNAs</article-title>
+          <source>
+            <italic>Nature</italic>
+          </source>
+          <year>2004</year>
+          <volume>432</volume>
+          <issue>7014</issue>
+          <fpage>235</fpage>
+          <lpage>240</lpage>
+          <pub-id pub-id-type="pmid">15531877</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B85">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Denli</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Tops</surname>
+              <given-names>BBJ</given-names>
+            </name>
+            <name>
+              <surname>Plasterk</surname>
+              <given-names>RHA</given-names>
+            </name>
+            <name>
+              <surname>Ketting</surname>
+              <given-names>RF</given-names>
+            </name>
+            <name>
+              <surname>Hannon</surname>
+              <given-names>GJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Processing of primary microRNAs by the microprocessor complex</article-title>
+          <source>
+            <italic>Nature</italic>
+          </source>
+          <year>2004</year>
+          <volume>432</volume>
+          <issue>7014</issue>
+          <fpage>231</fpage>
+          <lpage>235</lpage>
+          <pub-id pub-id-type="pmid">15531879</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berezikov</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>W-J</given-names>
+            </name>
+            <name>
+              <surname>Willis</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Cuppen</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <article-title>Mammalian mirtron genes</article-title>
+          <source>
+            <italic>Molecular Cell</italic>
+          </source>
+          <year>2007</year>
+          <volume>28</volume>
+          <issue>2</issue>
+          <fpage>328</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="pmid">17964270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B86">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luciano</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Mirsky</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Vendetti</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Maas</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>RNA editing of a miRNA precursor</article-title>
+          <source>
+            <italic>RNA</italic>
+          </source>
+          <year>2004</year>
+          <volume>10</volume>
+          <issue>8</issue>
+          <fpage>1174</fpage>
+          <lpage>1177</lpage>
+          <pub-id pub-id-type="pmid">15272117</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsuoka</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Study of the vertebrate MHC multigene family during heart development</article-title>
+          <source>
+            <italic>Advances in Experimental Medicine and Biology</italic>
+          </source>
+          <year>2003</year>
+          <volume>538</volume>
+          <fpage>17</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="pmid">15098651</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Janowski</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Younger</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Hardy</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Ram</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Huffman</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Corey</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>Activating gene expression in mammalian cells with promoter-targeted duplex RNAs</article-title>
+          <source>
+            <italic>Nature Chemical Biology</italic>
+          </source>
+          <year>2007</year>
+          <volume>3</volume>
+          <issue>3</issue>
+          <fpage>166</fpage>
+          <lpage>173</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B87">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schwarz</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Hutvágner</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Aronin</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Zamore</surname>
+              <given-names>PD</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetry in the assembly of the RNAi enzyme complex</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2003</year>
+          <volume>115</volume>
+          <issue>2</issue>
+          <fpage>199</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="pmid">14567917</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirose</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Shu</surname>
+              <given-names>M-D</given-names>
+            </name>
+            <name>
+              <surname>Steitz</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Splicing-dependent and -independent modes of assembly for intron-encoded box C/D snoRNPs in mammalian cells</article-title>
+          <source>
+            <italic>Molecular Cell</italic>
+          </source>
+          <year>2003</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>113</fpage>
+          <lpage>123</lpage>
+          <pub-id pub-id-type="pmid">12887897</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clop</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Marcq</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Takeda</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A mutation creating a potential illegitimate microRNA target site in the myostatin gene affects muscularity in sheep</article-title>
+          <source>
+            <italic>Nature Genetics</italic>
+          </source>
+          <year>2006</year>
+          <volume>38</volume>
+          <issue>7</issue>
+          <fpage>813</fpage>
+          <lpage>818</lpage>
+          <pub-id pub-id-type="pmid">16751773</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B88">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grishok</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pasquinelli</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Conte</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genes and mechanisms related to RNA interference regulate expression of the small temporal RNAs that control C. elegans developmental timing</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2001</year>
+          <volume>106</volume>
+          <issue>1</issue>
+          <fpage>23</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="pmid">11461699</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B89">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hutvágner</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>McLachlan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pasquinelli</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Bálint</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tuschl</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Zamore</surname>
+              <given-names>PD</given-names>
+            </name>
+          </person-group>
+          <article-title>A cellular function for the RNA-interference enzyme dicer in the maturation of the let-7 small temporal RNA</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2001</year>
+          <volume>293</volume>
+          <issue>5531</issue>
+          <fpage>834</fpage>
+          <lpage>838</lpage>
+          <pub-id pub-id-type="pmid">11452083</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B90">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Ambros</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>An extensive class of small RNAs in Caenorhabditis elegans</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2001</year>
+          <volume>294</volume>
+          <issue>5543</issue>
+          <fpage>862</fpage>
+          <lpage>864</lpage>
+          <pub-id pub-id-type="pmid">11679672</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B91">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pham</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Pellino</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Carthew</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Sontheimer</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <article-title>A Dicer-2-dependent 80S complex cleaves targeted mRNAs during RNAi in Drosophila</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2004</year>
+          <volume>117</volume>
+          <issue>1</issue>
+          <fpage>83</fpage>
+          <lpage>94</lpage>
+          <pub-id pub-id-type="pmid">15066284</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B94">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Winter</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Keller</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gregory</surname>
+              <given-names>RI</given-names>
+            </name>
+            <name>
+              <surname>Diederichs</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Many roads to maturity: microRNA biogenesis pathways and their regulation</article-title>
+          <source>
+            <italic>Nature Cell Biology</italic>
+          </source>
+          <year>2009</year>
+          <volume>11</volume>
+          <issue>3</issue>
+          <fpage>228</fpage>
+          <lpage>234</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bertone</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Stolc</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Royce</surname>
+              <given-names>TE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Global identification of human transcribed sequences with genome tiling arrays</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2004</year>
+          <volume>306</volume>
+          <issue>5705</issue>
+          <fpage>2242</fpage>
+          <lpage>2246</lpage>
+          <pub-id pub-id-type="pmid">15539566</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B58">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Bejerano</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Siepel</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification and classification of conserved RNA secondary structures in the human genome</article-title>
+          <source>
+            <italic>PLoS Computational Biology</italic>
+          </source>
+          <year>2006</year>
+          <volume>2</volume>
+          <issue>4, article e33</issue>
+        </element-citation>
+      </ref>
+      <ref id="B40">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Landgraf</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Rusu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sheridan</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A mammalian microRNA expression atlas based on small RNA library sequencing</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2007</year>
+          <volume>129</volume>
+          <issue>7</issue>
+          <fpage>1401</fpage>
+          <lpage>1414</lpage>
+          <pub-id pub-id-type="pmid">17604727</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B76">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yelin</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Dahary</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sorek</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Widespread occurrence of antisense transcription in the human genome</article-title>
+          <source>
+            <italic>Nature Biotechnology</italic>
+          </source>
+          <year>2003</year>
+          <volume>21</volume>
+          <issue>4</issue>
+          <fpage>379</fpage>
+          <lpage>386</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B42">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lavorgna</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Dahary</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lehner</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sorek</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sanderson</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Casari</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>In search of antisense</article-title>
+          <source>
+            <italic>Trends in Biochemical Sciences</italic>
+          </source>
+          <year>2004</year>
+          <volume>29</volume>
+          <issue>2</issue>
+          <fpage>88</fpage>
+          <lpage>94</lpage>
+          <pub-id pub-id-type="pmid">15102435</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B57">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okamura</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hagen</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Duan</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tyler</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <article-title>The mirtron pathway generates microRNA-class regulatory RNAs in Drosophila</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2007</year>
+          <volume>130</volume>
+          <issue>1</issue>
+          <fpage>89</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="pmid">17599402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B95">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruby</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Jan</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Intronic microRNA precursors that bypass Drosha processing</article-title>
+          <source>
+            <italic>Nature</italic>
+          </source>
+          <year>2007</year>
+          <volume>448</volume>
+          <issue>7149</issue>
+          <fpage>83</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="pmid">17589500</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37">
+        <label>52</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lagos-Quintana</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rauhut</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lendeckel</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Tuschl</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of novel genes coding for small expressed RNAs</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2001</year>
+          <volume>294</volume>
+          <issue>5543</issue>
+          <fpage>853</fpage>
+          <lpage>858</lpage>
+          <pub-id pub-id-type="pmid">11679670</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38">
+        <label>53</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lai</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Tomancak</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Rubin</surname>
+              <given-names>GM</given-names>
+            </name>
+          </person-group>
+          <article-title>Computational identification of Drosophila microRNA genes</article-title>
+          <source>
+            <italic>Genome Biology</italic>
+          </source>
+          <year>2003</year>
+          <volume>4</volume>
+          <issue>7, article R42</issue>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Altuvia</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Landgraf</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lithwick</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Clustering and conservation patterns of human microRNAs</article-title>
+          <source>
+            <italic>Nucleic Acids Research</italic>
+          </source>
+          <year>2005</year>
+          <volume>33</volume>
+          <issue>8</issue>
+          <fpage>2697</fpage>
+          <lpage>2706</lpage>
+          <pub-id pub-id-type="pmid">15891114</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>55</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baskerville</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Microarray profiling of microRNAs reveals frequent coexpression with neighboring miRNAs and host genes</article-title>
+          <source>
+            <italic>RNA</italic>
+          </source>
+          <year>2005</year>
+          <volume>11</volume>
+          <issue>3</issue>
+          <fpage>241</fpage>
+          <lpage>247</lpage>
+          <pub-id pub-id-type="pmid">15701730</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B74">
+        <label>56</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weber</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>New human and mouse microRNA genes found by homology search</article-title>
+          <source>
+            <italic>FEBS Journal</italic>
+          </source>
+          <year>2005</year>
+          <volume>272</volume>
+          <issue>1</issue>
+          <fpage>59</fpage>
+          <lpage>73</lpage>
+          <pub-id pub-id-type="pmid">15634332</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>57</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berezikov</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>van Tetering</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Verheul</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Many novel mammalian microRNA candidates identified by extensive cloning and RAKE analysis</article-title>
+          <source>
+            <italic>Genome Research</italic>
+          </source>
+          <year>2006</year>
+          <volume>16</volume>
+          <issue>10</issue>
+          <fpage>1289</fpage>
+          <lpage>1298</lpage>
+          <pub-id pub-id-type="pmid">16954537</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47">
+        <label>58</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>S-L</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Ying</surname>
+              <given-names>S-Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Intronic microRNA (miRNA)</article-title>
+          <source>
+            <italic>Journal of Biomedicine and Biotechnology</italic>
+          </source>
+          <year>2006</year>
+          <volume>2006</volume>
+          <issue>4</issue>
+          <fpage>p. 26818</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B35">
+        <label>59</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y-K</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Processing of intronic microRNAs</article-title>
+          <source>
+            <italic>The EMBO Journal</italic>
+          </source>
+          <year>2007</year>
+          <volume>26</volume>
+          <issue>3</issue>
+          <fpage>775</fpage>
+          <lpage>783</lpage>
+          <pub-id pub-id-type="pmid">17255951</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B96">
+        <label>60</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Ridzon</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of microRNA expression profiles in normal human tissues</article-title>
+          <source>
+            <italic>BMC Genomics</italic>
+          </source>
+          <year>2007</year>
+          <volume>8, article 166</volume>
+        </element-citation>
+      </ref>
+      <ref id="B67">
+        <label>61</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sewer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Paul</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Landgraf</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of clustered microRNAs using an ab initio prediction method</article-title>
+          <source>
+            <italic>BMC Bioinformatics</italic>
+          </source>
+          <year>2005</year>
+          <volume>6, article 267</volume>
+        </element-citation>
+      </ref>
+      <ref id="B65">
+        <label>62</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seitz</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Royo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bortolin</surname>
+              <given-names>M-L</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>S-P</given-names>
+            </name>
+            <name>
+              <surname>Ferguson-Smith</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Cavaillé</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>A large imprinted microRNA gene cluster at the mouse Dlk1-Gtl2 domain</article-title>
+          <source>
+            <italic>Genome Research</italic>
+          </source>
+          <year>2004</year>
+          <volume>14</volume>
+          <issue>9</issue>
+          <fpage>1741</fpage>
+          <lpage>1748</lpage>
+          <pub-id pub-id-type="pmid">15310658</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B97">
+        <label>63</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Cannon</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Cobb</surname>
+              <given-names>GP</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Conservation and divergence of plant microRNA genes</article-title>
+          <source>
+            <italic>Plant Journal</italic>
+          </source>
+          <year>2006</year>
+          <volume>46</volume>
+          <issue>2</issue>
+          <fpage>243</fpage>
+          <lpage>259</lpage>
+          <pub-id pub-id-type="pmid">16623887</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B55">
+        <label>64</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohler</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Yekta</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>LP</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Burge</surname>
+              <given-names>CB</given-names>
+            </name>
+          </person-group>
+          <article-title>Patterns of flanking sequence conservation and a characteristic upstream motif for microRNA gene identification</article-title>
+          <source>
+            <italic>RNA</italic>
+          </source>
+          <year>2004</year>
+          <volume>10</volume>
+          <issue>9</issue>
+          <fpage>1309</fpage>
+          <lpage>1322</lpage>
+          <pub-id pub-id-type="pmid">15317971</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43">
+        <label>65</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Brower-Sinning</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>John</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulatory circuit of human microRNA biogenesis</article-title>
+          <source>
+            <italic>PLoS Computational Biology</italic>
+          </source>
+          <year>2007</year>
+          <volume>3</volume>
+          <issue>4, article e67</issue>
+        </element-citation>
+      </ref>
+      <ref id="B80">
+        <label>66</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Ruan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization and identification of microRNA core promoters in four model species</article-title>
+          <source>
+            <italic>PLoS Computational Biology</italic>
+          </source>
+          <year>2007</year>
+          <volume>3</volume>
+          <issue>3, article e37</issue>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>67</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ason</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Darnell</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Wittbrodt</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Differences in vertebrate microRNA expression</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>2006</year>
+          <volume>103</volume>
+          <issue>39</issue>
+          <fpage>14385</fpage>
+          <lpage>14389</lpage>
+          <pub-id pub-id-type="pmid">16983084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>68</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filipowicz</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Pogacic</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Biogenesis of small nucleolar ribonucleoproteins</article-title>
+          <source>
+            <italic>Current Opinion in Cell Biology</italic>
+          </source>
+          <year>2002</year>
+          <volume>14</volume>
+          <issue>3</issue>
+          <fpage>319</fpage>
+          <lpage>327</lpage>
+          <pub-id pub-id-type="pmid">12067654</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B73">
+        <label>69</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vincenti</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>de Chiara</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bozzoni</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Presutti</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>The position of yeast snoRNA-coding regions within host introns is essential for their biosynthesis and for efficient splicing of the host pre-mRNA</article-title>
+          <source>
+            <italic>RNA</italic>
+          </source>
+          <year>2007</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>138</fpage>
+          <lpage>150</lpage>
+          <pub-id pub-id-type="pmid">17135484</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B72">
+        <label>70</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Rooij</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sutherland</surname>
+              <given-names>LB</given-names>
+            </name>
+            <name>
+              <surname>Qi</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Olson</surname>
+              <given-names>EN</given-names>
+            </name>
+          </person-group>
+          <article-title>Control of stress-dependent cardiac growth and gene expression by a microRNA</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2007</year>
+          <volume>316</volume>
+          <issue>5824</issue>
+          <fpage>575</fpage>
+          <lpage>579</lpage>
+          <pub-id pub-id-type="pmid">17379774</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B98">
+        <label>71</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pawlicki</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Steitz</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Primary microRNA transcript retention at sites of transcription leads to enhanced microRNA production</article-title>
+          <source>
+            <italic>Journal of Cell Biology</italic>
+          </source>
+          <year>2008</year>
+          <volume>182</volume>
+          <issue>1</issue>
+          <fpage>61</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">18625843</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B99">
+        <label>72</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pawlicki</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Steitz</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Subnuclear compartmentalization of transiently expressed polyadenylated pri-microRNAs: processing at transcription sites or accumulation in SC35 foci</article-title>
+          <source>
+            <italic>Cell Cycle</italic>
+          </source>
+          <year>2009</year>
+          <volume>8</volume>
+          <issue>3</issue>
+          <fpage>345</fpage>
+          <lpage>356</lpage>
+          <pub-id pub-id-type="pmid">19177009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B100">
+        <label>73</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morlando</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ballarino</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gromak</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Pagano</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Bozzoni</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Proudfoot</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Primary microRNA transcripts are processed co-transcriptionally</article-title>
+          <source>
+            <italic>Nature Structural and Molecular Biology</italic>
+          </source>
+          <year>2008</year>
+          <volume>15</volume>
+          <issue>9</issue>
+          <fpage>902</fpage>
+          <lpage>909</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B101">
+        <label>74</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shomron</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Levy</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>MicroRNA-biogenesis and pre-mRNA splicing crosstalk</article-title>
+          <source>
+            <italic>Journal of Biomedicine and Biotechnology</italic>
+          </source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>6 pages</fpage>
+          <comment>Article ID 594678.</comment>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>75</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Butenas</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Branda</surname>
+              <given-names>RF</given-names>
+            </name>
+            <name>
+              <surname>Van't Veer</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cawthern</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>KG</given-names>
+            </name>
+          </person-group>
+          <article-title>Platelets and phospholipids in tissue factor-initiated thrombin generation</article-title>
+          <source>
+            <italic>Thrombosis and Haemostasis</italic>
+          </source>
+          <year>2001</year>
+          <volume>86</volume>
+          <issue>2</issue>
+          <fpage>660</fpage>
+          <lpage>667</lpage>
+          <pub-id pub-id-type="pmid">11522019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44">
+        <label>76</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewis</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>Burge</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2005</year>
+          <volume>120</volume>
+          <issue>1</issue>
+          <fpage>15</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">15652477</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52">
+        <label>77</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morkin</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Control of cardiac myosin heavy chain gene expression</article-title>
+          <source>
+            <italic>Microscopy Research and Technique</italic>
+          </source>
+          <year>2000</year>
+          <volume>50</volume>
+          <issue>6</issue>
+          <fpage>522</fpage>
+          <lpage>531</lpage>
+          <pub-id pub-id-type="pmid">10998641</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>78</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gaidatzis</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>van Nimwegen</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hausser</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zavolan</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Inference of miRNA targets using evolutionary conservation and pathway analysis</article-title>
+          <source>
+            <italic>BMC Bioinformatics</italic>
+          </source>
+          <year>2007</year>
+          <volume>8, article 69</volume>
+        </element-citation>
+      </ref>
+      <ref id="B61">
+        <label>79</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Revilla-i-Domingo</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Davidson</surname>
+              <given-names>EH</given-names>
+            </name>
+          </person-group>
+          <article-title>Developmental gene network analysis</article-title>
+          <source>
+            <italic>International Journal of Developmental Biology</italic>
+          </source>
+          <year>2003</year>
+          <volume>47</volume>
+          <issue>7-8</issue>
+          <fpage>695</fpage>
+          <lpage>703</lpage>
+          <pub-id pub-id-type="pmid">14756345</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B66">
+        <label>80</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sempere</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Cole</surname>
+              <given-names>CN</given-names>
+            </name>
+            <name>
+              <surname>Mcpeek</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Peterson</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The phylogenetic distribution of metazoan microRNAs: insights into evolutionary complexity and constraint</article-title>
+          <source>
+            <italic>Journal of Experimental Zoology Part B</italic>
+          </source>
+          <year>2006</year>
+          <volume>306</volume>
+          <issue>6</issue>
+          <fpage>575</fpage>
+          <lpage>588</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>81</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Rajewsky</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural selection on human microRNA binding sites inferred from SNP data</article-title>
+          <source>
+            <italic>Nature Genetics</italic>
+          </source>
+          <year>2006</year>
+          <volume>38</volume>
+          <issue>12</issue>
+          <fpage>1452</fpage>
+          <lpage>1456</lpage>
+          <pub-id pub-id-type="pmid">17072316</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B64">
+        <label>82</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saunders</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>W-H</given-names>
+            </name>
+          </person-group>
+          <article-title>Human polymorphism at microRNAs and microRNA target sites</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>2007</year>
+          <volume>104</volume>
+          <issue>9</issue>
+          <fpage>3300</fpage>
+          <lpage>3305</lpage>
+          <pub-id pub-id-type="pmid">17360642</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>83</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farh</surname>
+              <given-names>KK-H</given-names>
+            </name>
+            <name>
+              <surname>Grimson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jan</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The widespread impact of mammalian microRNAs on mRNA repression and evolution</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2005</year>
+          <volume>310</volume>
+          <issue>5755</issue>
+          <fpage>1817</fpage>
+          <lpage>1821</lpage>
+          <pub-id pub-id-type="pmid">16308420</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B102">
+        <label>84</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Friedman</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Farh</surname>
+              <given-names>KK-H</given-names>
+            </name>
+            <name>
+              <surname>Burge</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Most mammalian mRNAs are conserved targets of microRNAs</article-title>
+          <source>
+            <italic>Genome Research</italic>
+          </source>
+          <year>2009</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>92</fpage>
+          <lpage>105</lpage>
+          <pub-id pub-id-type="pmid">18955434</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B103">
+        <label>85</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Umbach</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Cullen</surname>
+              <given-names>BR</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of RNAi and microRNAs in animal virus replication and antiviral immunity</article-title>
+          <source>
+            <italic>Genes &amp; Development</italic>
+          </source>
+          <year>2009</year>
+          <volume>23</volume>
+          <issue>10</issue>
+          <fpage>1151</fpage>
+          <lpage>1164</lpage>
+          <pub-id pub-id-type="pmid">19451215</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B104">
+        <label>86</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cullen</surname>
+              <given-names>BR</given-names>
+            </name>
+          </person-group>
+          <article-title>Viral and cellular messenger RNA targets of viral microRNAs</article-title>
+          <source>
+            <italic>Nature</italic>
+          </source>
+          <year>2009</year>
+          <volume>457</volume>
+          <issue>7228</issue>
+          <fpage>421</fpage>
+          <lpage>425</lpage>
+          <pub-id pub-id-type="pmid">19158788</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33">
+        <label>87</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>John</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Enright</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Aravin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tuschl</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sander</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Marks</surname>
+              <given-names>DS</given-names>
+            </name>
+          </person-group>
+          <article-title>Human microRNA targets</article-title>
+          <source>
+            <italic>PLoS Biology</italic>
+          </source>
+          <year>2004</year>
+          <volume>2</volume>
+          <issue>11, article e363</issue>
+        </element-citation>
+      </ref>
+      <ref id="B68">
+        <label>88</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shalgi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lieber</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Oren</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pilpel</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Global and local architecture of the mammalian microRNA-transcription factor regulatory network</article-title>
+          <source>
+            <italic>PLoS Computational Biology</italic>
+          </source>
+          <year>2007</year>
+          <volume>3</volume>
+          <issue>7, article e131</issue>
+        </element-citation>
+      </ref>
+      <ref id="B105">
+        <label>89</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Artzi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kiezun</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Shomron</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>miRNAminer: a tool for homologous microRNA gene search</article-title>
+          <source>
+            <italic>BMC Bioinformatics</italic>
+          </source>
+          <year>2008</year>
+          <volume>9, article 39</volume>
+        </element-citation>
+      </ref>
+      <ref id="B32">
+        <label>90</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jing</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Guth</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Involvement of microRNA in AU-rich element-mediated mRNA instability</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2005</year>
+          <volume>120</volume>
+          <issue>5</issue>
+          <fpage>623</fpage>
+          <lpage>634</lpage>
+          <pub-id pub-id-type="pmid">15766526</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>91</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beelman</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Degradation of mRNA in eukaryotes</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>1995</year>
+          <volume>81</volume>
+          <issue>2</issue>
+          <fpage>179</fpage>
+          <lpage>183</lpage>
+          <pub-id pub-id-type="pmid">7736570</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>92</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ashfield</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Enriquez-Harris</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Proudfoot</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcriptional termination between the closely linked human complement genes C2 and factor B: common termination factor for C2 and c-myc?</article-title>
+          <source>
+            <italic>The EMBO Journal</italic>
+          </source>
+          <year>1991</year>
+          <volume>10</volume>
+          <issue>13</issue>
+          <fpage>4197</fpage>
+          <lpage>4207</lpage>
+          <pub-id pub-id-type="pmid">1756727</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B78">
+        <label>93</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yonaha</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Proudfoot</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcriptional termination and coupled polyadenylation in vitro</article-title>
+          <source>
+            <italic>The EMBO Journal</italic>
+          </source>
+          <year>2000</year>
+          <volume>19</volume>
+          <issue>14</issue>
+          <fpage>3770</fpage>
+          <lpage>3777</lpage>
+          <pub-id pub-id-type="pmid">10899130</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B69">
+        <label>94</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smalheiser</surname>
+              <given-names>NR</given-names>
+            </name>
+            <name>
+              <surname>Torvik</surname>
+              <given-names>VI</given-names>
+            </name>
+          </person-group>
+          <article-title>Alu elements within human mRNAs are probable microRNA targets</article-title>
+          <source>
+            <italic>Trends in Genetics</italic>
+          </source>
+          <year>2006</year>
+          <volume>22</volume>
+          <issue>10</issue>
+          <fpage>532</fpage>
+          <lpage>536</lpage>
+          <pub-id pub-id-type="pmid">16914224</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B53">
+        <label>95</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Newcombe</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Glassco</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of the DBP promoter by PAR proteins and in leukemic cells bearing an E2A/HLF translocation</article-title>
+          <source>
+            <italic>Biochemical and Biophysical Research Communications</italic>
+          </source>
+          <year>1998</year>
+          <volume>245</volume>
+          <issue>2</issue>
+          <fpage>633</fpage>
+          <lpage>639</lpage>
+          <pub-id pub-id-type="pmid">9571207</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41">
+        <label>96</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lapidot</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pilpel</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Genome-wide natural antisense transcription: coupling its regulation to its different regulatory mechanisms</article-title>
+          <source>
+            <italic>EMBO Reports</italic>
+          </source>
+          <year>2006</year>
+          <volume>7</volume>
+          <issue>12</issue>
+          <fpage>1216</fpage>
+          <lpage>1222</lpage>
+          <pub-id pub-id-type="pmid">17139297</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46">
+        <label>97</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>L-C</given-names>
+            </name>
+            <name>
+              <surname>Okino</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Small dsRNAs induce transcriptional activation in human cells</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>2006</year>
+          <volume>103</volume>
+          <issue>46</issue>
+          <fpage>17337</fpage>
+          <lpage>17342</lpage>
+          <pub-id pub-id-type="pmid">17085592</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B63">
+        <label>98</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saatcioglu</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Perry</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Pasco</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Fagan</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title>Multiple DNA-binding factors interact with overlapping specificities at the aryl hydrocarbon response element of the cytochrome P450IA1 gene</article-title>
+          <source>
+            <italic>Molecular and Cellular Biology</italic>
+          </source>
+          <year>1990</year>
+          <volume>10</volume>
+          <issue>12</issue>
+          <fpage>6408</fpage>
+          <lpage>6416</lpage>
+          <pub-id pub-id-type="pmid">2174107</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>99</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Rajewsky</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>The evolution of gene regulation by transcription factors and microRNAs</article-title>
+          <source>
+            <italic>Nature Reviews Genetics</italic>
+          </source>
+          <year>2007</year>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>93</fpage>
+          <lpage>103</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B39">
+        <label>100</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lander</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Linton</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Birren</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Initial sequencing and analysis of the human genome</article-title>
+          <source>
+            <italic>Nature</italic>
+          </source>
+          <year>2001</year>
+          <volume>409</volume>
+          <issue>6822</issue>
+          <fpage>860</fpage>
+          <lpage>921</lpage>
+          <pub-id pub-id-type="pmid">11237011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B1">
+        <label>101</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abelson</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Kwan</surname>
+              <given-names>KY</given-names>
+            </name>
+            <name>
+              <surname>O'Roak</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sequence variants in <italic>SLITRK1</italic> are associated with Tourette's syndrome</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2005</year>
+          <volume>310</volume>
+          <issue>5746</issue>
+          <fpage>317</fpage>
+          <lpage>320</lpage>
+          <pub-id pub-id-type="pmid">16224024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B107">
+        <label>102</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Durrett</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Waiting for regulatory sequences to appear</article-title>
+          <source>
+            <italic>Annals of Applied Probability</italic>
+          </source>
+          <year>2007</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>32</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B70">
+        <label>103</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stark</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Brennecke</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bushati</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Animal microRNAs confer robustness to gene expression and have a significant impact on 3′ UTR evolution</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>2005</year>
+          <volume>123</volume>
+          <issue>6</issue>
+          <fpage>1133</fpage>
+          <lpage>1146</lpage>
+          <pub-id pub-id-type="pmid">16337999</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="fig1" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>Several layers of regulation control canonical miRNA gene biogenesis: transcription activation, splicing, recognition by Drosha, postprocessing, RNA editing, subcellular localization, nuclear export, and hairpin arm selection. Selected examples are referenced within.</p>
+      </caption>
+      <graphic xlink:href="JBB2009-594738.001"/>
+    </fig>
+    <fig id="fig2" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <p>Genomic organization of miRNA genes and their expression. The number of miRNA genes correlates with chromosome length (a) and the number of protein-coding genes (b). Outliers chromosomes 14, 19, and X are indicated. When removing these three chromosomes the number of miRNA genes aligns well on the regression line (<italic>R</italic><sup>2</sup> indicated). (c) Proportion of miRNA genes hosted in Introns—Intronic (based on Refseq genes), Clustered on the same genomic strand, or Stand-alone miRNAs. Overlapping intronic and clustered miRNAs are also indicated. Each row refers to 50 kb, 10 kb, and 1 kb distance between paired genes on the same strand. It was shown that clusters of size 3 kb give a large proportion of clusters (27%) with little change when increasing pairwise distance to 10 kb [<xref ref-type="bibr" rid="B2">54</xref>]. Diagrams are based on data from Refseq. (d) Human miRNA copy number was plotted against the average miRNA expression level of 40 Human tissues [<xref ref-type="bibr" rid="B96">60</xref>]. A similar plot of another dataset [<xref ref-type="bibr" rid="B7">55</xref>] gave comparable results (data not shown).</p>
+      </caption>
+      <graphic xlink:href="JBB2009-594738.002"/>
+    </fig>
+    <fig id="fig3" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <p>The number of predicted conserved miRNA target sites. (a) Predicted number of conserved targets, conserved target sites and poorly conserved sites of human miRNAs (based on TargetScanS). (b) The number of predicted conserved miRNA targets was divided according to the conservation level of the miRNA itself (H, Human; P, Chimp; M, Mouse; R, Rat; D, Dog; C, Chicken; based on TargetScanS). Shaded in red/green are the regions with the largest/least number of targets (resp.). Extreme numbers of targets are boxed and are discussed in the text.</p>
+      </caption>
+      <graphic xlink:href="JBB2009-594738.003"/>
+    </fig>
+    <fig id="fig4" position="float">
+      <label>Figure 4</label>
+      <caption>
+        <p>A possible scenario for acquiring a functional miRNA binding site.</p>
+      </caption>
+      <graphic xlink:href="JBB2009-594738.004"/>
+    </fig>
+  </floats-group>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

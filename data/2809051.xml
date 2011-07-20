@@ -1,0 +1,3276 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:58Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2809051" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2809051</identifier><datestamp>2010-01-21</datestamp><setSpec>jcardiomagnres</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Cardiovasc Magn Reson</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Cardiovascular Magnetic Resonance</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1097-6647</issn>
+      <issn pub-type="epub">1532-429X</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2809051</article-id>
+      <article-id pub-id-type="publisher-id">1532-429X-11-55</article-id>
+      <article-id pub-id-type="pmid">20025732</article-id>
+      <article-id pub-id-type="doi">10.1186/1532-429X-11-55</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Myocardial tissue tagging with cardiovascular magnetic resonance</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="A1">
+          <name>
+            <surname>Shehata</surname>
+            <given-names>Monda L</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>mshehat1@jhmi.edu</email>
+        </contrib>
+        <contrib contrib-type="author" id="A2">
+          <name>
+            <surname>Cheng</surname>
+            <given-names>Susan</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>scheng32@jhmi.edu</email>
+        </contrib>
+        <contrib contrib-type="author" id="A3">
+          <name>
+            <surname>Osman</surname>
+            <given-names>Nael F</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>nael@jhu.edu</email>
+        </contrib>
+        <contrib contrib-type="author" id="A4">
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>David A</given-names>
+          </name>
+          <xref ref-type="aff" rid="I3">3</xref>
+          <email>bluemked@cc.nih.gov</email>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes" id="A5">
+          <name>
+            <surname>Lima</surname>
+            <given-names>João AC</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>jlima@jhmi.edu</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Department of Radiology, Johns Hopkins University School of Medicine, Baltimore, MD, USA</aff>
+      <aff id="I2"><label>2</label>Division of Cardiology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA</aff>
+      <aff id="I3"><label>3</label>Department of Radiology, National Institutes of Health, Bethesda, MD, USA</aff>
+      <pub-date pub-type="collection">
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>12</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>1</issue>
+      <fpage>55</fpage>
+      <lpage>55</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>4</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>12</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright ©2009 Shehata et al; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <copyright-holder>Shehata et al; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="http://www.jcmr-online.com/content/11/1/55"/>
+      <abstract>
+        <p>Cardiovascular magnetic resonance (CMR) is currently the gold standard for assessing both global and regional myocardial function. New tools for quantifying regional function have been recently developed to characterize early myocardial dysfunction in order to improve the identification and management of individuals at risk for heart failure. Of particular interest is CMR myocardial tagging, a non-invasive technique for assessing regional function that provides a detailed and comprehensive examination of intra-myocardial motion and deformation. Given the current advances in gradient technology, image reconstruction techniques, and data analysis algorithms, CMR myocardial tagging has become the reference modality for evaluating multidimensional strain evolution in the human heart. This review presents an in depth discussion on the current clinical applications of CMR myocardial tagging and the increasingly important role of this technique for assessing subclinical myocardial dysfunction in the setting of a wide variety of myocardial disease processes.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Heart failure (HF) is the result of advanced myocardial dysfunction and continues to be a leading cause of morbidity and mortality in developed nations. In the United States alone, an estimated 5.3 million adults carry the diagnosis of HF and the disease prevalence continues to escalate with aging of the population. In addition to conferring a significant burden of illness to affected individuals, management of HF also imposes enormous expense to the health care system [<xref ref-type="bibr" rid="B1">1</xref>]. Therefore, the ability to identify individuals at risk for developing HF - those who might benefit from targeted preventive interventions - would be of immense value.</p>
+      <p>To this end, some of the most promising approaches to improved risk stratification involve using imaging modalities to detect early myocardial dysfunction. Assessment of global ventricular function - and its reduced indices, such as ejection fraction, are clearly strong predictors of future HF and poor prognosis. However, global measures are insensitive to reductions in regional performance, where even a normal ejection fraction can obscure significant underlying regional dysfunction. Thus, measures of regional function, such as quantification of myocardial strain and torsion, have emerged as more accurate tools for defining degrees of myocardial disease. Abnormalities in these measures of regional function can also serve as a more specific marker of subclinical myocardial dysfunction. Several techniques have been used to quantify regional myocardial function. Nuclear techniques [<xref ref-type="bibr" rid="B2">2</xref>] can provide information on global and regional wall motion but with limited spatial and temporal resolution. Tissue Doppler imaging [<xref ref-type="bibr" rid="B3">3</xref>]and Speckle tracking [<xref ref-type="bibr" rid="B4">4</xref>] are two novel echocardiographic techniques that have been introduced for strain quantification. While both techniques have demonstrated promising potential for bedside regional function assessment at a high temporal resolution (&gt; 250 frames/second), acquisition angle and operator dependence must be kept in mind while using these techniques.</p>
+      <p>Currently, cardiovascular magnetic resonance (CMR) tagging remains the reference standard for assessment of regional function [<xref ref-type="bibr" rid="B5">5</xref>]. It remains the most widely validated reproducible tool for multi-dimensional strain quantification.</p>
+      <sec>
+        <title>Techniques for Myocardial Tissue Tagging</title>
+        <p>Quantifying regional myocardial function, or regional deformation, originally required invasive surgical implantation of physical markers within the myocardium itself and then tracking their motion using external imaging. However, this method is impractical for clinical application and implanted markers tend to influence cardiac motion and thus distort the accuracy of measurements [<xref ref-type="bibr" rid="B6">6</xref>]. In 1988, Zerhouni et al. [<xref ref-type="bibr" rid="B7">7</xref>] introduced a magnetic resonance based noninvasive imaging method for tracking myocardial motion: myocardial tissue tagging. Noninvasive markers, known as tags, are created within the tissue by locally induced perturbations of the magnetization with selective radiofrequency saturation of multiple, thin tag planes in a plane perpendicular to the imaging plane prior to image acquisition. These perturbations then produce regions of reduced signal intensity that appear as dark lines in the acquired images [<xref ref-type="bibr" rid="B8">8</xref>]. Building upon this technique, Axel and Dougherty [<xref ref-type="bibr" rid="B9">9</xref>] then developed spatial modulation of magnetization (SPAMM) to allow the application of tags in two orthogonal directions that, combined, form a grid of sharp intrinsic tissue markers.</p>
+        <p>Initially designed to analyze myocardial contraction during systole, tags are typically created upon detection of the QRS complex of the electrocardiogram (ECG). The resulting tags then follow myocardial motion during the cardiac cycle, thus reflecting the underlying myocardial deformation (Figure <xref ref-type="fig" rid="F1">1</xref>). <italic>See additional file </italic><xref ref-type="supplementary-material" rid="S1">1</xref>: <italic>Movie 1 demonstrating myocardial tagging covering the cardiac cycle</italic>. However, fading of the tag lines close to end-diastole, as a result of T1 tissue relaxation, has limited its application to the systolic part of the cardiac cycle. Although spoiled gradient echo imaging is the commonly used sequence for tag generation at the widely available 1.5T magnets, recent studies [<xref ref-type="bibr" rid="B10">10</xref>,<xref ref-type="bibr" rid="B11">11</xref>] have proposed implementing steady state free precession (SSFP) to achieve better contrast and longer tag persistence. Using high field strength magnets for tagging acquisition may also reduce the problem of tag fading. In fact, despite the potential increase in susceptibility effects during cardiac imaging, applying myocardial tagging at higher field strength appears to provide a better contrast to noise ratio (CNR) as well as improve tag persistence. This could be attributed to a higher baseline signal to noise ratio (SNR) provided by 3T systems and prolongation of myocardial T1, thus improving the contrast between the tissue and the tag lines at end-diastole (Figure <xref ref-type="fig" rid="F2">2</xref>) [<xref ref-type="bibr" rid="B12">12</xref>]. Providing persistent tags allows quantification of cardiac strain evolution during late diastole, which can be used to assess diastolic myocardial dysfunction. Moreover, using the multi-planar capabilities of CMR, tag lines can be applied in the short or long axis cardiac planes to facilitate sophisticated three dimensional (3D) strain analysis.</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>Short axis tagging at the mid ventricular level covering the cardiac cycle (A-F)</bold>. Tagging is applied upon detection of QRS complex at end diastole (A). Tag lines follow the myocardial deformation during systole (B, C, and D) and relax in diastole (E, F). Fading of tag lines occurs near end diastole (F) due to T1 tissue relaxation.</p>
+          </caption>
+          <graphic xlink:href="1532-429X-11-55-1"/>
+        </fig>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>1.5 and 3T mid ventricular short axis tagging covering the cardiac cycle (F1-F4)</bold>. Note better tag-tissue contrast and longer tag persistence (F4) on 3T MRI system.</p>
+          </caption>
+          <graphic xlink:href="1532-429X-11-55-2"/>
+        </fig>
+        <p>In addition, current advances in gradient technology and acquisition techniques have greatly improved tagging temporal resolution. Currently, the most widely feasible temporal resolution is on the order of 15 - 20 msec, which is sufficient to detect peak systolic strain, the most extensively reported value in most clinical settings. However, a high temporal resolution actually becomes a critical issue especially when studying specific phases of the cardiac cycle that are characterized by rapid cardiac motion like the early diastolic filling phase in diastolic dysfunction, the early systolic emptying phase in conduction abnormalities as well as stress induced wall motion abnormalities [<xref ref-type="bibr" rid="B8">8</xref>]. Recently, parallel imaging techniques, such as simultaneous acquisition of spatial harmonics (SMASH) [<xref ref-type="bibr" rid="B13">13</xref>] and sensitivity encoding (SENSE) [<xref ref-type="bibr" rid="B14">14</xref>] have been proposed for speeding up the image acquisition. SENSE is the most widespread parallel imaging technique. Scan time reduction in SENSE benefits cardiac imaging leading to reduced breath-hold durations, or increased spatial resolution for a given breath-hold duration [<xref ref-type="bibr" rid="B8">8</xref>].</p>
+      </sec>
+      <sec>
+        <title>Image Analysis</title>
+        <p>Although the tag line deformation in cine display can be followed and analyzed visually, this approach is subjective and limited by image quality. Therefore, quantitative analysis is preferred. Motion quantification techniques are divided into: a) differential optical flow-based methods that track motion by assessment of the temporal and spatial changes of image intensity; b) tag segmentation methods based on tracking of tag lines as in Findtags [<xref ref-type="bibr" rid="B15">15</xref>] and SPAMMVU [<xref ref-type="bibr" rid="B16">16</xref>] analysis; and, c) phase-based analysis methods which are the bases for Harmonic phase (HARP) analysis [<xref ref-type="bibr" rid="B17">17</xref>]. HARP analysis is currently the most widely used method for strain quantification since it is highly automated and, thus, limits both analysis time and subjective interference. Each tagging image is decomposed into a harmonic magnitude and a harmonic phase. The HARP method analyzes the motion in the tagging data by filtering the harmonic peaks in the frequency domain of the image. It computes a displacement map of the tag lines by tracking their phase changes through time. HARP can, thus, track the motion of a single point or of a whole myocardial segment (by taking the average of multiple adjacent points) through time to generate a dense regional dynamic color strain map throughout the cardiac cycle [<xref ref-type="bibr" rid="B18">18</xref>,<xref ref-type="bibr" rid="B19">19</xref>]<italic>See additional file </italic><xref ref-type="supplementary-material" rid="S2">2</xref>: <italic>Movie 2 demonstrating color coded strain analysis of the tagged left ventricle using HARP; x-coordinate represents time frames, y-coordinate represents percent circumferential shortening (% E<sub>cc</sub>)</italic>.</p>
+        <p>With the rising interest in computing 3D myocardial deformation maps, several techniques based on CMR tagging have been developed to quantify 3D strain through the acquisition of multiple orthogonal slices covering the whole volume of interest. The proposed methods used various 3D model-based approaches to reconstruct the 3D motion of the left ventricle (LV) from tagging images [<xref ref-type="bibr" rid="B6">6</xref>,<xref ref-type="bibr" rid="B20">20</xref>-<xref ref-type="bibr" rid="B22">22</xref>]. However, these methods predisposed to patient discomfort due to multiple breath holds required for data acquisition, in addition to image mis-registration caused by patient motion as well as heart rate variability from one slice to the other.</p>
+      </sec>
+      <sec>
+        <title>Measurement of Deformation</title>
+        <p>Within the LV, the myofiber arrangement changes gradually from a right-handed helix in the subendocardium to a left-handed helix in the subepicardium, passing by a circumferential arrangement in the mid wall. Such complex fiber architecture results in complex patterns of deformation and changes in shape that are produced upon muscle contraction or relaxation [<xref ref-type="bibr" rid="B23">23</xref>]. Tagging analysis allows quantification of these multiplanar regional deformations and, in turn, offers a dynamic multidimensional measure of myocardial function.</p>
+        <sec>
+          <title>Strain</title>
+          <p>Each element of strain is, simply, a measurement of the fractional or the percent change of length in a specific direction where <italic>L</italic><sub><italic>o </italic></sub>is the original fiber length before tag deformation and <italic>L </italic>is the current length.<disp-formula><graphic xlink:href="1532-429X-11-55-i1.gif"/></disp-formula></p>
+          <p>In 3D space, myocardial strain can be represented by two different coordinate systems: 1) The radial-fiber-crossfiber coordinate system, which is based on the fiber direction within the myocardial tissue and thus, requires a precise knowledge of fiber orientation angles [<xref ref-type="bibr" rid="B24">24</xref>], and 2) the radial-circumferential-longitudinal (RCL) coordinate system. In the later, circumferential strain (<italic>E</italic><sub><italic>CC</italic></sub>) describes circumferential shortening in the short axis plane in a direction tangential to the epicardial surface; radial strain (<italic>E</italic><sub><italic>RR</italic></sub>) describes myocardial thickening in a radial direction towards the center of the ventricle; and, longitudinal strain (<italic>E</italic><sub><italic>LL</italic></sub>) represents base to apical shortening along the ventricular long axis. The RCL coordinate system is based on the cardiac geometry and, thus, is more convenient for clinical purposes [<xref ref-type="bibr" rid="B25">25</xref>].</p>
+          <p>In the RCL coordinate system, <italic>E</italic><sub><italic>CC</italic></sub>, <italic>E</italic><sub><italic>RR</italic></sub>, and <italic>E</italic><sub><italic>LL </italic></sub>represent the normal strain elements of myocardial deformation in 3D space, whereas <italic>E</italic><sub><italic>RC</italic></sub>, <italic>E</italic><sub><italic>RL</italic></sub>, and <italic>E</italic><sub><italic>CL </italic></sub>represent strain changes that occur in a plane between two of these three initially orthogonal normal directions known as shear strains [<xref ref-type="bibr" rid="B26">26</xref>]. The later component, <italic>E</italic><sub><italic>CL</italic></sub>, represents the shear in the circumferential - longitudinal plane and is usually referred to as torsion (Figure <xref ref-type="fig" rid="F3">3</xref>).</p>
+          <fig id="F3" position="float">
+            <label>Figure 3</label>
+            <caption>
+              <p><bold>Schematic diagram demonstrating the three dimensional circumferential - radial - longitudinal (RCL) coordinate system used for strain calculation</bold>. Normal strains (dark solid arrows) are described with respect to the short axis plane: <italic>E</italic><sub><italic>CC </italic></sub>represents circumferential shortening tangential to epicardial surface, <italic>E</italic><sub><italic>RR </italic></sub>represents myocardial thickening radially towards the center of the ventricle and <italic>E</italic><sub><italic>LL </italic></sub>represents basal to apical shortening along the ventricular long axis.<italic>E</italic><sub><italic>RC</italic></sub>, <italic>E</italic><sub><italic>RL </italic></sub>and <italic>E</italic><sub><italic>CL </italic></sub>(dotted and curved arrows) represent change in angle caused by shear. Torsion represents the wringing motion caused by an apical counterclockwise rotation (curved arrow A) and a basal clockwise rotation (curved arrow B) around the ventricular long axis at end systole. Torsional deformation compensates for the opposing vectors in the subepicardium and subendocardium created by opposing myofiber arrangement in both layers.</p>
+            </caption>
+            <graphic xlink:href="1532-429X-11-55-3"/>
+          </fig>
+          <p>Principal strains represent the maximum and minimum deformation occurring at a point in three orthogonal directions irrespective of cardiac geometry 1) <italic>E</italic><sub>1</sub>, referred to as the maximum principal strain, represents the greatest elongation; 2) <italic>E</italic><sub>2</sub>, the minimum principal strain, represents the greatest shortening; and, 3) <italic>E</italic><sub>3 </sub>represents the strain occurring perpendicular to <italic>E</italic><sub>1 </sub>and <italic>E</italic><sub>2 </sub>Principal strains have been used in tagging studies [<xref ref-type="bibr" rid="B27">27</xref>] and have the advantage of representing the complex material deformation state regardless of cardiac geometry and the selected coordinate system. Similarly, the angles between the principal strain directions and the RCL coordinates have also been quantified: <italic>α </italic>represents the angle between <italic>E</italic><sub>2 </sub>and <italic>E</italic><sub><italic>CC</italic></sub>; <italic>β </italic>represents the angle between <italic>E</italic><sub>1 </sub>and <italic>E</italic><sub><italic>RR </italic></sub>[<xref ref-type="bibr" rid="B26">26</xref>].</p>
+        </sec>
+        <sec>
+          <title>Strain Rate</title>
+          <p>Strain rate (SR) represents the time derivative of strain values or, in other words, strain changes per unit time. Strain rate is calculated by taking the change in strain (S) between two time frames and dividing this by the time (t) difference between these two frames:<disp-formula><graphic xlink:href="1532-429X-11-55-i2.gif"/></disp-formula></p>
+          <p>Using strain rate analysis for evaluation of LV diastolic function, Edvardsen et al. [<xref ref-type="bibr" rid="B28">28</xref>], revealed significant reduction of regional diastolic strain rate, reflecting regional diastolic dysfunction, among individuals with asymptomatic LV hypertrophy compared to healthy controls.</p>
+        </sec>
+        <sec>
+          <title>Torsion</title>
+          <p>During the systolic phase of each cardiac cycle, the contracting myofibers exert a wringing motion that assists in ejecting blood from the LV [<xref ref-type="bibr" rid="B24">24</xref>]. This wringing motion, as seen from the apex, is caused by basal clockwise rotation and apical counterclockwise rotation around the ventricular long axis (Figure <xref ref-type="fig" rid="F3">3</xref>). Torsion is directly related to the myofiber orientation and function such that earlier activation of the subendocardial helix in relation to the subepicardial helix, which is activated later in systole, may explain the brief initial rotation observed at the apex [<xref ref-type="bibr" rid="B29">29</xref>]. As well, twisting of the LV is associated with potential energy accumulation that is released during the isovolumetric relaxation phase by untwisting of the subendocardial fibers, thus contributing to diastolic suction [<xref ref-type="bibr" rid="B30">30</xref>,<xref ref-type="bibr" rid="B31">31</xref>]. Using CMR tagging for quantifying torsion in patients with aortic stenosis, Nagel et al. [<xref ref-type="bibr" rid="B32">32</xref>,<xref ref-type="bibr" rid="B33">33</xref>] found patients with severe stenosis to have reduced basal rotation and increased apical rotation during systole, along with delayed and prolonged untwisting during diastole. Thus, alteration in rotation patterns can also be used to discriminate subtle changes in systolic and diastolic dysfunction in the setting of a variety of cardiomyopathic states.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Normal Left Ventricular Strain Patterns</title>
+        <p>Mid wall LV circumferential strain (<italic>E</italic><sub><italic>CC</italic></sub>) is the most frequently computed parameter for quantifying regional function. This particular strain measure is favored, in part, due to myocardial geometry contributing an abundance of tagging data around the mid wall myocardial circumference compared to along the width of radial wall thickness [<xref ref-type="bibr" rid="B34">34</xref>]. This makes <italic>E</italic><sub><italic>CC </italic></sub>data less sensitive to noise and more suitable for assessing the transmural strain gradient. In the normal heart, circumferential strain increases gradually from the base towards the apex. With respect to transverse regions, the greatest shortening is consistently observed in the anterior and lateral myocardial segments with the least deformation seen in the inferior wall. Additionally, <italic>E</italic><sub><italic>CC </italic></sub>is seen to increase from epicardium towards endocardium. [<xref ref-type="bibr" rid="B34">34</xref>-<xref ref-type="bibr" rid="B36">36</xref>].</p>
+        <p>Maximum longitudinal LV strain (<italic>E</italic><sub><italic>LL</italic></sub>) has also been measured in multiple studies [<xref ref-type="bibr" rid="B34">34</xref>-<xref ref-type="bibr" rid="B36">36</xref>] and is consistently greater at the apex compared to the base. This is contrary to longitudinal displacement, which is reportedly higher at the base, indicating greater basal translation caused by apical and mid ventricular pull during systole [<xref ref-type="bibr" rid="B24">24</xref>]. Similar to <italic>E</italic><sub><italic>CC</italic></sub>, <italic>E</italic><sub><italic>LL </italic></sub>shows a transmural pattern that increases from epicardium to endocardium. Maximum radial strain (<italic>E</italic><sub><italic>RR</italic></sub>), on the other hand, shows a degree of disparity in its reported values with no consistent pattern across different studies [<xref ref-type="bibr" rid="B34">34</xref>]. Young et al. [<xref ref-type="bibr" rid="B36">36</xref>] reported higher <italic>E</italic><sub><italic>RR </italic></sub>at the base particularly at the lateral segment, whereas Moore et al. [<xref ref-type="bibr" rid="B34">34</xref>] reported <italic>E</italic><sub><italic>RR </italic></sub>increasing from base to apex. However, endocardial <italic>E</italic><sub><italic>RR </italic></sub>was consistently higher than epicardial <italic>E</italic><sub><italic>RR </italic></sub>Congruent with the general pattern of almost all other measures, maximum torsion angle also increases across the LV wall from epicardium towards the endocardium as well as from the base toward the apex in the normal heart.</p>
+        <p>With respect to the regional timing of myocardial contraction, Zwanenburg et al. [<xref ref-type="bibr" rid="B37">37</xref>] used high temporal resolution (14 ms) CMR tagging to examine spatial patterns of circumferential systolic shortening during the cardiac cycle. They observed the earliest onset of circumferential systolic shortening in the lateral wall and the latest onset in the septum. Conversely, peak systolic shortening was reached earlier in the septum compared to the lateral wall. When applying the same technique to assess both diseased and healthy myocardium, no consistent pattern of contraction propagation was detected in ischemic compared to normal subjects [<xref ref-type="bibr" rid="B38">38</xref>].</p>
+        <p>When referring to expected normal patterns of regional myocardial deformation, consideration should always be made for the effects of aging. Fonseca et al. [<xref ref-type="bibr" rid="B39">39</xref>] and Oxenham et al. [<xref ref-type="bibr" rid="B40">40</xref>] observed that aging was associated with little change in peak circumferential or longitudinal shortening. However, they noted relatively prolonged time to peak shortening in older compared to younger subjects. Interestingly, older age groups, compared to younger subjects, also demonstrated higher peak rotation that persisted for longer. As well, aging related diastolic dysfunction was evident in the form of reduced peak rate of relaxation of <italic>E</italic><sub><italic>CC </italic></sub>and <italic>E</italic><sub><italic>LL </italic></sub>(<italic>p </italic>&lt; 0.001 for both). Using 2D displacement data from tagging to examine differences in the transmural distribution of myocardial shortening, Lumens et al. [<xref ref-type="bibr" rid="B41">41</xref>] further observed loss of contractile myofiber function in the subendocardium relative to the subepicardium among asymptomatic, aged subjects.</p>
+      </sec>
+      <sec>
+        <title>Coronary Artery Disease</title>
+        <p>Many individuals with underlying coronary artery disease are asymptomatic and go unnoticed before they present with major coronary events. Since atherosclerosis is the most important primary etiologic factor predisposing to the development of HF, the Multi-ethnic Study of Atherosclerosis (MESA) was initiated in 2000 to investigate the prevalence, correlates, and progression of subclinical cardiovascular disease in a community-based population of 6,500 men and women of different racial/ethnic backgrounds. Harmonic phase analysis of myocardial tagged images proved highly reproducible in MESA for detecting silent myocardial dysfunction in asymptomatic populations [<xref ref-type="bibr" rid="B42">42</xref>]. Using CMR tagging, investigators studied the relationship between regional LV function and traditional risk factors for atherosclerosis, such as hypertension and smoking. Increased diastolic blood pressure and smoking were associated with lower <italic>E</italic><sub><italic>CC </italic></sub>in the left anterior descending and right coronary territories, with dose dependent effect seen between LV function and smoking [<xref ref-type="bibr" rid="B43">43</xref>]. With respect to the structural changes associated with long-standing hypertension, in particular, asymptomatic MESA individuals with LV hypertrophy had reduced early diastolic regional function, quantified using diastolic strain rate (<italic>p </italic>&lt; 0.001). This finding remained significant even in the setting of preserved regional systolic function [<xref ref-type="bibr" rid="B28">28</xref>], supporting the concept of hypertensive heart disease and diastolic dysfunction as potential precursors to clinical HF.</p>
+        <p>Beyond their association with cardiovascular risk factors, changes in regional myocardial function also correlated with more specific markers of subclinical atherosclerosis in MESA. Coronary artery calcification burden, quantified by computed tomography, was related to reduced regional <italic>E</italic><sub><italic>CC </italic></sub>and its strain rate in the corresponding coronary territory, suggesting a link between coronary atherosclerosis and incipient regional dysfunction [<xref ref-type="bibr" rid="B44">44</xref>]. Increased carotid wall stiffness and intima-media thickness (IMT) were also strongly related with reduced systolic and diastolic regional function (<italic>E</italic><sub><italic>CC</italic></sub>) among individuals free of known cardiovascular disease [<xref ref-type="bibr" rid="B45">45</xref>,<xref ref-type="bibr" rid="B46">46</xref>]. In particular, Fernandes et al. [<xref ref-type="bibr" rid="B46">46</xref>] showed that increased IMT was related to less circumferential shortening in all myocardial regions (<italic>p </italic>&lt; 0.05) except in the inferior wall. In addition, greater IMT was associated with a lower diastolic strain rate, representing reduced diastolic function, in all regions (<italic>p </italic>&lt; 0.01) except the anterior wall.</p>
+      </sec>
+      <sec>
+        <title>Myocardial Ischemia</title>
+        <p>Given the strong association between regional myocardial dysfunction and markers of prevalent coronary disease, multiple studies have used tagging to further explore its relation with myocardial ischemia. Rosen et al. [<xref ref-type="bibr" rid="B47">47</xref>] examined the relationship between regional coronary perfusion reserve and regional myocardial function in a subset of 74 symptom-free MESA participants who underwent adenosine stress CMR perfusion scans. In this study, reduced coronary perfusion reserve was associated with reduced regional systolic function mainly in the right coronary and left circumflex territories.</p>
+        <p>A particularly useful feature offered by myocardial tagging is its ability to provide a detailed assessment of contractile reserve in the setting of ischemia. Myocardial tagging, either independently or combined with the findings of gadolinium enhanced CMR, can also assess and predict the extent of functional recovery after successful reperfusion of a transmural myocardial infarction [<xref ref-type="bibr" rid="B48">48</xref>,<xref ref-type="bibr" rid="B49">49</xref>]. As well, myocardial CMR tagging is particularly advantageous over plain cine imaging for quantifying contractile reserve in the setting of dobutamine stress CMR. In fact, combining tagging with dobutamine stress for detecting chronic hibernating myocardium yielded a sensitivity of 89% and a specificity of 93% for recovery of segmental function 4-8 weeks after revascularization in 10 patients [<xref ref-type="bibr" rid="B50">50</xref>]. Furthermore, assessing contractile reserve across the myocardial layers is possible with tagging given its superior spatial resolution and higher tissue characterization [<xref ref-type="bibr" rid="B51">51</xref>].</p>
+        <p>When comparing qualitative assessment of myocardial contractile reserve by CMR tissue tagging versus echocardiography, CMR had a similar sensitivity (82% versus 86%) but lower specificity (69% versus 87%). Overall accuracy was 76% for CMR and 85% for echo [<xref ref-type="bibr" rid="B52">52</xref>]. Lower CMR specificity could be attributed to difficulties in cross registration between the two modalities [<xref ref-type="bibr" rid="B53">53</xref>]. In 211 patients with chest pain, Kuijpers et al. [<xref ref-type="bibr" rid="B54">54</xref>] showed that dobutamine CMR with myocardial tagging could detect more angiographically confirmed new wall motion abnormalities (68 patients) than dobutamine CMR without tagging (58 patients). Moreover, myocardial tagging demonstrated better ability to discriminate between patients at risk for major adverse cardiac events and those who were more likely to remain event-free.</p>
+      </sec>
+      <sec>
+        <title>Myocardial Infarction</title>
+        <p>In addition to assessing contractile reserve in the setting of ischemia, myocardial tagging has made it possible for investigators to elucidate the mechanisms related to post-infarct ventricular remodeling. In particular, myocardial tagging is able to define changes in regional function involving the infarcted myocardium versus areas remote from the infarcted myocardium (Figure <xref ref-type="fig" rid="F4">4</xref> and additional file <xref ref-type="supplementary-material" rid="S3">3</xref>). In the acute post-infarct period, alteration and reorientation of principal strains have been observed in both the infarct and remote myocardium in animal models and humans [<xref ref-type="bibr" rid="B55">55</xref>,<xref ref-type="bibr" rid="B56">56</xref>]. Kramer et al. [<xref ref-type="bibr" rid="B57">57</xref>] found reduced circumferential and longitudinal segmental shortening in adjacent compared to remote myocardium, reflecting the probable effect of increased wall stress on LV remodeling. Nagel et al. [<xref ref-type="bibr" rid="B33">33</xref>] studied 18 patients with anterolateral wall infarction and found reduced apical systolic rotation as well as delayed and prolonged diastolic untwisting in these patients compared to healthy controls. Moreover, infarcted myocardium in the setting of microvascular obstruction demonstrated reduced regional systolic circumferential and longitudinal shortening in relation to the extent of obstruction [<xref ref-type="bibr" rid="B58">58</xref>]. Overall, when comparing strain analysis to wall thickening assessment as two different techniques for assessing post-infarcted myocardium, 2D strain quantification was more accurate in discriminating infarct from remote myocardium [<xref ref-type="bibr" rid="B59">59</xref>].</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Myocardial infarction at the infero-septal region of left ventricle (A-D)</bold>. Inversion recovery mid ventricular short axis image (A) demonstrates subendocardial delayed enhancement at the infero-septal region of the left ventricle (white arrow) in the distribution of right coronary artery. Corresponding tagged image and strain analysis curves (B &amp; D) demonstrate reduced <italic>E</italic><sub><italic>CC </italic></sub>at the infarct region (blue curve 1) compared to lateral wall (red curve 2) and adjacent non enhanced myocardium (green curve 3). Color coding (C) of tagged image aids visual assessment of regional dysfunction (dysfunctional infarcted myocardium in green). See additional file <xref ref-type="supplementary-material" rid="S3">3</xref>: Movie 3 for the original data used.</p>
+          </caption>
+          <graphic xlink:href="1532-429X-11-55-4"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Non-Ischemic Cardiomyopathies</title>
+        <p><bold><italic>Non-ischemic dilated cardiomyopathies (DCM) </italic></bold>are characterized by ventricular eccentric remodeling, increased ventricular volume, and globally reduced ventricular function. In a cohort of 13 DCM patients, Young et al. [<xref ref-type="bibr" rid="B60">60</xref>] quantified 3D motion and myocardial strain with the aid of a finite element model. Five of the patients were followed up after LV reduction by partial left ventriculotomy (PLV). In the examined subjects, circumferential and longitudinal systolic lengthening (i.e. reduced systolic function) occurred in the septum whereas the lateral wall demonstrated normal systolic shortening. Increased wall stress may have contributed to this observed heterogeneity of regional function. Post PLV, patients demonstrated significant recovery of their septal function, whereas lateral wall shortening was significantly reduced (<italic>p </italic>&lt; 0.02 pre vs. post). Kanzaki et al. [<xref ref-type="bibr" rid="B61">61</xref>] studied another cohort of 26 DCM subjects and observed that peak systolic torsion was reduced in DCM cases compared to controls at both the base (0.1 ± 2.9° vs. 2.6 ± 1.6°, <italic>p </italic>&lt; 0.05) and apex (-5.9 ± 5.3° vs. -11.2 ± 2.5°, <italic>p </italic>&lt; 0.001), whereas the timing of peak rotation was earlier (66 ± 22 vs. 104 ± 16% systole, <italic>p </italic>&lt; 0.001). Systolic torsion was characterized by a discontinuing counter rotation of the apex with respect to the base before end-systole. In addition, amplitude of peak systolic torsion was impaired in proportion to the degree of LV dysfunction. In a trial to assess cardiac mechanics and clinical outcome of PLV, 24 DCM patients underwent CMR tagging studies before and then 3 and 12 months after PLV. Circumferential LV shortening at three short axis levels was increased at both post-surgical time points. Thus, using these and similar methods, CMR tagging can serve as a useful tool for assessing the efficacy of various surgical as well as non-surgical interventions for DCM [<xref ref-type="bibr" rid="B62">62</xref>].</p>
+        <p><bold><italic>Hypertrophic cardiomyopathy (HCM) </italic></bold>is the most frequently occurring genetic cardiomyopathy responsible for sudden cardiac death in young trained athletes. Underlying histological changes include myofibrillar disarray and abnormal intramural coronary vasculature [<xref ref-type="bibr" rid="B63">63</xref>]. While studying 3D myocardial mechanics in HCM, Young et al. [<xref ref-type="bibr" rid="B36">36</xref>] and Dong et al. [<xref ref-type="bibr" rid="B64">64</xref>] observed reduced 3D regional myocardial shortening but also greater LV torsion in cases compared to controls (19.9 ± 2.4° vs. 14.6 ± 2.7°, <italic>p </italic>&lt; 0.01). Changes in myocardial contractility in the non-hypertrophied regions of HCM have been a subject of controversy. Therefore, to assess regional function in these non-hypertrophied regions, Mishiro et al. [<xref ref-type="bibr" rid="B65">65</xref>] examined 20 patients with asymmetric septal hypertrophy and showed that regional contractility was impaired in both hypertrophied and non-hypertrophied regions. They also observed systolic LV wall asynchrony. Implementing a modified CSPAMM sequence that allows full cardiac cycle data acquisition using the cardiac phase to order reconstruction technique (CAPTOR), Ennis et al. [<xref ref-type="bibr" rid="B66">66</xref>] compared mid wall <italic>E</italic><sub><italic>CC </italic></sub>during systole and diastole in 8 HCM patients and 6 normal volunteers. In HCM patients, total systolic strains were reduced in the septal and inferior regions (<italic>p </italic>&lt; 0.01 for both). On the other hand, early diastolic strain rates were significantly reduced in all regions, indicating slow and impaired filling function in HCM cases relative to controls.</p>
+        <p>Myocardial tagging has also been used to explore the relation of regional dysfunction with areas of abnormal myocardial perfusion in HCM. In a prospective trial including 53 patients, Soler et al. [<xref ref-type="bibr" rid="B67">67</xref>] found good correlation between delayed enhancement areas in hypertrophic cardiomyopathy and perfusion defects (r = 0.5, <italic>p </italic>&lt; 0.01), whereas a weak but significant correlation was detected between delayed enhancement and hypokinetic segments. Recently, Kim et al. [<xref ref-type="bibr" rid="B68">68</xref>] demonstrated impaired circumferential shortening in delayed enhancement areas, where <italic>E</italic><sub><italic>CC </italic></sub>was more substantially reduced in the regions displaying focal nodular enhancement patterns rather than in patchy enhanced regions.</p>
+        <p><bold><italic>Muscular dystrophies </italic></bold>are a group of inherited diseases involving primarily the skeletal muscle leading to degeneration and progressive weakness. Cardiac involvement is not infrequent and can manifest as cardiomyopathy, conduction defects, and sudden death. In a study conducted by Ashford et al. [<xref ref-type="bibr" rid="B69">69</xref>], regional myocardial function was assessed using CMR myocardial tagging in 13 patients with Duchenne muscular dystrophy without clinically apparent heart diseases. Despite preserved LV volumes, ejection fraction, and torsion, these patients manifested reduced basal and mid-ventricular circumferential strain compared to healthy subjects. Thus, CMR with tissue tagging can be used as a sensitive tool for detecting occult myocardial dysfunction related to muscular dystrophies that might otherwise go unnoticed.</p>
+      </sec>
+      <sec>
+        <title>Ventricular Dyssynchrony</title>
+        <p>Cardiac resynchronization therapy (CRT) is the treatment of choice for management of patients with ventricular dyssynchrony [<xref ref-type="bibr" rid="B70">70</xref>]. Despite its overall efficacy, 20-30% of the patients receiving CRT do not show favorable improvement. This has highlighted the need to improve prospective identification of the optimal candidates for such treatment. Current approaches to identifying candidate patients for CRT rely on assessing QRS duration, where QRS prolongation is often an indicator of underlying dyssynchronous ventricular contraction. However, the duration of the QRS interval has been proven inadequate for predicting post-CRT acute and chronic responses to therapy. Therefore, several echocardiographic methods have been proposed to aid in assessing and selecting patients for CRT. Echocardiographic techniques, however, are greatly limited by the operator performance as well as the availability of acoustic windows for transducer placement [<xref ref-type="bibr" rid="B71">71</xref>]. On the other hand, quantitative CMR strain analysis offers a highly reproducible, operator independent, 3D regional myocardial activation analysis that offers a better suited technique for evaluating dyssynchrony. Using CMR strain analysis, the difference in mechanical activation (T<sub>onset</sub>) and time to peak contraction (T<sub>peak</sub>) between the septum and lateral wall can be easily derived from all segments in a given cross section [<xref ref-type="bibr" rid="B37">37</xref>,<xref ref-type="bibr" rid="B38">38</xref>]. Similarly, the variance of strain magnitude can be easily determined for each short axis slice and can be averaged from base to apex [<xref ref-type="bibr" rid="B72">72</xref>]. Moreover, several additional metrics have been derived [<xref ref-type="bibr" rid="B72">72</xref>-<xref ref-type="bibr" rid="B74">74</xref>] and employed to determine the optimal LV pacing region for CRT [<xref ref-type="bibr" rid="B75">75</xref>] and predict the response to therapy. Combining CMR tagging data with delayed enhancement scar quantification further improves predictive accuracy [<xref ref-type="bibr" rid="B76">76</xref>]. Future studies promise to clarify which of these CMR tagging based metrics may offer the most predictive information with respect to benefit from CRT.</p>
+      </sec>
+      <sec>
+        <title>Right Ventricular Tagging</title>
+        <p>Right ventricular (RV) function plays a pivotal prognostic role in a wide variety of diseases involving the heart as well as the lung. Thus, the application of CMR tagging has been extended to include assessments of RV regional function. It should be noted, however, that there are several technical challenges involved in applying CMR tagging analyses to the RV. For example, the very thin wall (&lt;5 mm) of the normal RV offers less than the minimum optimal tag spacing (≥6 mm) and therefore limits the number of tag stripes that would be required for accurate quantification [<xref ref-type="bibr" rid="B77">77</xref>]. Nonetheless, while making attempts to accommodate for this limitation, a number of CMR myocardial tagging studies have been performed on the healthy and diseased RV to investigate patterns of mechanical deformation.</p>
+        <p>In light of the challenges associated with applying CMR tagging to the RV, several novel approaches have been developed. Using measures of percent segmental shortening, Klien et al. [<xref ref-type="bibr" rid="B78">78</xref>] observed that regional RV free wall systolic function increased monotonically from base (12%) to mid (14%) to apical slices (16%). Young et al. [<xref ref-type="bibr" rid="B79">79</xref>] were first to use a finite element model for 3D reconstruction of the in-plane deformations of the RV free wall. Using this model, they were able to quantify all the components of the in-plane strain tensor in the RV free wall. Fayad et al. [<xref ref-type="bibr" rid="B77">77</xref>] then designed a specific breath hold imaging sequence with 1D tag lines for RV tagging acquisition and, thus, were able to characterize the RV regional deformation in 7 patients with pulmonary hypertension and 10 healthy controls. In the normal subjects, regional RV circumferential shortening was non-uniform, with increased shortening observed mainly in the RV free wall progressing from the outflow tract towards the apex. A more complex non-uniform pattern was also noted in the longitudinal direction, where greatest shortening was also seen at the RV out flow tract. In pulmonary hypertension patients, both circumferential and longitudinal shortening were globally reduced with significant reduction observed at the outflow tract. These findings were conjectured as possibly related to increased stress at the RV outflow tract region as it plays a resistive role in preventing transmission of high pressures from the RV free wall to the pulmonary circulation [<xref ref-type="bibr" rid="B80">80</xref>]. Interestingly, Vonk Nordegraaf et al[<xref ref-type="bibr" rid="B81">81</xref>] recently used CMR myocardial tagging to demonstrate interventricular mechanical asynchrony between the RV and LV in pulmonary hypertension patients caused by prolongation of RV systolic contraction due to increased pressure overload (Figure <xref ref-type="fig" rid="F5">5</xref>). Therefore, further developments in analyzing regional function of the RV will likely facilitate more detailed studies of interventricular performance.</p>
+        <fig id="F5" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>Pulmonary Arterial Hypertension (A-C)</bold>. Cine gradient echo short axis image (A) showing right ventricular hypertrophy and systolic flattening of the inter-ventricular septum in a 64 year old patient with pulmonary arterial hypertension. Corresponding tagged image (B) and graph (C) show reduced magnitude and delayed RV free wall peak shortening (red curve 1) compared to the septum (green curve 2) and LV lateral wall (blue curve 3).</p>
+          </caption>
+          <graphic xlink:href="1532-429X-11-55-5"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>In conclusion, CMR tissue tagging is a powerful non-invasive diagnostic tool for quantifying regional systolic and diastolic myocardial function. Owing to the inherent features of CMR tissue characterization and its multiplanar capabilities, CMR tagging is able to reveal previously undetected components of regional myocardial mechanical function and, thus, aid in the early detection and management of a wide range of myocardial disease processes. Moreover, ongoing developments in the technology, imaging techniques, and analytical tools used to implement CMR tagging will likely further advance current capabilities for performing sophisticated analyses of regional myocardial function. As such, myocardial tagging promises to continue to enhance our understanding of the mechanical complexities underlying the function of the normal and pathological heart</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>Dr Nael F. Osman is a founder and shareholder in Diagnosoft Inc. The terms of this arrangement have been approved by the Johns Hopkins University in accordance with its conflict of interest policies.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>MS and SC drafted the initial review article, MS performed the literature search, NO, DB and JL participated in the article organization, editing and final drafting of the manuscript. All authors read and approved the final manuscript.</p>
+    </sec>
+    <sec>
+      <title>List of abbreviations</title>
+      <p>CMR: cardiovascular magnetic resonance; HF: heart failure; SPAMM: spatial modulation of magnetization; CSPAMM: complementary spatial modulation of magnetization; ECG: electrocardiogram; SSFP: steady state free precession; CNR: contrast to noise ratio; SNR: signal to noise ratio; 2D: Two dimensional; 3D: three dimensional; HARP: harmonic Phase; LV: left ventricle; RV: right ventricle; SR: strain rate; MESA: multi-ethnic study of atherosclerosis; IMT: intima-media thickness; PLV: partial left ventriculotomy; DCM: dilated cardiomyopathy; HCM: hypertrophic cardiomyopathy; CRT: cardiac resynchronization therapy.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material content-type="local-data" id="S1">
+        <caption>
+          <title>Additional file 1</title>
+          <p><bold>Movie 1</bold>. Demonstrating myocardial tagging covering the cardiac cycle</p>
+        </caption>
+        <media xlink:href="1532-429X-11-55-S1.MPG" mimetype="text" mime-subtype="plain">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S2">
+        <caption>
+          <title>Additional file 2</title>
+          <p><bold>Movie 2</bold>. Demonstrating color coded strain analysis of the tagged left ventricle using HARP; x-coordinate represents time frames, y-coordinate represents percent circumferential shortening (% Ecc)</p>
+        </caption>
+        <media xlink:href="1532-429X-11-55-S2.MPG" mimetype="text" mime-subtype="plain">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S3">
+        <caption>
+          <title>Additional file 3</title>
+          <p><bold>Movie 3</bold>. Original data used</p>
+        </caption>
+        <media xlink:href="1532-429X-11-55-S3.MPG" mimetype="text" mime-subtype="plain">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="B1">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Rosamond</surname>
+            <given-names>W</given-names>
+          </name>
+          <name>
+            <surname>Flegal</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Furie</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Go</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Greenlund</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Haase</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Hailpern</surname>
+            <given-names>SM</given-names>
+          </name>
+          <name>
+            <surname>Ho</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Howard</surname>
+            <given-names>V</given-names>
+          </name>
+          <name>
+            <surname>Kissela</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Kittner</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Lloyd-Jones</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>McDermott</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Meigs</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Moy</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Nichol</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>O'Donnell</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Roger</surname>
+            <given-names>V</given-names>
+          </name>
+          <name>
+            <surname>Sorlie</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Steinberger</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Thom</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Wilson</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Hong</surname>
+            <given-names>Y</given-names>
+          </name>
+          <article-title>Heart disease and stroke statistics--2008 update: a report from the American Heart Association Statistics Committee and Stroke Statistics Subcommittee</article-title>
+          <source>Circulation</source>
+          <year>2008</year>
+          <volume>117</volume>
+          <issue>4</issue>
+          <fpage>e25</fpage>
+          <lpage>146</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.107.187998</pub-id>
+          <pub-id pub-id-type="pmid">18086926</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="other">
+          <name>
+            <surname>Abidov</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Germano</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Hachamovitch</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Berman</surname>
+            <given-names>DS</given-names>
+          </name>
+          <article-title>Gated SPECT in assessment of regional and global left ventricular function: Major tool of modern nuclear imaging</article-title>
+          <source>Journal of Nuclear Cardiology</source>
+          <volume>13</volume>
+          <issue>2</issue>
+          <fpage>261</fpage>
+          <lpage>279</lpage>
+          <pub-id pub-id-type="pmid">16580963</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Abraham</surname>
+            <given-names>TP</given-names>
+          </name>
+          <name>
+            <surname>Dimaano</surname>
+            <given-names>VL</given-names>
+          </name>
+          <name>
+            <surname>Liang</surname>
+            <given-names>H-Y</given-names>
+          </name>
+          <article-title>Role of Tissue Doppler and Strain Echocardiography in Current Clinical Practice</article-title>
+          <source>Circulation</source>
+          <year>2007</year>
+          <volume>116</volume>
+          <issue>22</issue>
+          <fpage>2597</fpage>
+          <lpage>2609</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.106.647172</pub-id>
+          <pub-id pub-id-type="pmid">18040039</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Amundsen</surname>
+            <given-names>BH</given-names>
+          </name>
+          <name>
+            <surname>Helle-Valle</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Edvardsen</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Torp</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Crosby</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Lyseggen</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Støylen</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Ihlen</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JAC</given-names>
+          </name>
+          <name>
+            <surname>Smiseth</surname>
+            <given-names>OA</given-names>
+          </name>
+          <name>
+            <surname>Slørdahl</surname>
+            <given-names>SA</given-names>
+          </name>
+          <article-title>Noninvasive Myocardial Strain Measurement by Speckle Tracking Echocardiography: Validation Against Sonomicrometry and Tagged Magnetic Resonance Imaging</article-title>
+          <source>Journal of the American College of Cardiology</source>
+          <year>2006</year>
+          <volume>47</volume>
+          <issue>4</issue>
+          <fpage>789</fpage>
+          <lpage>793</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2005.10.040</pub-id>
+          <pub-id pub-id-type="pmid">16487846</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Edvardsen</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Gerber</surname>
+            <given-names>BL</given-names>
+          </name>
+          <name>
+            <surname>Garot</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Smiseth</surname>
+            <given-names>OA</given-names>
+          </name>
+          <article-title>Quantitative assessment of intrinsic regional myocardial deformation by Doppler strain rate echocardiography in humans: validation against three-dimensional tagged magnetic resonance imaging</article-title>
+          <source>Circulation</source>
+          <year>2002</year>
+          <volume>106</volume>
+          <issue>1</issue>
+          <fpage>50</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000019907.77526.75</pub-id>
+          <pub-id pub-id-type="pmid">12093769</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Pan</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Prince</surname>
+            <given-names>JL</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Osman</surname>
+            <given-names>NF</given-names>
+          </name>
+          <article-title>Fast tracking of cardiac motion using 3D-HARP</article-title>
+          <source>IEEE Trans Biomed Eng</source>
+          <year>2005</year>
+          <volume>52</volume>
+          <issue>8</issue>
+          <fpage>1425</fpage>
+          <lpage>1435</lpage>
+          <pub-id pub-id-type="doi">10.1109/TBME.2005.851490</pub-id>
+          <pub-id pub-id-type="pmid">16119238</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Zerhouni</surname>
+            <given-names>EA</given-names>
+          </name>
+          <name>
+            <surname>Parish</surname>
+            <given-names>DM</given-names>
+          </name>
+          <name>
+            <surname>Rogers</surname>
+            <given-names>WJ</given-names>
+          </name>
+          <name>
+            <surname>Yang</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Shapiro</surname>
+            <given-names>EP</given-names>
+          </name>
+          <article-title>Human heart: tagging with MR imaging--a method for noninvasive assessment of myocardial motion</article-title>
+          <source>Radiology</source>
+          <year>1988</year>
+          <volume>169</volume>
+          <issue>1</issue>
+          <fpage>59</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="pmid">3420283</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Pai</surname>
+            <given-names>VM</given-names>
+          </name>
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Advances in MRI tagging techniques for determining regional myocardial strain</article-title>
+          <source>Curr Cardiol Rep</source>
+          <year>2006</year>
+          <volume>8</volume>
+          <issue>1</issue>
+          <fpage>53</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11886-006-0011-4</pub-id>
+          <pub-id pub-id-type="pmid">16507237</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Dougherty</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>MR imaging of motion with spatial modulation of magnetization</article-title>
+          <source>Radiology</source>
+          <year>1989</year>
+          <volume>171</volume>
+          <issue>3</issue>
+          <fpage>841</fpage>
+          <lpage>845</lpage>
+          <pub-id pub-id-type="pmid">2717762</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Zwanenburg</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <name>
+            <surname>Kuijer</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Heethaar</surname>
+            <given-names>RM</given-names>
+          </name>
+          <article-title>Steady-state free precession with myocardial tagging: CSPAMM in a single breathhold</article-title>
+          <source>Magn Reson Med</source>
+          <year>2003</year>
+          <volume>49</volume>
+          <issue>4</issue>
+          <fpage>722</fpage>
+          <lpage>730</lpage>
+          <pub-id pub-id-type="doi">10.1002/mrm.10422</pub-id>
+          <pub-id pub-id-type="pmid">12652544</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Herzka</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Guttman</surname>
+            <given-names>MA</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <article-title>Myocardial tagging with SSFP</article-title>
+          <source>Magn Reson Med</source>
+          <year>2003</year>
+          <volume>49</volume>
+          <issue>2</issue>
+          <fpage>329</fpage>
+          <lpage>340</lpage>
+          <pub-id pub-id-type="doi">10.1002/mrm.10361</pub-id>
+          <pub-id pub-id-type="pmid">12541254</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kramer</surname>
+            <given-names>U</given-names>
+          </name>
+          <name>
+            <surname>Deshpande</surname>
+            <given-names>V</given-names>
+          </name>
+          <name>
+            <surname>Fenchel</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Klumpp</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Laub</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Finn</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Claussen</surname>
+            <given-names>CD</given-names>
+          </name>
+          <name>
+            <surname>Miller</surname>
+            <given-names>S</given-names>
+          </name>
+          <article-title>[Cardiac MR tagging: optimization of sequence parameters and comparison at 1.5 T and 3.0 T in a volunteer study]</article-title>
+          <source>Rofo</source>
+          <year>2006</year>
+          <volume>178</volume>
+          <issue>5</issue>
+          <fpage>515</fpage>
+          <lpage>524</lpage>
+          <pub-id pub-id-type="pmid">16586309</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Sodickson</surname>
+            <given-names>DK</given-names>
+          </name>
+          <name>
+            <surname>Manning</surname>
+            <given-names>WJ</given-names>
+          </name>
+          <article-title>Simultaneous acquisition of spatial harmonics (SMASH): fast imaging with radiofrequency coil arrays</article-title>
+          <source>Magn Reson Med</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <issue>4</issue>
+          <fpage>591</fpage>
+          <lpage>603</lpage>
+          <pub-id pub-id-type="doi">10.1002/mrm.1910380414</pub-id>
+          <pub-id pub-id-type="pmid">9324327</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Pruessmann</surname>
+            <given-names>KP</given-names>
+          </name>
+          <name>
+            <surname>Weiger</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Scheidegger</surname>
+            <given-names>MB</given-names>
+          </name>
+          <name>
+            <surname>Boesiger</surname>
+            <given-names>P</given-names>
+          </name>
+          <article-title>SENSE: sensitivity encoding for fast MRI</article-title>
+          <source>Magn Reson Med</source>
+          <year>1999</year>
+          <volume>42</volume>
+          <issue>5</issue>
+          <fpage>952</fpage>
+          <lpage>962</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1522-2594(199911)42:5&lt;952::AID-MRM16&gt;3.0.CO;2-S</pub-id>
+          <pub-id pub-id-type="pmid">10542355</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Guttman</surname>
+            <given-names>MA</given-names>
+          </name>
+          <name>
+            <surname>Prince</surname>
+            <given-names>JL</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <article-title>Tag and contour detection in tagged MR images of the left ventricle</article-title>
+          <source>IEEE Trans Med Imaging</source>
+          <year>1994</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>74</fpage>
+          <lpage>88</lpage>
+          <pub-id pub-id-type="doi">10.1109/42.276146</pub-id>
+          <pub-id pub-id-type="pmid">18218485</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Goncalves</surname>
+            <given-names>RC</given-names>
+          </name>
+          <name>
+            <surname>Bloomgarden</surname>
+            <given-names>D</given-names>
+          </name>
+          <article-title>Regional heart wall motion: two-dimensional analysis and functional imaging with MR imaging</article-title>
+          <source>Radiology</source>
+          <year>1992</year>
+          <volume>183</volume>
+          <issue>3</issue>
+          <fpage>745</fpage>
+          <lpage>750</lpage>
+          <pub-id pub-id-type="pmid">1584931</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Osman</surname>
+            <given-names>NF</given-names>
+          </name>
+          <name>
+            <surname>Kerwin</surname>
+            <given-names>WS</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <name>
+            <surname>Prince</surname>
+            <given-names>JL</given-names>
+          </name>
+          <article-title>Cardiac motion tracking using CINE harmonic phase (HARP) magnetic resonance imaging</article-title>
+          <source>Magn Reson Med</source>
+          <year>1999</year>
+          <volume>42</volume>
+          <issue>6</issue>
+          <fpage>1048</fpage>
+          <lpage>1060</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1522-2594(199912)42:6&lt;1048::AID-MRM9&gt;3.0.CO;2-M</pub-id>
+          <pub-id pub-id-type="pmid">10571926</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Osman</surname>
+            <given-names>NF</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <name>
+            <surname>Prince</surname>
+            <given-names>JL</given-names>
+          </name>
+          <article-title>Imaging heart motion using harmonic phase MRI</article-title>
+          <source>IEEE Trans Med Imaging</source>
+          <year>2000</year>
+          <volume>19</volume>
+          <issue>3</issue>
+          <fpage>186</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="doi">10.1109/42.845177</pub-id>
+          <pub-id pub-id-type="pmid">10875703</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Osman</surname>
+            <given-names>NF</given-names>
+          </name>
+          <name>
+            <surname>Prince</surname>
+            <given-names>JL</given-names>
+          </name>
+          <article-title>Visualizing myocardial function using HARP MRI</article-title>
+          <source>Phys Med Biol</source>
+          <year>2000</year>
+          <volume>45</volume>
+          <issue>6</issue>
+          <fpage>1665</fpage>
+          <lpage>1682</lpage>
+          <pub-id pub-id-type="doi">10.1088/0031-9155/45/6/318</pub-id>
+          <pub-id pub-id-type="pmid">10870717</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>O'Dell</surname>
+            <given-names>WG</given-names>
+          </name>
+          <name>
+            <surname>Moore</surname>
+            <given-names>CC</given-names>
+          </name>
+          <name>
+            <surname>Hunter</surname>
+            <given-names>WC</given-names>
+          </name>
+          <name>
+            <surname>Zerhouni</surname>
+            <given-names>EA</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <article-title>Three-dimensional myocardial deformations: calculation with displacement field fitting to tagged MR images</article-title>
+          <source>Radiology</source>
+          <year>1995</year>
+          <volume>195</volume>
+          <issue>3</issue>
+          <fpage>829</fpage>
+          <lpage>835</lpage>
+          <pub-id pub-id-type="pmid">7754016</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Denney</surname>
+            <given-names>TS</given-names>
+            <suffix>Jr</suffix>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <article-title>Model-free reconstruction of three-dimensional myocardial strain from planar tagged MR images</article-title>
+          <source>J Magn Reson Imaging</source>
+          <year>1997</year>
+          <volume>7</volume>
+          <issue>5</issue>
+          <fpage>799</fpage>
+          <lpage>810</lpage>
+          <pub-id pub-id-type="doi">10.1002/jmri.1880070506</pub-id>
+          <pub-id pub-id-type="pmid">9307904</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Sampath</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Prince</surname>
+            <given-names>JL</given-names>
+          </name>
+          <article-title>Automatic 3D tracking of cardiac material markers using slice-following and harmonic-phase MRI</article-title>
+          <source>Magn Reson Imaging</source>
+          <year>2007</year>
+          <volume>25</volume>
+          <issue>2</issue>
+          <fpage>197</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.mri.2006.09.033</pub-id>
+          <pub-id pub-id-type="pmid">17275614</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Sengupta</surname>
+            <given-names>PP</given-names>
+          </name>
+          <name>
+            <surname>Korinek</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Belohlavek</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Narula</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Vannan</surname>
+            <given-names>MA</given-names>
+          </name>
+          <name>
+            <surname>Jahangir</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Khandheria</surname>
+            <given-names>BK</given-names>
+          </name>
+          <article-title>Left ventricular structure and function: basic science for cardiac imaging</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2006</year>
+          <volume>48</volume>
+          <issue>10</issue>
+          <fpage>1988</fpage>
+          <lpage>2001</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2006.08.030</pub-id>
+          <pub-id pub-id-type="pmid">17112989</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Petitjean</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Rougon</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Cluzel</surname>
+            <given-names>P</given-names>
+          </name>
+          <article-title>Assessment of myocardial function: a review of quantification methods and results using tagged MRI</article-title>
+          <source>J Cardiovasc Magn Reson</source>
+          <year>2005</year>
+          <volume>7</volume>
+          <issue>2</issue>
+          <fpage>501</fpage>
+          <lpage>516</lpage>
+          <pub-id pub-id-type="doi">10.1081/JCMR-200053610</pub-id>
+          <pub-id pub-id-type="pmid">15881535</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gotte</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>Germans</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Russel</surname>
+            <given-names>IK</given-names>
+          </name>
+          <name>
+            <surname>Zwanenburg</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>van Rossum</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>van Veldhuisen</surname>
+            <given-names>DJ</given-names>
+          </name>
+          <article-title>Myocardial strain and torsion quantified by cardiovascular magnetic resonance tissue tagging: studies in normal and impaired left ventricular function</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2006</year>
+          <volume>48</volume>
+          <issue>10</issue>
+          <fpage>2002</fpage>
+          <lpage>2011</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2006.07.048</pub-id>
+          <pub-id pub-id-type="pmid">17112990</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Castillo</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <article-title>Regional myocardial function: advances in MR imaging and analysis</article-title>
+          <source>Radiographics</source>
+          <year>2003</year>
+          <volume>23</volume>
+          <issue>Spec No</issue>
+          <fpage>S127</fpage>
+          <lpage>140</lpage>
+          <pub-id pub-id-type="doi">10.1148/rg.23si035512</pub-id>
+          <pub-id pub-id-type="pmid">14557507</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Azhari</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Weiss</surname>
+            <given-names>JL</given-names>
+          </name>
+          <name>
+            <surname>Rogers</surname>
+            <given-names>WJ</given-names>
+          </name>
+          <name>
+            <surname>Siu</surname>
+            <given-names>CO</given-names>
+          </name>
+          <name>
+            <surname>Zerhouni</surname>
+            <given-names>EA</given-names>
+          </name>
+          <name>
+            <surname>Shapiro</surname>
+            <given-names>EP</given-names>
+          </name>
+          <article-title>Noninvasive quantification of principal strains in normal canine hearts using tagged MRI images in 3-D</article-title>
+          <source>Am J Physiol</source>
+          <year>1993</year>
+          <volume>264</volume>
+          <issue>1 Pt 2</issue>
+          <fpage>H205</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="pmid">8430847</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Edvardsen</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Rosen</surname>
+            <given-names>BD</given-names>
+          </name>
+          <name>
+            <surname>Pan</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Jerosch-Herold</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Lai</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Hundley</surname>
+            <given-names>WG</given-names>
+          </name>
+          <name>
+            <surname>Sinha</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Kronmal</surname>
+            <given-names>RA</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Regional diastolic dysfunction in individuals with left ventricular hypertrophy measured by tagged magnetic resonance imaging--the Multi-Ethnic Study of Atherosclerosis (MESA)</article-title>
+          <source>Am Heart J</source>
+          <year>2006</year>
+          <volume>151</volume>
+          <issue>1</issue>
+          <fpage>109</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ahj.2005.02.018</pub-id>
+          <pub-id pub-id-type="pmid">16368301</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Burns</surname>
+            <given-names>AT</given-names>
+          </name>
+          <name>
+            <surname>McDonald</surname>
+            <given-names>IG</given-names>
+          </name>
+          <name>
+            <surname>Thomas</surname>
+            <given-names>JD</given-names>
+          </name>
+          <name>
+            <surname>Macisaac</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Prior</surname>
+            <given-names>D</given-names>
+          </name>
+          <article-title>Doin' the twist: new tools for an old concept of myocardial function</article-title>
+          <source>Heart</source>
+          <year>2008</year>
+          <volume>94</volume>
+          <issue>8</issue>
+          <fpage>978</fpage>
+          <lpage>983</lpage>
+          <pub-id pub-id-type="doi">10.1136/hrt.2007.120410</pub-id>
+          <pub-id pub-id-type="pmid">18625792</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lorenz</surname>
+            <given-names>CH</given-names>
+          </name>
+          <name>
+            <surname>Pastorek</surname>
+            <given-names>JS</given-names>
+          </name>
+          <name>
+            <surname>Bundy</surname>
+            <given-names>JM</given-names>
+          </name>
+          <article-title>Delineation of normal human left ventricular twist throughout systole by tagged cine magnetic resonance imaging</article-title>
+          <source>J Cardiovasc Magn Reson</source>
+          <year>2000</year>
+          <volume>2</volume>
+          <issue>2</issue>
+          <fpage>97</fpage>
+          <lpage>108</lpage>
+          <pub-id pub-id-type="doi">10.3109/10976640009148678</pub-id>
+          <pub-id pub-id-type="pmid">11545133</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Dong</surname>
+            <given-names>S-J</given-names>
+          </name>
+          <name>
+            <surname>Hees</surname>
+            <given-names>PS</given-names>
+          </name>
+          <name>
+            <surname>Siu</surname>
+            <given-names>CO</given-names>
+          </name>
+          <name>
+            <surname>Weiss</surname>
+            <given-names>JL</given-names>
+          </name>
+          <name>
+            <surname>Shapiro</surname>
+            <given-names>EP</given-names>
+          </name>
+          <article-title>MRI assessment of LV relaxation by untwisting rate: a new isovolumic phase measure of tau</article-title>
+          <source>Am J Physiol Heart Circ Physiol</source>
+          <year>2001</year>
+          <volume>281</volume>
+          <issue>5</issue>
+          <fpage>H2002</fpage>
+          <lpage>2009</lpage>
+          <pub-id pub-id-type="pmid">11668061</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Nagel</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Stuber</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Burkhard</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Fischer</surname>
+            <given-names>SE</given-names>
+          </name>
+          <name>
+            <surname>Scheidegger</surname>
+            <given-names>MB</given-names>
+          </name>
+          <name>
+            <surname>Boesiger</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Hess</surname>
+            <given-names>OM</given-names>
+          </name>
+          <article-title>Cardiac rotation and relaxation in patients with aortic valve stenosis</article-title>
+          <source>Eur Heart J</source>
+          <year>2000</year>
+          <volume>21</volume>
+          <issue>7</issue>
+          <fpage>582</fpage>
+          <lpage>589</lpage>
+          <pub-id pub-id-type="doi">10.1053/euhj.1999.1736</pub-id>
+          <pub-id pub-id-type="pmid">10775013</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Nagel</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Stuber</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Lakatos</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Scheidegger</surname>
+            <given-names>MB</given-names>
+          </name>
+          <name>
+            <surname>Boesiger</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Hess</surname>
+            <given-names>OM</given-names>
+          </name>
+          <article-title>Cardiac rotation and relaxation after anterolateral myocardial infarction</article-title>
+          <source>Coron Artery Dis</source>
+          <year>2000</year>
+          <volume>11</volume>
+          <issue>3</issue>
+          <fpage>261</fpage>
+          <lpage>267</lpage>
+          <pub-id pub-id-type="doi">10.1097/00019501-200005000-00009</pub-id>
+          <pub-id pub-id-type="pmid">10832560</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Moore</surname>
+            <given-names>CC</given-names>
+          </name>
+          <name>
+            <surname>Lugo-Olivieri</surname>
+            <given-names>CH</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <name>
+            <surname>Zerhouni</surname>
+            <given-names>EA</given-names>
+          </name>
+          <article-title>Three-dimensional systolic strain patterns in the normal human left ventricle: characterization with tagged MR imaging</article-title>
+          <source>Radiology</source>
+          <year>2000</year>
+          <volume>214</volume>
+          <issue>2</issue>
+          <fpage>453</fpage>
+          <lpage>466</lpage>
+          <pub-id pub-id-type="pmid">10671594</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kuijer</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Gotte</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>van Rossum</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Heethaar</surname>
+            <given-names>RM</given-names>
+          </name>
+          <article-title>Three-dimensional myocardial strains at end-systole and during diastole in the left ventricle of normal humans</article-title>
+          <source>J Cardiovasc Magn Reson</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <issue>3</issue>
+          <fpage>341</fpage>
+          <lpage>351</lpage>
+          <pub-id pub-id-type="doi">10.1081/JCMR-120013299</pub-id>
+          <pub-id pub-id-type="pmid">12234105</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <name>
+            <surname>Kramer</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Ferrari</surname>
+            <given-names>VA</given-names>
+          </name>
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Reichek</surname>
+            <given-names>N</given-names>
+          </name>
+          <article-title>Three-dimensional left ventricular deformation in hypertrophic cardiomyopathy</article-title>
+          <source>Circulation</source>
+          <year>1994</year>
+          <volume>90</volume>
+          <issue>2</issue>
+          <fpage>854</fpage>
+          <lpage>867</lpage>
+          <pub-id pub-id-type="pmid">8044957</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Zwanenburg</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <name>
+            <surname>Gotte</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>Kuijer</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Heethaar</surname>
+            <given-names>RM</given-names>
+          </name>
+          <name>
+            <surname>van Rossum</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <article-title>Timing of cardiac contraction in humans mapped by high-temporal-resolution MRI tagging: early onset and late peak of shortening in lateral wall</article-title>
+          <source>Am J Physiol Heart Circ Physiol</source>
+          <year>2004</year>
+          <volume>286</volume>
+          <issue>5</issue>
+          <fpage>H1872</fpage>
+          <lpage>1880</lpage>
+          <pub-id pub-id-type="doi">10.1152/ajpheart.01047.2003</pub-id>
+          <pub-id pub-id-type="pmid">14726304</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Zwanenburg</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <name>
+            <surname>Gotte</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Kuijer</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Knaapen</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Heethaar</surname>
+            <given-names>RM</given-names>
+          </name>
+          <name>
+            <surname>van Rossum</surname>
+            <given-names>AC</given-names>
+          </name>
+          <article-title>Propagation of onset and peak time of myocardial shortening in time of myocardial shortening in ischemic versus nonischemic cardiomyopathy: assessment by magnetic resonance imaging myocardial tagging</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <issue>12</issue>
+          <fpage>2215</fpage>
+          <lpage>2222</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2005.08.047</pub-id>
+          <pub-id pub-id-type="pmid">16360049</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Fonseca</surname>
+            <given-names>CG</given-names>
+          </name>
+          <name>
+            <surname>Oxenham</surname>
+            <given-names>HC</given-names>
+          </name>
+          <name>
+            <surname>Cowan</surname>
+            <given-names>BR</given-names>
+          </name>
+          <name>
+            <surname>Occleshaw</surname>
+            <given-names>CJ</given-names>
+          </name>
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <article-title>Aging alters patterns of regional nonuniformity in LV strain relaxation: a 3-D MR tissue tagging study</article-title>
+          <source>Am J Physiol Heart Circ Physiol</source>
+          <year>2003</year>
+          <volume>285</volume>
+          <issue>2</issue>
+          <fpage>H621</fpage>
+          <lpage>630</lpage>
+          <pub-id pub-id-type="pmid">12689861</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Oxenham</surname>
+            <given-names>HC</given-names>
+          </name>
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <name>
+            <surname>Cowan</surname>
+            <given-names>BR</given-names>
+          </name>
+          <name>
+            <surname>Gentles</surname>
+            <given-names>TL</given-names>
+          </name>
+          <name>
+            <surname>Occleshaw</surname>
+            <given-names>CJ</given-names>
+          </name>
+          <name>
+            <surname>Fonseca</surname>
+            <given-names>CG</given-names>
+          </name>
+          <name>
+            <surname>Doughty</surname>
+            <given-names>RN</given-names>
+          </name>
+          <name>
+            <surname>Sharpe</surname>
+            <given-names>N</given-names>
+          </name>
+          <article-title>Age-related changes in myocardial relaxation using three-dimensional tagged magnetic resonance imaging</article-title>
+          <source>J Cardiovasc Magn Reson</source>
+          <year>2003</year>
+          <volume>5</volume>
+          <issue>3</issue>
+          <fpage>421</fpage>
+          <lpage>430</lpage>
+          <pub-id pub-id-type="doi">10.1081/JCMR-120022258</pub-id>
+          <pub-id pub-id-type="pmid">12882073</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lumens</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Delhaas</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Arts</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Cowan</surname>
+            <given-names>BR</given-names>
+          </name>
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <article-title>Impaired subendocardial contractile myofiber function in asymptomatic aged humans, as detected using MRI</article-title>
+          <source>Am J Physiol Heart Circ Physiol</source>
+          <year>2006</year>
+          <volume>291</volume>
+          <issue>4</issue>
+          <fpage>H1573</fpage>
+          <lpage>1579</lpage>
+          <pub-id pub-id-type="doi">10.1152/ajpheart.00074.2006</pub-id>
+          <pub-id pub-id-type="pmid">16679404</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Castillo</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Osman</surname>
+            <given-names>NF</given-names>
+          </name>
+          <name>
+            <surname>Rosen</surname>
+            <given-names>BD</given-names>
+          </name>
+          <name>
+            <surname>El-Shehaby</surname>
+            <given-names>I</given-names>
+          </name>
+          <name>
+            <surname>Pan</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Jerosch-Herold</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Lai</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Quantitative assessment of regional myocardial function with MR-tagging in a multi-center study: interobserver and intraobserver agreement of fast strain analysis with Harmonic Phase (HARP) MRI</article-title>
+          <source>J Cardiovasc Magn Reson</source>
+          <year>2005</year>
+          <volume>7</volume>
+          <issue>5</issue>
+          <fpage>783</fpage>
+          <lpage>791</lpage>
+          <pub-id pub-id-type="doi">10.1080/10976640500295417</pub-id>
+          <pub-id pub-id-type="pmid">16358393</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Rosen</surname>
+            <given-names>BD</given-names>
+          </name>
+          <name>
+            <surname>Saad</surname>
+            <given-names>MF</given-names>
+          </name>
+          <name>
+            <surname>Shea</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Nasir</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Edvardsen</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Burke</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Jerosch-Herold</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Arnett</surname>
+            <given-names>DK</given-names>
+          </name>
+          <name>
+            <surname>Lai</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Hypertension and smoking are associated with reduced regional left ventricular function in asymptomatic: individuals the Multi-Ethnic Study of Atherosclerosis</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2006</year>
+          <volume>47</volume>
+          <issue>6</issue>
+          <fpage>1150</fpage>
+          <lpage>1158</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2005.08.078</pub-id>
+          <pub-id pub-id-type="pmid">16545644</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Edvardsen</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Detrano</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Rosen</surname>
+            <given-names>BD</given-names>
+          </name>
+          <name>
+            <surname>Carr</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <name>
+            <surname>Liu</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Lai</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Shea</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Pan</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Coronary artery atherosclerosis is related to reduced regional left ventricular function in individuals without history of clinical cardiovascular disease: the Multiethnic Study of Atherosclerosis</article-title>
+          <source>Arterioscler Thromb Vasc Biol</source>
+          <year>2006</year>
+          <volume>26</volume>
+          <issue>1</issue>
+          <fpage>206</fpage>
+          <lpage>211</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.ATV.0000194077.23234.ae</pub-id>
+          <pub-id pub-id-type="pmid">16269666</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Fernandes</surname>
+            <given-names>VR</given-names>
+          </name>
+          <name>
+            <surname>Polak</surname>
+            <given-names>JF</given-names>
+          </name>
+          <name>
+            <surname>Cheng</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Rosen</surname>
+            <given-names>BD</given-names>
+          </name>
+          <name>
+            <surname>Carvalho</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Nasir</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>McClelland</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Hundley</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Pearson</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>O'Leary</surname>
+            <given-names>DH</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Arterial stiffness is associated with regional ventricular systolic and diastolic dysfunction: the Multi-Ethnic Study of Atherosclerosis</article-title>
+          <source>Arterioscler Thromb Vasc Biol</source>
+          <year>2008</year>
+          <volume>28</volume>
+          <issue>1</issue>
+          <fpage>194</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="doi">10.1161/ATVBAHA.107.156950</pub-id>
+          <pub-id pub-id-type="pmid">17962621</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Fernandes</surname>
+            <given-names>VR</given-names>
+          </name>
+          <name>
+            <surname>Polak</surname>
+            <given-names>JF</given-names>
+          </name>
+          <name>
+            <surname>Edvardsen</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Carvalho</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Gomes</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Nasir</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>O'Leary</surname>
+            <given-names>DH</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Subclinical atherosclerosis and incipient regional myocardial dysfunction in asymptomatic individuals: the Multi-Ethnic Study of Atherosclerosis (MESA)</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2006</year>
+          <volume>47</volume>
+          <issue>12</issue>
+          <fpage>2420</fpage>
+          <lpage>2428</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2005.12.075</pub-id>
+          <pub-id pub-id-type="pmid">16781369</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Rosen</surname>
+            <given-names>BD</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Nasir</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Edvardsen</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Folsom</surname>
+            <given-names>AR</given-names>
+          </name>
+          <name>
+            <surname>Lai</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Jerosch-Herold</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Lower myocardial perfusion reserve is associated with decreased regional left ventricular function in asymptomatic participants of the multi-ethnic study of atherosclerosis</article-title>
+          <source>Circulation</source>
+          <year>2006</year>
+          <volume>114</volume>
+          <issue>4</issue>
+          <fpage>289</fpage>
+          <lpage>297</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.105.588525</pub-id>
+          <pub-id pub-id-type="pmid">16847154</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Rogers</surname>
+            <given-names>WJ</given-names>
+            <suffix>Jr</suffix>
+          </name>
+          <name>
+            <surname>Kramer</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Geskin</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Hu</surname>
+            <given-names>YL</given-names>
+          </name>
+          <name>
+            <surname>Theobald</surname>
+            <given-names>TM</given-names>
+          </name>
+          <name>
+            <surname>Vido</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Petruolo</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Reichek</surname>
+            <given-names>N</given-names>
+          </name>
+          <article-title>Early contrast-enhanced MRI predicts late functional recovery after reperfused myocardial infarction</article-title>
+          <source>Circulation</source>
+          <year>1999</year>
+          <volume>99</volume>
+          <issue>6</issue>
+          <fpage>744</fpage>
+          <lpage>750</lpage>
+          <pub-id pub-id-type="pmid">9989958</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gerber</surname>
+            <given-names>BL</given-names>
+          </name>
+          <name>
+            <surname>Garot</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Wu</surname>
+            <given-names>KC</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Accuracy of contrast-enhanced magnetic resonance imaging in predicting improvement of regional myocardial function in patients after acute myocardial infarction</article-title>
+          <source>Circulation</source>
+          <year>2002</year>
+          <volume>106</volume>
+          <issue>9</issue>
+          <fpage>1083</fpage>
+          <lpage>1089</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000027818.15792.1E</pub-id>
+          <pub-id pub-id-type="pmid">12196333</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Sayad</surname>
+            <given-names>DE</given-names>
+          </name>
+          <name>
+            <surname>Willett</surname>
+            <given-names>DL</given-names>
+          </name>
+          <name>
+            <surname>Hundley</surname>
+            <given-names>WG</given-names>
+          </name>
+          <name>
+            <surname>Grayburn</surname>
+            <given-names>PA</given-names>
+          </name>
+          <name>
+            <surname>Peshock</surname>
+            <given-names>RM</given-names>
+          </name>
+          <article-title>Dobutamine magnetic resonance imaging with myocardial tagging quantitatively predicts improvement in regional function after revascularization</article-title>
+          <source>Am J Cardiol</source>
+          <year>1998</year>
+          <volume>82</volume>
+          <issue>9</issue>
+          <fpage>1149</fpage>
+          <lpage>1151</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0002-9149(98)00579-7</pub-id>
+          <pub-id pub-id-type="pmid">9817504</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Geskin</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Kramer</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Rogers</surname>
+            <given-names>WJ</given-names>
+          </name>
+          <name>
+            <surname>Theobald</surname>
+            <given-names>TM</given-names>
+          </name>
+          <name>
+            <surname>Pakstis</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Hu</surname>
+            <given-names>YL</given-names>
+          </name>
+          <name>
+            <surname>Reichek</surname>
+            <given-names>N</given-names>
+          </name>
+          <article-title>Quantitative assessment of myocardial viability after infarction by dobutamine magnetic resonance tagging</article-title>
+          <source>Circulation</source>
+          <year>1998</year>
+          <volume>98</volume>
+          <issue>3</issue>
+          <fpage>217</fpage>
+          <lpage>223</lpage>
+          <pub-id pub-id-type="pmid">9697821</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kramer</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Malkowski</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>Mankad</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Theobald</surname>
+            <given-names>TM</given-names>
+          </name>
+          <name>
+            <surname>Pakstis</surname>
+            <given-names>DL</given-names>
+          </name>
+          <name>
+            <surname>Rogers</surname>
+            <given-names>WJ</given-names>
+            <suffix>Jr</suffix>
+          </name>
+          <article-title>Magnetic resonance tagging and echocardiographic response to dobutamine and functional improvement after reperfused myocardial infarction</article-title>
+          <source>Am Heart J</source>
+          <year>2002</year>
+          <volume>143</volume>
+          <issue>6</issue>
+          <fpage>1046</fpage>
+          <lpage>1051</lpage>
+          <pub-id pub-id-type="doi">10.1067/mhj.2002.122515</pub-id>
+          <pub-id pub-id-type="pmid">12075262</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Wu</surname>
+            <given-names>KC</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Noninvasive imaging of myocardial viability: current techniques and future developments</article-title>
+          <source>Circ Res</source>
+          <year>2003</year>
+          <volume>93</volume>
+          <issue>12</issue>
+          <fpage>1146</fpage>
+          <lpage>1158</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.RES.0000103863.40055.E8</pub-id>
+          <pub-id pub-id-type="pmid">14670830</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kuijpers</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Ho</surname>
+            <given-names>KY</given-names>
+          </name>
+          <name>
+            <surname>van Dijkman</surname>
+            <given-names>PR</given-names>
+          </name>
+          <name>
+            <surname>Vliegenthart</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Oudkerk</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Dobutamine cardiovascular magnetic resonance for the detection of myocardial ischemia with the use of myocardial tagging</article-title>
+          <source>Circulation</source>
+          <year>2003</year>
+          <volume>107</volume>
+          <issue>12</issue>
+          <fpage>1592</fpage>
+          <lpage>1597</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000060544.41744.7C</pub-id>
+          <pub-id pub-id-type="pmid">12668491</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Ferrari</surname>
+            <given-names>VA</given-names>
+          </name>
+          <name>
+            <surname>Reichek</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Kramer</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Palmon</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Llaneras</surname>
+            <given-names>MR</given-names>
+          </name>
+          <name>
+            <surname>Tallant</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Segmental motion and deformation of transmurally infarcted myocardium in acute postinfarct period</article-title>
+          <source>Am J Physiol</source>
+          <year>1995</year>
+          <volume>268</volume>
+          <issue>3 Pt 2</issue>
+          <fpage>H1304</fpage>
+          <lpage>1312</lpage>
+          <pub-id pub-id-type="pmid">7900884</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Gotte</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>Van Rossum</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Kuijer</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Heethaar</surname>
+            <given-names>RM</given-names>
+          </name>
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Visser</surname>
+            <given-names>CA</given-names>
+          </name>
+          <article-title>Myocardial function in infarcted and remote regions early after infarction in man: assessment by magnetic resonance tagging and strain analysis</article-title>
+          <source>Magn Reson Med</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <issue>5</issue>
+          <fpage>803</fpage>
+          <lpage>810</lpage>
+          <pub-id pub-id-type="doi">10.1002/mrm.1910380517</pub-id>
+          <pub-id pub-id-type="pmid">9358455</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kramer</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Reichek</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Ferrari</surname>
+            <given-names>VA</given-names>
+          </name>
+          <name>
+            <surname>Llaneras</surname>
+            <given-names>MR</given-names>
+          </name>
+          <name>
+            <surname>Palmon</surname>
+            <given-names>LC</given-names>
+          </name>
+          <name>
+            <surname>Yeh</surname>
+            <given-names>IT</given-names>
+          </name>
+          <name>
+            <surname>Tallant</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Regional differences in function within noninfarcted myocardium during left ventricular remodeling</article-title>
+          <source>Circulation</source>
+          <year>1993</year>
+          <volume>88</volume>
+          <issue>3</issue>
+          <fpage>1279</fpage>
+          <lpage>1288</lpage>
+          <pub-id pub-id-type="pmid">8353890</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gerber</surname>
+            <given-names>BL</given-names>
+          </name>
+          <name>
+            <surname>Rochitte</surname>
+            <given-names>CE</given-names>
+          </name>
+          <name>
+            <surname>Melin</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Wu</surname>
+            <given-names>KC</given-names>
+          </name>
+          <name>
+            <surname>Becker</surname>
+            <given-names>LC</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <article-title>Microvascular obstruction and left ventricular remodeling early after acute myocardial infarction</article-title>
+          <source>Circulation</source>
+          <year>2000</year>
+          <volume>101</volume>
+          <issue>23</issue>
+          <fpage>2734</fpage>
+          <lpage>2741</lpage>
+          <pub-id pub-id-type="pmid">10851212</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gotte</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>van Rossum</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Twisk</surname>
+            <given-names>JWR</given-names>
+          </name>
+          <name>
+            <surname>Kuijer</surname>
+            <given-names>JPA</given-names>
+          </name>
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Visser</surname>
+            <given-names>CA</given-names>
+          </name>
+          <article-title>Quantification of regional contractile function after infarction: strain analysis superior to wall thickening analysis in discriminating infarct from remote myocardium</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2001</year>
+          <volume>37</volume>
+          <issue>3</issue>
+          <fpage>808</fpage>
+          <lpage>817</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0735-1097(00)01186-4</pub-id>
+          <pub-id pub-id-type="pmid">11693756</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <name>
+            <surname>Dokos</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Powell</surname>
+            <given-names>KA</given-names>
+          </name>
+          <name>
+            <surname>Sturm</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>McCulloch</surname>
+            <given-names>AD</given-names>
+          </name>
+          <name>
+            <surname>Starling</surname>
+            <given-names>RC</given-names>
+          </name>
+          <name>
+            <surname>McCarthy</surname>
+            <given-names>PM</given-names>
+          </name>
+          <name>
+            <surname>White</surname>
+            <given-names>RD</given-names>
+          </name>
+          <article-title>Regional heterogeneity of function in nonischemic dilated cardiomyopathy</article-title>
+          <source>Cardiovasc Res</source>
+          <year>2001</year>
+          <volume>49</volume>
+          <issue>2</issue>
+          <fpage>308</fpage>
+          <lpage>318</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6363(00)00248-0</pub-id>
+          <pub-id pub-id-type="pmid">11164841</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kanzaki</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Nakatani</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Yamada</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Urayama</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Miyatake</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Kitakaze</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Impaired systolic torsion in dilated cardiomyopathy: reversal of apical rotation at mid-systole characterized with magnetic resonance tagging method</article-title>
+          <source>Basic Res Cardiol</source>
+          <year>2006</year>
+          <volume>101</volume>
+          <issue>6</issue>
+          <fpage>465</fpage>
+          <lpage>470</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00395-006-0603-6</pub-id>
+          <pub-id pub-id-type="pmid">16783487</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Setser</surname>
+            <given-names>RM</given-names>
+          </name>
+          <name>
+            <surname>White</surname>
+            <given-names>RD</given-names>
+          </name>
+          <name>
+            <surname>Sturm</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>McCarthy</surname>
+            <given-names>PM</given-names>
+          </name>
+          <name>
+            <surname>Starling</surname>
+            <given-names>RC</given-names>
+          </name>
+          <name>
+            <surname>Young</surname>
+            <given-names>JB</given-names>
+          </name>
+          <name>
+            <surname>Kasper</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Buda</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Obuchowski</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>ML</given-names>
+          </name>
+          <article-title>Noninvasive assessment of cardiac mechanics and clinical outcome after partial left ventriculectomy</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2003</year>
+          <volume>76</volume>
+          <issue>5</issue>
+          <fpage>1576</fpage>
+          <lpage>1585</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0003-4975(03)00976-7</pub-id>
+          <pub-id pub-id-type="pmid">14602289</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Maron</surname>
+            <given-names>BJ</given-names>
+          </name>
+          <article-title>Hypertrophic cardiomyopathy: a systematic review</article-title>
+          <source>JAMA</source>
+          <year>2002</year>
+          <volume>287</volume>
+          <issue>10</issue>
+          <fpage>1308</fpage>
+          <lpage>1320</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.287.10.1308</pub-id>
+          <pub-id pub-id-type="pmid">11886323</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Dong</surname>
+            <given-names>SJ</given-names>
+          </name>
+          <name>
+            <surname>MacGregor</surname>
+            <given-names>JH</given-names>
+          </name>
+          <name>
+            <surname>Crawley</surname>
+            <given-names>AP</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Belenkie</surname>
+            <given-names>I</given-names>
+          </name>
+          <name>
+            <surname>Smith</surname>
+            <given-names>ER</given-names>
+          </name>
+          <name>
+            <surname>Tyberg</surname>
+            <given-names>JV</given-names>
+          </name>
+          <name>
+            <surname>Beyar</surname>
+            <given-names>R</given-names>
+          </name>
+          <article-title>Left ventricular wall thickness and regional systolic function in patients with hypertrophic cardiomyopathy. A three-dimensional tagged magnetic resonance imaging study</article-title>
+          <source>Circulation</source>
+          <year>1994</year>
+          <volume>90</volume>
+          <issue>3</issue>
+          <fpage>1200</fpage>
+          <lpage>1209</lpage>
+          <pub-id pub-id-type="pmid">8087929</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Mishiro</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Oki</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Iuchi</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Tabata</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Yamada</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Abe</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Onose</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Ito</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Nishitani</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Harada</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Taoka</surname>
+            <given-names>Y</given-names>
+          </name>
+          <article-title>Regional left ventricular myocardial contraction abnormalities and asynchrony in patients with hypertrophic cardiomyopathy evaluated by magnetic resonance spatial modulation of magnetization myocardial tagging</article-title>
+          <source>Jpn Circ J</source>
+          <year>1999</year>
+          <volume>63</volume>
+          <issue>6</issue>
+          <fpage>442</fpage>
+          <lpage>446</lpage>
+          <pub-id pub-id-type="doi">10.1253/jcj.63.442</pub-id>
+          <pub-id pub-id-type="pmid">10406583</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Ennis</surname>
+            <given-names>DB</given-names>
+          </name>
+          <name>
+            <surname>Epstein</surname>
+            <given-names>FH</given-names>
+          </name>
+          <name>
+            <surname>Kellman</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Fananapazir</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>ER</given-names>
+          </name>
+          <name>
+            <surname>Arai</surname>
+            <given-names>AE</given-names>
+          </name>
+          <article-title>Assessment of regional systolic and diastolic dysfunction in familial hypertrophic cardiomyopathy using MR tagging</article-title>
+          <source>Magn Reson Med</source>
+          <year>2003</year>
+          <volume>50</volume>
+          <issue>3</issue>
+          <fpage>638</fpage>
+          <lpage>642</lpage>
+          <pub-id pub-id-type="doi">10.1002/mrm.10543</pub-id>
+          <pub-id pub-id-type="pmid">12939774</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Soler</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Rodriguez</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Monserrat</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Mendez</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Martinez</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Magnetic resonance imaging of delayed enhancement in hypertrophic cardiomyopathy: relationship with left ventricular perfusion and contractile function</article-title>
+          <source>J Comput Assist Tomogr</source>
+          <year>2006</year>
+          <volume>30</volume>
+          <issue>3</issue>
+          <fpage>412</fpage>
+          <lpage>420</lpage>
+          <pub-id pub-id-type="doi">10.1097/00004728-200605000-00011</pub-id>
+          <pub-id pub-id-type="pmid">16778615</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kim</surname>
+            <given-names>YJ</given-names>
+          </name>
+          <name>
+            <surname>Choi</surname>
+            <given-names>BW</given-names>
+          </name>
+          <name>
+            <surname>Hur</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Lee</surname>
+            <given-names>HJ</given-names>
+          </name>
+          <name>
+            <surname>Seo</surname>
+            <given-names>JS</given-names>
+          </name>
+          <name>
+            <surname>Kim</surname>
+            <given-names>TH</given-names>
+          </name>
+          <name>
+            <surname>Choe</surname>
+            <given-names>KO</given-names>
+          </name>
+          <name>
+            <surname>Ha</surname>
+            <given-names>JW</given-names>
+          </name>
+          <article-title>Delayed enhancement in hypertrophic cardiomyopathy: comparison with myocardial tagging MRI</article-title>
+          <source>J Magn Reson Imaging</source>
+          <year>2008</year>
+          <volume>27</volume>
+          <issue>5</issue>
+          <fpage>1054</fpage>
+          <lpage>1060</lpage>
+          <pub-id pub-id-type="doi">10.1002/jmri.21366</pub-id>
+          <pub-id pub-id-type="pmid">18425835</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Ashford</surname>
+            <given-names>MW</given-names>
+            <suffix>Jr</suffix>
+          </name>
+          <name>
+            <surname>Liu</surname>
+            <given-names>W</given-names>
+          </name>
+          <name>
+            <surname>Lin</surname>
+            <given-names>SJ</given-names>
+          </name>
+          <name>
+            <surname>Abraszewski</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Caruthers</surname>
+            <given-names>SD</given-names>
+          </name>
+          <name>
+            <surname>Connolly</surname>
+            <given-names>AM</given-names>
+          </name>
+          <name>
+            <surname>Yu</surname>
+            <given-names>X</given-names>
+          </name>
+          <name>
+            <surname>Wickline</surname>
+            <given-names>SA</given-names>
+          </name>
+          <article-title>Occult cardiac contractile dysfunction in dystrophin-deficient children revealed by cardiac magnetic resonance strain imaging</article-title>
+          <source>Circulation</source>
+          <year>2005</year>
+          <volume>112</volume>
+          <issue>16</issue>
+          <fpage>2462</fpage>
+          <lpage>2467</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.104.516716</pub-id>
+          <pub-id pub-id-type="pmid">16216964</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kass</surname>
+            <given-names>DA</given-names>
+          </name>
+          <article-title>Ventricular resynchronization: pathophysiology and identification of responders</article-title>
+          <source>Rev Cardiovasc Med</source>
+          <year>2003</year>
+          <volume>4</volume>
+          <issue>Suppl 2</issue>
+          <fpage>S3</fpage>
+          <lpage>S13</lpage>
+          <pub-id pub-id-type="pmid">12776008</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lardo</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Abraham</surname>
+            <given-names>TP</given-names>
+          </name>
+          <name>
+            <surname>Kass</surname>
+            <given-names>DA</given-names>
+          </name>
+          <article-title>Magnetic resonance imaging assessment of ventricular dyssynchrony: current and emerging concepts</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <issue>12</issue>
+          <fpage>2223</fpage>
+          <lpage>2228</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jacc.2005.09.015</pub-id>
+          <pub-id pub-id-type="pmid">16360050</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Helm</surname>
+            <given-names>RH</given-names>
+          </name>
+          <name>
+            <surname>Leclercq</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Faris</surname>
+            <given-names>OP</given-names>
+          </name>
+          <name>
+            <surname>Ozturk</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Lardo</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Kass</surname>
+            <given-names>DA</given-names>
+          </name>
+          <article-title>Cardiac dyssynchrony analysis using circumferential versus longitudinal strain: implications for assessing cardiac resynchronization</article-title>
+          <source>Circulation</source>
+          <year>2005</year>
+          <volume>111</volume>
+          <issue>21</issue>
+          <fpage>2760</fpage>
+          <lpage>2767</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.104.508457</pub-id>
+          <pub-id pub-id-type="pmid">15911694</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Leclercq</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Faris</surname>
+            <given-names>O</given-names>
+          </name>
+          <name>
+            <surname>Tunin</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Johnson</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Kato</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Evans</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Spinelli</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Halperin</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>McVeigh</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Kass</surname>
+            <given-names>DA</given-names>
+          </name>
+          <article-title>Systolic improvement and mechanical resynchronization does not require electrical synchrony in the dilated failing heart with left bundle-branch block</article-title>
+          <source>Circulation</source>
+          <year>2002</year>
+          <volume>106</volume>
+          <issue>14</issue>
+          <fpage>1760</fpage>
+          <lpage>1763</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000035037.11968.5C</pub-id>
+          <pub-id pub-id-type="pmid">12356626</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B74">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Nelson</surname>
+            <given-names>GS</given-names>
+          </name>
+          <name>
+            <surname>Berger</surname>
+            <given-names>RD</given-names>
+          </name>
+          <name>
+            <surname>Fetics</surname>
+            <given-names>BJ</given-names>
+          </name>
+          <name>
+            <surname>Talbot</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Spinelli</surname>
+            <given-names>JC</given-names>
+          </name>
+          <name>
+            <surname>Hare</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Kass</surname>
+            <given-names>DA</given-names>
+          </name>
+          <article-title>Left ventricular or biventricular pacing improves cardiac function at diminished energy cost in patients with dilated cardiomyopathy and left bundle-branch block</article-title>
+          <source>Circulation</source>
+          <year>2000</year>
+          <volume>102</volume>
+          <issue>25</issue>
+          <fpage>3053</fpage>
+          <lpage>3059</lpage>
+          <pub-id pub-id-type="pmid">11120694</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B75">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Helm</surname>
+            <given-names>RH</given-names>
+          </name>
+          <name>
+            <surname>Byrne</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Helm</surname>
+            <given-names>PA</given-names>
+          </name>
+          <name>
+            <surname>Daya</surname>
+            <given-names>SK</given-names>
+          </name>
+          <name>
+            <surname>Osman</surname>
+            <given-names>NF</given-names>
+          </name>
+          <name>
+            <surname>Tunin</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Halperin</surname>
+            <given-names>HR</given-names>
+          </name>
+          <name>
+            <surname>Berger</surname>
+            <given-names>RD</given-names>
+          </name>
+          <name>
+            <surname>Kass</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lardo</surname>
+            <given-names>AC</given-names>
+          </name>
+          <article-title>Three-dimensional mapping of optimal left ventricular pacing site for cardiac resynchronization</article-title>
+          <source>Circulation</source>
+          <year>2007</year>
+          <volume>115</volume>
+          <issue>8</issue>
+          <fpage>953</fpage>
+          <lpage>961</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.106.643718</pub-id>
+          <pub-id pub-id-type="pmid">17296857</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B76">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Bilchick</surname>
+            <given-names>KC</given-names>
+          </name>
+          <name>
+            <surname>Dimaano</surname>
+            <given-names>V</given-names>
+          </name>
+          <name>
+            <surname>Wu</surname>
+            <given-names>KC</given-names>
+          </name>
+          <name>
+            <surname>Helm</surname>
+            <given-names>RH</given-names>
+          </name>
+          <name>
+            <surname>Weiss</surname>
+            <given-names>RG</given-names>
+          </name>
+          <name>
+            <surname>Lima</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Berger</surname>
+            <given-names>RD</given-names>
+          </name>
+          <name>
+            <surname>Tomaselli</surname>
+            <given-names>GF</given-names>
+          </name>
+          <name>
+            <surname>Bluemke</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Halperin HR Abraham</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Kass</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Lardo</surname>
+            <given-names>AC</given-names>
+          </name>
+          <article-title>Cardiac magnetic resonance assessment of dyssynchrony and myocardial scar predicts function class improvement following cardiac resynchronization therapy</article-title>
+          <source>JACC Cardiovasc Imaging</source>
+          <year>2008</year>
+          <volume>1</volume>
+          <issue>5</issue>
+          <fpage>561</fpage>
+          <lpage>568</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jcmg.2008.04.013</pub-id>
+          <pub-id pub-id-type="pmid">19356481</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B77">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Fayad</surname>
+            <given-names>ZA</given-names>
+          </name>
+          <name>
+            <surname>Ferrari</surname>
+            <given-names>VA</given-names>
+          </name>
+          <name>
+            <surname>Kraitchman</surname>
+            <given-names>DL</given-names>
+          </name>
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <name>
+            <surname>Palevsky</surname>
+            <given-names>HI</given-names>
+          </name>
+          <name>
+            <surname>Bloomgarden</surname>
+            <given-names>DC</given-names>
+          </name>
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Right ventricular regional function using MR tagging: normals versus chronic pulmonary hypertension</article-title>
+          <source>Magn Reson Med</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <issue>1</issue>
+          <fpage>116</fpage>
+          <lpage>123</lpage>
+          <pub-id pub-id-type="doi">10.1002/mrm.1910390118</pub-id>
+          <pub-id pub-id-type="pmid">9438445</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B78">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Klein</surname>
+            <given-names>SS</given-names>
+          </name>
+          <name>
+            <surname>Graham</surname>
+            <given-names>TP</given-names>
+            <suffix>Jr</suffix>
+          </name>
+          <name>
+            <surname>Lorenz</surname>
+            <given-names>CH</given-names>
+          </name>
+          <article-title>Noninvasive delineation of normal right ventricular contractile motion with magnetic resonance imaging myocardial tagging</article-title>
+          <source>Ann Biomed Eng</source>
+          <year>1998</year>
+          <volume>26</volume>
+          <issue>5</issue>
+          <fpage>756</fpage>
+          <lpage>763</lpage>
+          <pub-id pub-id-type="doi">10.1114/1.75</pub-id>
+          <pub-id pub-id-type="pmid">9779947</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B79">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Young</surname>
+            <given-names>AA</given-names>
+          </name>
+          <name>
+            <surname>Fayad</surname>
+            <given-names>ZA</given-names>
+          </name>
+          <name>
+            <surname>Axel</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Right ventricular midwall surface motion and deformation using magnetic resonance tagging</article-title>
+          <source>Am J Physiol</source>
+          <year>1996</year>
+          <volume>271</volume>
+          <issue>6 Pt 2</issue>
+          <fpage>H2677</fpage>
+          <lpage>2688</lpage>
+          <pub-id pub-id-type="pmid">8997331</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B80">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Armour</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Pace</surname>
+            <given-names>JB</given-names>
+          </name>
+          <name>
+            <surname>Randall</surname>
+            <given-names>WC</given-names>
+          </name>
+          <article-title>Interrelationship of architecture and function of the right ventricle</article-title>
+          <source>Am J Physiol</source>
+          <year>1970</year>
+          <volume>218</volume>
+          <issue>1</issue>
+          <fpage>174</fpage>
+          <lpage>179</lpage>
+          <pub-id pub-id-type="pmid">5409871</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B81">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Vonk-Noordegraaf</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Marcus</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Gan</surname>
+            <given-names>CT</given-names>
+          </name>
+          <name>
+            <surname>Boonstra</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Postmus</surname>
+            <given-names>PE</given-names>
+          </name>
+          <article-title>Interventricular mechanical asynchrony due to right ventricular pressure overload in pulmonary hypertension plays an important role in impaired left ventricular filling</article-title>
+          <source>Chest</source>
+          <year>2005</year>
+          <volume>128</volume>
+          <issue>6 Suppl</issue>
+          <fpage>628S</fpage>
+          <lpage>630S</lpage>
+          <pub-id pub-id-type="doi">10.1378/chest.128.6_suppl.628S</pub-id>
+          <pub-id pub-id-type="pmid">16373882</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

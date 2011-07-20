@@ -1,0 +1,3727 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:01Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2789583" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2789583</identifier><datestamp>2009-12-10</datestamp><setSpec>jbb</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Biomed Biotechnol</journal-id>
+      <journal-id journal-id-type="publisher-id">JBB</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Biomedicine and Biotechnology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1110-7243</issn>
+      <issn pub-type="epub">1110-7251</issn>
+      <publisher>
+        <publisher-name>Hindawi Publishing Corporation</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2789583</article-id>
+      <article-id pub-id-type="pmid">20011072</article-id>
+      <article-id pub-id-type="doi">10.1155/2010/568068</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Mysterious Unfoldome: Structureless, Underappreciated, Yet Vital Part of Any Given Proteome</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Uversky</surname>
+            <given-names>Vladimir N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+            <sup>1, 2, 3</sup>
+          </xref>
+          <xref ref-type="aff" rid="I2"/>
+          <xref ref-type="aff" rid="I3"/>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><sup>1</sup>Institute for Intrinsically Disordered Protein Research,  The Center for Computational Biology and Bioinformatics,  Department of Biochemistry and Molecular Biology,  Indiana University School of Medicine,  Indianapolis, IN 46202, USA</aff>
+      <aff id="I2"><sup>2</sup>Institute for Biological Instrumentation,  Russian Academy of Sciences,  142290 Pushchino,  Moscow Region, Russia</aff>
+      <aff id="I3"><sup>3</sup>Molecular Kinetics Inc.,  Indianapolis, IN 46268, USA</aff>
+      <author-notes>
+        <corresp id="cor1">*Vladimir N. Uversky: <email>vuversky@iupui.edu</email></corresp>
+        <fn fn-type="other">
+          <p>Academic Editor: Beatrix M. Ueberheide</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>11</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2010</volume>
+      <elocation-id>568068</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>7</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>9</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2010 Vladimir N. Uversky.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license license-type="open-access">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Contrarily to the general believe, many biologically active proteins lack stable tertiary and/or secondary structure under physiological conditions in vitro. These intrinsically disordered proteins (IDPs) are highly abundant in nature and many of them are associated with various human diseases. The functional repertoire of IDPs complements the functions of ordered proteins. Since IDPs constitute a significant portion of any given proteome, they can be combined in an unfoldome; which is a portion of the proteome including all IDPs (also known as natively unfolded proteins, therefore, unfoldome), and describing their functions, structures, interactions, evolution, and so forth. Amino acid sequence and compositions of IDPs are very different from those of ordered proteins, making possible reliable identification of IDPs at the proteome level by various computational means. Furthermore, IDPs possess a number of unique structural properties and are characterized by a peculiar conformational behavior, including their high stability against low pH and high temperature and their structural indifference toward the unfolding by strong denaturants. These peculiarities were shown to be useful for elaboration of the experimental techniques for the large-scale identification of IDPs in various organisms. Some of the computational and experimental tools for the unfoldome discovery are discussed in this review. 
+</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="section" id="sec1">
+      <title>1. Introducing Unfoldomes and Unfoldomics</title>
+      <p>Proteins are the major components of the living cell. They play crucial roles in the maintenance of life and protein dysfunctions may cause development of various pathological conditions. Although for a very long time it has been believed that the specific functionality of a given protein is predetermined by its unique 3D structure [<xref ref-type="bibr" rid="B1">1</xref>, <xref ref-type="bibr" rid="B2">2</xref>], it is recognized now that the fate of any given polypeptide chain is determined by the peculiarities of its amino acid sequence. In fact, <xref ref-type="fig" rid="fig1">Figure 1 </xref>shows that although many proteins are indeed predisposed to fold into unique structures which evolved to possess unique biological functions, some proteins can misfold either spontaneously or due to the mutations and other genetic alterations, problematic processing or posttranslational modifications, or due to the exposure to harmful environmental conditions. Such misfolding is now considered as a crucial early step in the development of various protein conformation diseases [<xref ref-type="bibr" rid="B3">3</xref>]. Finally, for more than five decades, researchers have been discovering individual proteins that possess no definite ordered 3D structure but still play important biological roles. The discovery rate for such proteins has been increasing continually and has become especially rapid during the last decade [<xref ref-type="bibr" rid="B4">4</xref>]. Such proteins are widely known as intrinsically disordered proteins (IDPs) among other names and are characterized by the lack of a well-defined 3D structure under physiological conditions. The discovery and characterization of these proteins is becoming one of the fastest growing areas of protein science and it is recognized now that many such proteins with no unique structure have important biological functions [<xref ref-type="bibr" rid="B4">4</xref>–<xref ref-type="bibr" rid="B16">16</xref>]. Structural flexibility and plasticity originating from the lack of a definite-ordered 3D structure are believed to represent a major functional advantage for these proteins, enabling them to interact with a broad range of binding partners including other proteins, membranes, nucleic acids, and various small molecules    [<xref ref-type="bibr" rid="B17">17</xref>–<xref ref-type="bibr" rid="B19">19</xref>]. </p>
+      <p>The functions attributed to IDPs were grouped into four broad classes: (1) molecular recognition; (2) molecular assembly; (3) protein modification; and (4) entropic chain activities    [<xref ref-type="bibr" rid="B5">5</xref>, <xref ref-type="bibr" rid="B6">6</xref>]. IDPs are often involved in regulatory/signaling interactions with multiple partners that require high specificity and low affinity [<xref ref-type="bibr" rid="B7">7</xref>, <xref ref-type="bibr" rid="B20">20</xref>]. Some illustrative biological activities of IDPs include regulation of cell division, transcription and translation, signal transduction, protein phosphorylation, storage of small molecules, chaperone action, and regulation of the self-assembly of large multiprotein complexes such as the ribosome    [<xref ref-type="bibr" rid="B4">4</xref>–<xref ref-type="bibr" rid="B10">10</xref>, <xref ref-type="bibr" rid="B13">13</xref>–<xref ref-type="bibr" rid="B16">16</xref>, <xref ref-type="bibr" rid="B20">20</xref>–<xref ref-type="bibr" rid="B27">27</xref>]. The crucial role of IDPs in signaling is further confirmed by the fact that eukaryotic proteomes, with their extensively developed interaction networks, are highly enriched in IDPs, relative to bacteria and archaea (see below,    [<xref ref-type="bibr" rid="B28">28</xref>–<xref ref-type="bibr" rid="B30">30</xref>]). Recently, application of a novel data mining tool to over 200 000 proteins from Swiss-Prot database revealed that many protein functions are associated with long disordered regions    [<xref ref-type="bibr" rid="B13">13</xref>–<xref ref-type="bibr" rid="B15">15</xref>]. In fact, of the 711 Swiss-Prot functional keywords that were associated with at least 20 proteins, 262 were found to be strongly positively correlated with long intrinsically disordered regions (IDRs), whereas 302 were strongly negatively correlated with such regions    [<xref ref-type="bibr" rid="B13">13</xref>–<xref ref-type="bibr" rid="B15">15</xref>]. Therefore, the functional diversity provided by disordered regions complements functions of ordered protein regions.</p>
+      <p>Although unbound IDPs are disordered in solution, they often perform their biological functions by binding to their specific partners. This binding involves a disorder-to-order transition in which IDPs adopt a highly structured conformation upon binding to their biological partners [<xref ref-type="bibr" rid="B31">31</xref>–<xref ref-type="bibr" rid="B38">38</xref>]. In this way, IDPs play diverse roles in regulating the function of their binding partners and in promoting the assembly of supramolecular complexes. Furthermore, because sites within their polypeptide chains are highly accessible, IDPs can undergo extensive posttranslational modifications, such as phosphorylation, acetylation, and/or ubiquitination (sumoylation, etc.), allowing for modulation of their biological activity or function. Intriguingly, IDPs were shown to be highly abundant in various diseases, giving rise to the “disorder in disorders” or D<sup>2</sup> concept which generally summarizes work in this area [<xref ref-type="bibr" rid="B39">39</xref>]. </p>
+      <p>As the number of IDPs and IDRs in various proteomes is very large (e.g., for mammals, ~75% of their signaling proteins are predicted to contain long disordered regions (&gt;30 residues), about half of their total proteins are predicted to contain such long disordered regions, and ~25% of their proteins are predicted to be fully disordered), and because IDPs and IDRs have amazing structural variability and possess a very wide variety of functions, the unfoldome and unfoldomics concepts were recently introduced    [<xref ref-type="bibr" rid="B4">4</xref>, <xref ref-type="bibr" rid="B40">40</xref>, <xref ref-type="bibr" rid="B41">41</xref>]. The use of the suffix “-ome” has a long history while “-omics” is much more recent.  The Oxford English Dictionary (OED) attributes “genome” to Hans Winkler from his 1920 work [<xref ref-type="bibr" rid="B42">42</xref>]. While the OED suggests that “genome” arose as a portmanteau of “gene” and “chromosome,” this does not seem to be supported by literature. Instead, Lederberg and McCray suggest that as a botanist, Winkler must have been familiar with terms such as biome (a biological community), rhizome (a root system), and phyllome (the leaves covering a tree) among others, all of which were in use well before 1920 and all of which signify the collectivity of the units involved [<xref ref-type="bibr" rid="B43">43</xref>]. Thus, “ome” implies the complete set of the objects in question, with genome signifying the set of genes of an organism. By changing the “e” in “-ome” to “-ics,” the new word is created that indicates the scientific study of the “-ome” in question. For example, officially the change of “genome” to “genomics” occurred in 1987, when a journal by this name was founded by Victor Lederberg and McCray [<xref ref-type="bibr" rid="B43">43</xref>]. </p>
+      <p>Many additional conversions from –ome to –omics have subsequently occurred and a large number of “-omes” have been accepted in biology, including but not limited to the following: genome, proteome, interactome, metabolome, transcriptome, diseasome, toxicogenome, nutrigenome, cytome, oncoproteome, epitome, and glycome, and so forth. For a more complete list, the reader is directed to <ext-link ext-link-type="uri" xlink:href="http://omics.org/">http://omics.org/</ext-link>.  </p>
+      <p>Overall, the suffixes –ome and –omics imply a new layer of knowledge, especially when a scientist is dealing with the data produced by the large-scale studies, including the high-throughput experiments and the computational/bioinformatics analyses of the large datasets. The unfoldome and unfoldomics concepts are built on the ideas given above [<xref ref-type="bibr" rid="B44">44</xref>]. Unfoldome is attributed to a portion of proteome which includes a set of IDPs (also known as natively unfolded proteins, therefore, unfoldome). The term unfoldome is also used to cover segments or regions of proteins that remain unfolded in the functional state. Unfoldomics is the field that focuses on the unfoldome. It considers not only the identities of the set of proteins and protein regions in the unfoldome of a given organism but also their functions, structures, interactions, evolution, and so forth [<xref ref-type="bibr" rid="B44">44</xref>]. </p>
+      <p>It is clearly recognized now that the disorderedness is linked to the peculiarities of amino acid sequences, as IDPs/IDRs exhibit low sequence complexity and are generally enriched in polar and charged residues and are depleted of hydrophobic residues (other than proline). These features are consistent with their inability to fold into globular structures and form the basis of computational tools for disorder prediction    [<xref ref-type="bibr" rid="B8">8</xref>, <xref ref-type="bibr" rid="B10">10</xref>, <xref ref-type="bibr" rid="B45">45</xref>–<xref ref-type="bibr" rid="B48">48</xref>]. These same computational tools can also be utilized for the large-scale discovery of IDPs in various proteomes (see below). </p>
+      <p>Being characterized by specific (and somewhat unique) amino acid sequences, IDPs possess a number of very distinctive structural properties that can be implemented for their discovery. This includes but is not limited to sensitivity to proteolysis [<xref ref-type="bibr" rid="B49">49</xref>], aberrant migration during SDS-PAGE [<xref ref-type="bibr" rid="B50">50</xref>], insensitivity to denaturing conditions    [<xref ref-type="bibr" rid="B51">51</xref>], as well as definitive disorder characteristics visualized by CD spectropolarimetry, NMR spectroscopy, small-angle X-ray scattering, hydrodynamic measurement, fluorescence, as well as Raman and infrared spectroscopies    [<xref ref-type="bibr" rid="B52">52</xref>, <xref ref-type="bibr" rid="B53">53</xref>]. Structurally, intrinsically disordered proteins range from completely unstructured polypeptides to extended partially structured forms to compact disordered ensembles containing substantial secondary structure    [<xref ref-type="bibr" rid="B4">4</xref>, <xref ref-type="bibr" rid="B8">8</xref>, <xref ref-type="bibr" rid="B9">9</xref>, <xref ref-type="bibr" rid="B23">23</xref>, <xref ref-type="bibr" rid="B54">54</xref>]. Many proteins contain mixtures of ordered and disordered regions. Extended IDPs are known to possess the atypical conformational behavior (such as “turn out” response to acidic pH and high temperature and insensitivity to high concentrations of strong denaturants), which is determined by the peculiarities of their amino acid sequences and the lack of ordered 3D structure [<xref ref-type="bibr" rid="B55">55</xref>]. These unique structural features of extended IDPs and their specific conformational behavior were shown to be useful in elaboration the experimental techniques for the large-scale identification of these important members of the protein kingdom. Three related methods were introduced: a method based on the finding that many proteins that fail to precipitate during perchloric acid or trichloroacetic acid treatment were IDPs [<xref ref-type="bibr" rid="B40">40</xref>]; a method utilizing the fact that IDPs possessed high resistance toward the aggregation induced by heat treatment    [<xref ref-type="bibr" rid="B40">40</xref>, <xref ref-type="bibr" rid="B56">56</xref>, <xref ref-type="bibr" rid="B57">57</xref>]; and a method based on the heat treatment coupled with a novel 2D gel methodology to identify IDPs in cell extracts [<xref ref-type="bibr" rid="B56">56</xref>]. It is anticipated that these methodologies, combined with highly sensitive mass spectrometry-based techniques, can be used for the detection and functional characterization of IDPs in various proteomes. Some of the computational and experimental tools for the unfoldome discovery are discussed below in more details.</p>
+    </sec>
+    <sec sec-type="section" id="sec2">
+      <title>2. Computational Tools for Uncovering the Unfoldomes</title>
+      <sec sec-type="subsection" id="sec2.1">
+        <title>2.1. Some Basic Principles of Disorder Prediction from Amino Acid Sequence</title>
+        <p>One of the key arguments about the existence and distinctiveness of IDPs came from various computational analyses. Historically, already at the early stages of the field, simple statistical comparisons of amino acid compositions and sequence complexity indicated that disordered and ordered regions are highly different to a significant degree    [<xref ref-type="bibr" rid="B45">45</xref>, <xref ref-type="bibr" rid="B58">58</xref>–<xref ref-type="bibr" rid="B60">60</xref>]. These sequence biases were then exploited to predict disordered regions or wholly disordered proteins with relatively high accuracy and to make crucial estimates about the commonness of disordered proteins in the three kingdoms of life    [<xref ref-type="bibr" rid="B28">28</xref>, <xref ref-type="bibr" rid="B45">45</xref>, <xref ref-type="bibr" rid="B61">61</xref>]. </p>
+        <p>Similar to the “normal” foldable proteins whose correct folding into the rigid biologically active conformation is determined by amino acid sequence, the absence of rigid structure in the “nontraditional” nonfoldable IDPs is encoded in the specific features of their amino acid sequences. In fact, some of the ID proteins have been discovered due their unusual amino acid sequence compositions and the absence of regular structure in these proteins has been explained by the specific features of their amino acid sequences including the presence of numerous uncompensated charged groups (often negative); that is, a large net charge at neutral pH, arising from the extreme pI values in such proteins    [<xref ref-type="bibr" rid="B62">62</xref>–<xref ref-type="bibr" rid="B64">64</xref>], and a low content of hydrophobic amino acid residues    [<xref ref-type="bibr" rid="B62">62</xref>, <xref ref-type="bibr" rid="B64">64</xref>]. Interestingly, the first predictor of intrinsic disorder was developed by R.J.P. Williams based on the abnormally high charge/hydrophobic ratio for the two ID proteins; that is, using the same set of attributes, large net charge and low overall hydrophobicity [<xref ref-type="bibr" rid="B65">65</xref>]. Although this predictor was used to separate just two ID proteins from a small set of ordered proteins, this paper is significant as being the first indication that ID proteins have amino acid compositions that differ substantially from those of proteins with 3D structure. </p>
+        <p>Later, this approach was re-invented in a form of charge-hydropathy plot [<xref ref-type="bibr" rid="B45">45</xref>]. To this end, 275 natively folded and 91 natively unfolded proteins (i.e., proteins which at physiologic conditions have been reported to have the NMR chemical shifts of a random-coil, and/or lack significant ordered secondary structure (as determined by CD or FTIR), and/or show hydrodynamic dimensions close to those typical of an unfolded polypeptide chain) have been assembled from the literature searches. From the comparison of these datasets it has been concluded that the combination of low mean hydrophobicity and relatively high net charge represents an important prerequisite for the absence of compact structure in proteins under physiological conditions. This observation was used to develop a charge-hydropathy (CH) plot method of analysis that distinguishes ordered and disordered proteins based only on their net charges and hydropathy [<xref ref-type="bibr" rid="B45">45</xref>].<xref ref-type="fig" rid="fig2"> Figure 2(a) </xref>represents the original CH-plot and shows that natively unfolded proteins are specifically localized within a unique region of CH phase space. Furthermore, ID and ordered proteins can be separated by a linear boundary, above which a polypeptide chain with a given mean net charge will most probably be unfolded [<xref ref-type="bibr" rid="B45">45</xref>]. From the physical viewpoint, such a combination of low hydrophobicity with high net charge as a prerequisite for intrinsic unfoldedness makes perfect sense: high net charge leads to charge-charge repulsion, and low hydrophobicity means less driving force for protein compaction. In other words, these features are characteristic for ID proteins with the coil-like (or close to coil-like) structures. Obviously, such highly disordered proteins represent only a small subset of the ID protein realm.   </p>
+        <p>More detailed analysis was elaborated to gain additional information on the compositional difference between ordered and ID proteins. Comparison of a nonredundant set of ordered proteins with several datasets of disorder (where proteins were grouped based on different techniques, X-ray crystallography, NMR and CD, used to identify disorder) revealed that disordered regions share at least some common sequence features over many proteins    [<xref ref-type="bibr" rid="B66">66</xref>, <xref ref-type="bibr" rid="B67">67</xref>]. These differences in amino acid compositions are visualized in <xref ref-type="fig" rid="fig2">Figure 2(b)</xref>. Here, the relative content of each amino acid in a given disordered dataset has been expressed as (Disordered–Ordered)/(Ordered). Thus, negative peaks correspond the amino acids in which the disordered segments are depleted compared with the ordered ones, and positive peaks indicate the amino acids in which ID regions are enriched [<xref ref-type="bibr" rid="B8">8</xref>]. The arrangement of the amino acids from least to most flexible was based on the scale established by Vihinen et al. [<xref ref-type="bibr" rid="B68">68</xref>]. This scale was defined by the average residue B-factors of the backbone atoms for 92 unrelated proteins. <xref ref-type="fig" rid="fig2">Figure 2(b) </xref>shows that the disordered proteins are significantly depleted in bulky hydrophobic (Ile, Leu, and Val) and aromatic amino acid residues (Trp, Tyr, and Phe), which would normally form the hydrophobic core of a folded globular protein, and also possess low content of Cys and Asn residues. The depletion of ID protein in Cys is also crucial as this amino acid residue is known to have a significant contribution to the protein conformation stability via the disulfide bond formation or being involved in coordination of different prosthetic groups. These depleted residues, Trp, Tyr, Phe, Ile, Leu, Val, Cys, and Asn were proposed to be called order-promoting amino acids. On the other hand, ID proteins were shown to be substantially enriched in polar, disorder-promoting, amino acids: Ala, Arg, Gly, Gln, Ser, Glu, and Lys and also in the hydrophobic, but structure-braking Pro    [<xref ref-type="bibr" rid="B8">8</xref>, <xref ref-type="bibr" rid="B69">69</xref>, <xref ref-type="bibr" rid="B70">70</xref>]. Note that these biases in the amino acid compositions of ID proteins are also consistent with the low overall hydrophobicity and high net charge characteristic of the natively unfolded proteins [<xref ref-type="bibr" rid="B45">45</xref>]. </p>
+        <p>In addition to amino-acid composition, the disordered segments have also been compared with the ordered ones by various attributes such as hydropathy, net charge, flexibility index, helix propensities, strand propensities, and compositions for groups of amino acids such as W + Y + F (aromaticity). As a result, 265 property-based attribute scales [<xref ref-type="bibr" rid="B69">69</xref>] and more than 6000 composition-based attributes (e.g., all possible combinations having one to four amino acids in the group) have been compared [<xref ref-type="bibr" rid="B71">71</xref>]. It has been established that ten of these attributes, including 14 Å contact number, hydropathy, flexibility, <italic>β</italic>-sheet propensity, coordination number, R + E + S + P, bulkiness, C + F + Y + W, volume, and net charge, provide fairly good discrimination between order and disorder [<xref ref-type="bibr" rid="B8">8</xref>]. Later, it has been shown that not only the sequence compositions of ordered and disordered regions were different but also that disordered regions of various lengths were diverse as well. In particular, four classes of protein regions were compared: (a) low B-factor ordered regions; (b) high B-factor ordered regions; (c) short disordered regions; and (d) long disordered regions [<xref ref-type="bibr" rid="B72">72</xref>]. The four types of regions were shown to have distinct sequence and physicochemical characteristics, with short disordered regions and high B-factor regions being the two closest groups. Furthermore, each of these two groups was closer to the long disordered regions than to the rigid ordered regions. In summary, the analysis of sequence and comparison of their various physicochemical properties indicated that all sets were mutually different [<xref ref-type="bibr" rid="B72">72</xref>]. For example, the short disordered and high B-factor regions were shown to be more negatively charged, while long disordered regions were either positively or negatively charged, but on average nearly neutral [<xref ref-type="bibr" rid="B72">72</xref>].</p>
+        <p>As the amino acid sequences of the IDPs and IDRs differ dramatically from those of the ordered proteins and regions, these amino acid sequence differences were used to develop various predictors of intrinsic disorder. As it has been already mentioned, based on a very small number of proteins, Williams suggested an approach for using amino acid sequence for identifying proteins that form random coils rather than globular structures [<xref ref-type="bibr" rid="B65">65</xref>], but this approach was never carefully tested. Later, the first well-tested predictors of IDPs were independently published    [<xref ref-type="bibr" rid="B45">45</xref>, <xref ref-type="bibr" rid="B58">58</xref>]. </p>
+        <p>Protein disorder is a multifaced phenomenon; that is, disordered proteins, being mobile, flexible, and dynamic, might have very different structural features, which range from collapsed molten globule-like conformation to extended coil-like state. It has been suggested that just as an ordered protein is comprised of different types of secondary structure (<italic>α</italic>-helices, <italic>β</italic>-strands, <italic>β</italic>-turns, 3<sub>10</sub>-helices, and others), ID protein can also be made up of distinguishable types of disorder [<xref ref-type="bibr" rid="B73">73</xref>]. To check this hypothesis, a partitioning algorithm based on the differential prediction accuracies has been developed [<xref ref-type="bibr" rid="B73">73</xref>]. This algorithm used the notion that a specialized predictor built on a given disorder flavor should have significantly higher same-flavor accuracy than other-flavor predictors or than a global predictor applied to the same given flavor. Application of this partitioning algorithm to known disordered proteins identified three distinctive “flavors” of disorder, arbitrarily called V, C, and S [<xref ref-type="bibr" rid="B73">73</xref>]. Importantly, the flavor-specific disordered proteins have been shown to be distinguishable not only by their amino acid compositions but also by disordered sequence locations, and biological functions. Based on these observations, it was proposed that specific flavor-function relationships do exist and thus it is possible (in principle) to identify the functions of disordered regions from their amino acid sequences alone, without any need for specific structural knowledge [<xref ref-type="bibr" rid="B73">73</xref>].</p>
+        <p>Since then, numerous researchers have designed many algorithms to predict disordered proteins utilizing specific biochemical properties and biased amino acid compositions of IDPs. Various prediction ideas and different computing techniques have been utilized. Many of these predictors, including PONDRs    [<xref ref-type="bibr" rid="B58">58</xref>, <xref ref-type="bibr" rid="B70">70</xref>, <xref ref-type="bibr" rid="B74">74</xref>–<xref ref-type="bibr" rid="B77">77</xref>], FoldIndex [<xref ref-type="bibr" rid="B78">78</xref>], GlobPlot [<xref ref-type="bibr" rid="B79">79</xref>], DisEMBL [<xref ref-type="bibr" rid="B80">80</xref>], DISOPRED and DISOPRED2    [<xref ref-type="bibr" rid="B29">29</xref>, <xref ref-type="bibr" rid="B81">81</xref>–<xref ref-type="bibr" rid="B83">83</xref>], IUPred [<xref ref-type="bibr" rid="B84">84</xref>], FoldUnfold [<xref ref-type="bibr" rid="B85">85</xref>], RONN [<xref ref-type="bibr" rid="B86">86</xref>], DisPSSMP [<xref ref-type="bibr" rid="B87">87</xref>], DisPSSMP2 [<xref ref-type="bibr" rid="B88">88</xref>], Spritz [<xref ref-type="bibr" rid="B89">89</xref>], and PrDOS [<xref ref-type="bibr" rid="B90">90</xref>], and so forth, can be accessed via public servers and evaluate intrinsic disorder on a per-residue basis. Since the first predictors were published, more than 50 predictors of disorder have been developed [<xref ref-type="bibr" rid="B91">91</xref>]. </p>
+        <p>It is important to remember that comparing and combining several predictors on an individual protein of interest or on a protein dataset can provide additional insight regarding the predicted disorder if any exists. This is illustrated by a study where two distinct methods for using amino acid sequences to predict which proteins are likely to be mostly disordered, cumulative distribution function (CDF) analysis and charge-hydropathy (CH) plot, have been compared [<xref ref-type="bibr" rid="B30">30</xref>]. CDF is based on the PONDR VLXT predictor, which predicts the order-disorder class for every residue in a protein    [<xref ref-type="bibr" rid="B28">28</xref>, <xref ref-type="bibr" rid="B30">30</xref>]. CDF curves for PONDR VLXT predictions begin at the point with coordinates (0,0) and end at the point with coordinates (1,1) because PONDR VLXT predictions are defined only in the range (0,1) with values less than 0.5 indicating a propensity for order and values greater than or equal to 0.5 indicating a propensity for disorder. The optimal boundary that provided the most accurate order-disorder classification was determined and it has been shown that seven boundary points located in the 12th through 18th bin provided the optimal separation of the ordered and disordered protein sets [<xref ref-type="bibr" rid="B30">30</xref>]. For CDF analysis, order-disorder classification is based on whether a CDF curve is above or below a majority of boundary points [<xref ref-type="bibr" rid="B30">30</xref>]. In summary, CDF analysis summarizes the per-residue predictions by plotting PONDR scores against their cumulative frequency, which allows ordered and disordered proteins to be distinguished based on the distribution of prediction scores. The other method of order-disorder classification is charge-hydropathy plots [<xref ref-type="bibr" rid="B45">45</xref>], in which ordered and disordered proteins being plotted in charge-hydropathy space can be separated to a significant degree by a linear boundary. It has been established that CDF analysis predicts a much higher frequency of disorder in sequence databases than CH-plot discrimination [<xref ref-type="bibr" rid="B30">30</xref>]. However, the vast majority of disordered proteins predicted by charge-hydropathy discrimination were also predicted by CDF analysis. These findings are not a big surprise, as CH-plot analysis discriminates protein using only two attributes, mean net charge and mean hydrophobicity, whereas PONDR VLXT (and consequently CDF) is a neural network, which is a nonlinear classifier, trained to distinguish order and disorder based on a relatively large feature space (including average coordination number, amino acid compositions (aromatic and charged residues), and net charge). Thus, CH feature space can be considered as a subset of PONDR VLXT feature space [<xref ref-type="bibr" rid="B30">30</xref>]. Importantly, these findings may be physically interpretable in terms of different types of disorder, collapsed (molten globule-like) and extended (premolten globule- and coil-like). Under this consideration, the CH-plot classification discriminates proteins with the extended disorder from a set of globular conformations (molten globule-like or rigid well-structured proteins) and proteins predicted to be disordered by the CH-plot approach are likely to belong to the extended disorder class. On the other hand, PONDR-based approaches can discriminate all disordered conformations (coil-like, premolten globules, and molten globules) from rigid well-folded proteins, suggesting that CH classification is roughly a subset of PONDR VL-XT, in both predictions of disorder and feature space [<xref ref-type="bibr" rid="B30">30</xref>]. Based on this reasoning, several interesting conclusion have been made. It has been suggested that if a protein is predicted to be disordered by both CH and CDF, then, it is likely to be in the extended disorder class. However, a protein predicted to be disordered by CDF but predicted to be ordered by CH-plot might have properties consistent with a dynamic, collapsed chain; that is, it is likely to be in the native molten globule class. Finally, proteins predicted to be ordered by both algorithms are of course likely to be in the well-structured class [<xref ref-type="bibr" rid="B30">30</xref>].</p>
+      </sec>
+      <sec sec-type="subsection" id="sec2.2">
+        <title>2.2. Estimation of Commonness of Disorder in Various Proteomes</title>
+        <p>The first application of the disorder predictors was the evaluation of the commonness of protein disorder in the Swiss-Prot database [<xref ref-type="bibr" rid="B61">61</xref>]. This analysis revealed that 25% of proteins in Swiss-Prot had predicted ID regions longer than 40 consecutive residues and that at least 11% of residues in Swiss-Prot were likely to be disordered. Given the existence of a few dozen experimentally characterized disordered regions at the time, this work had significant influence on the recognition of the importance of studying disordered proteins [<xref ref-type="bibr" rid="B61">61</xref>].</p>
+        <p>Next, both PONDR VLXT [<xref ref-type="bibr" rid="B28">28</xref>] and 3 Flavor PONDR predictors [<xref ref-type="bibr" rid="B73">73</xref>] were used to estimate the amount of disorder in various genomes. The predictions counted only disordered regions greater than forty residues in length, which has a false-positive rate of fewer than 400 residues out of 100 000. The result clearly showed that disorder increases from bacteria to archaea to eukaryota with over half of the eukaryotic proteins containing predicted disordered regions    [<xref ref-type="bibr" rid="B28">28</xref>, <xref ref-type="bibr" rid="B73">73</xref>]. One explanation for this trend is a change in the cellular requirements for certain protein functions, particularly cellular signaling. In support of this hypothesis, PONDR analysis of a eukaryotic signal protein database indicates that the majority of known signal transduction proteins are predicted to contain significant regions of disorder [<xref ref-type="bibr" rid="B25">25</xref>]. </p>
+        <p>Ward et al. [<xref ref-type="bibr" rid="B29">29</xref>] have refined and systematized such an analysis and concluded that the fraction of proteins containing disordered regions of 30 residues or longer (predicted using DISOPRED) were 2% in archaea, 4% in bacteria, and 33% in eukarya. In addition, a complete functional analysis of the yeast proteome with respect to the three Gene Ontology (GO) categories was performed. In terms of molecular function, transcription, kinase, nucleic acid, and protein-binding activity were the most distinctive signatures of disordered proteins. The most overrepresented GO terms characteristic for the biological process category were transposition, development, morphogenesis, protein phosphorylation, regulation, transcription, and signal transduction. Finally, with respect to cellular component, it appeared that nuclear proteins were significantly enriched in disorder, while terms such as membrane, cytosol, mitochondrion, and cytoplasm were distinctively overrepresented in ordered proteins [<xref ref-type="bibr" rid="B29">29</xref>].</p>
+        <p>Application of the CH-CDF analysis to various proteomes revealed that CDF analysis predicts about 2-fold higher frequency of disorder in sequence databases than CH-plot classification suggesting that approximately half of disordered proteins in different proteomes possess extended disorder, whereas another half represents proteins with the collapsed disorder [<xref ref-type="bibr" rid="B30">30</xref>]. Furthermore, the consensus CDF-CH method showed that approximately 4.5% of <italic>Yersinia pestis</italic>, 5% of <italic>Escherichia coli</italic> K12, 6% of <italic>Archaeoglobus fulgidus</italic>, 8% of <italic>Methanobacterium thermoautotrophicum</italic>, 23% of <italic>Arabidopsis thaliana</italic>, and 28% of <italic>Mus musculus</italic> proteins are wholly disordered [<xref ref-type="bibr" rid="B30">30</xref>]. </p>
+        <p>As mentioned above, the CH-plot, being a linear classifier, takes into account only two parameters of the particular sequence—charge and hydropathy, whereas CDF analysis is dependent upon the output of the PONDR VLXT predictor, a nonlinear neural network classifier, which was trained to distinguish order and disorder based on a significantly larger feature space that explicitly includes net charge and hydropathy [<xref ref-type="bibr" rid="B30">30</xref>]. According to these methodological differences, CH-plot analysis is predisposed to discriminate proteins with substantial amounts of extended disorder (random coils and premolten globules) from proteins with globular conformations (molten globule-like and rigid well-structured proteins). On the other hand, PONDR-based CDF analysis may discriminate all disordered conformations including molten globules from rigid well-folded proteins [<xref ref-type="bibr" rid="B30">30</xref>]. </p>
+        <p>This difference in the sensitivity of predictors to different levels of overall disorderedness was utilized in CDF-CH-plot analysis, which allows the ordered and disordered proteins separation in the CH-CDF phase space [<xref ref-type="bibr" rid="B92">92</xref>]. In this approach, each spot corresponds to a single protein and its coordinates are calculated as a distance of this protein from the boundary in the corresponding CH-plot (Y-coordinate) and an averaged distance of the corresponding CDF curve from the boundary (X-coordinate). Positive and negative Y values correspond to proteins which, according to CH-plot analysis, are predicted to be natively unfolded or compact, respectively. Whereas positive and negative X values are attributed to proteins that, by the CDF analysis, are predicted to be ordered or intrinsically disordered, respectively. Therefore, this plot has four quadrants: (−,−) quadrant, which contains proteins predicted to be disordered by CDF, but compact by CH-plot (i.e., proteins with molten globule-like properties); (−,+) quadrant that includes proteins predicted to be disordered by both methods (i.e., random coils and pre-molten globules); (+,−) quadrant which contains ordered proteins; and (+,+)  quadrant including proteins which are predicted to be disordered by CH-plot, but ordered by the CDF analysis [<xref ref-type="bibr" rid="B92">92</xref>]. Application of such a combined CH-CDF analysis to mice proteins revealed that ~12% mice proteins are likely to belong to the class of extended IDPs (native coils and native premolten globules), whereas ~30% proteins in mouse genome are potential native molten globules. </p>
+        <p>Recently, the disorderedness of genome-linked proteins VPg from various viruses were evaluated by a combined CH-CDF analysis    [<xref ref-type="bibr" rid="B93">93</xref>, <xref ref-type="bibr" rid="B94">94</xref>]. The genome-linked protein VPg of Potato virus A (PVA; genus Potyvirus) has essential functions in all critical steps of PVA infection, that is, replication, movement, and virulence. The structural analysis of the recombinant PVA VPg revealed this protein possesses many properties of a native molten globule [<xref ref-type="bibr" rid="B93">93</xref>]. In a follow-up study, it has been shown that although VPgs from various viruses (from <italic>Sobemovirus, Potyvirus</italic>, and<italic> Caliciviridae</italic> genera) are highly diverse in size, sequence, and function, many of them were predicted to contain long disordered domains [<xref ref-type="bibr" rid="B94">94</xref>].<xref ref-type="fig" rid="fig3"> Figure 3 </xref>summarizes these findings by showing the localization of several VPgs within the CH-CDF phase space. Each spot represents a single VPg whose coordinates were calculated as a distance of this protein from the boundary in the corresponding charge-hydropathy plot (CH-plot, Y-coordinate) and an averaged distance of the corresponding cumulative distribution function (CDF) curve from the boundary (X-coordinate).<xref ref-type="fig" rid="fig3"> Figure 3 </xref>clearly shows that many VPgs are expected to behave as native molten globules [<xref ref-type="bibr" rid="B94">94</xref>]. </p>
+        <p>Several recent reviews summarized the current state of the art in the field of IDP predictions and represent a useful overview of the prediction methods highlighting their advantages and drawbacks    [<xref ref-type="bibr" rid="B46">46</xref>, <xref ref-type="bibr" rid="B91">91</xref>]. Concluding, the considered-above studies clearly showed that IDPs (both collapsed and extended) are highly abundant in nature and can be reliably identified by various computational means.</p>
+      </sec>
+      <sec sec-type="subsection" id="sec2.3">
+        <title>2.3. Discovering the Disease-Related Unfoldomes</title>
+        <p>Misfolding (the failure of a specific peptide or protein to adopt its functional conformational state) and related dysfunction of many proteins were considered as a major cause for the development of different pathological conditions. Such misfolding and dysfunction can originate from point mutation(s) or result from an exposure to internal or external toxins, impaired posttranslational modifications (phosphorylation, advanced glycation, deamidation, racemization, etc.), an increased probability of degradation, impaired trafficking, lost binding partners, or oxidative damage. All these factors can act independently or in association with one another. </p>
+        <p>Although the formation of various aggregates represents the most visible consequence of protein misfolding and although these aggregates form the basis for the development of various protein deposition diseases, pathogenesis of many more human diseases does not depend on aggregation being based on protein dysfunction. As many of the proteins associated with the conformational diseases are also involved in recognition, regulation, and cell signaling, it has been hypothesized that many of them are IDPs. In other words, according to this the “disorder in disorders” or D<sup>2</sup> concept, IDPs are abundantly involved in the development of the conformational diseases, which therefore may originate from the misidentification, misregulation, and missignaling due to the misfolding of causative IDPs [<xref ref-type="bibr" rid="B39">39</xref>]. </p>
+        <p>To support this hypothesis, three approaches were elaborated for estimating the abundance of IDPs in various pathological conditions. The first approach is based on the assembly of specific datasets of proteins associated with a given disease and the computational analysis of these datasets using a number of disorder predictors    [<xref ref-type="bibr" rid="B25">25</xref>, <xref ref-type="bibr" rid="B39">39</xref>, <xref ref-type="bibr" rid="B95">95</xref>, <xref ref-type="bibr" rid="B96">96</xref>]. In essence, this is an analysis of individual proteins extended to a set of independent proteins. A second approach utilized network of genetic diseases where the related proteins are interlinked within one disease and between different diseases [<xref ref-type="bibr" rid="B41">41</xref>]. A third approach is based on the evaluation of the association between a particular protein function (including the disease-specific functional keywords) with the level of intrinsic disorder in a set of proteins known to carry out this function    [<xref ref-type="bibr" rid="B13">13</xref>–<xref ref-type="bibr" rid="B15">15</xref>]. These three approaches are briefly presented below.</p>
+        <p>The easiest way to evaluate the abundance of intrinsic disorder in a given disease is based on a simple two-stage protocol, where a set of disease-related proteins is first assembled by searching various databases and then the collected group of proteins is analyzed for intrinsic disorder. The depth of this analysis is based on the breadth of the search for the disease-related proteins and on the number of different computational tools utilized to find disordered proteins/regions    [<xref ref-type="bibr" rid="B25">25</xref>, <xref ref-type="bibr" rid="B39">39</xref>, <xref ref-type="bibr" rid="B44">44</xref>, <xref ref-type="bibr" rid="B95">95</xref>–<xref ref-type="bibr" rid="B97">97</xref>]. Using this approach, it has been shown that many proteins associated with cancer, neurodegenerative diseases, and cardiovascular disease are highly disordered, being depleted in major order-promoting residues (Trp, Phe, Tyr, Ile, and Val) and enriched in some disorder-promoting residues (Arg, Gln, Ser, Pro, and Glu). High level of intrinsic disorder and a substantial number of potential interaction sites were also found using a set of computational tools. Many proteins were predicted to be wholly disordered. Overall, these studies clearly showed that intrinsic disorder is highly prevalent in proteins associated with human diseases, being comparable with that of signaling proteins and significantly exceeding the levels of intrinsic disorder in eukaryotic and in nonhomologous, structured proteins.  </p>
+        <p>Unfoldome of human genetic diseases was assembled via the analysis of a specific network which was built to estimate whether human genetic diseases and the corresponding disease genes are related to each other at a higher level of cellular and organism organization. This network represented a bipartite graph with a network of genetic diseases, the human disease network (HDN), where two diseases were directly linked if there was a gene that was directly related to both of them, and a network of disease genes, the disease gene network (DGN), where two genes were directly linked if there was a disease to which they were both directly related [<xref ref-type="bibr" rid="B98">98</xref>]. This framework, called the human diseasome, systematically linked the human disease phenome (which includes all the human genetic diseases) with the human disease genome (which contains all the disease-related genes) [<xref ref-type="bibr" rid="B98">98</xref>]. The analysis of HDN revealed that of 1284 genetic diseases, 867 had at least one link to other diseases, and 516 diseases formed a giant component, suggesting that the genetic origins of most diseases, to some extent, were shared with other diseases. In the DGN, 1377 of 1777 disease genes were shown to be connected to other disease genes, and 903 genes belonged to a giant cluster HDN. The vast majority of genes associated with genetic diseases was nonessential and showed no tendency to encode hub proteins (i.e., proteins having multiple interactions) [<xref ref-type="bibr" rid="B98">98</xref>]. The large-scale analysis of the abundance of intrinsic disorder in transcripts of the various disease-related genes was performed using a set of computational tools which uncovers several important features [<xref ref-type="bibr" rid="B41">41</xref>, <xref ref-type="bibr" rid="B44">44</xref>]: (a) intrinsic disorder is common in proteins associated with many human genetic diseases; (b) different disease classes vary in the IDP contents of their associated proteins; (c) molecular recognition features, which are relatively short loosely structured protein regions within mostly disordered sequences and which gain structure upon binding to partners, are common in the diseasome, and their abundance correlates with the intrinsic disorder level; (d) some disease classes have a significant fraction of genes affected by alternative splicing, and the alternatively spliced regions in the corresponding proteins are predicted to be highly disordered and in some diseases contain a significant number of molecular recognition features, MoRFs; (e) correlations were found among the various diseasome graph-related properties and intrinsic disorder. In agreement with earlier studies, hub proteins were shown to be more disordered. </p>
+        <p>Another approach is a computational tool elaborated for the evaluation of a correlation between the functional annotations in the SWISSPROT database and the predicted intrinsic disorder was elaborated    [<xref ref-type="bibr" rid="B13">13</xref>–<xref ref-type="bibr" rid="B15">15</xref>]. The approach is based on the hypothesis that if a function described by a given keyword relies on intrinsic disorder, then the keyword-associated protein would be expected to have a greater level of predicted disorder compared to the protein randomly chosen from the SWISSPROT. To test this hypothesis, functional keywords associated with 20 or more proteins in SWISSPROT were found and corresponding keyword-associated datasets of proteins were assembled. Next, for each such a keyword-associated set, a length-matching set of random proteins was drawn from the SWISSPROT, and order-disorder predictions were carried out for the keyword-associated sets and for the random sets    [<xref ref-type="bibr" rid="B13">13</xref>–<xref ref-type="bibr" rid="B15">15</xref>]. The application of this tool revealed that out of 710 SWISSPROT keywords, 310 functional keywords were associated with ordered proteins, 238 functional keywords were attributed to disordered proteins, and the remainder 162 keywords yield ambiguity in the likely function-structure associations    [<xref ref-type="bibr" rid="B13">13</xref>–<xref ref-type="bibr" rid="B15">15</xref>]. It has been also shown that keywords describing various diseases were strongly correlated with proteins predicted to be disordered. Contrary to this, no disease-associated proteins were found to be strongly correlated with absence of disorder [<xref ref-type="bibr" rid="B14">14</xref>].</p>
+      </sec>
+    </sec>
+    <sec sec-type="section" id="sec3">
+      <title>3. Experimental Tools for the Unfoldome Discovery</title>
+      <sec sec-type="subsection" id="sec3.1">
+        <title>3.1. Enrichment of Cell Extracts in Extended IPDs by Acid Treatment</title>
+        <p>Extended IDPs, being characterized by high percentages of charged residues, do not undergo large-scale structural changes at low pH [<xref ref-type="bibr" rid="B55">55</xref>]. As a result, many of these proteins were shown to remain soluble under these extreme conditions    [<xref ref-type="bibr" rid="B99">99</xref>, <xref ref-type="bibr" rid="B100">100</xref>]. On the contrary, the protonation of negatively charged side chains in ordered proteins is commonly accompanied by protein denaturation or unfolding    [<xref ref-type="bibr" rid="B101">101</xref>–<xref ref-type="bibr" rid="B104">104</xref>]. Unlike IDPs, the acidic pH-induced denatured conformations of structured proteins contain larger number of hydrophobic residues. The pH-induced exposure of these normally buried hydrophobic residues makes “A” states (i.e., partially folded conformations induced by acidic pH) of globular proteins “sticky,” leading to their aggregation and precipitation. </p>
+        <p>Analysis or literature data revealed a set of 29 proteins which do not precipitate during perchloric acid (PCA) or trichloroacetic acid (TCA) treatment of cell extracts and this resistance to PCA or TCA treatment was utilized for their isolation [<xref ref-type="bibr" rid="B40">40</xref>]. However, 14 of these PCA/TCA-soluble proteins were experimentally determined to be totally unstructured, 6 were structured, and 9 had not been structurally characterized, suggesting that at least 50% of the proteins isolated by virtue of their resistance to PCA or TCA could be expected to be totally unstructured [<xref ref-type="bibr" rid="B40">40</xref>]. To gain more information on the abundance of intrinsic disorder in acid-soluble proteins, their sequences were analyzed using two binary predictors of intrinsic disorder, CH-plot [<xref ref-type="bibr" rid="B45">45</xref>] and CDF analysis [<xref ref-type="bibr" rid="B30">30</xref>], both of which perform binary classification of whole proteins as either mostly disordered or mostly ordered, where mostly ordered indicates proteins that contain more ordered residues than disordered residues and mostly disordered indicates proteins that contain more disordered residues than ordered residues. The results of this analysis revealed an excellent correlation between experiment and prediction: the majority of proteins experimentally shown to be structured or unfolded were predicted to be ordered or intrinsically disordered, respectively, by both predictors. Additionally, three of four experimentally uncharacterized proteins were predicted to be wholly disordered by both classifiers. Thus, a combination of experimental and computational approaches suggested that ~70% of acid soluble proteins isolated based on their resistance to PCA or TCA could be expected to be totally unstructured [<xref ref-type="bibr" rid="B40">40</xref>].</p>
+        <p>Based on these observations it was suggested that indifference to acid treatment represents one of the characteristic properties of extended IDPs, which can result in the substantial enrichment of IDPs in the soluble fraction after the acid treatment, and, therefore, can be exploited to develop standard protocols for isolating and studying IDPs on a proteomic scale [<xref ref-type="bibr" rid="B40">40</xref>]. In agreement with this hypothesis, treatment of <italic>E.coli</italic> cell extracts with 1% PCA resulted in a total protein reduction of ~30 000-fold when compared to the total soluble extract, and 3% PCA was sufficient to denature and precipitate all nonresistant proteins because higher PCA concentrations did not result in further yield reductions [<xref ref-type="bibr" rid="B40">40</xref>]. Treatment with 3% TCA resulted in a yield similar to 1% PCA. The acid-soluble fractions from the <italic>E.coli</italic> extracts were visualized using 2D SDS-PAGE, which revealed that a substantial number of <italic>E. coli</italic> proteins were resistant to acid denaturation and concomitant precipitation. In fact, this analysis revealed that 158 proteins remained soluble in the presence of 5% PCA [<xref ref-type="bibr" rid="B40">40</xref>]. This suggests that ~110 of the PCA-soluble proteins could be expected to be totally unstructured (based on the assumption that ~70% acid-stable proteins are totally unstructured, see above). This number compares favorably with the 85 to 196 totally disordered proteins estimated to be present in the <italic>E. coli</italic> proteome [<xref ref-type="bibr" rid="B30">30</xref>]. Therefore, treating total protein extracts with 3–5% PCA or TCA and determining the identities of the soluble proteins could form the basis for uncovering unfoldomes in various organisms.</p>
+      </sec>
+      <sec sec-type="subsection" id="sec3.2">
+        <title>3.2. Enrichment of Cell Extracts in Extended IPDs by Heat Treatment</title>
+        <p>Several IDPs were shown to possess high resistance toward heat denaturation and aggregation. In fact, the solubility and limited secondary structure of extended IDPs, such as p21, p27, <italic>α</italic>-synuclein, prothymosin <italic>α</italic>, and phosphodiesterase <italic>γ</italic> subunit, were virtually unaltered by heating to 90°C [<xref ref-type="bibr" rid="B31">31</xref>, <xref ref-type="bibr" rid="B32">32</xref>, <xref ref-type="bibr" rid="B63">63</xref>, <xref ref-type="bibr" rid="B100">100</xref>, <xref ref-type="bibr" rid="B105">105</xref>–<xref ref-type="bibr" rid="B111">111</xref>]. This resistance to thermal aggregation, which likely originates from the low mean hydrophobicity and high net charge characteristic of extended IDPs, has been utilized for the purification of these proteins    [<xref ref-type="bibr" rid="B63">63</xref>, <xref ref-type="bibr" rid="B112">112</xref>–<xref ref-type="bibr" rid="B115">115</xref>]. The indifference to heat treatment was proposed as an analytical tool for the evaluation of the abundance of extended IDPs in various proteomes    [<xref ref-type="bibr" rid="B30">30</xref>, <xref ref-type="bibr" rid="B57">57</xref>].</p>
+        <p>Recently, the extracts of NIH3T3 mouse fibroblasts were heated at a variety of temperatures and analyzed by SDS−PAGE to determine the extent of protein precipitation under these conditions [<xref ref-type="bibr" rid="B57">57</xref>]. In agreement with previous studies, this analysis revealed that the increase in the incubation temperature was accompanied by the decrease in the amount of soluble proteins. In fact, 375, 388, and 198 proteins (287, 304, and 124 nonredundant proteins) were identified by MALDI-TOF/TOF mass spectrometry from 584, 472, and 269 spots on 2D gels obtained for cell extracts treated at 4, 60, and 98°C, respectively. These nonredundant proteins were further analyzed using a set of bioinformatics tools. In this study, proteins were classified as IDPs (proteins having an average PONDR VLXT score &gt;0.5 and proteins having an average PONDR score of 0.32–0.5 and possessing a high-mean net charge and low-mean hydrophobicity), intrinsically folded proteins (IFPs, proteins having an average PONDR score &lt;0.32), or mixed ordered/disordered proteins (MPs, proteins that did not meet the described above criteria for IUPs or IFPs) [<xref ref-type="bibr" rid="B57">57</xref>]. The analysis clearly showed that heat treatment resulted in an enrichment of IDPs and depletion of MPs and IFPs. In fact, although IDPs comprised only 11.8% of the proteins identified in the untreated cell extract (4°C), their relative population increased to 41.9% after the heat treatment at 98°C. On the other hand, MPs and IFPs, which comprised 42.8 and 45.4% of proteins in the untreated cell extract, were substantially depleted to 27.4 and 30.6%, respectively, after heat treatment at 98°C [<xref ref-type="bibr" rid="B57">57</xref>].</p>
+      </sec>
+      <sec sec-type="subsection" id="sec3.3">
+        <title>3.3. Finding IDPs by the Combination of Native and 8 M Urea Electrophoresis of Heat-Treated Proteins</title>
+        <p>The fact that extended IDPs are characterized by heat stability and structural indifference to chemical denaturation was recently utilized in novel 2-D gel-electrophoresis technique which consists of the combination of native and 8 M urea electrophoresis of heat-treated proteins [<xref ref-type="bibr" rid="B56">56</xref>]. The rationales for this approach are considered below. As discussed above, extended IDPs are often heat-stable as demonstrated for Csd1 [<xref ref-type="bibr" rid="B112">112</xref>], MAP2 [<xref ref-type="bibr" rid="B114">114</xref>], <italic>α</italic>-synuclein    [<xref ref-type="bibr" rid="B63">63</xref>, <xref ref-type="bibr" rid="B107">107</xref>], its familial Parkinson's disease-related mutants    [<xref ref-type="bibr" rid="B108">108</xref>], <italic>β</italic>- and <italic>γ</italic>-synucleins    [<xref ref-type="bibr" rid="B110">110</xref>], stathmin [<xref ref-type="bibr" rid="B113">113</xref>], p21<sup>Cip<italic> </italic>1</sup>   [<xref ref-type="bibr" rid="B31">31</xref>], prothymosin <italic>α</italic> [<xref ref-type="bibr" rid="B100">100</xref>], C-terminal domain of caldesmon [<xref ref-type="bibr" rid="B111">111</xref>], and phosphodiesterase <italic>γ</italic> [<xref ref-type="bibr" rid="B109">109</xref>]. Therefore, heat treatment should lead to a decent initial separation of the extended IDPs from globular proteins, the vast majority of which are known to aggregate and precipitate at high temperatures. In the native gel, IDPs and rare heat-stable globular proteins will then be separated according to their charge/mass ratios. Since the extended IDPs are as unfolded in 8 M urea as under native conditions, they are expected to run the same distance in the second dimension and end up along the diagonal. Heat-stable globular proteins will unfold in urea, slow down in the second direction due to the increased size, and therefore will accumulate above the diagonal (see <xref ref-type="fig" rid="fig4">Figure 4 </xref>for the schematic representation of this technique). This difference in conformational behavior between ordered proteins and IDPs can lead to their effective separation, enabling the IDP identification by mass-spectrometry [<xref ref-type="bibr" rid="B56">56</xref>].</p>
+        <p>The usefulness of this approach has been validated via the analysis of a set of 10 experimentally characterized IDPs (stathmin,  MAP2c, Mypt1-(304–511), ERD10, <italic>α</italic>-casein, <italic>β</italic>-casein, <italic>α</italic>-synuclein, CSD1, Bob-1, and DARPP32) and a set of  4 globular control proteins (fetuin, IPMDH, BSA, ovalbumin) [<xref ref-type="bibr" rid="B56">56</xref>]. The analysis revealed that IDPs ran at, or very near, the diagonal of the second (denaturing) gel, whereas globular proteins remained way above the diagonal, clearly showing that the proposed 2D electrophoresis is able to separate IDPs and globular proteins as predicted [<xref ref-type="bibr" rid="B56">56</xref>].</p>
+        <p>Next, heat-treated extracts of <italic>E. coli</italic> and <italic>S. cerevisiae</italic> were analyzed by this 2D electrophoresis [<xref ref-type="bibr" rid="B56">56</xref>]. This analysis revealed that more <italic>S. cerevisiae</italic> proteins were seen in the diagonal in agreement with predictions that the frequency of protein disorder increases with increasing complexity of the organisms    [<xref ref-type="bibr" rid="B5">5</xref>, <xref ref-type="bibr" rid="B28">28</xref>–<xref ref-type="bibr" rid="B30">30</xref>]. At the next step, some spots at and above the diagonal were identified by mass-spectrometry and the intrinsic disorder propensity of the identified proteins was estimated by PONDR VLXT [<xref ref-type="bibr" rid="B56">56</xref>]. This analysis revealed that the amount of predicted disorder in proteins located at the diagonal positions was very high (52.1 ± 14.1%), noticeably exceeding that of typical IDPs such as <italic>α</italic>-synuclein (37.1%) and <italic>α</italic>-casein (41.15%) [<xref ref-type="bibr" rid="B56">56</xref>]. Although many of the “diagonal” proteins have never been structurally characterized, literature data were available for some of them. The list of such previously characterized IDPs identified in this study includes ribosomal proteins, GroES, and acyl carrier protein. The majority of proteins above the diagonal were found to be enzymes (e.g., superoxide dismutase), which are known to require a well-defined structure for function [<xref ref-type="bibr" rid="B56">56</xref>]. Based on these finding it has been concluded that the proposed 2D electrophoresis is suitable for the proteome-wide identification of IDPs. </p>
+      </sec>
+    </sec>
+    <sec sec-type="section" id="sec4">
+      <title>4. Concluding Remarks</title>
+      <p>Intrinsic disorder is highly abundant in nature. According to the genome-based bioinformatics predictions, significant fraction of any given proteome belongs to the class of IDPs. These proteins possess numerous vital functions. Many proteins associated with various human diseases are intrinsically disordered too. High degree of association between protein intrinsic disorder and maladies is due to structural and functional peculiarities of IDPs and IDRs, which are typically involved in cellular regulation, recognition, and signal transduction. As the number of IDPs is very large and as many of these proteins are interlinked, the concepts of the unfoldome and unfoldomics were introduced. IDPs, especially their extended forms, are characterized by several unique features that can be used for isolation of these proteins from the cell extracts. The corresponding proteomic techniques utilize specific high resistance of IDPs against extreme pH and high temperature, as well as their structural indifference to chemical denaturation. At the computational side, several specific features of the IDP amino acid sequences provide a solid background for the reliable identification of these proteins at the proteome level. These proteomic-scale identification and characterization of IDPs are needed to advance our knowledge in this important field.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This review would not be possible without many colleagues who, over the years, contributed to the introduction and development of the IDP field. Numerous very helpful and thought-promoting discussions with my colleagues and fiends are deeply acknowledged. This work was supported in part by the Program of the Russian Academy of Sciences for the “Molecular and cellular biology,” and by grants R01 LM007688-01A1 and GM071714-01A2 from the National Institutes of Health. The author gratefully acknowledges the support of the IUPUI Signature Centers Initiative.</p>
+    </ack>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fischer</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Einfluss der configuration auf die wirkung der enzyme</article-title>
+          <source>
+            <italic>Berichte der Deutschen Chemischen Gesellschaft</italic>
+          </source>
+          <year>1894</year>
+          <volume>27</volume>
+          <issue>3</issue>
+          <fpage>2985</fpage>
+          <lpage>2993</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lemieux</surname>
+              <given-names>RU</given-names>
+            </name>
+            <name>
+              <surname>Spohr</surname>
+              <given-names>U</given-names>
+            </name>
+          </person-group>
+          <article-title>How Emil Fischer was led to the lock and key concept for enzyme specificity</article-title>
+          <source>
+            <italic>Advances in Carbohydrate Chemistry and Biochemistry</italic>
+          </source>
+          <year>1994</year>
+          <volume>50</volume>
+          <fpage>1</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">7942253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dobson</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein misfolding, evolution and disease</article-title>
+          <source>
+            <italic>Trends in Biochemical Sciences</italic>
+          </source>
+          <year>1999</year>
+          <volume>24</volume>
+          <issue>9</issue>
+          <fpage>329</fpage>
+          <lpage>332</lpage>
+          <pub-id pub-id-type="pmid">10470028</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The unfoldomics decade: an update on intrinsically disordered proteins</article-title>
+          <source>
+            <italic>BMC Genomics</italic>
+          </source>
+          <year>2008</year>
+          <volume>9</volume>
+          <issue>supplement 2, article S1</issue>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Lawson</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsic disorder and protein function</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>2002</year>
+          <volume>41</volume>
+          <issue>21</issue>
+          <fpage>6573</fpage>
+          <lpage>6582</lpage>
+          <pub-id pub-id-type="pmid">12022860</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and functions of usefully disordered proteins</article-title>
+          <source>
+            <italic>Advances in Protein Chemistry</italic>
+          </source>
+          <year>2002</year>
+          <volume>62</volume>
+          <fpage>25</fpage>
+          <lpage>49</lpage>
+          <pub-id pub-id-type="pmid">12418100</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Cortese</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Flexible nets: the roles of intrinsic disorder in protein interaction networks</article-title>
+          <source>
+            <italic>FEBS Journal</italic>
+          </source>
+          <year>2005</year>
+          <volume>272</volume>
+          <issue>20</issue>
+          <fpage>5129</fpage>
+          <lpage>5148</lpage>
+          <pub-id pub-id-type="pmid">16218947</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Lawson</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Intrinsically disordered protein</article-title>
+          <source>
+            <italic>Journal of Molecular Graphics and Modelling</italic>
+          </source>
+          <year>2001</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>26</fpage>
+          <lpage>59</lpage>
+          <pub-id pub-id-type="pmid">11381529</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>The protein trinity—linking function and disorder</article-title>
+          <source>
+            <italic>Nature Biotechnology</italic>
+          </source>
+          <year>2001</year>
+          <volume>19</volume>
+          <issue>9</issue>
+          <fpage>805</fpage>
+          <lpage>806</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Radivojac</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsic disorder and functional proteomics</article-title>
+          <source>
+            <italic>Biophysical Journal</italic>
+          </source>
+          <year>2007</year>
+          <volume>92</volume>
+          <issue>5</issue>
+          <fpage>1439</fpage>
+          <lpage>1456</lpage>
+          <pub-id pub-id-type="pmid">17158572</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Silman</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Sussman</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>Function and structure of inherently disordered proteins</article-title>
+          <source>
+            <italic>Current Opinion in Structural Biology</italic>
+          </source>
+          <year>2008</year>
+          <volume>18</volume>
+          <issue>6</issue>
+          <fpage>756</fpage>
+          <lpage>764</lpage>
+          <pub-id pub-id-type="pmid">18952168</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Signal transduction via unstructured protein conduits</article-title>
+          <source>
+            <italic>Nature Chemical Biology</italic>
+          </source>
+          <year>2008</year>
+          <volume>4</volume>
+          <issue>4</issue>
+          <fpage>229</fpage>
+          <lpage>230</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vucetic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Functional anthology of intrinsic disorder. 2. Cellular components, domains, technical terms, developmental processes, and coding sequence diversities correlated with long disordered regions</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>6</volume>
+          <issue>5</issue>
+          <fpage>1899</fpage>
+          <lpage>1916</lpage>
+          <pub-id pub-id-type="pmid">17391015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Vucetic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Functional anthology of intrinsic disorder. 3. Ligands, post-translational modifications, and diseases associated with intrinsically disordered proteins</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>6</volume>
+          <issue>5</issue>
+          <fpage>1917</fpage>
+          <lpage>1932</lpage>
+          <pub-id pub-id-type="pmid">17391016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Vucetic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Functional anthology of intrinsic disorder. 1. Biological processes and functions of proteins with long disordered regions</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>6</volume>
+          <issue>5</issue>
+          <fpage>1882</fpage>
+          <lpage>1898</lpage>
+          <pub-id pub-id-type="pmid">17391014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cortese</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Keith Dunker</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsic disorder in scaffold proteins: getting more from less</article-title>
+          <source>
+            <italic>Progress in Biophysics and Molecular Biology</italic>
+          </source>
+          <year>2008</year>
+          <volume>98</volume>
+          <issue>1</issue>
+          <fpage>85</fpage>
+          <lpage>106</lpage>
+          <pub-id pub-id-type="pmid">18619997</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Russell</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Gibson</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>A careful disorderliness in the proteome: sites for interaction and targets for future therapies</article-title>
+          <source>
+            <italic>FEBS Letters</italic>
+          </source>
+          <year>2008</year>
+          <volume>582</volume>
+          <issue>8</issue>
+          <fpage>1271</fpage>
+          <lpage>1275</lpage>
+          <pub-id pub-id-type="pmid">18284921</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>JY</given-names>
+            </name>
+            <name>
+              <surname>Qu</surname>
+              <given-names>MQ</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Flexible nets: disorder and induced fit in the associations of p53 and 14-3-3 with their partners</article-title>
+          <source>
+            <italic>BMC Genomics</italic>
+          </source>
+          <year>2008</year>
+          <volume>9</volume>
+          <issue>supplement 1, article S1</issue>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tompa</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Csermely</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of structural disorder in the function of RNA and protein chaperones</article-title>
+          <source>
+            <italic>FASEB Journal</italic>
+          </source>
+          <year>2004</year>
+          <volume>18</volume>
+          <issue>11</issue>
+          <fpage>1169</fpage>
+          <lpage>1175</lpage>
+          <pub-id pub-id-type="pmid">15284216</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Showing your ID: intrinsic disorder as an ID for recognition, regulation and cell signaling</article-title>
+          <source>
+            <italic>Journal of Molecular Recognition</italic>
+          </source>
+          <year>2005</year>
+          <volume>18</volume>
+          <issue>5</issue>
+          <fpage>343</fpage>
+          <lpage>384</lpage>
+          <pub-id pub-id-type="pmid">16094605</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wright</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Dyson</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsically unstructured proteins: re-assessing the protein structure-function paradigm</article-title>
+          <source>
+            <italic>Journal of Molecular Biology</italic>
+          </source>
+          <year>1999</year>
+          <volume>293</volume>
+          <issue>2</issue>
+          <fpage>321</fpage>
+          <lpage>331</lpage>
+          <pub-id pub-id-type="pmid">10550212</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tompa</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsically unstructured proteins</article-title>
+          <source>
+            <italic>Trends in Biochemical Sciences</italic>
+          </source>
+          <year>2002</year>
+          <volume>27</volume>
+          <issue>10</issue>
+          <fpage>527</fpage>
+          <lpage>533</lpage>
+          <pub-id pub-id-type="pmid">12368089</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Natively unfolded proteins: a point where biology waits for physics</article-title>
+          <source>
+            <italic>Protein Science</italic>
+          </source>
+          <year>2002</year>
+          <volume>11</volume>
+          <issue>4</issue>
+          <fpage>739</fpage>
+          <lpage>756</lpage>
+          <pub-id pub-id-type="pmid">11910019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dyson</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsically unstructured proteins and their functions</article-title>
+          <source>
+            <italic>Nature Reviews Molecular Cell Biology</italic>
+          </source>
+          <year>2005</year>
+          <volume>6</volume>
+          <issue>3</issue>
+          <fpage>197</fpage>
+          <lpage>208</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Lawson</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsic disorder in cell-signaling and cancer-associated proteins</article-title>
+          <source>
+            <italic>Journal of Molecular Biology</italic>
+          </source>
+          <year>2002</year>
+          <volume>323</volume>
+          <issue>3</issue>
+          <fpage>573</fpage>
+          <lpage>584</lpage>
+          <pub-id pub-id-type="pmid">12381310</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Silman</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Sussman</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>Function and structure of inherently disordered proteins</article-title>
+          <source>
+            <italic>Current Opinion in Structural Biology</italic>
+          </source>
+          <year>2008</year>
+          <volume>18</volume>
+          <issue>6</issue>
+          <fpage>756</fpage>
+          <lpage>764</lpage>
+          <pub-id pub-id-type="pmid">18952168</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tompa</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>The interplay between structure and function in intrinsically unstructured proteins</article-title>
+          <source>
+            <italic>FEBS Letters</italic>
+          </source>
+          <year>2005</year>
+          <volume>579</volume>
+          <issue>15</issue>
+          <fpage>3346</fpage>
+          <lpage>3354</lpage>
+          <pub-id pub-id-type="pmid">15943980</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Garner</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsic protein disorder in complete genomes</article-title>
+          <source>
+            <italic>Genome Informatics</italic>
+          </source>
+          <year>2000</year>
+          <volume>11</volume>
+          <fpage>161</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="pmid">11700597</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ward</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Sodhi</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>McGuffin</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Buxton</surname>
+              <given-names>BF</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>DT</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction and functional analysis of native disorder in proteins from the three kingdoms of life</article-title>
+          <source>
+            <italic>Journal of Molecular Biology</italic>
+          </source>
+          <year>2004</year>
+          <volume>337</volume>
+          <issue>3</issue>
+          <fpage>635</fpage>
+          <lpage>645</lpage>
+          <pub-id pub-id-type="pmid">15019783</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cortese</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Bunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparing and combining predictors of mostly disordered proteins</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>2005</year>
+          <volume>44</volume>
+          <issue>6</issue>
+          <fpage>1989</fpage>
+          <lpage>2000</lpage>
+          <pub-id pub-id-type="pmid">15697224</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kriwacki</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Hengst</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Tennant</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>SI</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural studies of p21Waf1/Cip1/Sdi1 in the free and Cdk2-bound state: conformational disorder mediates binding diversity</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>1996</year>
+          <volume>93</volume>
+          <issue>21</issue>
+          <fpage>11504</fpage>
+          <lpage>11509</lpage>
+          <pub-id pub-id-type="pmid">8876165</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lacy</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Filippov</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>WS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>p27 binds cyclin-CDK complexes through a sequential mechanism involving binding-induced protein folding</article-title>
+          <source>
+            <italic>Nature Structural and Molecular Biology</italic>
+          </source>
+          <year>2004</year>
+          <volume>11</volume>
+          <issue>4</issue>
+          <fpage>358</fpage>
+          <lpage>364</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lacy</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Post</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Molecular basis for the specificity of p27 toward cyclin-dependent kinases that regulate cell division</article-title>
+          <source>
+            <italic>Journal of Molecular Biology</italic>
+          </source>
+          <year>2005</year>
+          <volume>349</volume>
+          <issue>4</issue>
+          <fpage>764</fpage>
+          <lpage>773</lpage>
+          <pub-id pub-id-type="pmid">15890360</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dyson</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <article-title>Coupling of folding and binding for unstructured proteins</article-title>
+          <source>
+            <italic>Current Opinion in Structural Biology</italic>
+          </source>
+          <year>2002</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>54</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="pmid">11839490</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cortese</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Coupled folding and binding with alpha-helix-forming molecular recognition elements</article-title>
+          <comment><italic>Biochemistry</italic>. In press</comment>
+        </element-citation>
+      </ref>
+      <ref id="B36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Mining <italic>α</italic>-helix-forming molecular recognition features with cross species sequence alignments</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>2007</year>
+          <volume>46</volume>
+          <issue>47</issue>
+          <fpage>13468</fpage>
+          <lpage>13477</lpage>
+          <pub-id pub-id-type="pmid">17973494</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37">
+        <label>37</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohan</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>
+            <italic>MoRFs: A Dataset of Molecular Recognition Features</italic>
+          </source>
+          <year>2006</year>
+          <publisher-loc>Indianapolis, Ind, USA</publisher-loc>
+          <publisher-name>The School of Informatics, Indiana University</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vacic</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Mohan</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Characterization of molecular recognition features, MoRFs, and their binding partners</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>6</volume>
+          <issue>6</issue>
+          <fpage>2351</fpage>
+          <lpage>2366</lpage>
+          <pub-id pub-id-type="pmid">17488107</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsically disordered proteins in human diseases: introducing the D2 concept</article-title>
+          <source>
+            <italic>Annual Review of Biophysics</italic>
+          </source>
+          <year>2008</year>
+          <volume>37</volume>
+          <fpage>215</fpage>
+          <lpage>246</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cortese</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Baird</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Uncovering the unfoldome: enriching cell extracts for unstructured proteins by acid treatment</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2005</year>
+          <volume>4</volume>
+          <issue>5</issue>
+          <fpage>1610</fpage>
+          <lpage>1618</lpage>
+          <pub-id pub-id-type="pmid">16212413</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Midic</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Keith</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein disorder in the human diseasome: unfoldomics of human genetic diseases</article-title>
+          <source>
+            <italic>BMC Genomics</italic>
+          </source>
+          <year>2009</year>
+          <volume>10</volume>
+          <issue>supplement 1, article S12</issue>
+        </element-citation>
+      </ref>
+      <ref id="B42">
+        <label>42</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Winkler</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <comment>V.u.U.d.P.i.P.-u.T.J.V.F., 1920</comment>
+        </element-citation>
+      </ref>
+      <ref id="B43">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lederberg</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>McCray</surname>
+              <given-names>AT</given-names>
+            </name>
+          </person-group>
+          <article-title>‘Ome’ sweet ‘omics’—a genealogical treasury of words</article-title>
+          <source>
+            <italic>The Scientist</italic>
+          </source>
+          <year>2001</year>
+          <volume>15</volume>
+          <issue>7, article 8</issue>
+        </element-citation>
+      </ref>
+      <ref id="B44">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Midic</surname>
+              <given-names>U</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Unfoldomics of human diseases: linking protein intrinsic disorder with diseases</article-title>
+          <source>
+            <italic>BMC Genomics</italic>
+          </source>
+          <year>2009</year>
+          <volume>10</volume>
+          <issue>supplement 1, article S7</issue>
+        </element-citation>
+      </ref>
+      <ref id="B45">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Gillespie</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Fink</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>Why are “natively unfolded” proteins unstructured under physiologic conditions?</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2000</year>
+          <volume>41</volume>
+          <issue>3</issue>
+          <fpage>415</fpage>
+          <lpage>427</lpage>
+          <pub-id pub-id-type="pmid">11025552</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferron</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Longhi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Canard</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Karlin</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>A practical overview of protein disorder prediction methods</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2006</year>
+          <volume>65</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="pmid">16856179</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dosztanyi</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Sandor</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tompa</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Simon</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of protein disorder at the domain level</article-title>
+          <source>
+            <italic>Current Protein and Peptide Science</italic>
+          </source>
+          <year>2007</year>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>161</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="pmid">17430197</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B48">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dosztanyi</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Tompa</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of protein disorder</article-title>
+          <source>
+            <italic>Methods in Molecular Biology</italic>
+          </source>
+          <year>2008</year>
+          <volume>426</volume>
+          <fpage>103</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="pmid">18542859</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B49">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hubbard</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Beynon</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Thornton</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessment of conformational parameters as predictors of limited proteolytic sites in native protein structures</article-title>
+          <source>
+            <italic>Protein Engineering</italic>
+          </source>
+          <year>1998</year>
+          <volume>11</volume>
+          <issue>5</issue>
+          <fpage>349</fpage>
+          <lpage>359</lpage>
+          <pub-id pub-id-type="pmid">9681867</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B50">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iakoucheva</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Kimzey</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Masselon</surname>
+              <given-names>CD</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Ackerman</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Aberrant mobility phenomena of the DNA repair protein XPA</article-title>
+          <source>
+            <italic>Protein Science</italic>
+          </source>
+          <year>2001</year>
+          <volume>10</volume>
+          <issue>7</issue>
+          <fpage>1353</fpage>
+          <lpage>1362</lpage>
+          <pub-id pub-id-type="pmid">11420437</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reeves</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Nissen</surname>
+              <given-names>MS</given-names>
+            </name>
+          </person-group>
+          <article-title>Purification and assays for high mobility group HMG-I(Y) protein function</article-title>
+          <source>
+            <italic>Methods in Enzymology</italic>
+          </source>
+          <year>1999</year>
+          <volume>304</volume>
+          <fpage>155</fpage>
+          <lpage>188</lpage>
+          <pub-id pub-id-type="pmid">10372360</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52">
+        <label>52</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Daughdrill</surname>
+              <given-names>GW</given-names>
+            </name>
+            <name>
+              <surname>Pielak</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Cortese</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Buchner</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kiefhaber </surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Natively disordered proteins</article-title>
+          <source>
+            <italic>Handbook of Protein Folding</italic>
+          </source>
+          <year>2005</year>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <fpage>271</fpage>
+          <lpage>353</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B53">
+        <label>53</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Receveur-Bréchot</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bourhis</surname>
+              <given-names>J-M</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Canard</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Longhi</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessing protein disorder and induced folding</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2006</year>
+          <volume>62</volume>
+          <issue>1</issue>
+          <fpage>24</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="pmid">16287116</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B54">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>What does it mean to be natively unfolded?</article-title>
+          <source>
+            <italic>European Journal of Biochemistry</italic>
+          </source>
+          <year>2002</year>
+          <volume>269</volume>
+          <issue>1</issue>
+          <fpage>2</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="pmid">11784292</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B55">
+        <label>55</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsically disordered proteins and their environment: effects of strong denaturants, temperature, ph, counter ions, membranes, binding partners, osmolytes, and macromolecular crowding</article-title>
+          <source>
+            <italic>Protein Journal</italic>
+          </source>
+          <year>2009</year>
+          <volume>28</volume>
+          <issue>7-8</issue>
+          <fpage>305</fpage>
+          <lpage>325</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B56">
+        <label>56</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Csizmók</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Szollosi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Friedrich</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Tompa</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel two-dimensional electrophoresis technique for the identification of intrinsically unstructured proteins</article-title>
+          <source>
+            <italic>Molecular and Cellular Proteomics</italic>
+          </source>
+          <year>2006</year>
+          <volume>5</volume>
+          <issue>2</issue>
+          <fpage>265</fpage>
+          <lpage>273</lpage>
+          <pub-id pub-id-type="pmid">16223749</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B57">
+        <label>57</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galea</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Pagala</surname>
+              <given-names>VR</given-names>
+            </name>
+            <name>
+              <surname>Obenauer</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>C-G</given-names>
+            </name>
+            <name>
+              <surname>Slaughter</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Kriwacki</surname>
+              <given-names>RW</given-names>
+            </name>
+          </person-group>
+          <article-title>Proteomic studies of the intrinsically unstructured mammalian proteome</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2006</year>
+          <volume>5</volume>
+          <issue>10</issue>
+          <fpage>2839</fpage>
+          <lpage>2848</lpage>
+          <pub-id pub-id-type="pmid">17022655</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B58">
+        <label>58</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Kissinger</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Villafranca</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Identifying disordered regions in proteins from amino acid sequence</article-title>
+          <conf-name>In: Proceedings of the IEEE International Conference on Neural Networks, vol. 1</conf-name>
+          <conf-date>1997</conf-date>
+          <fpage>90</fpage>
+          <lpage>95</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B59">
+        <label>59</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequence data analysis for long disordered regions prediction in the calcineurin family</article-title>
+          <source>
+            <italic>Genome Informatics</italic>
+          </source>
+          <year>1997</year>
+          <volume>8</volume>
+          <fpage>110</fpage>
+          <lpage>124</lpage>
+          <pub-id pub-id-type="pmid">11072311</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B60">
+        <label>60</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Arnold</surname>
+              <given-names>GE</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Garner</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>The sequence attribute method for determining relationships between sequence and protein disorder</article-title>
+          <source>
+            <italic>Genome Informatics</italic>
+          </source>
+          <year>1998</year>
+          <volume>9</volume>
+          <fpage>193</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="pmid">11072335</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B61">
+        <label>61</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Kissinger</surname>
+              <given-names>CR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Thousands of proteins likely to have long disordered regions</article-title>
+          <source>
+            <italic>Pacific Symposium on Biocomputing</italic>
+          </source>
+          <year>1998</year>
+          <fpage>437</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="pmid">9697202</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B62">
+        <label>62</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gast</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Damaschun</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Eckert</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prothymosin <italic>α</italic>: a biologically active protein with random coil conformation</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>1995</year>
+          <volume>34</volume>
+          <issue>40</issue>
+          <fpage>13211</fpage>
+          <lpage>13218</lpage>
+          <pub-id pub-id-type="pmid">7548085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B63">
+        <label>63</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weinreb</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Zhen</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Poon</surname>
+              <given-names>AW</given-names>
+            </name>
+            <name>
+              <surname>Conway</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Lansbury</surname>
+              <given-names>PT</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <article-title>NACP, a protein implicated in Alzheimer's disease and learning, is natively unfolded</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>1996</year>
+          <volume>35</volume>
+          <issue>43</issue>
+          <fpage>13709</fpage>
+          <lpage>13715</lpage>
+          <pub-id pub-id-type="pmid">8901511</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B64">
+        <label>64</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hemmings</surname>
+              <given-names>HC</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Nairn</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Aswad</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Greengard</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>DARPP-32, a dopamine- and adenosine 3′:5′-monophosphate-regulated phosphoprotein enriched in dopamine-innervated brain regions. II. Purification and characterization of the phosphoprotein from bovine caudate nucleus</article-title>
+          <source>
+            <italic>Journal of Neuroscience</italic>
+          </source>
+          <year>1984</year>
+          <volume>4</volume>
+          <issue>1</issue>
+          <fpage>99</fpage>
+          <lpage>110</lpage>
+          <pub-id pub-id-type="pmid">6319628</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B65">
+        <label>65</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The conformational mobility of proteins and its functional significance</article-title>
+          <source>
+            <italic>Biochemical Society Transactions</italic>
+          </source>
+          <year>1978</year>
+          <volume>6</volume>
+          <issue>6</issue>
+          <fpage>1123</fpage>
+          <lpage>1126</lpage>
+          <pub-id pub-id-type="pmid">217769</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B66">
+        <label>66</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Garner</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Guilliot</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Protein disorder and the evolution of molecular recognition: theory, predictions and observations</article-title>
+          <source>
+            <italic>Pacific Symposium on Biocomputing</italic>
+          </source>
+          <year>1998</year>
+          <fpage>473</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="pmid">9697205</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B67">
+        <label>67</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garner</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Cannon</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting disordered regions from amino acid sequence: common themes despite differing structural characterization</article-title>
+          <source>
+            <italic>Genome Informatics</italic>
+          </source>
+          <year>1998</year>
+          <volume>9</volume>
+          <fpage>201</fpage>
+          <lpage>213</lpage>
+          <pub-id pub-id-type="pmid">11072336</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B68">
+        <label>68</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vihinen</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Torkkila</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Riikonen</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Accuracy of protein flexibility predictions</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>1994</year>
+          <volume>19</volume>
+          <issue>2</issue>
+          <fpage>141</fpage>
+          <lpage>149</lpage>
+          <pub-id pub-id-type="pmid">8090708</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B69">
+        <label>69</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Mathura</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The protein non-folding problem: amino acid determinants of intrinsic order and disorder</article-title>
+          <source>
+            <italic>Pacific Symposium on Biocomputing</italic>
+          </source>
+          <year>2001</year>
+          <fpage>89</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="pmid">11262981</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B70">
+        <label>70</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Garner</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequence complexity of disordered protein</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2001</year>
+          <volume>42</volume>
+          <issue>1</issue>
+          <fpage>38</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="pmid">11093259</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B71">
+        <label>71</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Garner</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparing predictors of disordered protein</article-title>
+          <source>
+            <italic>Genome Informatics</italic>
+          </source>
+          <year>2000</year>
+          <volume>11</volume>
+          <fpage>172</fpage>
+          <lpage>184</lpage>
+          <pub-id pub-id-type="pmid">11700598</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B72">
+        <label>72</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Radivojac</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>DK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Protein flexibility and intrinsic disorder</article-title>
+          <source>
+            <italic>Protein Science</italic>
+          </source>
+          <year>2004</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>71</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="pmid">14691223</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B73">
+        <label>73</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vucetic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Flavors of protein disorder</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2003</year>
+          <volume>52</volume>
+          <issue>4</issue>
+          <fpage>573</fpage>
+          <lpage>584</lpage>
+          <pub-id pub-id-type="pmid">12910457</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B74">
+        <label>74</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Romero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Rani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting protein disorder for N-, C-, and internal regions</article-title>
+          <source>
+            <italic>Genome Informatics</italic>
+          </source>
+          <year>1999</year>
+          <volume>10</volume>
+          <fpage>30</fpage>
+          <lpage>40</lpage>
+          <pub-id pub-id-type="pmid">11072340</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B75">
+        <label>75</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peng</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Vucetic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Radivojac</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Optimizing long intrinsic disorder predictors with protein evolutionary information</article-title>
+          <source>
+            <italic>Journal of Bioinformatics and Computational Biology</italic>
+          </source>
+          <year>2005</year>
+          <volume>3</volume>
+          <issue>1</issue>
+          <fpage>35</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="pmid">15751111</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B76">
+        <label>76</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Vucetic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Radivojac</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Exploiting heterogeneous sequence properties improves prediction of protein disorder</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2005</year>
+          <volume>61</volume>
+          <issue>supplement 7</issue>
+          <fpage>176</fpage>
+          <lpage>182</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B77">
+        <label>77</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peng</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Radivojac</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Vucetic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Obradović</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Length-dependent prediction of protein in intrinsic disorder</article-title>
+          <source>
+            <italic>BMC Bioinformatics</italic>
+          </source>
+          <year>2006</year>
+          <volume>7, article 208</volume>
+        </element-citation>
+      </ref>
+      <ref id="B78">
+        <label>78</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prilusky</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Felder</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Zeev-Ben-Mordehai</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>FoldIndex©: a simple tool to predict whether a given protein sequence is intrinsically unfolded</article-title>
+          <source>
+            <italic>Bioinformatics</italic>
+          </source>
+          <year>2005</year>
+          <volume>21</volume>
+          <issue>16</issue>
+          <fpage>3435</fpage>
+          <lpage>3438</lpage>
+          <pub-id pub-id-type="pmid">15955783</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B79">
+        <label>79</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Linding</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Neduva</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Gibson</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>GlobPlot: exploring protein sequences for globularity and disorder</article-title>
+          <source>
+            <italic>Nucleic Acids Research</italic>
+          </source>
+          <year>2003</year>
+          <volume>31</volume>
+          <issue>13</issue>
+          <fpage>3701</fpage>
+          <lpage>3708</lpage>
+          <pub-id pub-id-type="pmid">12824398</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B80">
+        <label>80</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Linding</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Diella</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Bork</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gibson</surname>
+              <given-names>TJ</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein disorder prediction: implications for structural proteomics</article-title>
+          <source>
+            <italic>Structure</italic>
+          </source>
+          <year>2003</year>
+          <volume>11</volume>
+          <issue>11</issue>
+          <fpage>1453</fpage>
+          <lpage>1459</lpage>
+          <pub-id pub-id-type="pmid">14604535</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B81">
+        <label>81</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>DT</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of disordered regions in proteins from position specific score matrices</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2003</year>
+          <volume>53</volume>
+          <issue>supplement 6</issue>
+          <fpage>573</fpage>
+          <lpage>578</lpage>
+          <pub-id pub-id-type="pmid">14579348</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B82">
+        <label>82</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ward</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>McGuffin</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Bryson</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Buxton</surname>
+              <given-names>BF</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>DT</given-names>
+            </name>
+          </person-group>
+          <article-title>The DISOPRED server for the prediction of protein disorder</article-title>
+          <source>
+            <italic>Bioinformatics</italic>
+          </source>
+          <year>2004</year>
+          <volume>20</volume>
+          <issue>13</issue>
+          <fpage>2138</fpage>
+          <lpage>2139</lpage>
+          <pub-id pub-id-type="pmid">15044227</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B83">
+        <label>83</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bryson</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>McGuffin</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Marsden</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Sodhi</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>DT</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein structure prediction servers at University College London</article-title>
+          <source>
+            <italic>Nucleic Acids Research</italic>
+          </source>
+          <year>2005</year>
+          <volume>33</volume>
+          <issue>supplement 2</issue>
+          <fpage>W36</fpage>
+          <lpage>W38</lpage>
+          <pub-id pub-id-type="pmid">15980489</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B84">
+        <label>84</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dosztanyi</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Csizmok</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Tompa</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Simon</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>IUPred: web server for the prediction of intrinsically unstructured regions of proteins based on estimated energy content</article-title>
+          <source>
+            <italic>Bioinformatics</italic>
+          </source>
+          <year>2005</year>
+          <volume>21</volume>
+          <issue>16</issue>
+          <fpage>3433</fpage>
+          <lpage>3434</lpage>
+          <pub-id pub-id-type="pmid">15955779</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B85">
+        <label>85</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galzitskaya</surname>
+              <given-names>OV</given-names>
+            </name>
+            <name>
+              <surname>Garbuzynskiy</surname>
+              <given-names>SO</given-names>
+            </name>
+            <name>
+              <surname>Lobanov</surname>
+              <given-names>MY</given-names>
+            </name>
+          </person-group>
+          <article-title>FoldUnfold: web server for the prediction of disordered regions in protein chain</article-title>
+          <source>
+            <italic>Bioinformatics</italic>
+          </source>
+          <year>2006</year>
+          <volume>22</volume>
+          <issue>23</issue>
+          <fpage>2948</fpage>
+          <lpage>2949</lpage>
+          <pub-id pub-id-type="pmid">17021161</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B86">
+        <label>86</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>ZR</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>McNeil</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Esnouf</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <article-title>RONN: the bio-basis function neural network technique applied to the detection of natively disordered regions in proteins</article-title>
+          <source>
+            <italic>Bioinformatics</italic>
+          </source>
+          <year>2005</year>
+          <volume>21</volume>
+          <issue>16</issue>
+          <fpage>3369</fpage>
+          <lpage>3376</lpage>
+          <pub-id pub-id-type="pmid">15947016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B87">
+        <label>87</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Su</surname>
+              <given-names>C-T</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C-Y</given-names>
+            </name>
+            <name>
+              <surname>Ou</surname>
+              <given-names>Y-Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein disorder prediction by condensed PSSM considering propensity for order or disorder</article-title>
+          <source>
+            <italic>BMC Bioinformatics</italic>
+          </source>
+          <year>2006</year>
+          <volume>7, article 319</volume>
+        </element-citation>
+      </ref>
+      <ref id="B88">
+        <label>88</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Su</surname>
+              <given-names>CT</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>CY</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>iPDA: integrated protein disorder analyzer</article-title>
+          <source>
+            <italic>Nucleic Acids Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>35, web server issue</volume>
+          <fpage>W465</fpage>
+          <lpage>W472</lpage>
+          <pub-id pub-id-type="pmid">17553839</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B89">
+        <label>89</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vullo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bortolamil</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Pollastri</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tosatto</surname>
+              <given-names>SCE</given-names>
+            </name>
+          </person-group>
+          <article-title>Spritz: a server for the prediction of intrinsically disordered regions in protein sequences using kernel machines</article-title>
+          <source>
+            <italic>Nucleic Acids Research</italic>
+          </source>
+          <year>2006</year>
+          <volume>34, web server issue</volume>
+          <fpage>W164</fpage>
+          <lpage>W168</lpage>
+          <pub-id pub-id-type="pmid">16844983</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B90">
+        <label>90</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishida</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kinoshita</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>PrDOS: prediction of disordered protein regions from amino acid sequence</article-title>
+          <source>
+            <italic>Nucleic Acids Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>35, web server issue</volume>
+          <fpage>W460</fpage>
+          <lpage>W464</lpage>
+          <pub-id pub-id-type="pmid">17567614</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B91">
+        <label>91</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting intrinsic disorder in proteins: an overview</article-title>
+          <source>
+            <italic>Cell Research</italic>
+          </source>
+          <year>2009</year>
+          <volume>19</volume>
+          <issue>8</issue>
+          <fpage>929</fpage>
+          <lpage>949</lpage>
+          <pub-id pub-id-type="pmid">19597536</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B92">
+        <label>92</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sullivan</surname>
+              <given-names>WJ</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Radivojac</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsic disorder in pathogenic and non-pathogenic microbes: discovering and analyzing the unfoldomes of early-branching eukaryotes</article-title>
+          <source>
+            <italic>Molecular BioSystems</italic>
+          </source>
+          <year>2008</year>
+          <volume>4</volume>
+          <issue>4</issue>
+          <fpage>328</fpage>
+          <lpage>340</lpage>
+          <pub-id pub-id-type="pmid">18354786</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B93">
+        <label>93</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rantalainen</surname>
+              <given-names>KI</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Permi</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kalkkinen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Mäkinen</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Potato virus A genome-linked protein VPg is an intrinsically disordered molten globule-like protein with a hydrophobic core</article-title>
+          <source>
+            <italic>Virology</italic>
+          </source>
+          <year>2008</year>
+          <volume>377</volume>
+          <issue>2</issue>
+          <fpage>280</fpage>
+          <lpage>288</lpage>
+          <pub-id pub-id-type="pmid">18533220</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B94">
+        <label>94</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hébrard</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bessin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Michon</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Intrinsic disorder in Viral Proteins Genome-Linked: experimental and predictive analyses</article-title>
+          <source>
+            <italic>Virology Journal</italic>
+          </source>
+          <year>2009</year>
+          <volume>6, article 23</volume>
+        </element-citation>
+      </ref>
+      <ref id="B95">
+        <label>95</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Roman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein intrinsic disorder and human papillomaviruses: increased amount of disorder in E6 and E7 oncoproteins from high risk HPVs</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2006</year>
+          <volume>5</volume>
+          <issue>8</issue>
+          <fpage>1829</fpage>
+          <lpage>1842</lpage>
+          <pub-id pub-id-type="pmid">16889404</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B96">
+        <label>96</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>LeGall</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Oldfield</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dunker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Abundance of intrinsic disorder in protein associated with cardiovascular disease</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>2006</year>
+          <volume>45</volume>
+          <issue>35</issue>
+          <fpage>10448</fpage>
+          <lpage>10460</lpage>
+          <pub-id pub-id-type="pmid">16939197</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B97">
+        <label>97</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrinsic disorder in proteins associated with neurodegenerative diseases</article-title>
+          <source>
+            <italic>Frontiers in Bioscience</italic>
+          </source>
+          <year>2009</year>
+          <volume>14</volume>
+          <fpage>5188</fpage>
+          <lpage>5238</lpage>
+          <pub-id pub-id-type="pmid">19482612</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B98">
+        <label>98</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goh</surname>
+              <given-names>K-I</given-names>
+            </name>
+            <name>
+              <surname>Cusick</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Valle</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Childs</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Vidal</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Barabási</surname>
+              <given-names>A-L</given-names>
+            </name>
+          </person-group>
+          <article-title>The human disease network</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>2007</year>
+          <volume>104</volume>
+          <issue>21</issue>
+          <fpage>8685</fpage>
+          <lpage>8690</lpage>
+          <pub-id pub-id-type="pmid">17502601</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B99">
+        <label>99</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>A protein-chameleon: conformational plasticity of <italic>α</italic>-synuclein, a disordered protein involved in neurodegenerative disorders</article-title>
+          <source>
+            <italic>Journal of Biomolecular Structure and Dynamics</italic>
+          </source>
+          <year>2003</year>
+          <volume>21</volume>
+          <issue>2</issue>
+          <fpage>211</fpage>
+          <lpage>234</lpage>
+          <pub-id pub-id-type="pmid">12956606</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B100">
+        <label>100</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Gillespie</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Millett</surname>
+              <given-names>IS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Natively unfolded human prothymosin <italic>α</italic> adopts partially folded collapsed conformation at acidic pH</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>1999</year>
+          <volume>38</volume>
+          <issue>45</issue>
+          <fpage>15009</fpage>
+          <lpage>15016</lpage>
+          <pub-id pub-id-type="pmid">10555983</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B101">
+        <label>101</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goto</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Calciano</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Fink</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>Acid-induced folding of proteins</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>1990</year>
+          <volume>87</volume>
+          <issue>2</issue>
+          <fpage>573</fpage>
+          <lpage>577</lpage>
+          <pub-id pub-id-type="pmid">2153957</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B102">
+        <label>102</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goto</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Fink</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase diagram for acidic conformational states of apomyoglobin</article-title>
+          <source>
+            <italic>Journal of Molecular Biology</italic>
+          </source>
+          <year>1990</year>
+          <volume>214</volume>
+          <issue>4</issue>
+          <fpage>803</fpage>
+          <lpage>805</lpage>
+          <pub-id pub-id-type="pmid">2388268</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B103">
+        <label>103</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goto</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Takahashi</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Fink</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanism of acid-induced folding of proteins</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>1990</year>
+          <volume>29</volume>
+          <issue>14</issue>
+          <fpage>3480</fpage>
+          <lpage>3488</lpage>
+          <pub-id pub-id-type="pmid">2162192</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B104">
+        <label>104</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fink</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Calciano</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Goto</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kurotsu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Palleros</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>Classification of acid denaturation of proteins: intermediates and unfolded states</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>1994</year>
+          <volume>33</volume>
+          <issue>41</issue>
+          <fpage>12504</fpage>
+          <lpage>12511</lpage>
+          <pub-id pub-id-type="pmid">7918473</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B105">
+        <label>105</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bienkiewicz</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Adkins</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Lumb</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Functional consequences of preorganized helical structure in the intrinsically disordered cell-cycle inhibitor p27Kip1</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>2002</year>
+          <volume>41</volume>
+          <issue>3</issue>
+          <fpage>752</fpage>
+          <lpage>759</lpage>
+          <pub-id pub-id-type="pmid">11790096</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B106">
+        <label>106</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hengst</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Dulic</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Slingerland</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Lees</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>SI</given-names>
+            </name>
+          </person-group>
+          <article-title>A cell cycle-regulated inhibitor of cyclin-dependent kinases</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>1994</year>
+          <volume>91</volume>
+          <issue>12</issue>
+          <fpage>5291</fpage>
+          <lpage>5295</lpage>
+          <pub-id pub-id-type="pmid">8202483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B107">
+        <label>107</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Fink</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence for a partially folded intermediate in <italic>α</italic>-synuclein fibril formation</article-title>
+          <source>
+            <italic>Journal of Biological Chemistry</italic>
+          </source>
+          <year>2001</year>
+          <volume>276</volume>
+          <issue>14</issue>
+          <fpage>10737</fpage>
+          <lpage>10744</lpage>
+          <pub-id pub-id-type="pmid">11152691</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B108">
+        <label>108</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Fink</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of familial Parkinson's disease point mutations A30P and A53T on the structural properties, aggregation, and fibrillation of human <italic>α</italic>-synuclein</article-title>
+          <source>
+            <italic>Biochemistry</italic>
+          </source>
+          <year>2001</year>
+          <volume>40</volume>
+          <issue>38</issue>
+          <fpage>11604</fpage>
+          <lpage>11613</lpage>
+          <pub-id pub-id-type="pmid">11560511</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B109">
+        <label>109</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Permyakov</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Zagranichny</surname>
+              <given-names>VE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effect of zinc and temperature on the conformation of the <italic>γ</italic> subunit of retinal phosphodiesterase: a natively unfolded protein</article-title>
+          <source>
+            <italic>Journal of Proteome Research</italic>
+          </source>
+          <year>2002</year>
+          <volume>1</volume>
+          <issue>2</issue>
+          <fpage>149</fpage>
+          <lpage>159</lpage>
+          <pub-id pub-id-type="pmid">12643535</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B110">
+        <label>110</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Souillac</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Biophysical properties of the synucleins and their propensities to fibrillate: inhibition of <italic>α</italic>-synuclein assembly by <italic>β</italic>- and <italic>γ</italic>-synucleins</article-title>
+          <source>
+            <italic>Journal of Biological Chemistry</italic>
+          </source>
+          <year>2002</year>
+          <volume>277</volume>
+          <issue>14</issue>
+          <fpage>11970</fpage>
+          <lpage>11978</lpage>
+          <pub-id pub-id-type="pmid">11812782</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B111">
+        <label>111</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Permyakov</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Millett</surname>
+              <given-names>IS</given-names>
+            </name>
+            <name>
+              <surname>Doniach</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Permyakov</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+          </person-group>
+          <article-title>Natively unfolded C-terminal domain of caldesmon remains substantially unstructured after the effective binding to calmodulin</article-title>
+          <source>
+            <italic>Proteins</italic>
+          </source>
+          <year>2003</year>
+          <volume>53</volume>
+          <issue>4</issue>
+          <fpage>855</fpage>
+          <lpage>862</lpage>
+          <pub-id pub-id-type="pmid">14635127</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B112">
+        <label>112</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Häckel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Konno</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hinz</surname>
+              <given-names>H-J</given-names>
+            </name>
+          </person-group>
+          <article-title>A new alternative method to quantify residual structure in ‘unfolded’ proteins</article-title>
+          <source>
+            <italic>Biochimica et Biophysica Acta</italic>
+          </source>
+          <year>2000</year>
+          <volume>1479</volume>
+          <issue>1-2</issue>
+          <fpage>155</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="pmid">11004537</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B113">
+        <label>113</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belmont</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Mitchison</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of a protein that interacts with tubulin dimers and increases the catastrophe rate of microtubules</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>1996</year>
+          <volume>84</volume>
+          <issue>4</issue>
+          <fpage>623</fpage>
+          <lpage>631</lpage>
+          <pub-id pub-id-type="pmid">8598048</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B114">
+        <label>114</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hernandez</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Avila</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Andreu</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Physicochemical characterization of the heat-stable microtubule-associated protein MAP2</article-title>
+          <source>
+            <italic>European Journal of Biochemistry</italic>
+          </source>
+          <year>1986</year>
+          <volume>154</volume>
+          <issue>1</issue>
+          <fpage>41</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="pmid">3943524</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B115">
+        <label>115</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalthoff</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel strategy for the purification of recombinantly expressed unstructured protein domains</article-title>
+          <source>
+            <italic>Journal of Chromatography B</italic>
+          </source>
+          <year>2003</year>
+          <volume>786</volume>
+          <issue>1-2</issue>
+          <fpage>247</fpage>
+          <lpage>254</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="fig1" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>
+					<italic>Fate of a polypeptide chain.  Left</italic>. Three structures representing typical IDPs with different disorderedness levels (from top to bottom): native coil, native premolten globule, and native molten globule. <italic>Right</italic>. Top structure illustrates a well-folded protein, whereas the bottom structure represents one of the products of protein misfolding—a molecular model of the compact, 4-protofilament insulin fibril (<ext-link ext-link-type="uri" xlink:href="http://people.cryst.bbk.ac.uk/~ubcg16z/amyloid/insmod.jpg">http://people.cryst.bbk.ac.uk/~ubcg16z/amyloid/insmod.jpg</ext-link>).</p>
+      </caption>
+      <graphic xlink:href="JBB2010-568068.001"/>
+    </fig>
+    <fig id="fig2" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <p>
+					<italic>Peculiarities of amino acid composition of ID proteins</italic>. (a) Comparison of the mean net charge and the mean hydrophobicity for a set of 275 ordered (open circles) and 91 natively unfolded proteins (gray circles). The solid line represents the border between extended IDPs and ordered proteins (see text). (b) Order/disorder composition profile. Comparisons of amino acid compositions of ordered proteins with each of three databases of disordered proteins. The ordinates are (%amino acid in disordered dataset - %amino acid in ordered dataset)/(%amino acid in ordered dataset) = ∆/globular_3D. Names of each database indicate how the disordered regions were identified. Negative values indicate that the disordered database has less than order, positive indicates more than order.</p>
+      </caption>
+      <graphic xlink:href="JBB2010-568068.002"/>
+    </fig>
+    <fig id="fig3" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <p>
+					<italic>CH-CDF analysis of the genome-linked proteins VPgs from various viruses</italic>. Comparison of the results of PONDR CDF and CH-plot analyses for whole protein order-disorder via distributions of VPgs within the CH-CDF phase space. The protein analyzed by this approach are VPgs from <italic>Sobemovirus</italic> (Rice yellow mottle viru<italic>s</italic> (RYMV), Cocksfoot mottle virus (CoMV), Ryegrass mottle virus (RGMoV), Southern bean mosaic virus (SBMV), Southern cowpea mosaic virus (SCPMV), Sesbania mottle virus (SeMV)), Potyvirus (Lettuce mosaic virus (LMV), Potato virus Y (PVY), Potato virus A (PVA), Tobacco etch virus (TEV), Turnip mosaic virus (TuMV), Bean yellow mosaic virus (BYMV)), and <italic>Caliciviridae</italic> (Rabbit hemorrhabic disease virus (RHDV), Vesicular exanthema of swine virus (VESV), Man Sapporo virus Manchester virus (SV), and Norwalk virus (NV)).</p>
+      </caption>
+      <graphic xlink:href="JBB2010-568068.003"/>
+    </fig>
+    <fig id="fig4" position="float">
+      <label>Figure 4</label>
+      <caption>
+        <p>Schematic representation of the native/8 M urea 2D electrophoresis for separation of extended IDPs and globular proteins. A <italic>continuous line</italic> marks the diagonal of the gel to where IDPs run. A <italic>dashed line</italic> marks the position of globular proteins. A few proteins with a mixture of ordered and disordered regions are also indicated as “Partial IDPs”.</p>
+      </caption>
+      <graphic xlink:href="JBB2010-568068.004"/>
+    </fig>
+  </floats-group>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

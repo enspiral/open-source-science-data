@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:23Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2873489" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2873489</identifier><datestamp>2010-05-20</datestamp><setSpec>bmcmicr</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Microbiol</journal-id>
+      <journal-title-group>
+        <journal-title>BMC Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1471-2180</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2873489</article-id>
+      <article-id pub-id-type="publisher-id">1471-2180-10-118</article-id>
+      <article-id pub-id-type="pmid">20409328</article-id>
+      <article-id pub-id-type="doi">10.1186/1471-2180-10-118</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Database</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>PseudoMLSA: a database for multigenic sequence analysis of <italic>Pseudomonas </italic>species</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes" id="A1">
+          <name>
+            <surname>Bennasar</surname>
+            <given-names>Antoni</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <xref ref-type="aff" rid="I3">3</xref>
+          <email>toni.bennasar@uib.es</email>
+        </contrib>
+        <contrib contrib-type="author" id="A2">
+          <name>
+            <surname>Mulet</surname>
+            <given-names>Magdalena</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>vdbsmmp4@uib.es</email>
+        </contrib>
+        <contrib contrib-type="author" id="A3">
+          <name>
+            <surname>Lalucat</surname>
+            <given-names>Jorge</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>jlalucat@uib.es</email>
+        </contrib>
+        <contrib contrib-type="author" id="A4">
+          <name>
+            <surname>García-Valdés</surname>
+            <given-names>Elena</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>elena.garciavaldes@uib.es</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Departament de Biologia, Microbiologia, Universitat de les Illes Balears, Campus UIB, 07122 Palma de Mallorca, Spain</aff>
+      <aff id="I2"><label>2</label>Institut Mediterrani d'Estudis Avançats (IMEDEA CSIC-UIB), Campus UIB, 07122 Palma de Mallorca, Spain</aff>
+      <aff id="I3"><label>3</label>Institut Universitari d'Investigació en Ciències de la Salut (IUNICS-UIB), Campus UIB, 07122 Palma de Mallorca, Spain</aff>
+      <pub-date pub-type="collection">
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>4</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>10</volume>
+      <fpage>118</fpage>
+      <lpage>118</lpage>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>7</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>4</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright ©2010 Bennasar et al; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <copyright-holder>Bennasar et al; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="http://www.biomedcentral.com/1471-2180/10/118"/>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>The genus <italic>Pseudomonas </italic>comprises more than 100 species of environmental, clinical, agricultural, and biotechnological interest. Although, the recommended method for discriminating bacterial species is DNA-DNA hybridisation, alternative techniques based on multigenic sequence analysis are becoming a common practice in bacterial species discrimination studies. Since there is not a general criterion for determining which genes are more useful for species resolution; the number of strains and genes analysed is increasing continuously. As a result, sequences of different genes are dispersed throughout several databases. This sequence information needs to be collected in a common database, in order to be useful for future identification-based projects.</p>
+        </sec>
+        <sec>
+          <title>Description</title>
+          <p>The PseudoMLSA Database is a comprehensive database of multiple gene sequences from strains of <italic>Pseudomonas </italic>species. The core of the database is composed of selected gene sequences from all <italic>Pseudomonas </italic>type strains validly assigned to the genus through 2008. The database is aimed to be useful for MultiLocus Sequence Analysis (MLSA) procedures, for the identification and characterisation of any <italic>Pseudomonas </italic>bacterial isolate. The sequences are available for download via a direct connection to the National Center for Biotechnology Information (NCBI). Additionally, the database includes an online BLAST interface for flexible nucleotide queries and similarity searches with the user's datasets, and provides a user-friendly output for easily parsing, navigating, and analysing BLAST results.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>The PseudoMLSA database amasses strains and sequence information of validly described <italic>Pseudomonas </italic>species, and allows free querying of the database via a user-friendly, web-based interface available at <ext-link ext-link-type="uri" xlink:href="http://www.uib.es/microbiologiaBD/Welcome.html">http://www.uib.es/microbiologiaBD/Welcome.html</ext-link>. The web-based platform enables easy retrieval at strain or gene sequence information level; including references to published peer-reviewed articles, and direct external links to more specialized strain information databases (StrainInfo) and GeneBank (NCBI). The PseudoMLSA is intended to provide helpful strain-sequence information for a better and more comprehensive discriminative multigenic sequence based analysis of this special group of bacteria, contributing to enhance our understanding of the evolution of <italic>Pseudomonas </italic>species.</p>
+        </sec>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>The genus <italic>Pseudomonas </italic>includes many species of environmental, clinical, agricultural, and biotechnological interest [<xref ref-type="bibr" rid="B1">1</xref>]. <italic>Pseudomonas </italic>is a large genus, currently comprised of more than 100 species that are phenotypically and genotypically well defined. Furthermore, new species are continuously being added to the genus, while others have been reclassified as <italic>Burkholderia</italic>, <italic>Ralstonia, Comamonas, Acidovorax, Hydrogenophaga</italic>, etc. The species currently classified as <italic>Pseudomonas </italic>have been compiled in a taxonomical web database [<xref ref-type="bibr" rid="B2">2</xref>].</p>
+      <p>Besides the phylogenetic, phenotypic, chemotaxonomical and serotyping descriptions, the recommended method for discriminating bacterial species is DNA-DNA hybridisation [<xref ref-type="bibr" rid="B3">3</xref>]. However, this method has limitations (it is time consuming, needs experience, does not define distances between species, and is not cumulative). In contrast, the MultiLocus Sequence Analysis (MLSA) is a rapid and robust classification method for the genotypic characterisation of a more diverse group of prokaryotes (including entire genera) using the sequences of multiple protein-coding genes [<xref ref-type="bibr" rid="B4">4</xref>]. In fact, Gevers and Coenye [<xref ref-type="bibr" rid="B5">5</xref>] have stated that multigenic sequence analysis, or MLSA, is starting to become a common practice in taxonomic studies, and in the future it may replace DNA-DNA hybridisations for bacterial species discrimination.</p>
+      <p>The principal aim of the MLSA procedure is the characterisation of bacterial isolates by combining the information contained in the sequences of several specific genes. The ideal, though probably unfeasible, approach for the classification of microorganisms based on MLSA would rely on the selection of a universal set of genes that permits the hierarchical classification of all prokaryotes [<xref ref-type="bibr" rid="B4">4</xref>,<xref ref-type="bibr" rid="B6">6</xref>]. However, genes that can be perfectly informative within a given genus or family may not be useful or even present in other taxa. For this reason, a more viable approach for microorganism classification schemes based on MLSA would be to design different gene sets useful for strains within a particular group, genus, or even family. Currently, each researcher selects specific genes that are not commonly used for other species; indeed, different genes are often selected for the same species. There is not a general criterion for determining which genes are more useful for taxonomic purposes [<xref ref-type="bibr" rid="B5">5</xref>]. As a result, sequences of different genes have been scattered throughout several databases. In order for this sequence information to be useful for future MLSA identification-based projects, it needs to be collected in a common database.</p>
+      <p>In many cases, the 16S rRNA gene sequence is not sufficiently discriminative for taxonomic purposes [<xref ref-type="bibr" rid="B7">7</xref>-<xref ref-type="bibr" rid="B9">9</xref>]. Consequently, several attempts have been made to identify other genes that can be used to determine the relatedness between genera or species. For example, the high rate of evolution of <italic>gyrB </italic>(gyrase subunit B) makes this gene valuable when discrimination within and between genera is needed. In the genus <italic>Pseudomonas</italic>, several other genes, <italic>ampC, citS, flicC, oriC, oprI, </italic>and <italic>pilA</italic>, from 19 environmental and clinical <italic>Pseudomonas aeruginosa </italic>isolates were analysed [<xref ref-type="bibr" rid="B10">10</xref>]. The 16S rRNA and <italic>oprF </italic>genes were also compared in 41 isolates of <italic>Pseudomonas fluorescens </italic>from clinical and environmental origin [<xref ref-type="bibr" rid="B11">11</xref>]. The <italic>gacA </italic>and <italic>rpoB </italic>genes were selected by de Souza [<xref ref-type="bibr" rid="B12">12</xref>] and Tayeb [<xref ref-type="bibr" rid="B8">8</xref>] to be analysed for the genus <italic>Pseudomonas</italic>. Yamamoto and Harayama [<xref ref-type="bibr" rid="B13">13</xref>] initially worked with 20 strains of <italic>P. putida</italic>, and 2 genes (<italic>gyrB </italic>and <italic>rpoD</italic>) were analysed and compared with 16S rRNA gene sequences of the same species. These authors later extended the study to other species of the genus <italic>Pseudomonas</italic>. The analysis of 125 strains of 31 species permitted the discrimination of complexes in the genus <italic>Pseudomonas </italic>[<xref ref-type="bibr" rid="B9">9</xref>]. Other authors showed an improved resolution in the phylogenetic relationships among <italic>Pseudomonas </italic>species by the combined analysis of several genes, such as <italic>atpD</italic>, <italic>carA</italic>, <italic>recA</italic>, and 16S rDNA, and new clusters were defined in the genus <italic>Pseudomonas </italic>[<xref ref-type="bibr" rid="B14">14</xref>]. The number of genes analysed is increasing, as is the case for the analysis of 10 genes in 58 <italic>Pseudomonas </italic>strains that generated 280 new entries in databases [<xref ref-type="bibr" rid="B15">15</xref>].</p>
+      <p>The possibility of Whole Genome Sequencing (WGS) represents a revolution for evolutionary and taxonomic analysis. Seventeen strains in the genus <italic>Pseudomonas </italic>have already been sequenced. For large bacterial populations the epidemiological or ecological approaches need simple methodological routines for which MLSA will remain a highly efficient and inexpensive technique useful for identifying species and strains relationships. Evidently, at least for sometime more than one technique will coexist.</p>
+      <p>Some facts are emerging from these recent analyses. The number of strains and genes analysed is increasing continuously, and the strains analysed are not solely bacterial pathogens. The number of genes that should be analysed does not need to be the same for identification purposes, depending on the genetic diversity of each group. The initial recommendation for typing clinical isolates was seven genes. The <italic>ad hoc </italic>committee for the re-evaluation of the species definition proposed a minimum of five housekeeping genes to achieve an adequately informative level of phylogenetic data [<xref ref-type="bibr" rid="B3">3</xref>]. <italic>P. stutzeri </italic>is a well studied example of a highly diverse species, and six genes were initially chosen to define the existing genomovars [<xref ref-type="bibr" rid="B16">16</xref>], but this number was later reduced to three: <italic>gyrB</italic>, <italic>rpoD</italic>, and 16S rDNA [<xref ref-type="bibr" rid="B17">17</xref>]. The usefulness of these genes in clarifying taxonomical descriptions has been demonstrated for <italic>Pseudomonas </italic>strain OX1 [<xref ref-type="bibr" rid="B18">18</xref>] and for the proposal of <italic>P. chloritidismutans </italic>as a junior name of <italic>P. stutzeri </italic>genomovar 3 [<xref ref-type="bibr" rid="B19">19</xref>].</p>
+      <p>Currently, the sequence data that have been generated for several genes are dispersed in databases, and the compilation of all these data is, while not difficult, labour intensive. However, a secondary database for MLSA is needed, one that is more specific and focused on <italic>Pseudomonas </italic>type strains to facilitate the species identification of <italic>Pseudomonas </italic>isolates. A good example is the recently available website called "EzTaxon" [<xref ref-type="bibr" rid="B20">20</xref>]. This website contains 16S rRNA gene sequences from all prokaryotic type strains, and represents an attempt to make the routine identification of isolates less time consuming. The compilation of an updated forum for the well-characterised (both phenotypically and genotypically) strains of <italic>Pseudomonas </italic>and for all of the genes analysed from these strains is the main objective of the new PseudoMLSA database.</p>
+    </sec>
+    <sec>
+      <title>Construction and content</title>
+      <p>The PseudoMLSA database runs on a Mac OS X platform (version 10.4.11) with the Apache web server version 1.3.41 (Darwin), MySQL server (version 5.1.34) and PHP (version 5.2.4). The web server and all parts of the database are hosted at the Microbiology Area of the Biology Department of the Universitat de les Illes Balears (UIB), Spain. We have used the generic relational BioSQL model [<xref ref-type="bibr" rid="B21">21</xref>] to support and develop a shared database schema for storing sequence data, features, and annotation in a way that is interoperable between the BioPerl, BioPython, and BioJava projects. We have used MySQL as a supported Relational Database Management System (RDBMS), plus the associated python library. GenBank files are used to supply and maintain the information necessary for the database. The sequences, features, and annotations are introduced into the database using BioPython based scripts [<xref ref-type="bibr" rid="B22">22</xref>] and the SeqIO module [<xref ref-type="bibr" rid="B23">23</xref>]. The web interfaces that allow access the information available in the database online were written in the PHP programming language. The PseudoMLSA database includes tables of taxonomic information (strains, <italic>Pseudomonas </italic>validated species names, strain equivalencies) that are routinely updated. Finally, several interfaces for <italic>in silico </italic>molecular biology services were implemented for post-processing available sequence data. The installed programs include BLAST [<xref ref-type="bibr" rid="B24">24</xref>], a CLUSTAL W Multiple Sequence Alignments form [<xref ref-type="bibr" rid="B25">25</xref>] and the programs for phylogenetic inference included in the PHYLIP package [<xref ref-type="bibr" rid="B26">26</xref>].</p>
+    </sec>
+    <sec>
+      <title>Utility and Discussion</title>
+      <p>The aims of this database project are: 1) maintenance of a well-described <italic>Pseudomonas </italic>type and strain collection, 2) construction of a sequence-based database of selected genes of members of the genus, and 3) implementation of analytical bioinformatics tools for the multi-sequence-based identification of <italic>Pseudomonas </italic>species. The database presented here and named PseudoMLSA, consists of more than 1,000 sequence entries from 99 <italic>Pseudomonas </italic>species with validly published names of the taxa concerned. The database covers more than 400 different strain entries (including type strains for each species), with information on strain equivalencies when it exists, together with the accession numbers and other features for 146 different genes. The list of genes includes the <italic>rrn </italic>operon genes (the 16S rRNA and 23S rRNA genes, the internally transcribed spacer ITS1, and the tRNA-Ala and tRNA-Ile genes), housekeeping (<italic>atpD</italic>, <italic>gyrB</italic>, <italic>recA</italic>, <italic>rpoB, rpoD</italic>, etc.), and functional genes (<italic>car</italic>, <italic>cat</italic>, <italic>nir</italic>, <italic>nor</italic>, <italic>nos</italic>, etc.). The data from the species <italic>Pseudomonas stutzeri </italic>are overrepresented in the PseudoMLSA database. Our laboratory has studied this species extensively for more than 20 years, and a large number of sequences of multiple genes have been accumulated. Furthermore, the existence in <italic>P. stutzeri </italic>of 19 well characterised genomic groups, called genomovars [<xref ref-type="bibr" rid="B27">27</xref>], has been a valuable test data set for the routine characterisation of new isolates on the basis of sets of gene sequences.</p>
+      <p>The implementation and data acquisition functions of the PseudoMLSA database are based on emerging standards for biological data [<xref ref-type="bibr" rid="B21">21</xref>,<xref ref-type="bibr" rid="B28">28</xref>], and therefore allow for the subsequent use of public routines (BioJava, BioPython and BioPerl). The database schema allows for several features, such as GenBank accession numbers, to be merged and stored as a single record (Figure <xref ref-type="fig" rid="F1">1</xref>). Gene sequences are obtained from primary databases like GenBank [<xref ref-type="bibr" rid="B29">29</xref>] and semi-automatically curated. Information for strains of <italic>Pseudomonas </italic>species is included in the databases from the GenBank report (data are imported through known accession numbers). In order to make use of validated information for <italic>Pseudomonas </italic>species and strains, the database schema includes tables that are responsible for updating and relating the validly described <italic>Pseudomonas </italic>species names with the corresponding synonymous names. Furthermore, additional database tables are maintained with the corresponding strain name equivalencies. Finally, all taxonomic names are maintained with, and linked out to, key taxonomic information sources like StrainInfo.net [<xref ref-type="bibr" rid="B30">30</xref>], a bioportal offering an integrated view of publicly available microbial cultures and their downstream information to facilitate the daunting task of tracking down an interesting strain of a given taxon. The StrainInfo.net bioportal [<xref ref-type="bibr" rid="B31">31</xref>] brings together the records of biological material kept at multiple biological resource centres into a single portal interface, with direct pointers to the relevant information at the collections' websites, providing both historical traces and geographical distribution of the strains they keep in culture. In addition, the information for <italic>Pseudomonas </italic>species and/or strains is automatically linked to related sequences in the public domain and refers to existing scientific publications that deal with the organism.</p>
+      <fig id="F1" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p><bold>General overview of the process for maintenance, queries, and analysis of gene sequences using the PseudoMLSA Database server <ext-link ext-link-type="uri" xlink:href="http://www.uib.es/microbiologiaBD/Welcome.html">http://www.uib.es/microbiologiaBD/Welcome.html</ext-link></bold>. The isolate, strain or <italic>Pseudomonas </italic>species information can be easily queried by searching against several fields. Furthermore, users can do sequence-based searches against database including user's own sequence datasets. Advanced searches are possible via configurable BLAST parameters. A more fine-tuned clustering analysis can be carried out with programs included in the PHYLIP package.</p>
+        </caption>
+        <graphic xlink:href="1471-2180-10-118-1"/>
+      </fig>
+      <p>Since the alignment of nucleotide or amino acid sequences is one of the most important tools for researchers involved in gene sequence comparison for identification purposes, users can also upload their own sequence datasets to query against. The basic local alignment search tool (BLAST), which predominates as the fastest and most widely-used tool, has been included as a web-based interface to search against the PseudoMLSA sequence database. The BLAST program is widely used for sequence similarity searches [<xref ref-type="bibr" rid="B32">32</xref>] because it provides an easy way for a user to perform BLAST searches via a web server, and it suits the general purpose of searches against the curated PseudoMLSA database. Additionally, a web interface for PHYLIP programs [<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B33">33</xref>] is implemented to carry out more precise evolutionary studies.</p>
+      <p>The PseudoMLSA database offers an interface for choosing between a user-definable set of target databases, and inputting user uploaded query sequences by pasting them directly into the query box, or by uploading sequences as FASTA files from a local computer. Users can also manipulate the BLAST parameters to glean more specific information. The results of a BLAST query to PseudoMLSA are presented with the typical BLAST report format which includes the query sequence name, subject sequence names, subject source database, bit score (linked to the pair-wise alignment result), percent identity, and E-values.</p>
+      <p>The number of gene sequences for strains in the genus <italic>Pseudomonas </italic>is continuously increasing, yet these sequences are scattered throughout existing databases. As a result, methods and databases are needed to integrate information from a variety of sources and to support faster and powerful analyses. In addition, in the specific case of the genus <italic>Pseudomonas</italic>, 16S rRNA gene sequence-based identification alone provides poor resolution due to the gene's slow evolution rate [<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B34">34</xref>]. Moreover, the excess of sequences for non-type strains, together with the need for peer-reviewed databases of 16S rRNA gene sequences (routinely used for the identification of bacteria), creates discrepancies. The combined use of the 16S rRNA gene and other molecular sequences to analyse the phylogeny of <italic>Pseudomonas </italic>could provide a systematic approach to reduce such discrepancies. Achieving this goal requires building on the analysis initially conducted by the Yamamoto [<xref ref-type="bibr" rid="B9">9</xref>,<xref ref-type="bibr" rid="B13">13</xref>] and Tayeb [<xref ref-type="bibr" rid="B8">8</xref>] groups, who sequenced the genes <italic>gyrB</italic>, <italic>rpoD </italic>and <italic>rpoB </italic>respectively, and expanding it to include all known <italic>Pseudomonas </italic>species.</p>
+      <p>The PseudoMLSA Database server provides cumulative and reliable information to facilitate MultiLocus Sequence Analysis for studies of <italic>Pseudomonas </italic>taxonomy, phylogeny, and evolution. Furthermore, it serves as a reference repository for MLST, an unambiguous procedure for characterising isolates of bacterial species using the sequences of internal fragments of usually seven housekeeping genes. This method assigns as distinct alleles the different sequences present within a bacterial species and, for each isolate, the alleles at each loci define the allelic profile or sequence type [<xref ref-type="bibr" rid="B35">35</xref>]. Consequently, the information held in the PseudoMLSA database could play two essential roles in the field of <italic>Pseudomonas </italic>research: first, to fulfil the need for the integration of information about the genus <italic>Pseudomonas </italic>that is currently widely dispersed across existing databases; and second, as a platform for a consistent identification procedure based on the analysis of sets of multiple gene sequences to settle the difficulties in assigning new isolates to already existing <italic>Pseudomonas </italic>species, and for defining novel species.</p>
+    </sec>
+    <sec>
+      <title>Conclusions</title>
+      <p>In summary, the relational database and the accompanying analysis utilities described here are necessary tools for integrating and linking sets of sequence information from different genes of the genus <italic>Pseudomonas</italic>, including universal genes with different rates of evolution (<italic>rrn</italic>, ITS, <italic>gyrB</italic>, <italic>rpoD</italic>), and specific genes for performing intra- and intergeneric comparisons on groups or species (for example, catecol-1,2-dioxigenase is characteristic of Palleroni's RNA homology group I of the genus <italic>Pseudomonas </italic>[<xref ref-type="bibr" rid="B1">1</xref>], or <italic>nosZ </italic>for denitrifying <italic>Pseudomonas</italic>). The PseudoMLSA Database is intended to provide reference sequences from strains, as well as <italic>Pseudomonas </italic>species information, both of which can be particularly helpful for MLSA of <italic>Pseudomonas</italic>. Ultimately, the purpose of the database is to afford a portable, accurate, and, highly discriminating system that can be used for the characterisation of <italic>Pseudomonas </italic>strains and isolates by nucleotide sequence based approaches via the internet.</p>
+    </sec>
+    <sec>
+      <title>Availability and requirements</title>
+      <p>The PseudoMLSA database is freely accessible through a web-server at <ext-link ext-link-type="uri" xlink:href="http://www.uib.es/microbiologiaBD/Welcome.html">http://www.uib.es/microbiologiaBD/Welcome.html</ext-link> for searches for <italic>Pseudomonas </italic>strains and multigenic sequence-related information. The PseudoMLSA database is easily queried from this web interface and whithout special requirements. Researchers involved in the characterisation of <italic>Pseudomonas </italic>strains are invited to use the database, make suggestions and submit their sequences. All comments, queries, requests and corrections should be sent by email to <email>toni.bennasar@uib.es</email>. Furthermore, notifications for new entries in the GenBank for <italic>Pseudomonas </italic>gene sequences, will be gratefully acknowledged and should be sent to this address via email and accompanied by a reference to a published, peer-reviewed article. Users of PseudoMLSA are requested to cite this article when referencing the database. PseudoMLSA currently contains 1,297 entries of <italic>Pseudomonas </italic>gene sequences, but is expected to grow continuously thanks to the rapid development of MLSA and genome projects.</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>AB designed the database and interface, performed the installation of required software, curated the database, and drafted the manuscript. MM helped to define the user requirements and prepared the strain, sequence, and reference data for the database. EGV conceived of the study and participated in its coordination. EGV interacted with AB to select and introduce the data. JL provided specialist knowledge on <italic>Pseudomonas </italic>taxonomy and phylogenetic analysis based on sequence data. JL and EGV equally oversaw the project. All authors helped to draft, read and approved the final manuscript.</p>
+    </sec>
+  </body>
+  <back>
+    <sec>
+      <title>Acknowledgements</title>
+      <p>This work was supported by projects CGL2006-09719/BOS, CGL 2008-03242/BOS and CGL 2009-12180 from the CICYT (Spain) and FEDER funding. M. Mulet was the recipient of a predoctoral fellowship from the Plà Balear de Recerca i Desenvolupament Tecnològic de les Illes Balears (PRIB).</p>
+    </sec>
+    <ref-list>
+      <ref id="B1">
+        <mixed-citation publication-type="book">
+          <name>
+            <surname>Palleroni</surname>
+            <given-names>NJ</given-names>
+          </name>
+          <person-group person-group-type="editor">Krieg NR, Holt JG</person-group>
+          <article-title>Genus I <italic>Pseudomonas </italic>Migula 1894</article-title>
+          <source>Bergeys's Manual of Systematic Bacteriolgy</source>
+          <year>1984</year>
+          <volume>2</volume>
+          <publisher-name>Baltimore. Maryland USA: The Williams and Wilkins Co</publisher-name>
+          <fpage>323</fpage>
+          <lpage>379</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="other">
+          <article-title>List of Prokaryotic names with Standing in Nomenclature (<italic>Pseudomonas</italic>)</article-title>
+          <ext-link ext-link-type="uri" xlink:href="http://www.bacterio.cict.fr/p/pseudomonas.html">http://www.bacterio.cict.fr/p/pseudomonas.html</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Stackebrandt</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Frederiksen</surname>
+            <given-names>W</given-names>
+          </name>
+          <name>
+            <surname>Garrity</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Grimont</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Kämpfer</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Maiden</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Nesme</surname>
+            <given-names>X</given-names>
+          </name>
+          <name>
+            <surname>Rosselló-Mora</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Swings</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Trüper</surname>
+            <given-names>H</given-names>
+          </name>
+          <article-title>Report of the <italic>ad hoc </italic>committee for the re-evaluation of the species definition in bacteriology</article-title>
+          <source>Int J Syst Evol Microbiol</source>
+          <year>2002</year>
+          <volume>52</volume>
+          <fpage>1043</fpage>
+          <lpage>1047</lpage>
+          <pub-id pub-id-type="doi">10.1099/ijs.0.02360-0</pub-id>
+          <pub-id pub-id-type="pmid">12054223</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gevers</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Cohan</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Lawrence</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Spratt</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Coenye</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Feil</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Stackebrandt</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Peer</surname>
+            <given-names>Y Van de</given-names>
+          </name>
+          <name>
+            <surname>Vandamme</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Thompson</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Swings</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Opinion: Re-evaluating prokaryotic species</article-title>
+          <source>Nat Rev Microbiol</source>
+          <year>2005</year>
+          <volume>3</volume>
+          <fpage>733</fpage>
+          <lpage>739</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrmicro1236</pub-id>
+          <pub-id pub-id-type="pmid">16138101</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="book">
+          <name>
+            <surname>Gevers</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Coenye</surname>
+            <given-names>T</given-names>
+          </name>
+          <person-group person-group-type="editor">Hurst CJ, Crawford RL, Garland JL, Lipson DA, Mills AL, Stetzenbach LD</person-group>
+          <article-title>Phylogenetic and genomic analysis</article-title>
+          <source>Manual of Environmental Microbiology</source>
+          <year>2007</year>
+          <edition>Third</edition>
+          <publisher-name>ASM Press Whashington DC</publisher-name>
+          <fpage>157</fpage>
+          <lpage>168</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Santos</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Ochman</surname>
+            <given-names>H</given-names>
+          </name>
+          <article-title>Identification and phylogenetic sorting of bacterial lineages with universally conserved genes and proteins</article-title>
+          <source>Environ Microbiol</source>
+          <year>2004</year>
+          <volume>6</volume>
+          <fpage>754</fpage>
+          <lpage>759</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1462-2920.2004.00617.x</pub-id>
+          <pub-id pub-id-type="pmid">15186354</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Adékambi</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Drancourt</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Raoult</surname>
+            <given-names>D</given-names>
+          </name>
+          <article-title>The <italic>rpoB </italic>gene as a tool for clinical microbiologists</article-title>
+          <source>Trends Microbiol</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>37</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tim.2008.09.008</pub-id>
+          <pub-id pub-id-type="pmid">19081723</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Ait Tayeb</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Ageron</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Grimont</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Grimont</surname>
+            <given-names>P</given-names>
+          </name>
+          <article-title>Molecular phylogeny of the genus <italic>Pseudomonas </italic>based on <italic>rpoB </italic>sequences and application for the identification of isolates</article-title>
+          <source>Res Microbiol</source>
+          <year>2005</year>
+          <volume>156</volume>
+          <fpage>763</fpage>
+          <lpage>773</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.resmic.2005.02.009</pub-id>
+          <pub-id pub-id-type="pmid">15950132</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Yamamoto</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Kasai</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Arnold</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Jackson</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Vivian</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Harayama</surname>
+            <given-names>S</given-names>
+          </name>
+          <article-title>Phylogeny of the genus <italic>Pseudomonas</italic>: intrageneric structure reconstructed from the nucleotide sequences of <italic>gyrB </italic>and <italic>rpoD </italic>genes</article-title>
+          <source>Microbiology</source>
+          <year>2000</year>
+          <volume>146</volume>
+          <fpage>2385</fpage>
+          <lpage>2394</lpage>
+          <pub-id pub-id-type="pmid">11021915</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kiewitz</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Tümmler</surname>
+            <given-names>B</given-names>
+          </name>
+          <article-title>Sequence diversity of <italic>Pseudomonas aeruginosa</italic>: impact on population structure and genome evolution</article-title>
+          <source>J Bacteriol</source>
+          <year>2000</year>
+          <volume>182</volume>
+          <fpage>3125</fpage>
+          <lpage>3135</lpage>
+          <pub-id pub-id-type="doi">10.1128/JB.182.11.3125-3135.2000</pub-id>
+          <pub-id pub-id-type="pmid">10809691</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Bodilis</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Barray</surname>
+            <given-names>S</given-names>
+          </name>
+          <article-title>Molecular evolution of the major outer-membrane protein gene (<italic>oprF</italic>) of <italic>Pseudomonas</italic></article-title>
+          <source>Microbiology</source>
+          <year>2006</year>
+          <volume>152</volume>
+          <fpage>1075</fpage>
+          <lpage>1088</lpage>
+          <pub-id pub-id-type="doi">10.1099/mic.0.28656-0</pub-id>
+          <pub-id pub-id-type="pmid">16549671</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>de Souza</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Mazzola</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Raaijmakers</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Conservation of the response regulator gene <italic>gacA </italic>in <italic>Pseudomonas </italic>species</article-title>
+          <source>Environ Microbiol</source>
+          <year>2003</year>
+          <volume>5</volume>
+          <fpage>1328</fpage>
+          <lpage>1340</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1462-2920.2003.00438.x</pub-id>
+          <pub-id pub-id-type="pmid">14641577</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Yamamoto</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Harayama</surname>
+            <given-names>S</given-names>
+          </name>
+          <article-title>Phylogenetic relationships of <italic>Pseudomonas putida </italic>strains deduced from the nucleotide sequences of <italic>gyrB</italic>, <italic>rpoD </italic>and 16S rRNA genes</article-title>
+          <source>Int J Syst Bacteriol</source>
+          <year>1998</year>
+          <volume>48</volume>
+          <fpage>813</fpage>
+          <lpage>819</lpage>
+          <pub-id pub-id-type="doi">10.1099/00207713-48-3-813</pub-id>
+          <pub-id pub-id-type="pmid">9734035</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Hilario</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Buckley</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Young</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Improved resolution on the phylogenetic relationships among <italic>Pseudomonas </italic>by the combined analysis of <italic>atpD</italic>, <italic>carA</italic>, <italic>recA </italic>and 16S rDNA</article-title>
+          <source>Antonie Van Leeuwenhoek</source>
+          <year>2004</year>
+          <volume>86</volume>
+          <fpage>51</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1023/B:ANTO.0000024910.57117.16</pub-id>
+          <pub-id pub-id-type="pmid">15103237</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Frapolli</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Défago</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Moënne-Loccoz</surname>
+            <given-names>Y</given-names>
+          </name>
+          <article-title>Multilocus sequence analysis of biocontrol fluorescent <italic>Pseudomonas </italic>spp. producing the antifungal compound 2,4-diacetylphloroglucinol</article-title>
+          <source>Environ Microbiol</source>
+          <year>2007</year>
+          <volume>9</volume>
+          <fpage>1939</fpage>
+          <lpage>1955</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1462-2920.2007.01310.x</pub-id>
+          <pub-id pub-id-type="pmid">17635541</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Cladera</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Bennasar</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Barceló</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Lalucat</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>García-Valdés</surname>
+            <given-names>E</given-names>
+          </name>
+          <article-title>Comparative genetic diversity of <italic>Pseudomonas stutzeri </italic>genomovars, clonal structure, and phylogeny of the species</article-title>
+          <source>J Bacteriol</source>
+          <year>2004</year>
+          <volume>186</volume>
+          <fpage>5239</fpage>
+          <lpage>5248</lpage>
+          <pub-id pub-id-type="doi">10.1128/JB.186.16.5239-5248.2004</pub-id>
+          <pub-id pub-id-type="pmid">15292125</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Mulet</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Gomila</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Gruffaz</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Meyer</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Palleroni</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Lalucat</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>García-Valdés</surname>
+            <given-names>E</given-names>
+          </name>
+          <article-title>Phylogenetic analysis and siderotyping as useful tools in the taxonomy of <italic>Pseudomonas stutzeri</italic>: description of a novel genomovar</article-title>
+          <source>Int J Syst Evol Microbiol</source>
+          <year>2008</year>
+          <volume>58</volume>
+          <fpage>2309</fpage>
+          <lpage>2315</lpage>
+          <pub-id pub-id-type="doi">10.1099/ijs.0.65797-0</pub-id>
+          <pub-id pub-id-type="pmid">18842847</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Cladera</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Sepúlveda-Torres</surname>
+            <given-names>LC</given-names>
+          </name>
+          <name>
+            <surname>Valens-Vadell</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Meyer</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Lalucat</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>García-Valdés</surname>
+            <given-names>E</given-names>
+          </name>
+          <article-title>A detailed phenotypic and genotypic description of <italic>Pseudomonas </italic>strain OX1</article-title>
+          <source>Syst Appl Microbiol</source>
+          <year>2006</year>
+          <volume>29</volume>
+          <fpage>422</fpage>
+          <lpage>430</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.syapm.2005.11.007</pub-id>
+          <pub-id pub-id-type="pmid">16337764</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Cladera</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>García-Valdés</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Lalucat</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Genotype versus phenotype in the circumscription of bacterial species: the case of <italic>Pseudomonas stutzeri </italic>and <italic>Pseudomonas chloritidismutans</italic></article-title>
+          <source>Arch Microbiol</source>
+          <year>2006</year>
+          <volume>184</volume>
+          <fpage>353</fpage>
+          <lpage>361</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00203-005-0052-x</pub-id>
+          <pub-id pub-id-type="pmid">16315012</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Chun</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Lee</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Jung</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Kim</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Kim</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Kim</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Lim</surname>
+            <given-names>Y</given-names>
+          </name>
+          <article-title>EzTaxon: a web-based tool for the identification of prokaryotes based on 16S ribosomal RNA gene sequences</article-title>
+          <source>Int J Syst Evol Microbiol</source>
+          <year>2007</year>
+          <volume>57</volume>
+          <fpage>2259</fpage>
+          <lpage>2261</lpage>
+          <pub-id pub-id-type="doi">10.1099/ijs.0.64915-0</pub-id>
+          <pub-id pub-id-type="pmid">17911292</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="other">
+          <article-title>BioSQL Project Main Page</article-title>
+          <ext-link ext-link-type="uri" xlink:href="http://www.biosql.org/wiki/Main_Page">http://www.biosql.org/wiki/Main_Page</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Chapman</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Chang</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Biopython: Python tools for computational biology</article-title>
+          <source>ACM SIGBIO Newsletter</source>
+          <year>2000</year>
+          <volume>20</volume>
+          <fpage>15</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1145/360262.360268</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="other">
+          <name>
+            <surname>Knight</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>SEQIO: A C Package for Reading and Writing Sequences</article-title>
+          <year>1996</year>
+          <comment>Distributed by the author</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Altschul</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Gish</surname>
+            <given-names>W</given-names>
+          </name>
+          <name>
+            <surname>Miller</surname>
+            <given-names>W</given-names>
+          </name>
+          <name>
+            <surname>Myers</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Lipman</surname>
+            <given-names>D</given-names>
+          </name>
+          <article-title>Basic local alignment search tool</article-title>
+          <source>J Mol Biol</source>
+          <year>1990</year>
+          <volume>215</volume>
+          <fpage>403</fpage>
+          <lpage>410</lpage>
+          <pub-id pub-id-type="pmid">2231712</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Thompson</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Higgins</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Gibson</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>1994</year>
+          <volume>22</volume>
+          <fpage>4673</fpage>
+          <lpage>4680</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/22.22.4673</pub-id>
+          <pub-id pub-id-type="pmid">7984417</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="other">
+          <name>
+            <surname>Felsenstein</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>PHYLIP - Phylogeny Inference Package (Version 3.2)</article-title>
+          <year>1989</year>
+          <volume>5</volume>
+          <fpage>164</fpage>
+          <lpage>166</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Rossello</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>García-Valdés</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Lalucat</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Ursing</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Genotypic and phenotypic diversity of <italic>Pseudomonas stutzeri</italic></article-title>
+          <source>Syst Appl Microbiol</source>
+          <year>1991</year>
+          <volume>14</volume>
+          <fpage>150</fpage>
+          <lpage>157</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Croce</surname>
+            <given-names>O</given-names>
+          </name>
+          <name>
+            <surname>Lamarre</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Christen</surname>
+            <given-names>R</given-names>
+          </name>
+          <article-title>Querying the public databases for sequences using complex keywords contained in the feature lines</article-title>
+          <source>BMC Bioinformatics</source>
+          <year>2006</year>
+          <volume>7</volume>
+          <fpage>45</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2105-7-45</pub-id>
+          <pub-id pub-id-type="pmid">16441875</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="other">
+          <article-title>GenBank at NCBI</article-title>
+          <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/Genbank/">http://www.ncbi.nlm.nih.gov/Genbank/</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Dawyndt</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Vancanneyt</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>De Meyer</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Swings</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Knowledge accumulation and resolution of data inconsistencias during the integration of microbial information sources</article-title>
+          <source>IEEE Trans Knowledge Data Eng</source>
+          <year>2005</year>
+          <volume>17</volume>
+          <fpage>1111</fpage>
+          <lpage>1126</lpage>
+          <pub-id pub-id-type="doi">10.1109/TKDE.2005.131</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="other">
+          <article-title>StrainInfo</article-title>
+          <ext-link ext-link-type="uri" xlink:href="http://www.straininfo.net/">http://www.straininfo.net/</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>McGinnis</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Madden</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>BLAST: at the core of a powerful and diverse set of sequence analysis tools</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2004</year>
+          <volume>32</volume>
+          <fpage>W20</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkh435</pub-id>
+          <pub-id pub-id-type="pmid">15215342</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lim</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Zhang</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>WebPHYLIP: a web interface to PHYLIP</article-title>
+          <source>Bioinformatics</source>
+          <year>1999</year>
+          <volume>15</volume>
+          <fpage>1068</fpage>
+          <lpage>1069</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/15.12.1068</pub-id>
+          <pub-id pub-id-type="pmid">10746002</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Moore</surname>
+            <given-names>ERB</given-names>
+          </name>
+          <name>
+            <surname>Mau</surname>
+            <given-names>MAA</given-names>
+          </name>
+          <name>
+            <surname>Böttger</surname>
+            <given-names>EC</given-names>
+          </name>
+          <name>
+            <surname>A</surname>
+            <given-names>HR</given-names>
+          </name>
+          <name>
+            <surname>Collins</surname>
+            <given-names>MD</given-names>
+          </name>
+          <name>
+            <surname>Peer</surname>
+            <given-names>Y van de</given-names>
+          </name>
+          <name>
+            <surname>de Wachter</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Timmis</surname>
+            <given-names>KN</given-names>
+          </name>
+          <article-title>The determination and comparison of the 16S rRNA gene sequences of species of the genus <italic>Pseudomonas </italic>(<italic>sensu stricto</italic>) and estimation of the natural intrageneric relationships</article-title>
+          <source>Syst Appl Microbiol</source>
+          <year>1996</year>
+          <volume>19</volume>
+          <fpage>478</fpage>
+          <lpage>492</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Maiden</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Bygraves</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Feil</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Morelli</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Russell</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Urwin</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Q</given-names>
+          </name>
+          <name>
+            <surname>Zhou</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Zurth</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Caugant</surname>
+            <given-names>D</given-names>
+          </name>
+          <article-title>Multilocus sequence typing: a portable approach to the identification of clones within populations of pathogenic microorganisms</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>1998</year>
+          <volume>95</volume>
+          <fpage>3140</fpage>
+          <lpage>3145</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.95.6.3140</pub-id>
+          <pub-id pub-id-type="pmid">9501229</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,3370 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:37Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2757907" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2757907</identifier><datestamp>2009-10-26</datestamp><setSpec>plosntd</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Negl Trop Dis</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosntds</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Neglected Tropical Diseases</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1935-2727</issn>
+      <issn pub-type="epub">1935-2735</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2757907</article-id>
+      <article-id pub-id-type="pmid">19855829</article-id>
+      <article-id pub-id-type="publisher-id">09-PNTD-RV-0335R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0000538</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Evolutionary Biology/Microbial Evolution and Genomics</subject>
+          <subject>Genetics and Genomics/Bioinformatics</subject>
+          <subject>Genetics and Genomics/Comparative Genomics</subject>
+          <subject>Genetics and Genomics/Functional Genomics</subject>
+          <subject>Genetics and Genomics/Genome Projects</subject>
+          <subject>Genetics and Genomics/Genomics</subject>
+          <subject>Genetics and Genomics/Pharmacogenomics</subject>
+          <subject>Genetics and Genomics/Plant Genomes and Evolution</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Helminth Genomics: The Implications for Human Health</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brindley</surname>
+            <given-names>Paul J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mitreva</surname>
+            <given-names>Makedonka</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ghedin</surname>
+            <given-names>Elodie</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lustigman</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Department of Microbiology, Immunology, and Tropical Medicine, George Washington University Medical Center, Washington, D. C., United States of America</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Genome Centre and Department of Genetics, Washington University School of Medicine, St. Louis, Missouri, United States of America</addr-line>
+      </aff>
+      <aff id="aff3">
+        <label>3</label>
+        <addr-line>Division of Infectious Diseases, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United States of America</addr-line>
+      </aff>
+      <aff id="aff4">
+        <label>4</label>
+        <addr-line>New York Blood Center, Laboratory of Molecular Parasitology, New York, New York, United States of America</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Knight</surname>
+            <given-names>Matty</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">Biomedical Research Institute, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>mtmpjb@gwumc.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>3</volume>
+      <issue>10</issue>
+      <elocation-id>e538</elocation-id>
+      <permissions>
+        <copyright-statement>Brindley et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <abstract>
+        <p>More than two billion people (one-third of humanity) are infected with parasitic roundworms or flatworms, collectively known as helminth parasites. These infections cause diseases that are responsible for enormous levels of morbidity and mortality, delays in the physical development of children, loss of productivity among the workforce, and maintenance of poverty. Genomes of the major helminth species that affect humans, and many others of agricultural and veterinary significance, are now the subject of intensive genome sequencing and annotation. Draft genome sequences of the filarial worm <italic>Brugia malayi</italic> and two of the human schistosomes, <italic>Schistosoma japonicum</italic> and <italic>S. mansoni</italic>, are now available, among others. These genome data will provide the basis for a comprehensive understanding of the molecular mechanisms involved in helminth nutrition and metabolism, host-dependent development and maturation, immune evasion, and evolution. They are likely also to predict new potential vaccine candidates and drug targets. In this review, we present an overview of these efforts and emphasize the potential impact and importance of these new findings.</p>
+      </abstract>
+      <counts>
+        <page-count count="9"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Helminth Infections—The Great Neglected Tropical Diseases</title>
+      <p>Helminth parasites are parasitic worms from the phyla Nematoda (roundworms) and Platyhelminthes (flatworms) (<xref ref-type="fig" rid="pntd-0000538-g001">Figures 1</xref> and <xref ref-type="fig" rid="pntd-0000538-g002">2</xref>); together, they comprise the most common infectious agents of humans in developing countries. The collective burden of the common helminth diseases—which range from the dramatic sequelae of elephantiasis and blindness to the more subtle but widespread effects on child development, pregnancy, and productivity—rivals that of the main high-mortality conditions such as HIV/AIDS or malaria <xref ref-type="bibr" rid="pntd.0000538-Hotez1">[1]</xref>. For example, based on a recent analysis <xref ref-type="bibr" rid="pntd.0000538-Hotez2">[2]</xref>, 85% of the neglected tropical disease (NTD) burden for the poorest 500 million people living in sub-Saharan Africa (SSA) results from helminth infections. Hookworm infection occurs in almost half of the poorest people in SSA, including 40–50 million school-aged children and 7 million pregnant women, in whom it is a leading cause of anemia. Schistosomiasis (192 million cases) is the second most prevalent NTD after hookworm, accounting for 93% of the world's number of cases of schistosomiasis and possibly associated with increased horizontal transmission of HIV/AIDS. Lymphatic filariasis (46–51 million cases) and onchocerciasis (37 million cases) are also widespread in SSA, each disease representing a significant cause of disability and reduction in the region's agricultural productivity. The disease burden estimate in disability-adjusted life years (DALYs) for total helminth infections in SSA is 5.4–18.3 million in comparison to 40.9 million DALYs for malaria and 9.3 million DALYs for tuberculosis. Yet, research into helminth infections has not received nearly the same level of support. This is partly because helminthiases are diseases of the poorest people in the poorest regions, but also because these pathogens are difficult to study in the laboratory by comparison to most model eukaryotes and many other pathogens. Standard tools and approaches, including cell lines, culture in vitro, and animal models, are generally lacking. In addition, the genomes of helminths are generally much more complex than those of model organisms like yeast and fruit flies <xref ref-type="bibr" rid="pntd.0000538-Hotez2">[2]</xref>.</p>
+      <fig id="pntd-0000538-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0000538.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Montage of some of the major human helminth parasites, their developmental stages, and disease pathology.</title>
+          <p>(A) Microfilaria of <italic>Brugia malayi</italic> in a thick blood smear, stained with Giemsa (<ext-link ext-link-type="uri" xlink:href="http://www.dpd.cdc.gov/dpdx/html/frames/a-f/filariasis/body_Filariasis_mic1.htm">http://www.dpd.cdc.gov/dpdx/html/frames/a-f/filariasis/body_Filariasis_mic1.htm</ext-link>); the microfilaria is about 250 µm in length. (B) Patient with lymphedema of the left leg due to lymphatic filariasis (<ext-link ext-link-type="uri" xlink:href="http://www.cdc.gov/ncidod/dpd/parasites/lymphaticfilariasis/index.htm">http://www.cdc.gov/ncidod/dpd/parasites/lymphaticfilariasis/index.htm</ext-link>). (C) Hookworm egg passed in the stool of an infected person; the microscopic egg, barrel-shaped with a thin wall, is about 70×40 µm in dimension. (D) longitudinal section through an adult hookworm attached to wall of small intestine, ingesting host blood and mucosal wall. The parasite is about 1 cm in length. (E) Eggs of <italic>Schistosoma mansoni</italic>. The egg is about 150×50 µm in dimension; the lateral spine is diagnostic for <italic>S. mansoni</italic> in comparison to the other human schistosome species. Fibrotic responses to schistosome eggs trapped in the intestines, liver, and other organs of the infected person are the cause of the schistosomiasis pathology and morbidity. (F) A pair of adult worms of the blood fluke <italic>Schistosoma mansoni</italic>; the more slender female worm resides in the gynecophoral canal of the thicker male. The worms are about 1.5 cm in length, and live for many years (<ext-link ext-link-type="uri" xlink:href="http://www.dpd.cdc.gov/dpdx/HTML/ImageLibrary/Schistosomiasis_il.htm">http://www.dpd.cdc.gov/dpdx/HTML/ImageLibrary/Schistosomiasis_il.htm</ext-link> ).</p>
+        </caption>
+        <graphic xlink:href="pntd.0000538.g001"/>
+      </fig>
+      <fig id="pntd-0000538-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0000538.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Phylogeny of the major taxa of human helminths—nematodes and platyhelminths—as established by maximum likelihood (ML) analysis of 18S ribosomal RNA from 18 helminth species.</title>
+          <p>Sequences were aligned using ClustalX <xref ref-type="bibr" rid="pntd.0000538-Chenna1">[93]</xref>. The topology of the tree was derived from a consensus tree by neighbor-joining–based bootstrapping, its branch lengths were computed using a ML-based method, and it was rooted with the orthologue from the brewer's yeast, <italic>Saccharomyces cerevisiae</italic>. The branch lengths of the phylogenetic tree were computed using DNAML (PHYLIP package <xref ref-type="bibr" rid="pntd.0000538-Felsenstein1">[94]</xref>) by allowing rate variation among sites. The headings Chromadorea, Enoplea, Trematoda, and Cestoda are major classes of the phyla Nematoda and Platyhelminthes. The GenBank accession numbers of aligned sequences are DQ118536.1 (<italic>Trichuris trichiura</italic>), AY851265.1 (<italic>Trichuris suis</italic>), AF036637.1 (<italic>Trichuris muris</italic>), AY497012.1 (<italic>Trichinella spiralis</italic>), U94366.1 (<italic>Ascaris lumbricoides</italic>), AF036587.1 (<italic>Ascaris suum</italic>), AF036588.1 (<italic>Brugia malayi</italic>), AJ920348.1 (<italic>Necator americanus</italic>), AJ920347.2 (<italic>Ancylostoma caninum</italic>), AF036597.1 (<italic>Nippostrongylus brasiliensis</italic>), X03680.1 (<italic>Caenorhabditis elegans</italic>), AF036605.1 (<italic>Strongyloides ratti</italic>), U81581.1 (<italic>Strongyloides ratti</italic>), AB453329.1 (<italic>Strongyloides ratti</italic>), AF279916.2 (<italic>Strongyloides stercoralis</italic>), AB453315.1 (<italic>Strongyloides stercoralis</italic>), M84229.1 (<italic>Strongyloides stercoralis</italic>), EU011664.1 (<italic>Saccharomyces cerevisiae</italic>), , U27015.1 (<italic>Saccharomyces cerevisiae</italic>), DQ157224.1 (<italic>Taenia solium</italic>), AF229852.1 (<italic>Clonorchis sinensis</italic>), Z11590.1 (<italic>Schistosoma japonicum</italic>), Z11976.1 (<italic>Schistosoma haematobium</italic>), U65657.1 (<italic>Schistosoma mansoni</italic>).</p>
+        </caption>
+        <graphic xlink:href="pntd.0000538.g002"/>
+      </fig>
+      <p>Whereas helminth diseases are ancient scourges of humanity, with some known from biblical times, most can also be considered as re-emerging diseases in the sense that new outbreaks are reported routinely in response to environmental and sociopolitical changes <xref ref-type="bibr" rid="pntd.0000538-Patz1">[3]</xref>. For example, schistosomiasis has reemerged many times in Africa in recent times in response to hydrological changes, e.g. construction of dams, irrigation canals, reservoirs, etc. that establish suitable new environments for the intermediate host snails that transmit the parasites. Schistosomiasis has also reemerged in mountainous and hilly regions in Sichuan, China, where it had been controlled previously by intensive interventions <xref ref-type="bibr" rid="pntd.0000538-Liang1">[4]</xref>. Furthermore, new strains of schistosomes are indeed emerging through natural hybridizations between human and cattle species of schistosomes <xref ref-type="bibr" rid="pntd.0000538-Huyse1">[5]</xref>.</p>
+      <p>Despite the difficulties with investigation of helminth parasites, new insights into fundamental helminth biology are accumulating through genome projects and the application of genome manipulation technologies including RNA interference and transgenesis (<xref ref-type="fig" rid="pntd-0000538-g003">Figure 3</xref>). What's more, research on immunology of helminth infections has contributed enormously to our understanding of Th2 immune responses, the function of regulatory T cells, generation of alternatively activated macrophages, and the transmission dynamics of infectious agents. It is hoped that this progress can be translated into new and robust drugs, diagnostics, and vaccines for the helminth diseases of humanity and those of our livestock and companion species <xref ref-type="bibr" rid="pntd.0000538-Hotez1">[1]</xref>, <xref ref-type="bibr" rid="pntd.0000538-Kalinna1">[6]</xref>–<xref ref-type="bibr" rid="pntd.0000538-Lustigman1">[10]</xref>.</p>
+      <fig id="pntd-0000538-g003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0000538.g003</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Some recent approaches to expressing transgenes in human helminths.</title>
+          <p>(A) Luciferase activity in <italic>Schistosoma mansoni</italic> larvae (schistosomules) after transduction with a pseudotyped retrovirus that expresses the luciferase reporter gene. Anti-luciferase antibody staining of schistosomules three days after exposure to pseudotyped lentivirus carrying the firefly luciferase transgene. Schistosomules examined by confocal laser microscopy; (i) bright field, (ii) fluorescence red channel, (iii) merged images. Control non-transformed worms showed only background levels of fluorescence (not shown; see <xref ref-type="bibr" rid="pntd.0000538-Morales2">[34]</xref>–<xref ref-type="bibr" rid="pntd.0000538-Kines2">[36]</xref> for relevant hypotheses and experimental methods). (B) Recent studies on transgenic <italic>Strongyloides stercoralis</italic> indicated that morphogenesis of the infective L3 stage larva requires the DAF-16 orthologue FKTF-1 <xref ref-type="bibr" rid="pntd.0000538-Castelletto1">[38]</xref>. L3s of this parasitic nematode were transfected with plasmids carrying the transgene fktf-1<italic>b</italic>::gfp::fktf-1b and examined by fluorescence microscopy. (i, ii) Transgenic first-stage larvae express green fluorescent protein (GFP) in the procorpus (arrow) of the pharynx. (iii, iv) A first-stage larva (L1) expresses the GFP::FKTF-1b(wt) transgene in the hypodermis. (v, vi) An infective L3 expresses the GFP::FKTF-1b(wt) fusion protein in the hypodermis and in a narrow band in the pharynx (arrow). Scale bars, 10 µm. Adapted from <xref ref-type="bibr" rid="pntd.0000538-Castelletto1">[38]</xref>.</p>
+        </caption>
+        <graphic xlink:href="pntd.0000538.g003"/>
+      </fig>
+    </sec>
+    <sec id="s2">
+      <title>Genomics Approaches to Investigating Helminths</title>
+      <p>Over the past decade, increasing numbers of helminth-specific genome sequences have become available due to ever-improving techniques for obtaining biological material, extracting RNA and DNA, constructing complimentary DNA (cDNA)/whole genome shotgun libraries, and, especially, major advances in the chemistry and instrumentation for DNA sequencing and its concomitant decreased cost. Helminth genomics began with the generation and analysis of transcribed sequences (expressed sequence tags [ESTs] <xref ref-type="bibr" rid="pntd.0000538-Franco1">[11]</xref>), which has proved to be a rapid and cost-effective route to discover genes in other eukaryotes. In April 2009, there were ∼550,000 nematode and 450,000 platyhelminth ESTs in the dbEST division of GenBank, excluding those from the model nematode <italic>Caenorhabditis rhabditis</italic>. Of these, 60% were from parasites of humans and closely related animal pathogens used to study human infections (<xref ref-type="table" rid="pntd-0000538-t001">Table 1</xref>). These ESTs have many applications. They can be used to annotate helminth genomes (see below) to determine alternative splicing, verify open reading frames, and confirm exon/intron and gene boundaries. They are valuable also, for example, in functional genomics to design probes for expression microarrays (e.g., <xref ref-type="bibr" rid="pntd.0000538-Gobert1">[12]</xref>) and to provide putative protein sequence information for proteomics methods (e.g., <xref ref-type="bibr" rid="pntd.0000538-Robinson1">[13]</xref>), to name but a few applications. Quantitative analysis of ESTs (transcriptomics), including serial expression of gene analysis, can identify transcripts that are either over- or under-represented by comparison to other transcripts in various helminth life cycle stages or tissues (e.g., <xref ref-type="bibr" rid="pntd.0000538-Mitreva2">[14]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Taft1">[15]</xref>), and the subset of genes evaluated with gene ontology programs provide insights into cellular and metabolic pathway functioning in the parasite (e.g., <xref ref-type="bibr" rid="pntd.0000538-Mitreva3">[16]</xref>). Furthermore, one can identify potential targets for interventions by applying a hierarchy of considerations including a matrix of biological, expression, and phenotypic data <xref ref-type="bibr" rid="pntd.0000538-McCarter1">[17]</xref> or by performing a pan-phylum analysis to identify conserved parasite-specific genes whose selective targeting will have low or no toxicity to the host <xref ref-type="bibr" rid="pntd.0000538-Wasmuth1">[18]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Yin1">[19]</xref> or genes that have diverged enough from the host counterpart, resulting in altered or absent functions <xref ref-type="bibr" rid="pntd.0000538-Wang1">[20]</xref>.</p>
+      <table-wrap id="pntd-0000538-t001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0000538.t001</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Human parasitic helminths (and their close relatives) with genome sequencing projects completed or underway.</title>
+        </caption>
+        <alternatives>
+          <graphic id="pntd-0000538-t001-1" xlink:href="pntd.0000538.t001"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Phylum or Class</td>
+                <td align="left" rowspan="1" colspan="1">Species</td>
+                <td align="left" rowspan="1" colspan="1">Common Name / Disease</td>
+                <td align="left" rowspan="1" colspan="1">Primary host</td>
+                <td align="left" rowspan="1" colspan="1">Genome size, Mb</td>
+                <td align="left" rowspan="1" colspan="1">GenBank Project ID</td>
+                <td align="left" rowspan="1" colspan="1">cDNAs (3730 ABI), 1,000 s</td>
+                <td align="left" rowspan="1" colspan="1">Genome Sequencing Status</td>
+                <td align="left" rowspan="1" colspan="1">Sequencing Institute<xref ref-type="table-fn" rid="nt101">a</xref></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colspan="9" align="left" rowspan="1">
+                  <bold>Nematoda (roundworms)</bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Clade V<xref ref-type="table-fn" rid="nt102">b</xref></td>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Necator americanus</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Hookworm/necatoriasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">20369</td>
+                <td align="left" rowspan="1" colspan="1">5</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">WUGC</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Ancylostoma caninum</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Model hookworm</td>
+                <td align="left" rowspan="1" colspan="1">Dog</td>
+                <td align="left" rowspan="1" colspan="1">344</td>
+                <td align="left" rowspan="1" colspan="1">12841</td>
+                <td align="left" rowspan="1" colspan="1">81</td>
+                <td align="left" rowspan="1" colspan="1">Improving draft</td>
+                <td align="left" rowspan="1" colspan="1">WUGC</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Nippostrongylus brasiliensis</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Model hookworm</td>
+                <td align="left" rowspan="1" colspan="1">Rat</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">20445</td>
+                <td align="left" rowspan="1" colspan="1">14.7</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Clade IV</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Strongyloides stercoralis</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Threadworm/strongyloidiasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">11.4</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>S. ratti</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Model threadworm</td>
+                <td align="left" rowspan="1" colspan="1">Rat</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">27.4</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI/WUGC</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Clade III</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Ascaris lumbricoides</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Large roundworm/ascariasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">230</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">1.8</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>A. sum</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Model large roundworm</td>
+                <td align="left" rowspan="1" colspan="1">Pig</td>
+                <td align="left" rowspan="1" colspan="1">230</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">55.7</td>
+                <td align="left" rowspan="1" colspan="1">Improving draft</td>
+                <td align="left" rowspan="1" colspan="1">WUGC/SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Brugia malayi</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Filaria/lymphatic filariasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">96</td>
+                <td align="left" rowspan="1" colspan="1">9549</td>
+                <td align="left" rowspan="1" colspan="1">26.2</td>
+                <td align="left" rowspan="1" colspan="1">Improving draft</td>
+                <td align="left" rowspan="1" colspan="1">TIGR/University of Pittsburgh</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Loa Loa</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Filaria/loaisis (cutaneous filariasis)/African eye worm</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">3.3</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">BI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Onchocerca volvulus</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Filaria/river blindness</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">150</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">15</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Acanthocheilonema viteae</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Model filaria</td>
+                <td align="left" rowspan="1" colspan="1">Rodent</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">33239</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">UMIGS</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Clade I</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Trichinella spiralis</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Trichina worm/trichinosis</td>
+                <td align="left" rowspan="1" colspan="1">Pig to human</td>
+                <td align="left" rowspan="1" colspan="1">71</td>
+                <td align="left" rowspan="1" colspan="1">12605</td>
+                <td align="left" rowspan="1" colspan="1">25.3</td>
+                <td align="left" rowspan="1" colspan="1">Draft completed</td>
+                <td align="left" rowspan="1" colspan="1">WUGC</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Trichuris trichiura</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Whipworm/trichuriasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>T. muris</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Model whipworm</td>
+                <td align="left" rowspan="1" colspan="1">Mouse</td>
+                <td align="left" rowspan="1" colspan="1">96</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">7</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>T. suis</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Model whipworm</td>
+                <td align="left" rowspan="1" colspan="1">Pig</td>
+                <td align="left" rowspan="1" colspan="1">-</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">WUGC</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <bold>Cestoda (tapeworms)</bold>
+                </td>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Echinococcus multilocularis</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Tapeworm/alveolar hydatidosis</td>
+                <td align="left" rowspan="1" colspan="1">Rodent; larva infects humans</td>
+                <td align="left" rowspan="1" colspan="1">150</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">1</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>E. granulosus</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Tapeworm/unilocular hydatidosis</td>
+                <td align="left" rowspan="1" colspan="1">Canids; larva infects humans</td>
+                <td align="left" rowspan="1" colspan="1">150</td>
+                <td align="left" rowspan="1" colspan="1">12620</td>
+                <td align="left" rowspan="1" colspan="1">10</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Taenia solium</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Pork tapeworm/taeniasis/cysticercosis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">270</td>
+                <td align="left" rowspan="1" colspan="1">17815</td>
+                <td align="left" rowspan="1" colspan="1">25</td>
+                <td align="left" rowspan="1" colspan="1">Draft completed</td>
+                <td align="left" rowspan="1" colspan="1">Mexico City</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <bold>Trematoda (flukes)</bold>
+                </td>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Schistosoma mansoni</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Blood fluke/intestinal schistosomiasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">390</td>
+                <td align="left" rowspan="1" colspan="1">12599</td>
+                <td align="left" rowspan="1" colspan="1">206</td>
+                <td align="left" rowspan="1" colspan="1">Draft completed</td>
+                <td align="left" rowspan="1" colspan="1">SI/TIGR</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>S. haematobium</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Blood fluke/urinary schistosomiasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">12616</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SI</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>S. japonicum</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Blood fluke/intestinal schistosomiasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">400</td>
+                <td align="left" rowspan="1" colspan="1">29491</td>
+                <td align="left" rowspan="1" colspan="1">104</td>
+                <td align="left" rowspan="1" colspan="1">Draft completed</td>
+                <td align="left" rowspan="1" colspan="1">CNHGC</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Clonorchis sinensis</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Liver fluke/clonorchiasis</td>
+                <td align="left" rowspan="1" colspan="1">Human</td>
+                <td align="left" rowspan="1" colspan="1">—</td>
+                <td align="left" rowspan="1" colspan="1">17975</td>
+                <td align="left" rowspan="1" colspan="1">3</td>
+                <td align="left" rowspan="1" colspan="1">In progress</td>
+                <td align="left" rowspan="1" colspan="1">SNUCM</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="nt101">
+            <label>a</label>
+            <p>WUGC, Washington University's Genome Center.</p>
+          </fn>
+          <fn id="nt102">
+            <label>b</label>
+            <p>Phylogeny based on Blaxter et al. <xref ref-type="bibr" rid="pntd.0000538-Blaxter1">[47]</xref>.</p>
+          </fn>
+          <fn id="nt103">
+            <label/>
+            <p>BI, Broad Institute; CNHGC, Chinese National HGC; SI, Sanger Institute; SNUCM, Seoul National University College of Medicine; TIGR, The Institute for Genomic Research (now JCVI).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>The first multicellular genome sequenced was that of the free-living roundworm <italic>C. elegans</italic> <xref ref-type="bibr" rid="pntd.0000538-The1">[21]</xref>; reported in 1998, it is still the only metazoan for which the sequence of every nucleotide is known with high confidence. Today, the genome sequences of 22 species of helminths that either infect humans or are closely related parasites are completed or underway (<xref ref-type="table" rid="pntd-0000538-t001">Table 1</xref>). A comprehensive genome analysis has been published for several of them, including the lymphatic filarial nematode <italic>Brugia malayi</italic> <xref ref-type="bibr" rid="pntd.0000538-Ghedin1">[22]</xref>, the dog hookworm <italic>Ancylostoma caninum</italic> <xref ref-type="bibr" rid="pntd.0000538-Abubucker1">[23]</xref>, and the blood flukes <italic>Schistosoma japonicum</italic> and <italic>S. mansoni</italic> <xref ref-type="bibr" rid="pntd.0000538-Schistosoma1">[24]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Berriman2">[25]</xref> (<xref ref-type="fig" rid="pntd-0000538-g001">Figure 1</xref>; <xref ref-type="table" rid="pntd-0000538-t001">Table 1</xref>). Some of the main obstacles to research on human parasites are their life cycle complexity, tissue complexity, and the paucity of genetic and transgenic methods for manipulating genes of interest. Comparative genome analyses have also provided insights into the adaptations of various parasites to niches in their human (and vector) hosts as well as insights into the molecular basis of the mutualistic relationship between the filarial nematode <italic>B. malayi</italic> and its endosymbiont <italic>Wolbachia</italic> (see below).</p>
+      <p>The genomes of the schistosomes <italic>S. japonicum</italic> and <italic>S. mansoni</italic> are the first complete genomes reported for members of the Lophotrochozoa <xref ref-type="bibr" rid="pntd.0000538-Schistosoma1">[24]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Berriman2">[25]</xref>, a large taxon that includes about 50% of all metazoan phyla including the mollusks, annelids, brachiopods, nemerteans, bryozoans, playthelminths, and others <xref ref-type="bibr" rid="pntd.0000538-Dunn1">[26]</xref>. These schistosome genome sequences revealed remarkable features of the host–parasite relationship. Among these, the schistosome genome has lost numerous protein-encoding domains. Whereas the total number (∼6,000) of protein families is broadly similar among schistosomes, humans, <italic>C. elegans</italic>, and fruit fly, about 1,000 protein domains have been abandoned by <italic>S. japonicum</italic>, including some involved in basic metabolic pathways and defense, implying that loss of these domains could be a consequence of the adoption of a parasitic way of life. If so, the remaining molecular repertoire must have evolved in parallel with this extensive domain loss to permit the pathogen to locate and infect humans efficiently, nourish itself, and interact with the external environment as well as with the host. On the other hand, despite extensive gene and domain loss, a number of schistosome gene families have expanded and these provide insights into the requirements for a parasitic lifestyle. Among the expanded gene families, a metalloprotease called invadolysin (or leishmanolysin) has at least 12 putative family members in schistosomes compared to a single orthologue in the human, fruit fly, and <italic>C. elegans</italic> genomes and only three in the free-living flatworm <italic>S. mediterranea</italic>. This protease family may facilitate skin penetration and tissue invasion by the cercaria, the infective-stage larva of the schistosome <xref ref-type="bibr" rid="pntd.0000538-Schistosoma1">[24]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Berriman2">[25]</xref>.</p>
+      <p>Publication of genome sequences of filaria and schistosomes has underscored the pressing need to develop functional genomics approaches for these significant pathogens. Functional analyses—which use approaches such as RNA interference (RNAi) and translational studies—are essential to resolve uncertainties in the molecular physiology of helminths and to illuminate mechanisms of pathogenesis that may lead to development of new interventions to control and eliminate these parasites or the diseases. Progress in the functional genomics of helminths was reviewed recently <xref ref-type="bibr" rid="pntd.0000538-Kalinna1">[6]</xref>,<xref ref-type="bibr" rid="pntd.0000538-KrautzPeterson1">[27]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Mann1">[28]</xref>. In brief, RNAi has been used to inactivate the RNA products of several genes in schistosomes (e.g., <xref ref-type="bibr" rid="pntd.0000538-Freitas1">[29]</xref>–<xref ref-type="bibr" rid="pntd.0000538-Faghiri1">[32]</xref>) and nematodes (e.g., <xref ref-type="bibr" rid="pntd.0000538-Ford1">[33]</xref>; reviewed in <xref ref-type="bibr" rid="pntd.0000538-Mitreva1">[8]</xref>). In addition, the recent genome sequences of <italic>S. mansoni</italic> and <italic>S. japonicum</italic> now make feasible genome-scale investigation of transgene integration into schistosome chromosomes. Gene therapy–like approaches to transform schistosomes include the use of the <italic>piggyBac</italic> transposon and pseudotyped murine leukemia retrovirus as transgene vectors <xref ref-type="bibr" rid="pntd.0000538-Morales2">[34]</xref>–<xref ref-type="bibr" rid="pntd.0000538-Kines2">[36]</xref> (<xref ref-type="fig" rid="pntd-0000538-g003">Figure 3A</xref>), both of which offer a means to establish transgenic lines of schistosomes, to elucidate schistosome gene function and expression, and to advance functional genomics approaches for these parasites. Notably, progress is also being made to express reporter transgenes in parasitic nematodes including <italic>Strongyloides stercoralis</italic> <xref ref-type="bibr" rid="pntd.0000538-Li1">[37]</xref>, in which transgene approaches developed for use in <italic>C. elegans</italic> have recently been used to demonstrate that morphogenesis of infective larvae requires the DAF-16 orthologue FKTF-1 (<xref ref-type="fig" rid="pntd-0000538-g003">Figure 3B</xref>) <xref ref-type="bibr" rid="pntd.0000538-Castelletto1">[38]</xref>. Progress is also being made with systems for analysis of promoter sequences of genes of parasitic nematodes (e.g., <xref ref-type="bibr" rid="pntd.0000538-deOliveira1">[39]</xref>).</p>
+      <p>Many future discoveries resulting from the parasitic helminths genome information can be expected to emanate from the broader scientific community rather than by the laboratory originating a genome sequence project. For the specialized genome sequence labs, dissemination of sequence information in a way that is useful, consistent, centralized, and lasting has been therefore a key goal. Efforts have gone well beyond depositing raw data in public databases. Currently, helminthologists have available a number of specialized sites for sequence analysis. <italic>C. elegans</italic> information is easily accessible at <ext-link ext-link-type="uri" xlink:href="http://www.wormbase.org">http://www.wormbase.org</ext-link> <xref ref-type="bibr" rid="pntd.0000538-Rogers1">[40]</xref>. Useful information about the organism includes genome sequence, genetic and physical maps, transcript data (EST, mRNA, SAGE, TEC-RED, ORFeome, expression patterns from reporter gene fusions, and microarrays), the developmental lineage of all cells, connectivity of the nervous system, mutant phenotypes and genetic markers, gene expression described at the level of single cells, 3D protein structures, NCBI Clusters of Orthologous Groups, and apoptosis and aging information. It also contains extensive information from large-scale genomics analyses, including precomputed sequence similarity searches, protein motif analyses, protein–protein interactions, findings from systematic RNAi screens, single nucleotide polymorphisms (SNPs), orthologous and paralogous relationships, and the assignment of Gene Ontology (GO) terms to gene products. These resources greatly aid in the interpretation of much of the sequence data emerging from parasitic helminths.</p>
+      <p>However, accumulating evidence suggest that <italic>C. elegans</italic> is not a good model for all parasitic helminths, especially for the ones that are phylogenetically very distant such as the basic nematode and zoonotic parasite <italic>Trichinella spiralis</italic> (e.g., <xref ref-type="bibr" rid="pntd.0000538-Mitreva4">[41]</xref>). The other specialized site is Nematode.net (<ext-link ext-link-type="uri" xlink:href="http://www.nematode.net">http://www.nematode.net</ext-link>) <xref ref-type="bibr" rid="pntd.0000538-Martin1">[42]</xref>), developed with a primary aim to disseminate the diverse collection of information for parasitic nematodes to the broader scientific community in a way that is useful, consistent, centralized, and enduring. In addition to sequence data, the site hosts assembled NemaGene clusters in GBrowse views, characterizing composition and protein homology, functional Gene Ontology annotations presented via the AmiGO browser, KEGG-based graphical display of NemaGene clusters mapped to metabolic pathways, codon usage tables, NemFam protein families (which represent conserved nematode-restricted coding sequences not found in public protein databases), and a Web-based WU-BLAST search tool that allows complex querying and other assorted resources. Furthermore, Nematode.net, by connecting data across the entire phylum Nematoda, has made a substantial contribution toward integrating the historically separate fields of <italic>C. elegans</italic>, vertebrate parasitology, and plant parasitology research. Finally, Nembase (<ext-link ext-link-type="uri" xlink:href="http://www.nematodes.org">http://www.nematodes.org</ext-link> <xref ref-type="bibr" rid="pntd.0000538-Parkinson1">[43]</xref>) also offers access to parasite sequence and tools such as visualization of clusters by stage of expression.</p>
+      <p>While each of these databases has been challenged by the requirement to support the influx of new genomes and related data, they nonetheless provide user communities with innovative features and tools suited to their needs that are beyond the scope of the large sequence repositories. For flatworms (<xref ref-type="fig" rid="pntd-0000538-g002">Figure 2</xref>), it is notable that public genome annotation and analysis tools are already in place, including SchistoDB (<ext-link ext-link-type="uri" xlink:href="http://schistoDB.net/">http://schistoDB.net/</ext-link>), a genomic database for <italic>S. mansoni</italic> that incorporates sequences and annotation <xref ref-type="bibr" rid="pntd.0000538-Zerlotini1">[44]</xref> and SjTPdb, <ext-link ext-link-type="uri" xlink:href="http://function.chgc.sh.cn/sj-proteome/index.htm">http://function.chgc.sh.cn/sj-proteome/index.htm</ext-link>, an integrated transcriptome and proteome database and analysis platform for <italic>S. japonicum</italic> <xref ref-type="bibr" rid="pntd.0000538-Liu1">[45]</xref>. The genome database for the planarian <italic>Schmidtea mediterranea</italic>, a model free-living platyhelminth, can be expected to be advantageous to comparative genome projects and specific research problems for the growing number of parasitic flatworms that now are or will be subjects of genome sequence analysis. In addition, because of the phylogenetic position of planarians as early bilaterian metazoans, SmedGD (<ext-link ext-link-type="uri" xlink:href="http://smedgd.neuro.utah.edu">http://smedgd.neuro.utah.edu</ext-link>) will prove useful not only to planarian research, but also to investigations on developmental and evolutionary biology, comparative genomics (specifically with parasitic flatworms including flukes and tapeworms), stem cell research, and regeneration <xref ref-type="bibr" rid="pntd.0000538-Robb1">[46]</xref>).</p>
+    </sec>
+    <sec id="s3">
+      <title>Evolution of Parasitism in Helminths</title>
+      <p>Genomics research has helped our understanding of the evolution of helminths of humans and other hosts, certainly with regard to roundworms of the phylum Nematoda. The first comprehensive study of the molecular evolution of helminths was a phylogenetic analysis of the small subunit ribosomal DNA (ss rDNA) sequences from 53 roundworms <xref ref-type="bibr" rid="pntd.0000538-Blaxter1">[47]</xref>. This study included both major parasitic and free-living taxonomic groups. It identified five major clades within the Nematoda and suggested that parasitism of animal and plants arose independently multiple times. A more recent study included 339 nearly full-length ss rDNAs and proposed subdivision of the phylum into 12 clades <xref ref-type="bibr" rid="pntd.0000538-Holterman1">[48]</xref>. This revealed that nematodes that feed on fungi occupy a basal position compared to their plant parasite relatives, confirming that the parasitic nematodes of plants arose from fungivorous ancestors. Phylogenetic methods are also being used to study evolution of parasitism-related protein-coding genes (such as the enzymes that degrade the plant cell wall in nematode parasites of plants [cellulases, pectate lyases, etc.]) to understand better the mechanisms underlying the evolution of parasitism (reviewed in <xref ref-type="bibr" rid="pntd.0000538-Mitreva5">[49]</xref>). Recent genome-wide analysis of two plant parasitic nematodes <xref ref-type="bibr" rid="pntd.0000538-Abad1">[50]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Opperman1">[51]</xref> provided a more complete picture of the acquisition of these cellulase genes, apparently by horizontal gene transfer (HGT) from prokaryotes. The subsequent expansion and diversification of HGT genes in these nematodes allow inferences about the evolutionary history of these parasites, and in addition present potential targets for anti-nematode drugs. When the genome of the necromenic nematode <italic>Pristionchus pacificus</italic> was reported recently, it became was clear that cellulases were not restricted to plant parasitic nematodes; their presence in this species indicated preadaptation for parasitism of animals <xref ref-type="bibr" rid="pntd.0000538-Dieterich1">[52]</xref>, consistent with the intermediate evolutionary position of <italic>Pristionchus</italic> between the microbivorous <italic>C. elegans</italic> and the animal parasitic nematodes. In like fashion to evolution of parasitism among nematodes, we can predict that additional analyses of parasitic and free-living flatworm genomes will provide deeper insights into how and when parasitism evolved in the phylum Platyhelminthes, particularly in comparison to the fresh-water planarian <italic>S. mediterranea</italic>, a non-parasitic flatworm for which a draft genome is available <xref ref-type="bibr" rid="pntd.0000538-Robb2">[53]</xref>. In addition to evolution of parasitism of humans and other vertebrate hosts, helminth parasite genome sequences will also facilitate evolutionary studies on the role of intermediate hosts/vectors such as the snail in schistosome infections and the mosquito in filarial infections in this evolution.</p>
+    </sec>
+    <sec id="s4">
+      <title>Host–Parasite Relationships</title>
+      <p>Investigations of regulatory networks involved in the embryonic development, organogenesis, development, and reproduction of helminths based on newly available genome sequences have revealed the presence of well-characterized signaling pathways, including those for Wnt, Notch, Hedgehog, and transforming growth factor β (TGF-β). These pathways can be recognized in the <italic>B. malayi</italic> and schistosome genomes <xref ref-type="bibr" rid="pntd.0000538-Ghedin1">[22]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Schistosoma1">[24]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Berriman2">[25]</xref>. These include endogenous hormones including epidermal growth factor (EGF)-like and fibroblast growth factors (FGF)-like peptides. Predicted components of the Ras–Raf–MAPK and TGF-β–SMAD signaling pathways (including FGF and EGF receptors), for example, encoded by these genomes, have components sharing high sequence identity with their mammalian orthologs, implying that schistosomes or filarial worms, in addition to utilizing their own pathways, might exploit host growth factors as developmental signals.</p>
+      <p>Immune regulation by helminth parasites includes suppression, diversion, and alteration of the host immune response, resulting in an anti-inflammatory environment that is favorable to parasite survival. For example, chronic infections induce key changes in host immune cell populations including dominance of the T-helper 2 (Th2) cells and selective loss of effector T cell activity, against a background of regulatory T cells, alternatively activated macrophages, and Th2-inducing dendritic cells <xref ref-type="bibr" rid="pntd.0000538-Maizels1">[54]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Ohnmacht1">[55]</xref>. With advances in genomics, numerous parasite-derived proteins, including cytokine homologs, protease inhibitors, and an intriguing set of novel products, as well as glycoconjugates and small lipid moieties, have been discovered with known or hypothesized roles in immune interference <xref ref-type="bibr" rid="pntd.0000538-Hartmann1">[56]</xref>–<xref ref-type="bibr" rid="pntd.0000538-vanderKleij1">[61]</xref>. These studies suggest that secreted parasite products interfere with different arms of the immune system by influencing the cytokine network and signal transduction pathways or by inhibiting essential enzymes. Using bioinformatics to compare the predicted proteome of <italic>B. malayi</italic> to proteins implicated in the immune response (interleukins, chemokines, and other signaling molecules), potential immune modulators produced by the filarial have been identified, including genes encoding the macrophage migration inhibition family of signaling proteins <xref ref-type="bibr" rid="pntd.0000538-Pastrana1">[62]</xref>. Furthermore, the genome of the blood fluke <italic>S. mansoni</italic> encodes a large array of paralogues of fucosyl and xylosyltransferases <xref ref-type="bibr" rid="pntd.0000538-Berriman2">[25]</xref> that are involved in generating novel glycans at the host–parasite interface and could have an important role in the subverting the host immune system. A recent comprehensive review summarizes our current understanding of the growing number of individual helminth mediators that target key receptors or pathways in the mammalian immune system <xref ref-type="bibr" rid="pntd.0000538-Hewitson1">[63]</xref>.</p>
+      <p>Helminth infection can have a broad impact on the entire immune system. Infection with trematode and nematode parasites, for example, correlates with a reduced incidence of atopic, allergic-type disorders <xref ref-type="bibr" rid="pntd.0000538-Yazdanbakhsh1">[64]</xref>. Thus, helminth infection might potentially be useful as a novel therapy for allergic or autoimmune diseases <xref ref-type="bibr" rid="pntd.0000538-Imai1">[65]</xref>. Recently, worms, eggs, or purified nematode parasite protein have been used in preclinical and clinical trials to protect humans from allergy and autoimmunity (reviewed in <xref ref-type="bibr" rid="pntd.0000538-Harnett2">[66]</xref>–<xref ref-type="bibr" rid="pntd.0000538-Erb1">[70]</xref>), including Crohn's disease and ulcerative colitis <xref ref-type="bibr" rid="pntd.0000538-Summers1">[71]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Summers2">[72]</xref>. Other studies have shown that substances produced by helminths, for example <italic>Ascaris suum</italic>, <italic>Nippostrongylus brasiliensis,</italic> and <italic>Acanthocheilonema viteae</italic>, can directly interfere with allergic responses or with development of allergen-specific Th2 responses <xref ref-type="bibr" rid="pntd.0000538-Lima1">[73]</xref>–<xref ref-type="bibr" rid="pntd.0000538-Melendez1">[75]</xref>. ES-62, a molecule secreted by the filarial nematode <italic>A. viteae</italic>, directly inhibits the FceRI-induced release of mediators from mast cells, protects against mast-cell–dependent hypersensitivity in skin and lungs <xref ref-type="bibr" rid="pntd.0000538-McInnes1">[76]</xref> and inhibits collagen-induced arthritis <xref ref-type="bibr" rid="pntd.0000538-Donnelly1">[77]</xref>. Research is underway to develop molecules that mimic the activity of ES-62 as drugs for allergic and autoimmune diseases <xref ref-type="bibr" rid="pntd.0000538-Harnett2">[66]</xref>. Other helminth-derived products have the potential to reduce allergic responses. These products include schistosomal lysophosphatidylserine (lyso-PS) <xref ref-type="bibr" rid="pntd.0000538-vanderKleij1">[61]</xref> and thioredoxin peroxidase from the liver fluke <italic>Fasciola hepatica</italic> <xref ref-type="bibr" rid="pntd.0000538-Holland1">[78]</xref>. These findings demonstrated that helminths produce products that can interfere with both the development of allergic responses and the workings of host effector mechanisms.</p>
+    </sec>
+    <sec id="s5">
+      <title>The “Dependent” Helminth</title>
+      <p>As a consequence of evolution of an obligatory parasitic existence, helminth parasites are dependent upon their intermediate and definitive hosts for many necessities including nutrients such as amino acids; filariae are dependent on insect vectors to transport them to the host. The newly available genome sequences for schistosomes and <italic>B. malayi</italic> have confirmed earlier biochemical studies that had revealed aspects of physiological/ biochemical dependence of these parasites on the host. For example, schistosomes cannot synthesize fatty acids de novo, or sterols, purines, and nine human essential amino acids plus arginine or tyrosine, and must catabolize complex precursors obtained from their hosts. Loss or degeneracy of fatty acid, sterol, and purine synthesis pathways in schistosomes likely relates to the adoption of a parasitic lifestyle; it is notable that genes encoding all the key enzymes for both the de novo fatty acid and purine syntheses are complete in the (free-living) planarian <italic>S. mediterranea</italic>. To obtain essential lipid nutrients, the schistosome genome encodes transporters, including apolipoproteins, low-density lipoprotein receptor, scavenger receptor, fatty-acid-binding protein, ATP-binding-cassette transporters and cholesterol esterase, to exploit fatty acids and cholesterol from host blood <xref ref-type="bibr" rid="pntd.0000538-Berriman2">[25]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Han1">[79]</xref>.</p>
+      <p>Many species of filarial nematodes are themselves infected by the endosymbiotic bacterium <italic>Wolbachia</italic>. The genome sequence of the <italic>Wolbachia</italic> species that infects the roundworm nematode <italic>B. malayi</italic> (wBm) <xref ref-type="bibr" rid="pntd.0000538-Foster1">[80]</xref> helped establish which metabolites the bacterium potentially provides to the nematode (riboflavin, flavine adenine dinucleotide, heme, and nucleotides, for example) and which are provided by the nematode to the endobacterium (notably, amino acids). This type of information has opened up the exciting possibility that drugs already registered for human use might inhibit key biochemical pathways in <italic>Wolbachia</italic> that could sterilize or kill the adult worms. Although the <italic>Wolbachia</italic> genome is even more degenerate than that of the related pathogen <italic>Rickettsia</italic>, it has retained more intact metabolic pathways than <italic>Rickettsia</italic>. This may be important in its biochemical contribution to host (i.e., filarial) viability and fecundity.</p>
+      <p>The wBm genome encodes many more proteases and peptidases than <italic>Rickettsia</italic>, which likely degrade host proteins in the extracellular environment. Other proteins encoded by wBm include a common type IV secretion system, as used by some pathogenic gram-negative bacteria to transfer plasmids and proteins into surrounding host cells, and an abundance of ankyrin domain-containing proteins, which might regulate host gene expression, as suggested for <italic>Ehrlichia phagocytophilia</italic> AnkA <xref ref-type="bibr" rid="pntd.0000538-Park1">[81]</xref>, as well as several proteins predicted to localize on the cell surface. Ankyrin domain–containing proteins are noteworthy because of their roles in protein–protein interactions in a variety of cellular processes. A number of other wBm molecules are of interest as potential drug targets. For example, glutathione biosynthesis genes may provide glutathione for the protection of the filaria from oxidative stress or human immunological effector molecules. Heme produced from wBm (all five synthesis genes are present) could be vital to worm embryogenesis, as there is evidence that molting and reproduction are controlled by ecdysteroid-like hormones <xref ref-type="bibr" rid="pntd.0000538-Warbrick1">[82]</xref>, synthesis of which requires heme. Depletion of <italic>Wolbachia</italic> might therefore halt production of these hormones and block molting and/or embryogenesis in <italic>B. malayi</italic>. Most, if not all, nematodes, including <italic>B. malayi</italic>, appear to be unable to synthesize heme, but must obtain it from extraneous sources, such as the host, the food supply, or perhaps from endosymbionts.</p>
+    </sec>
+    <sec id="s6">
+      <title>Challenges for the Future</title>
+      <p>The filarial and schistosome genome sequences now available provide the vanguard for assembly of a genome sequence catalog of the numerous other neglected helminth parasites (<xref ref-type="table" rid="pntd-0000538-t001">Table 1</xref>). Comparative genomics will likely be a dominant approach to organize, interpret, and utilize the vast amounts of genomic information anticipated from the genomes of these parasites (e.g. <xref ref-type="bibr" rid="pntd.0000538-Nisbet1">[83]</xref>,<xref ref-type="bibr" rid="pntd.0000538-Dieterich2">[84]</xref>). In terms of sequencing tools, the new generation of “massively parallel” sequencing platforms commercially available today, (such as the Roche/454 pyrosequencer <xref ref-type="bibr" rid="pntd.0000538-Margulies1">[85]</xref>, Illumina/Solexa <xref ref-type="bibr" rid="pntd.0000538-Bennett1">[86]</xref>, and SOLiD <xref ref-type="bibr" rid="pntd.0000538-Shendure1">[87]</xref>) offer of the order of 100- to 1,000-fold increases in throughput over the Sanger sequencing technology <xref ref-type="bibr" rid="pntd.0000538-Sanger1">[88]</xref> on capillary electrophoresis instruments. This rapid change to producing millions of DNA sequence reads in a short time will have a huge impact on research on NTDs. Each platform has a specific application: while the Roche/454 is optimal for in-depth analysis of whole transcriptomes and de novo sequencing of bacterial and small eukaryotic genomes, the Illumina and SOLiD systems are highly attractive for resequencing projects aimed at identifying genetic variants (mutations, insertions, deletions), profiling and discovering noncoding RNAs (ncRNAs), and studying epigenetic modifications of histones and DNA. With the increased read length and improved error rate of massively parallel pyrosequencing technology, de novo sequencing of helminth genomes has become possible at a fraction of earlier costs. In the next five years, projects at the Washington University's Genome Center (<ext-link ext-link-type="uri" xlink:href="http://www.genome.gov/10002154">http://www.genome.gov/10002154</ext-link>) and the Wellcome Trust Sanger Institute (<ext-link ext-link-type="uri" xlink:href="http://www.sanger.ac.uk/Projects/Helminths/">http://www.sanger.ac.uk/Projects/Helminths/</ext-link>) should increase the available sequence data on human helminths and their close relatives by an order of magnitude, adding more than 20 draft genomes to those listed in <xref ref-type="table" rid="pntd-0000538-t001">Table 1</xref>.</p>
+      <p>Once these reference genomes become available, sequencing of clinical isolates is expected to accelerate. Sequencing of the clinical strains and strain-to-reference comparisons can be performed using platforms such as Illumina/Solexa and SOLiD to investigate genome-wide polymorphism and provide a comprehensive picture of natural helminth genome variation. These approaches should also be valuable for exploring genetic changes involved in resistance to anti-worm drugs and understanding the potential mechanisms of drug resistance in human parasites, and can be expected to facilitate development of genetic markers to monitor and manage any future appearance and spread of drug resistance. These phenomena are of tremendous importance, particularly since some major neglected helminth diseases are being targeted in mass drug treatment campaigns <xref ref-type="bibr" rid="pntd.0000538-Fenwick1">[89]</xref>. In addition, the new generation of sequencing technologies has also provided unprecedented opportunities for high-throughput functional genomic research (reviewed in <xref ref-type="bibr" rid="pntd.0000538-Morozova1">[90]</xref>) that awaits application to helminth research.</p>
+      <p>Although some details of immunomodulation by helminth components have been characterized, we are just beginning to understand how these parasite products act on immune responses and to assemble fragmentary information on individual components into a comprehensive picture. Comparisons of helminth molecules with orthologues/paralogues from free-living relatives will strengthen efforts to decipher the strategies adopted by helminth parasites to evade and subvert their host immune responses. This information will be exploitable for development of drugs and vaccines against the parasites and potentially also novel therapeutic biologics for use in humans. Future studies might determine whether helminth proteins with unknown function might be the source for the intriguing regulatory effects helminth infections have on the host immune response.</p>
+      <p>Treatment for helminthic infections, responsible for hundreds of thousands of deaths each year, depends almost exclusively on just two or three drugs: praziquantel, the benzimidazoles, and ivermectin. Vaccines and new drugs are needed, certainly because drug resistance in human helminth parasites such as schistosomes, whipworms, and filariae, to these compounds would present a major problem for current treatment and control strategies. Pharmacogenomics with the new helminth genomes represents a practicable route forward toward new drugs. For example, chemogenomics screening of the genome sequence of <italic>S. mansoni</italic> identified &gt;20 parasite proteins for which potential drugs are available approved for other human ailments <xref ref-type="bibr" rid="pntd.0000538-Berriman2">[25]</xref>, and indeed for which, in the case of the schistosome thioredoxin glutathione reductase, auranofin (an anti-arthritis medication) was shown recently to exhibit potent anti-schistosomal activity <xref ref-type="bibr" rid="pntd.0000538-Kuntz1">[91]</xref>. Finally, the vast new sequence information will undoubtedly allow revision of our understanding of the host–parasite relationship, its evolution, vector–pathogen and helminth–symbiont interactions, unique aspects of cell biology and biochemistry, phylogenetic relationships, intervention targets, research approaches (e.g. <xref ref-type="bibr" rid="pntd.0000538-Cosseau1">[92]</xref>), and so forth.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Victoria Mann, Geoffrey Gobert and Gabriel Rinaldi for access to their unpublished findings on schistosomes transduced with pseudotyped virions.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pntd.0000538-Hotez1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hotez</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Brindley</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Bethony</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Pearce</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Helminth infections: The great neglected tropical diseases.</article-title>
+          <source>J Clin Invest</source>
+          <volume>118</volume>
+          <fpage>1311</fpage>
+          <lpage>1321</lpage>
+          <pub-id pub-id-type="pmid">18382743</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Hotez2">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hotez</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Kamath</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Neglected tropical diseases in sub-Saharan Africa: Review of their prevalence, distribution, and disease burden.</article-title>
+          <source>PLoS Negl Trop Dis</source>
+          <volume>3</volume>
+          <fpage>e412</fpage>
+          <pub-id pub-id-type="pmid">19707588</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Patz1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patz</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Graczyk</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Geller</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Vittor</surname>
+              <given-names>AY</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Effects of environmental change on emerging parasitic diseases.</article-title>
+          <source>Int J Parasitol</source>
+          <volume>30</volume>
+          <fpage>1395</fpage>
+          <lpage>1405</lpage>
+          <pub-id pub-id-type="pmid">11113264</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Liang1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Qiu</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Re-emerging schistosomiasis in hilly and mountainous areas of Sichuan, China.</article-title>
+          <source>Bull WHO</source>
+          <volume>84</volume>
+          <fpage>139</fpage>
+          <lpage>144</lpage>
+          <pub-id pub-id-type="pmid">16501732</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Huyse1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huyse</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Webster</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Geldof</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Stothard</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Diaw</surname>
+              <given-names>OT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Bidirectional introgressive hybridization between a cattle and human schistosome species.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>5</volume>
+          <fpage>e1000571</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000571">10.1371/journal.ppat.1000571</ext-link></comment>
+          <pub-id pub-id-type="pmid">19730700</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Kalinna1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalinna</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Brindley</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Manipulating the manipulators: Advances in parasitic helminth transgenesis.</article-title>
+          <source>Trends Parasitol</source>
+          <volume>23</volume>
+          <fpage>197</fpage>
+          <lpage>204</lpage>
+          <pub-id pub-id-type="pmid">17383233</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Krasky1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krasky</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Schroeder</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Selzer</surname>
+              <given-names>PM</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>A combined bioinformatics and chemoinformatics approach for the development of new antiparasitic drugs.</article-title>
+          <source>Genomics</source>
+          <volume>89</volume>
+          <fpage>36</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">17070005</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Mitreva1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitreva</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zarlenga</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>McCarter</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Jasmer</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Parasitic nematodes - From genomes to control.</article-title>
+          <source>Vet Parasitol</source>
+          <volume>148</volume>
+          <fpage>31</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="pmid">17560034</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Berriman1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berriman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lustigman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>McCarter</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Helminth initiative for drug discovery – Report of the informal consultation, genomics and emerging drug discovery technologies.</article-title>
+          <source>Expert Opin Drug Discovery</source>
+          <volume>2</volume>
+          <fpage>S83</fpage>
+          <lpage>S89</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Lustigman1">
+        <label>10</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lustigman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ford</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Crawford</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>RNA Interference: from functional genomics to validation of drug targets in helminths.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Lyland</surname>
+              <given-names>RogerT</given-names>
+            </name>
+            <name>
+              <surname>Browning</surname>
+              <given-names>IrvingB</given-names>
+            </name>
+          </person-group>
+          <source>RNA interference research progress</source>
+          <publisher-name>Nova Publishers</publisher-name>
+          <fpage>135</fpage>
+          <lpage>162</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Franco1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franco</surname>
+              <given-names>GR</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Soares</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Simpson</surname>
+              <given-names>AJG</given-names>
+            </name>
+            <name>
+              <surname>Venter</surname>
+              <given-names>JC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1995</year>
+          <article-title>Identification of new <italic>Schistosoma mansoni</italic> genes by the EST strategy using a directional cDNA library.</article-title>
+          <source>Gene</source>
+          <volume>152</volume>
+          <fpage>141</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="pmid">7835692</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Gobert1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gobert</surname>
+              <given-names>GN</given-names>
+            </name>
+            <name>
+              <surname>Moertel</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Brindley</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>McManus</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Developmental gene expression profiles of the human pathogen <italic>Schistosoma japonicum</italic>.</article-title>
+          <source>BMC Genomics</source>
+          <volume>10</volume>
+          <fpage>128</fpage>
+          <pub-id pub-id-type="pmid">19320991</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Robinson1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robinson</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Connolly</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Proteomic analysis of the excretory-secretory proteins of the Trichinella spiralis L1 larva, a nematode parasite of skeletal muscle.</article-title>
+          <source>Proteomics</source>
+          <volume>5</volume>
+          <fpage>4525</fpage>
+          <lpage>4532</lpage>
+          <pub-id pub-id-type="pmid">16220533</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Mitreva2">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitreva</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>McCarter</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dante</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wylie</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Comparative genomics of gene expression in the parasitic and free-living nematodes <italic>Strongyloides stercoralis</italic> and <italic>Caenorhabditis elegans</italic>.</article-title>
+          <source>Genome Res</source>
+          <volume>14</volume>
+          <fpage>209</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="pmid">14762059</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Taft1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taft</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Vermeire</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Bernier</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Birkeland</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Cipriano</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Transcriptome analysis of Schistosoma mansoni larval development using serial analysis of gene expression (SAGE).</article-title>
+          <source>Parasitology</source>
+          <volume>136</volume>
+          <fpage>469</fpage>
+          <lpage>485</lpage>
+          <pub-id pub-id-type="pmid">19265565</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Mitreva3">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitreva</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>McCarter</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Arasu</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Hawdon</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Investigating hookworm genomes by comparative analysis of two <italic>Ancylostoma</italic> species.</article-title>
+          <source>BMC Genomics</source>
+          <volume>6</volume>
+          <fpage>58</fpage>
+          <pub-id pub-id-type="pmid">15854223</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-McCarter1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCarter</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Genomic filtering: An approach to discovering novel antiparasitics.</article-title>
+          <source>Trends Parasitol</source>
+          <volume>20</volume>
+          <fpage>462</fpage>
+          <lpage>468</lpage>
+          <pub-id pub-id-type="pmid">15363439</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Wasmuth1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wasmuth</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schmid</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hedley</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Blaxter</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>On the extent and origins of genic novelty in the phylum Nematoda.</article-title>
+          <source>PloS Negl Trop Dis</source>
+          <volume>2</volume>
+          <fpage>e258</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pntd.0000258">10.1371/journal.pntd.0000258</ext-link></comment>
+          <pub-id pub-id-type="pmid">18596977</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Yin1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Abubucker</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wyrwicz</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Molecular determinants archetypical to the phylum Nematoda.</article-title>
+          <source>BMC Genomics</source>
+          <volume>10</volume>
+          <fpage>114</fpage>
+          <pub-id pub-id-type="pmid">19296854</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Wang1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Abubucker</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Gasser</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Systematic analysis of insertions and deletions specific to nematode proteins and their proposed functional and evolutionary relevance.</article-title>
+          <source>BMC Evol Biol</source>
+          <volume>9</volume>
+          <fpage>23</fpage>
+          <pub-id pub-id-type="pmid">19175938</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-The1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <collab>The <italic>C. elegans</italic> Sequencing Consortium</collab>
+          <year>1998</year>
+          <article-title>Genome sequence of the nematode <italic>C. elegans</italic>: A platform for investigating biology.</article-title>
+          <source>Science</source>
+          <volume>282</volume>
+          <fpage>2012</fpage>
+          <lpage>2018</lpage>
+          <pub-id pub-id-type="pmid">9851916</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Ghedin1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghedin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Spiro</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Caler</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Q</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Draft genome of the filarial nematode parasite <italic>Brugia malayi</italic>.</article-title>
+          <source>Science</source>
+          <volume>317</volume>
+          <fpage>1756</fpage>
+          <lpage>1760</lpage>
+          <pub-id pub-id-type="pmid">17885136</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Abubucker1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abubucker</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Fulton</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>S-P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The canine hookworm genome: Analysis and classification of <italic>Ancylostoma caninum</italic> survey sequences.</article-title>
+          <source>Mol Biochem Parasitol</source>
+          <volume>157</volume>
+          <fpage>187</fpage>
+          <lpage>192</lpage>
+          <pub-id pub-id-type="pmid">18082904</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Schistosoma1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>ZQ</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <collab><italic>Schistosoma japonicum</italic> Genome Sequencing and Functional Analysis Consortium</collab>
+          <year>2009</year>
+          <article-title>The <italic>Schistosoma japonicum</italic> genome reveals features of host-parasite interplay.</article-title>
+          <source>Nature</source>
+          <volume>460</volume>
+          <fpage>345</fpage>
+          <lpage>351</lpage>
+          <pub-id pub-id-type="pmid">19606140</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Berriman2">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berriman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>LoVerde</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Dillon</surname>
+              <given-names>GP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>The genome of the blood fluke <italic>Schistosoma mansoni</italic>.</article-title>
+          <source>Nature</source>
+          <volume>460</volume>
+          <fpage>352</fpage>
+          <lpage>358</lpage>
+          <pub-id pub-id-type="pmid">19606141</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Dunn1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunn</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Hejnol</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Matus</surname>
+              <given-names>DQ</given-names>
+            </name>
+            <name>
+              <surname>Pang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Browne</surname>
+              <given-names>WE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Broad phylogenomic sampling improves resolution of the animal tree of life.</article-title>
+          <source>Nature</source>
+          <volume>452</volume>
+          <fpage>745</fpage>
+          <lpage>749</lpage>
+          <pub-id pub-id-type="pmid">18322464</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-KrautzPeterson1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krautz-Peterson</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bhardwaj</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Faghiri</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Tararam</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Skelly</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>RNA interference in schistosomes: machinery and methodology.</article-title>
+          <source>Parasitology</source>
+          <comment>E-pub ahead of print. doi:10.1017/S0031182009991168</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Mann1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mann</surname>
+              <given-names>VH</given-names>
+            </name>
+            <name>
+              <surname>Morales</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Kines</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Brindley</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Transgenesis of schistosomes: approaches using mobile genetic elements.</article-title>
+          <source>Parasitology</source>
+          <volume>134</volume>
+          <fpage>1</fpage>
+          <lpage>13</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Freitas1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Freitas</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Pearce</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>TGF-beta signaling controls embryo development in the parasitic flatworm <italic>Schistosoma mansoni</italic>.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>3</volume>
+          <fpage>e52</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.0030052">10.1371/journal.ppat.0030052</ext-link></comment>
+          <pub-id pub-id-type="pmid">17411340</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Morales1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morales</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Rinaldi</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kines</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Gobert</surname>
+              <given-names>GN</given-names>
+            </name>
+            <name>
+              <surname>Tort</surname>
+              <given-names>JF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>RNA interference targeting <italic>Schistosoma mansoni</italic> cathepsin D, the apical enzyme of the hemoglobin proteolysis cascade.</article-title>
+          <source>Mol Biochem Parasitol</source>
+          <volume>157</volume>
+          <fpage>160</fpage>
+          <lpage>168</lpage>
+          <pub-id pub-id-type="pmid">18067980</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Rinaldi1">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rinaldi</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Morales</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Alrefaei</surname>
+              <given-names>YN</given-names>
+            </name>
+            <name>
+              <surname>Cancela</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Castillo</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>RNA interference targeting leucine aminopeptidases inhibits hatching of eggs of the human blood fluke, <italic>Schistosoma mansoni</italic>.</article-title>
+          <source>Mol Biochem Parasitol</source>
+          <volume>167</volume>
+          <fpage>118</fpage>
+          <lpage>126</lpage>
+          <pub-id pub-id-type="pmid">19463860</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Faghiri1">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faghiri</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Skelly</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>The role of tegumental aquaporin from the human parasitic worm, <italic>Schistosoma mansoni</italic>, in osmoregulation and drug uptake.</article-title>
+          <source>FASEB J</source>
+          <volume>23</volume>
+          <fpage>2780</fpage>
+          <lpage>2789</lpage>
+          <pub-id pub-id-type="pmid">19364765</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Ford1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ford</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hashmi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fuhrman</surname>
+              <given-names>JA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Functional analysis of the cathepsin-like cysteine protease genes in adult <italic>Brugia malayi</italic> using RNA interference.</article-title>
+          <source>PLoS Negl Trop Dis</source>
+          <volume>3</volume>
+          <fpage>e377</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pntd.0000377">10.1371/journal.pntd.0000377</ext-link></comment>
+          <pub-id pub-id-type="pmid">19190745</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Morales2">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morales</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>VH</given-names>
+            </name>
+            <name>
+              <surname>Kines</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Gobert</surname>
+              <given-names>GN</given-names>
+            </name>
+            <name>
+              <surname>Kalinna</surname>
+              <given-names>BH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title><italic>piggyBac</italic> transposon mediated transgenesis of the human blood fluke, <italic>Schistosoma mansoni</italic>.</article-title>
+          <source>FASEB J</source>
+          <volume>21</volume>
+          <fpage>3479</fpage>
+          <lpage>3489</lpage>
+          <pub-id pub-id-type="pmid">17586730</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Kines1">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kines</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>VH</given-names>
+            </name>
+            <name>
+              <surname>Morales</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Shelby</surname>
+              <given-names>BD</given-names>
+            </name>
+            <name>
+              <surname>Kalinna</surname>
+              <given-names>BH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Transduction of <italic>Schistosoma mansoni</italic> by vesicular stomatitis virus glycoprotein-pseudotyped Moloney murine leukemia retrovirus.</article-title>
+          <source>Exp Parasitol</source>
+          <volume>112</volume>
+          <fpage>209</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="pmid">16530185</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Kines2">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kines</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Morales</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>VH</given-names>
+            </name>
+            <name>
+              <surname>Gobert</surname>
+              <given-names>GN</given-names>
+            </name>
+            <name>
+              <surname>Brindley</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Integration of reporter transgenes into <italic>Schistosoma mansoni</italic> chromosomes mediated by pseudotyped murine leukemia virus.</article-title>
+          <source>FASEB J</source>
+          <volume>22</volume>
+          <fpage>2936</fpage>
+          <lpage>2948</lpage>
+          <pub-id pub-id-type="pmid">18403630</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Li1">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Massey</surname>
+              <given-names>HC, </given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Nolan</surname>
+              <given-names>TJ</given-names>
+            </name>
+            <name>
+              <surname>Schad</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Kraus</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Successful transgenesis of the parasitic nematode <italic>Strongyloides stercoralis</italic> requires endogenous non-coding control elements.</article-title>
+          <source>Int J Parasitol</source>
+          <volume>36</volume>
+          <fpage>671</fpage>
+          <lpage>679</lpage>
+          <pub-id pub-id-type="pmid">16500658</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Castelletto1">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castelletto</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Massey</surname>
+              <given-names>HC, </given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Lok</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Morphogenesis of <italic>Strongyloides stercoralis</italic> infective larvae requires the DAF-16 ortholog FKTF-1.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>5</volume>
+          <fpage>e1000370</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000370">10.1371/journal.ppat.1000370</ext-link></comment>
+          <pub-id pub-id-type="pmid">19360119</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-deOliveira1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Oliveira</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Katholi</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Unnasch</surname>
+              <given-names>TR</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Characterization of the promoter of the <italic>Brugia malayi</italic> 12 kDa small subunit ribosomal protein (RPS12) gene.</article-title>
+          <source>Int J Parasitol</source>
+          <volume>38</volume>
+          <fpage>1111</fpage>
+          <lpage>1119</lpage>
+          <pub-id pub-id-type="pmid">18364245</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Rogers1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rogers</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Antoshechkin</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Bieri</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Blasiar</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bastiani</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Wormbase 2007.</article-title>
+          <source>Nucleic Acids Res 36(Database issue)</source>
+          <fpage>D612</fpage>
+          <lpage>617</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Mitreva4">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitreva</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Appleton</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>McCarter</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Jasmer</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Expressed sequence tags from life cycle stages of <italic>Trichinella spiralis</italic>: Application to biology and parasite control.</article-title>
+          <source>Vet Parasitol</source>
+          <volume>132</volume>
+          <fpage>13</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="pmid">15993542</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Martin1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Abubucker</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wylie</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Mitreva</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Nematode.net update 2008: Improvements enabling more efficient data mining and comparative nematode genomics.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>37(Database issue)</volume>
+          <fpage>D571</fpage>
+          <lpage>578</lpage>
+          <pub-id pub-id-type="pmid">18940860</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Parkinson1">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parkinson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Whitton</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Schmid</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Blaxter</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>NEMBASE: A resource for parasitic nematode ESTs.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>32</volume>
+          <fpage>D427</fpage>
+          <lpage>430</lpage>
+          <pub-id pub-id-type="pmid">14681449</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Zerlotini1">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zerlotini</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Heiges</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Moraes</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Dominitini</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>SchistoDB: A <italic>Schistosoma mansoni</italic> genome resource.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>37(Database issue)</volume>
+          <fpage>D579</fpage>
+          <lpage>582</lpage>
+          <pub-id pub-id-type="pmid">18842636</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Liu1">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>ZQ</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>ZG</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>SjTPdb: Integrated transcriptome and proteome database and analysis platform for <italic>Schistosoma japonicum</italic>.</article-title>
+          <source>BMC Genomics</source>
+          <volume>9</volume>
+          <fpage>304</fpage>
+          <pub-id pub-id-type="pmid">18578888</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Robb1">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robb</surname>
+              <given-names>SMC</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sánchez Alvarado</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>SmedGD: The <italic>Schmidtea mediterranea</italic> genome database.</article-title>
+          <source>Nucleic Acids Res 36(Database issue)</source>
+          <fpage>D599</fpage>
+          <lpage>D606</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Blaxter1">
+        <label>47</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blaxter</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>De Ley</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Garey</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>LX</given-names>
+            </name>
+            <name>
+              <surname>Scheldeman</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>A molecular evolutionary framework for the phylum Nematoda.</article-title>
+          <source>Nature</source>
+          <volume>392</volume>
+          <fpage>71</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="pmid">9510248</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Holterman1">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holterman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>van der Wurff</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>van den Elsen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>van Megen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bongers</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Phylum-wide analysis of SSU rDNA reveals deep phylogenetic relationships among nematodes and accelerated evolution toward crown clades.</article-title>
+          <source>Mol Biol Evol</source>
+          <volume>23</volume>
+          <fpage>1792</fpage>
+          <lpage>1800</lpage>
+          <pub-id pub-id-type="pmid">16790472</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Mitreva5">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitreva</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Smant</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Helder</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Role of horizontal gene transfer in the evolution of plant parasitism among nematodes. In: Horizontal Gene Transfer.</article-title>
+          <source>Methods Mol Biol</source>
+          <volume>532</volume>
+          <fpage>517</fpage>
+          <lpage>535</lpage>
+          <pub-id pub-id-type="pmid">19271205</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Abad1">
+        <label>50</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abad</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gouzy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Aury</surname>
+              <given-names>J-M</given-names>
+            </name>
+            <name>
+              <surname>Castagnone-Sereno</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Danchin</surname>
+              <given-names>EG</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Genome sequence of the metazoan plant-parasitic nematode <italic>Meloidogyne incognita</italic>.</article-title>
+          <source>Nat Biotech</source>
+          <volume>26</volume>
+          <fpage>909</fpage>
+          <lpage>915</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Opperman1">
+        <label>51</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Opperman</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Bird</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>VM</given-names>
+            </name>
+            <name>
+              <surname>Rokhsar</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Burke</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Sequence and genetic map of <italic>Meloidogyne hapla</italic>: A compact nematode genome for plant parasitism.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>105</volume>
+          <fpage>14802</fpage>
+          <lpage>14807</lpage>
+          <pub-id pub-id-type="pmid">18809916</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Dieterich1">
+        <label>52</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dieterich</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Clifton</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Schuster</surname>
+              <given-names>LN</given-names>
+            </name>
+            <name>
+              <surname>Chinwalla</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Delehaunty</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The <italic>Pristionchus pacificus</italic> genom<italic>e</italic> provides a unique perspective on nematode lifestyle and parasitism.</article-title>
+          <source>Nat Genet</source>
+          <volume>40</volume>
+          <fpage>1193</fpage>
+          <lpage>1198</lpage>
+          <pub-id pub-id-type="pmid">18806794</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Robb2">
+        <label>53</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robb</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sánchez Alvarado</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>SmedGD: The <italic>Schmidtea mediterranea</italic> genome database.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>6</volume>
+          <fpage>D599</fpage>
+          <lpage>D606</lpage>
+          <pub-id pub-id-type="pmid">17881371</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Maizels1">
+        <label>54</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maizels</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Balic</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gomez-Escobar</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Nair</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>MD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Helminth parasites–Masters of regulation.</article-title>
+          <source>Immunol Rev</source>
+          <volume>201</volume>
+          <fpage>89</fpage>
+          <lpage>116</lpage>
+          <pub-id pub-id-type="pmid">15361235</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Ohnmacht1">
+        <label>55</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohnmacht</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Voehringer</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Basophil effector function and homeostasis during helminth infection.</article-title>
+          <source>Blood</source>
+          <volume>113</volume>
+          <fpage>2816</fpage>
+          <lpage>2825</lpage>
+          <pub-id pub-id-type="pmid">18941115</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Hartmann1">
+        <label>56</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hartmann</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kyewski</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sonnenburg</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lucius</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>A filarial cysteine protease inhibitor down-regulates T cell proliferation and enhances interleukin-10 production.</article-title>
+          <source>Eur J Immunol</source>
+          <volume>27</volume>
+          <fpage>2253</fpage>
+          <lpage>2260</lpage>
+          <pub-id pub-id-type="pmid">9341767</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Hartmann2">
+        <label>57</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hartmann</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lucius</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Modulation of host immune responses by nematode cystatins.</article-title>
+          <source>Int J Parasitol</source>
+          <volume>33</volume>
+          <fpage>1291</fpage>
+          <lpage>1302</lpage>
+          <pub-id pub-id-type="pmid">13678644</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Harnett1">
+        <label>58</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harnett</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>McInnes</surname>
+              <given-names>IB</given-names>
+            </name>
+            <name>
+              <surname>Harnett</surname>
+              <given-names>MM</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>ES-62, a filarial nematode-derived immunomodulator with anti-inflammatory potential.</article-title>
+          <source>Immunol Lett</source>
+          <volume>94</volume>
+          <fpage>27</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="pmid">15234531</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-GomezEscobar1">
+        <label>59</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gomez-Escobar</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Maizels</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>A novel member of the transforming growth factor-beta (TGF-beta) superfamily from the filarial nematodes <italic>Brugia malayi</italic> and <italic>B. pahangi</italic>.</article-title>
+          <source>Exp Parasitol</source>
+          <volume>88</volume>
+          <fpage>200</fpage>
+          <lpage>209</lpage>
+          <pub-id pub-id-type="pmid">9562423</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-GomezEscobar2">
+        <label>60</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gomez-Escobar</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Gregory</surname>
+              <given-names>WF</given-names>
+            </name>
+            <name>
+              <surname>Maizels</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Identification of tgh-2, a filarial nematode homolog of <italic>Caenorhabditis elegans</italic> daf-7 and human transforming growth factor beta, expressed in microfilarial and adult stages of <italic>Brugia malayi</italic>.</article-title>
+          <source>Infect Immun</source>
+          <volume>68</volume>
+          <fpage>6402</fpage>
+          <lpage>6410</lpage>
+          <pub-id pub-id-type="pmid">11035752</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-vanderKleij1">
+        <label>61</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van der Kleij</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Latz</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Brouwers</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Kruize</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Schmitz</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>A novel host-parasite lipid cross-talk. Schistosomal lyso-phosphatidylserine activates toll-like receptor 2 and affects immune polarization.</article-title>
+          <source>J Biol Chem</source>
+          <volume>277</volume>
+          <fpage>48122</fpage>
+          <lpage>48129</lpage>
+          <pub-id pub-id-type="pmid">12359728</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Pastrana1">
+        <label>62</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pastrana</surname>
+              <given-names>DV</given-names>
+            </name>
+            <name>
+              <surname>Raghavan</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>FitzGerald</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Eisinger</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Metz</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Filarial nematode parasites secrete a homologue of the human cytokine macrophage migration inhibitory factor.</article-title>
+          <source>Infect Immun</source>
+          <volume>66</volume>
+          <fpage>5955</fpage>
+          <lpage>5963</lpage>
+          <pub-id pub-id-type="pmid">9826378</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Hewitson1">
+        <label>63</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hewitson</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Grainger</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Maizels</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Helminth immunoregulation: The role of parasite secreted proteins in modulating host immunity.</article-title>
+          <source>Mol Biochem Parasitol</source>
+          <volume>167</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="pmid">19406170</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Yazdanbakhsh1">
+        <label>64</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yazdanbakhsh</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>van den Biggelaar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Maizels</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Th2 responses without atopy: Immunoregulation in chronic helminth infections and reduced allergic disease.</article-title>
+          <source>Trends Immunol</source>
+          <volume>22</volume>
+          <fpage>372</fpage>
+          <lpage>377</lpage>
+          <pub-id pub-id-type="pmid">11429321</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Imai1">
+        <label>65</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Imai</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fujita</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Molecules of parasites as immunomodulatory drugs.</article-title>
+          <source>Curr Top Med Chem</source>
+          <volume>4</volume>
+          <fpage>539</fpage>
+          <lpage>552</lpage>
+          <pub-id pub-id-type="pmid">14965305</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Harnett2">
+        <label>66</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harnett</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Harnett</surname>
+              <given-names>MM</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Therapeutic immunomodulators from nematode parasites.</article-title>
+          <source>Expert Rev Mol Med</source>
+          <volume>10</volume>
+          <fpage>e18</fpage>
+          <pub-id pub-id-type="pmid">18561863</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Harnett3">
+        <label>67</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harnett</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Harnett</surname>
+              <given-names>MM</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Parasitic nematode modulation of allergic disease.</article-title>
+          <source>Curr Allergy Asthma Rep</source>
+          <volume>8</volume>
+          <fpage>392</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="pmid">18682103</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Johnston1">
+        <label>68</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnston</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>MacDonald</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>McKay</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Parasitic helminths: A pharmacopeia of anti-inflammatory molecules.</article-title>
+          <source>Parasitology</source>
+          <volume>136</volume>
+          <fpage>125</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="pmid">19079844</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-McKay1">
+        <label>69</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McKay</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>The therapeutic helminth?</article-title>
+          <source>Trends Parasitol</source>
+          <volume>25</volume>
+          <fpage>109</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="pmid">19167926</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Erb1">
+        <label>70</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erb</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Can helminths or helminth-derived products be used in humans to prevent or treat allergic diseases?</article-title>
+          <source>Trends Immunol</source>
+          <volume>30</volume>
+          <fpage>75</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="pmid">19138565</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Summers1">
+        <label>71</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summers</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Elliott</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Urban</surname>
+              <given-names>JF, </given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Weinstock</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title><italic>Trichuris suis</italic> therapy in Crohn's disease.</article-title>
+          <source>Gut</source>
+          <volume>54</volume>
+          <fpage>87</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="pmid">15591509</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Summers2">
+        <label>72</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summers</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Elliott</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Urban</surname>
+              <given-names>JF, </given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Weinstock</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title><italic>Trichuris suis</italic> therapy for active ulcerative colitis: A randomized controlled trial.</article-title>
+          <source>Gastroenterology</source>
+          <volume>128</volume>
+          <fpage>825</fpage>
+          <lpage>832</lpage>
+          <pub-id pub-id-type="pmid">15825065</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Lima1">
+        <label>73</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lima</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Perini</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Garcia</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Martins</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Teixeira</surname>
+              <given-names>MM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Eosinophilic inflammation and airway hyper-responsiveness are profoundly inhibited by a helminth (<italic>Ascaris suum</italic>) extract in a murine model of asthma.</article-title>
+          <source>Clin Exp Allergy</source>
+          <volume>32</volume>
+          <fpage>1659</fpage>
+          <lpage>1566</lpage>
+          <pub-id pub-id-type="pmid">12569989</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Schnoeller1">
+        <label>74</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schnoeller</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rausch</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Pillai</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Avagyan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wittig</surname>
+              <given-names>BM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>A helminth immunomodulator reduces allergic and inflammatory responses by induction of IL-10-producing macrophages.</article-title>
+          <source>J Immunol</source>
+          <volume>180</volume>
+          <fpage>4265</fpage>
+          <lpage>4272</lpage>
+          <pub-id pub-id-type="pmid">18322239</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Melendez1">
+        <label>75</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melendez</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Harnett</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Pushparaj</surname>
+              <given-names>PN</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Tay</surname>
+              <given-names>HK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Inhibition of Fc epsilon RI-mediated mast cell responses by ES-62, a product of parasitic filarial nematodes.</article-title>
+          <source>Nat Med</source>
+          <volume>13</volume>
+          <fpage>1375</fpage>
+          <lpage>1381</lpage>
+          <pub-id pub-id-type="pmid">17952092</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-McInnes1">
+        <label>76</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McInnes</surname>
+              <given-names>IB</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>Harnett</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gracie</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Liew</surname>
+              <given-names>FY</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>A novel therapeutic approach targeting articular inflammation using the filarial nematode-derived phosphorylcholine-containing glycoprotein ES-62.</article-title>
+          <source>J Immunol</source>
+          <volume>171</volume>
+          <fpage>2127</fpage>
+          <lpage>2133</lpage>
+          <pub-id pub-id-type="pmid">12902519</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Donnelly1">
+        <label>77</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Donnelly</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>O'Neill</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Sekiya</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mulcahy</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Dalton</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Thioredoxin peroxidase secreted by <italic>Fasciola hepatica</italic> induces the alternative activation of macrophages.</article-title>
+          <source>Infect Immun</source>
+          <volume>73</volume>
+          <fpage>166</fpage>
+          <lpage>173</lpage>
+          <pub-id pub-id-type="pmid">15618151</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Holland1">
+        <label>78</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holland</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Harcus</surname>
+              <given-names>YM</given-names>
+            </name>
+            <name>
+              <surname>Riches</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Maizels</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Proteins secreted by the parasitic nematode <italic>Nippostrongylus brasiliensis</italic> act as adjuvants for Th2 responses.</article-title>
+          <source>Eur J Immunol</source>
+          <volume>30</volume>
+          <fpage>1977</fpage>
+          <lpage>1987</lpage>
+          <pub-id pub-id-type="pmid">10940887</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Han1">
+        <label>79</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>ZG</given-names>
+            </name>
+            <name>
+              <surname>Brindley</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Schistosome genomics: New perspectives on schistosome biology and host parasite interaction.</article-title>
+          <source>Annu Rev Genomics Hum Genet</source>
+          <volume>10</volume>
+          <fpage>211</fpage>
+          <lpage>240</lpage>
+          <pub-id pub-id-type="pmid">19630560</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Foster1">
+        <label>80</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Foster</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ganatra</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kamal</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Ware</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Makarova</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>The <italic>Wolbachia</italic> genome of <italic>Brugia malayi</italic>: endosymbiont evolution within a human pathogenic nematode.</article-title>
+          <source>PLoS Biol</source>
+          <volume>3</volume>
+          <fpage>e121</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0030121">10.1371/journal.pbio.0030121</ext-link></comment>
+          <pub-id pub-id-type="pmid">15780005</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Park1">
+        <label>81</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Park</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>K-S</given-names>
+            </name>
+            <name>
+              <surname>Grab</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Dumler</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <year>1993</year>
+          <article-title><italic>Anaplasma phagocytophilum</italic> AnkA binds to granulocyte DNA and nuclear proteins.</article-title>
+          <source>Cell Microbiol</source>
+          <volume>6</volume>
+          <fpage>743</fpage>
+          <lpage>751</lpage>
+          <pub-id pub-id-type="pmid">15236641</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Warbrick1">
+        <label>82</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Warbrick</surname>
+              <given-names>EV</given-names>
+            </name>
+            <name>
+              <surname>Barker</surname>
+              <given-names>GC</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>HH</given-names>
+            </name>
+            <name>
+              <surname>Howells</surname>
+              <given-names>RE</given-names>
+            </name>
+          </person-group>
+          <year>1993</year>
+          <article-title>The effect of invertebrate hormones and potential hormone inhibitors on the third larval moult of the filarial nematode, <italic>Dirofilaria immitis</italic>, in vitro.</article-title>
+          <source>Parasitology</source>
+          <volume>107</volume>
+          <fpage>459</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="pmid">8278225</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Nisbet1">
+        <label>83</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nisbet</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Cottee</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Gasser</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Genomics of reproduction in nematodes: prospects for parasite intervention?</article-title>
+          <source>Trends Parasitol</source>
+          <volume>24</volume>
+          <fpage>89</fpage>
+          <lpage>95</lpage>
+          <pub-id pub-id-type="pmid">18182326</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Dieterich2">
+        <label>84</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dieterich</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sommer</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>How to become a parasite - Lessons from the genomes of nematodes.</article-title>
+          <source>Trends Genet</source>
+          <volume>25</volume>
+          <fpage>203</fpage>
+          <lpage>209</lpage>
+          <pub-id pub-id-type="pmid">19361881</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Margulies1">
+        <label>85</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Margulies</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Egholm</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Altman</surname>
+              <given-names>WE</given-names>
+            </name>
+            <name>
+              <surname>Attiya</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bader</surname>
+              <given-names>JS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Genome sequencing in microfabricated high-density picolitre reactors.</article-title>
+          <source>Nature</source>
+          <volume>437</volume>
+          <fpage>376</fpage>
+          <lpage>380</lpage>
+          <pub-id pub-id-type="pmid">16056220</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Bennett1">
+        <label>86</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bennett</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Solexa Ltd.</article-title>
+          <source>Pharmacogenomics</source>
+          <volume>5</volume>
+          <fpage>433</fpage>
+          <lpage>438</lpage>
+          <pub-id pub-id-type="pmid">15165179</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Shendure1">
+        <label>87</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shendure</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Porreca</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Reppas</surname>
+              <given-names>NB</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>McCutcheon</surname>
+              <given-names>JP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Accurate multiplex polony sequencing of an evolved bacterial genome.</article-title>
+          <source>Science</source>
+          <volume>309</volume>
+          <fpage>1728</fpage>
+          <lpage>1732</lpage>
+          <pub-id pub-id-type="pmid">16081699</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Sanger1">
+        <label>88</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanger</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Niklen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Coulson</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>1977</year>
+          <article-title>DNA sequencing with chain-terminating inhibitors.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>74</volume>
+          <fpage>5463</fpage>
+          <lpage>5467</lpage>
+          <pub-id pub-id-type="pmid">271968</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Fenwick1">
+        <label>89</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fenwick</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Host-parasite relations and implications for control.</article-title>
+          <source>Adv Parasitol</source>
+          <volume>68</volume>
+          <fpage>247</fpage>
+          <lpage>261</lpage>
+          <pub-id pub-id-type="pmid">19289197</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Morozova1">
+        <label>90</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morozova</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Marra</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Applications of next-generation sequencing technologies in functional genomics.</article-title>
+          <source>Genomics</source>
+          <volume>92</volume>
+          <fpage>255</fpage>
+          <lpage>264</lpage>
+          <pub-id pub-id-type="pmid">18703132</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Kuntz1">
+        <label>91</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuntz</surname>
+              <given-names>AN</given-names>
+            </name>
+            <name>
+              <surname>Davioud-Charvet</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sayed</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Califf</surname>
+              <given-names>LL</given-names>
+            </name>
+            <name>
+              <surname>Dessolin</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Thioredoxin glutathione reductase from <italic>Schistosoma mansoni</italic>: An essential parasite enzyme and a key drug target.</article-title>
+          <source>PLoS Med</source>
+          <volume>4</volume>
+          <fpage>e206</fpage>
+          <comment>Erratum in: PLoS Med 2007, 4: e264</comment>
+          <pub-id pub-id-type="pmid">17579510</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Cosseau1">
+        <label>92</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cosseau</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Azzi</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Freitag</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mitta</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Native chromatin immunoprecipitation (N-ChIP) and ChIP-Seq of <italic>Schistosoma mansoni</italic>: Critical experimental parameters.</article-title>
+          <source>Mol Biochem Parasitol</source>
+          <volume>166</volume>
+          <fpage>70</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">19428675</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Chenna1">
+        <label>93</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chenna</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sugawara</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Koike</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Lopez</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gibson</surname>
+              <given-names>TJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Multiple sequence alignment with the Clustal series of programs.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>31</volume>
+          <fpage>3497</fpage>
+          <lpage>3500</lpage>
+          <pub-id pub-id-type="pmid">12824352</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000538-Felsenstein1">
+        <label>94</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Felsenstein</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>1988</year>
+          <article-title>Phylogenies from molecular sequences: Inference and reliability.</article-title>
+          <source>Ann Rev Genet</source>
+          <volume>22</volume>
+          <fpage>521</fpage>
+          <lpage>565</lpage>
+          <pub-id pub-id-type="pmid">3071258</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>Support from the NIH-NIAID, award numbers R01AI072773 (to PJB) and R01AI081803 (to MM) is gratefully acknowledged. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:40Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2756590" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2756590</identifier><datestamp>2009-10-26</datestamp><setSpec>ploscomp</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="discussion">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Comput Biol</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">ploscomp</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Computational Biology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-734X</issn>
+      <issn pub-type="epub">1553-7358</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2756590</article-id>
+      <article-id pub-id-type="pmid">19855825</article-id>
+      <article-id pub-id-type="publisher-id">09-PLCB-PV-0405R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pcbi.1000481</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Perspective</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Computational Biology/Genomics</subject>
+          <subject>Genetics and Genomics/Bioinformatics</subject>
+          <subject>Genetics and Genomics/Comparative Genomics</subject>
+          <subject>Genetics and Genomics/Microbial Evolution and Genomics</subject>
+          <subject>Microbiology/Microbial Evolution and Genomics</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Computational Resources in Infectious Disease: Limitations and Challenges</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berglund</surname>
+            <given-names>Eva C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nystedt</surname>
+            <given-names>Björn</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Andersson</surname>
+            <given-names>Siv G. E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>Department of Molecular Evolution, Uppsala University, Uppsala, Sweden</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Fraenkel</surname>
+            <given-names>Ernest</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">Massachusetts Institute of Technology, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>Siv.Andersson@ebc.uu.se</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>10</issue>
+      <elocation-id>e1000481</elocation-id>
+      <permissions>
+        <copyright-statement>Berglund et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <counts>
+        <page-count count="5"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <p>Infectious diseases continue to be a major cause of death in the human population, with tuberculosis and malaria affecting 500 million people and causing 1–2 million deaths annually <xref ref-type="bibr" rid="pcbi.1000481-Rappuoli1">[1]</xref>. The situation is aggravated by the increasing prevalence of antibiotic-resistant bacteria and the risk that terrorists might use infectious organisms to aggress target populations. During the past decade, we have also witnessed the emergence of many new pathogens not previously detected in humans, such as the avian influenza virus, severe acute respiratory syndrome (SARS), and Ebola. The appearance of these novel agents and the reemergence of previously eradicated pathogens may be associated with the growing human population, flooding, and other environmental perturbations; global travel and migration; and animal trade and domestic animal husbandry practices. Simultaneously, we have seen an explosion of genome sequence data. Sequencing is now the method of choice for characterization of new disease agents, as exemplified by the rapid sequencing of the genome of the SARS virus, which was made available within a month of identification of the virus <xref ref-type="bibr" rid="pcbi.1000481-Marra1">[2]</xref>,<xref ref-type="bibr" rid="pcbi.1000481-Rota1">[3]</xref>. Like SARS, most newly emerging disease agents originate in animals and have been transmitted to humans recently at food markets, by insect bites, or through hunting <xref ref-type="bibr" rid="pcbi.1000481-Rappuoli1">[1]</xref>.</p>
+    <p>The new sequencing technologies enable small academic research groups to create huge genome datasets at low cost. As a result, scientists with expertise in other fields of research, such as clinical microbiology and ecology, are just beginning to face the challenge of handling, comparing, and extracting useful information from millions of sequences. Here, we discuss the limitations of publicly available resources in the field of genomics of emerging bacterial pathogens, emphasizing areas where increased efforts in computational biology are urgently needed.</p>
+    <sec id="s2">
+      <title>Genome Evolution in Emerging Bacterial Pathogens</title>
+      <p>A natural ecosystem of a bacterial population that incidentally infects humans provides a high-risk microenvironment for the establishment of this pathogen in the human population (<xref ref-type="boxed-text" rid="pcbi-1000481-box001">Box 1</xref>; <xref ref-type="fig" rid="pcbi-1000481-g001">Figure 1</xref>). Comparative studies of the genomes of well-recognized human pathogens, incidental pathogens, and their closely related nonpathogenic species <xref ref-type="bibr" rid="pcbi.1000481-Parkhill1">[4]</xref>–<xref ref-type="bibr" rid="pcbi.1000481-Berglund1">[11]</xref> are valuable for efforts to predict the propensity for host shifts and their consequences for human health.</p>
+      <fig id="pcbi-1000481-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pcbi.1000481.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Evolution of a new infectious disease agent.</title>
+          <p>(A) Recent evolution of the specialist human pathogen <italic>M. ulcerans</italic> from the aquatic generalist pathogen <italic>M. marinum</italic>. (B) Arrangement of the three <italic>M. ulcerans</italic> plasmid–encoded repeated virulence genes (arrows from left to right: <italic>mlsA</italic>1 [51 kb], <italic>mlsA</italic>2 [7.6 kb], <italic>mlsB</italic> [43 kb]) coding for three polyketide synthases. The loading modules (labeled LM) and the 16 repeated modules depicted in purple (labeled 1–9 for <italic>mlsA</italic>1 and <italic>mlsA</italic>2, and 1–7 for <italic>mlsB</italic>) enable the serial buildup of the backbone carbon chain of the complex immunosuppressive substance mycolactone.</p>
+        </caption>
+        <graphic xlink:href="pcbi.1000481.g001"/>
+      </fig>
+      <boxed-text id="pcbi-1000481-box001" position="float">
+        <sec id="s2a1">
+          <title>Box 1. Genomic Changes Associated with Host Shifts</title>
+          <p>The movement of a bacterial species from abundant animal hosts such as rodents, which are a major reservoir of infectious disease agents, to the relatively small human population is typically associated with decreased genome size and loss/alteration of the mobile gene pool <xref ref-type="bibr" rid="pcbi.1000481-Parkhill1">[4]</xref>, <xref ref-type="bibr" rid="pcbi.1000481-Andersson1">[32]</xref>–<xref ref-type="bibr" rid="pcbi.1000481-Alsmark1">[34]</xref>. One illustrative example can be found in the genus <italic>Mycobacterium</italic>, which contains several severe human pathogens, including the agents of tuberculosis (<italic>M. tuberculosis</italic>) and leprosy (<italic>M. leprae</italic>) and also the recently emerged <italic>M. ulcerans</italic>. <italic>M. ulcerans</italic> causes severe skin lesions; this disease, known as Buruli ulcer, is becoming a serious public health problem in West and Central Africa as well as in other parts of the tropics.</p>
+          <p>Like many other recently emerged human pathogens <xref ref-type="bibr" rid="pcbi.1000481-Parkhill1">[4]</xref>, <xref ref-type="bibr" rid="pcbi.1000481-Alsmark1">[34]</xref>–<xref ref-type="bibr" rid="pcbi.1000481-Parkhill2">[36]</xref>, <italic>M. ulcerans</italic> appears to have switched from a generalist to a specialist lifestyle: starting with a progenitor very similar to the aquatic <italic>M. marinum</italic>. While <italic>M. marinum</italic> has been found both free-living and as an intracellular pathogen of fish and other species, <italic>M. ulcerans</italic> is thought to have a restricted host range and to be transmitted by insects (<xref ref-type="fig" rid="pcbi-1000481-g001">Figure 1A</xref>). The host switch was likely initiated by the uptake of a virulence plasmid, and preceded through a series of “bottleneck events” or (severe reductions in population size due to environmental circumstances). This process resulted in loss of about 1 Mb of the genome, major genomic rearrangements, extensive proliferation of insertion sequences, and a massive increase in number of pseudogenes <xref ref-type="bibr" rid="pcbi.1000481-Yip1">[37]</xref>–<xref ref-type="bibr" rid="pcbi.1000481-Stinear1">[39]</xref>. In particular, there was a massive reduction in the size of the two major surface protein gene families (a decrease of more than 250 genes compared to <italic>M. marinum</italic>). This gene loss is thought to have been crucial for the organism to evade the human immune system, by limiting the number of antigens on the bacterial surface <xref ref-type="bibr" rid="pcbi.1000481-Huber1">[40]</xref>.</p>
+          <p>The uptake of a new virulence plasmid producing an immunosuppressive substance called mycolactone is also thought to have played a key role in the evolution and host switch of <italic>M. ulcerans</italic>. This plasmid consists mainly of three unusually large and internally repeated genes (over 100 kb in total), and thus illustrates the concept of long and repeated virulence genes (<xref ref-type="fig" rid="pcbi-1000481-g001">Figure 1B</xref>) <xref ref-type="bibr" rid="pcbi.1000481-Stinear2">[41]</xref>. These genes appear to evolve rapidly by recombination and gene conversion, and new variants can be directly connected to variations in the chemical structure of mycolactone <xref ref-type="bibr" rid="pcbi.1000481-Pidot1">[42]</xref>, which might be important for host specificity, immunosuppressive potency, and drug design.</p>
+        </sec>
+      </boxed-text>
+      <p>A successful infectious bacterium, whether it causes disease or not, must possess mechanisms for interacting with the host and evading the host immune system. The key players in these processes are often proteins on the surface of the bacterium, including secretion systems that release effector proteins into the surrounding medium or directly into the host cells. These host-interaction factors are often members of large protein families with many paralogs and often encoded by long genes with internal repeats. Fluctuations in gene length and copy number occur through homologous recombination over these repeats <xref ref-type="bibr" rid="pcbi.1000481-Deitsch1">[12]</xref>–<xref ref-type="bibr" rid="pcbi.1000481-Bilek1">[15]</xref>.</p>
+      <p>Adding to the variability of the host-interaction genes is that they are often located on mobile elements such as plasmids or bacteriophages, which are easily gained and lost. Rapid sequence evolution of these genes may be driven by selection, because it often increases bacterial fitness by escaping the host immune system, creating a diverse set of binding structures or tuning effector proteins to a new host. As a consequence, host-interaction genes typically show extreme plasticity in both sequence and copy number, partly because they are under strong evolutionary pressure and partly because they are mechanistically prone to drastic mutational changes. Understanding these complex dynamics poses major challenges in many areas of computational biology, ranging from sequence assembly to epidemic risk assessment.</p>
+    </sec>
+    <sec id="s3">
+      <title>Complete Genome Assembly Remains Difficult</title>
+      <p>Despite the ease with which shotgun sequence data can be generated, assembling these data into a single genomic contig remains labor-intensive and time-consuming. This obstacle is primarily due to the difficulty of assembling repeated sequences. Hence, resequencing approaches—where short sequence reads are directly mapped to an already completed reference genome—have become increasingly popular. Resequencing readily detects SNPs (single nucleotide polymorphisms) in single-copy genes, but performs very poorly in repeated and highly divergent regions of the genome. Genes involved in infection processes, with their complex repeat structures, high duplication frequency, and rapid evolution, are thus often left unresolved.</p>
+      <p>The perhaps most imminent need is not for improved assembly algorithms but for better ways to integrate data from diverse sources, including shotgun sequencing, paired-end sequencing, PCR experiments, fosmid and BAC (bacterial artificial chromosome) clone sequencing, physical mapping, and restriction fragment data. A program integrating these different data should not only accurately assemble as much of the genome as possible, but also assist the researcher in designing additional experiments to resolve the remaining regions. Given the rapidly increasing number of incomplete genome sequences available, it would also be valuable with a quality-scoring standard that not only provides quality scores at individual sites under the assumption that the assembly is correct, but also reflects the uncertainty of the actual assembly over specific regions.</p>
+      <p>While assembly software development is struggling to keep up, the sequencing revolution shows no signs of slowing down. Perhaps the most important new development is real-time single molecule detection platforms with ultra-long sequencing reads <xref ref-type="bibr" rid="pcbi.1000481-Gupta1">[16]</xref>. Within the next few years, we can expect to see read lengths of 20 kb, which will help resolve many of the complex genomic features underlying host adaptation and pathogenicity.</p>
+    </sec>
+    <sec id="s4">
+      <title>Functional Annotation of Virulence and Host-Interaction Genes</title>
+      <p>Annotation is the process of assigning meaningful information, such as the location or function of genes, to raw sequence data. Reliable and consistent annotations are thus fundamental for analysis and interpretation of genome data. Since annotation of new genomes is usually based on homology searches (e.g., BLAST hits), errors and inconsistencies tend to propagate. One way to reduce error propagation is to functionally annotate a set of reference genomes based on experimentally determined information. Annotation of new genomes could then start with searches in this database, which would allow high-quality annotation of all well-conserved genes. The Gene Ontology's Reference Genome Project <xref ref-type="bibr" rid="pcbi.1000481-1">[17]</xref> and BioCyc <xref ref-type="bibr" rid="pcbi.1000481-Karp1">[18]</xref> represent developments in this direction. However, the number of species included is still limited, and a broader taxonomic breadth of bacteria, with one reference species per genus, would be desirable.</p>
+      <p>Functional annotation of pathogen genomes is particularly important, because genes involved in host-interaction processes are among the most difficult to annotate. One problem is that different research groups often have studied homologous genes in various species, and given them different names that are not always logical or reflective of similarities in sequence and function. A manually curated database of protein families involved in host interactions that incorporates currently used gene names, sequence motifs, gene functions, and experimental results would substantially improve the situation. Much improved guidelines for how to annotate genes in large families with different combinations of sequence motifs would also be valuable.</p>
+      <p>Comparative studies of very closely related genomes can help to distinguish functional genes from spurious ORFs (open reading frames) and pseudogenes, and thereby improve gene prediction. To this end, a tool to visualize all the fine details in comparisons of multiple closely related genomes is crucial. Such a tool was developed recently for genomes with a conserved order of genes, and it has been applied to analyze sequence deterioration in the typhus pathogen <italic>Rickettsia prowazekii</italic> and its closest relatives <xref ref-type="bibr" rid="pcbi.1000481-Fuxelius1">[10]</xref>. Future studies, however, will require software that can also handle multiple genome comparisons from highly rearranged genomes. Another limitation of currently available visualization tools is that, although multiple genomes can be included, only serial pairwise comparisons can be made. This limitation can be overcome by visualization of genome comparisons in “three dimensions” (3D visualization), enabling all-against-all comparisons to be viewed simultaneously (<xref ref-type="fig" rid="pcbi-1000481-g002">Figure 2</xref>). Just as 3D visualizations revolutionized the field of structural biology over the past decades, such developments might well revolutionize the field of comparative genomics in the years to come.</p>
+      <fig id="pcbi-1000481-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pcbi.1000481.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>New visualization tools for genome comparisons.</title>
+          <p>Comparison of the genes in multiple genomes can be represented visually by using a 3D program. Each arrow represents one gene, and the grey shading between genes indicates homology. Red indicates genes that are unique to one genome. The difference between this approach and existing programs is that all genomes can be compared to each other simultaneously, rather than by pairwise comparisons. With multiple genomes, and with zooming, flipping, and selecting options, even this rudimentary 3D program would be of great help in genome analysis.</p>
+        </caption>
+        <graphic xlink:href="pcbi.1000481.g002"/>
+      </fig>
+    </sec>
+    <sec id="s5">
+      <title>Molecular Diagnostics and Vaccine Development</title>
+      <p>Classification of infectious disease agents is typically based on multilocus sequence-typing (MLST) systems, by which new bacterial isolates are analyzed by sequencing five to seven predefined core genes <xref ref-type="bibr" rid="pcbi.1000481-Maiden1">[19]</xref>. With the increasing number of complete genome sequences of pathogenic and nonpathogenic strains, it will be possible to concatenate a much larger number of conserved genes and use this dataset to infer a tree to represent the underlying population structure <xref ref-type="bibr" rid="pcbi.1000481-Ciccarelli1">[20]</xref>. However, while genotyping systems based on conserved genes can be useful for monitoring the spread of strains, they do not necessarily correlate with genomotypes defined by virulence properties <xref ref-type="bibr" rid="pcbi.1000481-Turner1">[21]</xref>. This is because genes contributing to virulence are prone to horizontal gene transfer, gene duplications, and gene loss. Further complicating the development of molecular diagnostic methods is that homologs of virulence genes are often present also in nonpathogenic species, making it difficult to recognize pathogens solely from the gene content. Hence, classification and risk assessments for the emergence of novel infectious strains ultimately should be based on a combination of strain typing, gene content, and identification of virulence genes.</p>
+      <p>Understanding the evolutionary dynamics of host-interaction genes in terms of both mechanisms and selective forces is also important in order to design drugs that will be effective in the long term. What good would be the development of a new antibiotic or vaccine if the intended target protein evolves beyond recognition before the drug reaches the market? One solution to this problem is to characterize the selective pressures on candidate vaccine targets, and then exclude genes or parts of genes based on their evolutionary dynamics <xref ref-type="bibr" rid="pcbi.1000481-Bambini1">[22]</xref>. However, current tools for measuring positive or diversifying selection are severely limited in that they assume that single-base mutations are the only underlying mechanism of sequence change. For reliable analyses of genes with a complex evolution, a new generation of evolutionary tests needs to be developed that acknowledge the importance of mutation by recombination (<xref ref-type="fig" rid="pcbi-1000481-g003">Figure 3</xref>) and multiple-base insertion/deletion events as well as point mutations. With the expected huge increase of complete and draft genomes for many strains of a species, there is a need for programs capable of screening a large set of alignments for recombination signals, with novel statistical and visualization tools to analyze the full set of results.</p>
+      <fig id="pcbi-1000481-g003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pcbi.1000481.g003</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>New methods for analyzing evolution by recombination.</title>
+          <p>Improved models and visualization tools are needed to analyze recombination. Virulence genes, here exemplified by the <italic>acfD</italic> gene in the <italic>Vibrio cholerae</italic> pathogenicity island <xref ref-type="bibr" rid="pcbi.1000481-Tay1">[43]</xref>, often display complex recombination patterns. The aligned <italic>acfD</italic> genes (arrows) from three <italic>V. cholerae</italic> strains (M2140, M1567, and M1118) are plotted separately; a line connects each site where the nucleotides in two strains differ from the third strain. Noninformative sites were removed before plotting.</p>
+        </caption>
+        <graphic xlink:href="pcbi.1000481.g003"/>
+      </fig>
+    </sec>
+    <sec id="s6">
+      <title>Predicting Risk for Disease Outbreaks</title>
+      <p>The next challenge is to place the genomic data within its ecological context, which has led to a new research field called molecular ecosystems biology <xref ref-type="bibr" rid="pcbi.1000481-Raes1">[23]</xref>. This field focuses on dissecting the many complex molecular interactions between the bacterial population and its environment. This environment can be highly specialized, as in the case of bacteria adapted to a single host species, or very complex as for soil-, water-, or airborne bacteria. The behavior of a pathogen thus depends on many ecological factors, such as seasonal fluctuations in temperature and nutritional availability, species richness and host population density.</p>
+      <p>To be able to integrate and evaluate these data, new software is needed. Imagine a program that can read sequence data from hundreds of bacterial isolates, infer the underlying population structure, and combine it with gene expression data, ecological factors, and clinical data such as the number of disease cases reported in various geographic areas. It should be possible to visualize global patterns in the data, such as abundance of particular strains and sequence variants and migration of infected hosts and vectors over geographic areas and seasons. Changes in taxonomic profiles, virulence genes, and metabolic pathways should be visualized in real time. This program could also be linked to a Web site where researchers can post daily updates of clinical cases, spread of virulence genes, appearance of new strains and new mutations, migration patterns, and news about genome and functional data. This site would be useful for estimating the risk for new epidemics to emerge in the human population.</p>
+    </sec>
+    <sec id="s7">
+      <title>Analyzing Microbial Communities</title>
+      <p>Analyzing the behavior of complete pathogen ecosystems is an immediate priority. Random shotgun sequencing projects of bacterial DNA from diverse environments count in the hundreds, and the amount of metagenomic sequence data already exceeds the available genomic sequences in public databases <xref ref-type="bibr" rid="pcbi.1000481-Kunin1">[24]</xref>,<xref ref-type="bibr" rid="pcbi.1000481-Liolios1">[25]</xref> (<ext-link ext-link-type="uri" xlink:href="http://www.genomesonline.org">http://www.genomesonline.org</ext-link>). Several multinational projects on the human microbiome have been launched, which, together with studies of 16S rRNA amplicons, have provided new insights into the human intestinal <xref ref-type="bibr" rid="pcbi.1000481-Dethlefsen1">[26]</xref>–<xref ref-type="bibr" rid="pcbi.1000481-Mahowald1">[28]</xref>, oral <xref ref-type="bibr" rid="pcbi.1000481-Keijser1">[29]</xref>, and vaginal flora <xref ref-type="bibr" rid="pcbi.1000481-Spear1">[30]</xref>. Comparison of the microbial flora in healthy and diseased people can be a powerful diagnostic tool and enable the discovery of both emerging pathogens and novel virulence factors, such as antibiotic resistance plasmids. An important technical development that holds great promise for associating the functional adaptation of the community as a whole with the metabolic pathways present in the individual strains is single-cell isolation followed by whole-genome amplification. Community sequencing also provides an excellent tool for epidemic surveillance of pathogenic strains and virulence genes in environments from which they may further spread to humans.</p>
+      <p>The massive amount of data created by microbial community sequencing poses new challenges and will require extensive bioinformatics development <xref ref-type="bibr" rid="pcbi.1000481-Kunin1">[24]</xref>. Although the advent of longer sequence reads will have a large impact on the assembly of community data, the presence of many closely related species or strains in the same sample, along with horizontal gene transfer, will remain a daunting challenge. A whole new field of comparative algorithms needs to be developed, for example to provide meaningful comparisons between taxonomic profiles. New sequence databases will be essential for rapid access to both raw and processed data. Also, for fair comparisons between datasets, a certain level of standardization of sampling, experimental work, and statistics will be crucial <xref ref-type="bibr" rid="pcbi.1000481-Raes2">[31]</xref>. Bioinformatics skills combined with a deep biological understanding of the system under study are needed to use these complex sequence datasets to answer such questions as: Who is there? What are they doing? How are they communicating? And what is the risk for disease?</p>
+    </sec>
+    <sec id="s8">
+      <title>Challenges for the Future</title>
+      <p>The priority goals for the next decade within the area of emerging infectious diseases should be the study of complete pathogen ecosystems and the dissection of host–pathogen interaction communication pathways directly in the natural environment. To achieve these goals, investments in user-friendly software and improved visualization tools, along with excellent expertise in computational biology, will be of utmost importance. Unfortunately, too few undergraduate students in clinical microbiology and microbial ecology are trained in computational skills, and national governments and universities need to take action to address this deficiency to meet the demands of the near future. Often neglected by public and private funding is the monumental need for stable and standardized infrastructure at all levels, from the individual research group to the intergovernmental organization. Only with proper investments in everything from hardware and personnel for data handling, to the development of sensible and standardized file formats, can we ensure that the current developments can be fully exploited to more efficiently battle emerging infectious diseases.</p>
+      <p>Currently, the slow transition from a scientific in-house program to the distribution of a stable and efficient software package is a major bottleneck in scientific knowledge sharing, preventing efficient progress in all areas of computational biology. Efforts to design, share, and improve software must receive increased funding, practical support, and, not the least, scientific impact. Since microorganisms do not follow national borders, such initiatives are probably best started from intergovernmental organizations with close links to national centers with established communication networks to distribute know-how and advances further within the country, and vice versa, to facilitate the spread of new concepts and software to all members of the organization. Eventually, many of these initiatives may become community-driven. The example of Wikipedia, with more than 10 million entries written since the launch in 2001 and a current growth rate of thousands of articles daily (<ext-link ext-link-type="uri" xlink:href="http://www.wikipedia.org">http://www.wikipedia.org</ext-link>), demonstrates the power of user-contributed initiatives.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Eddie Persson for graphical work.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pcbi.1000481-Rappuoli1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rappuoli</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>From Pasteur to genomics: Progress and challenges in infectious diseases.</article-title>
+          <source>Nat Med</source>
+          <volume>10</volume>
+          <fpage>1177</fpage>
+          <lpage>1185</lpage>
+          <pub-id pub-id-type="pmid">15516917</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Marra1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marra</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Astell</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Holt</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Brooks-Wilson</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>The genome sequence of the SARS-associated coronavirus.</article-title>
+          <source>Science</source>
+          <volume>300</volume>
+          <fpage>1399</fpage>
+          <lpage>1404</lpage>
+          <pub-id pub-id-type="pmid">12730501</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Rota1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rota</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Oberste</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Monroe</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Nix</surname>
+              <given-names>WA</given-names>
+            </name>
+            <name>
+              <surname>Campagnoli</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Characterization of a novel coronavirus associated with severe acute respiratory syndrome.</article-title>
+          <source>Science</source>
+          <volume>300</volume>
+          <fpage>1394</fpage>
+          <lpage>1399</lpage>
+          <pub-id pub-id-type="pmid">12730500</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Parkhill1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parkhill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wren</surname>
+              <given-names>BW</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>NR</given-names>
+            </name>
+            <name>
+              <surname>Titball</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Holden</surname>
+              <given-names>MT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Genome sequence of <italic>Yersinia pestis</italic>, the causative agent of plague.</article-title>
+          <source>Nature</source>
+          <volume>413</volume>
+          <fpage>523</fpage>
+          <lpage>527</lpage>
+          <pub-id pub-id-type="pmid">11586360</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Welch1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Welch</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Burland</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Plunkett</surname>
+              <given-names>G</given-names>
+              <suffix>3rd</suffix>
+            </name>
+            <name>
+              <surname>Redford</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Roesch</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Extensive mosaic structure revealed by the complete genome sequence of uropathogenic <italic>Escherichia coli</italic>.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>99</volume>
+          <fpage>17020</fpage>
+          <lpage>17024</lpage>
+          <pub-id pub-id-type="pmid">12471157</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Dziejman1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dziejman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Balon</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Boyd</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Fraser</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Heidelberg</surname>
+              <given-names>JF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Comparative genomic analysis of <italic>Vibrio cholerae</italic>: genes that correlate with cholera endemic and pandemic disease.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>99</volume>
+          <fpage>1556</fpage>
+          <lpage>1561</lpage>
+          <pub-id pub-id-type="pmid">11818571</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Wolfgang1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolfgang</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Kulasekara</surname>
+              <given-names>BR</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Boyd</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Conservation of genome content and virulence determinants among clinical and environmental isolates of <italic>Pseudomonas aeruginosa</italic>.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>100</volume>
+          <fpage>8484</fpage>
+          <lpage>8489</lpage>
+          <pub-id pub-id-type="pmid">12815109</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Seshadri1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seshadri</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Tettelin</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Eisen</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Heidelberg</surname>
+              <given-names>JF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Comparison of the genome of the oral pathogen <italic>Treponema denticola</italic> with other spirochete genomes.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>101</volume>
+          <fpage>5646</fpage>
+          <lpage>5651</lpage>
+          <pub-id pub-id-type="pmid">15064399</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Gill1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gill</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Fouts</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Archer</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Mongodin</surname>
+              <given-names>EF</given-names>
+            </name>
+            <name>
+              <surname>Deboy</surname>
+              <given-names>RT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Insights on evolution of virulence and resistance from the complete genome analysis of an early methicillin-resistant <italic>Staphylococcus aureus</italic> strain and a biofilm-producing methicillin-resistant <italic>Staphylococcus epidermidis</italic> strain.</article-title>
+          <source>J Bacteriol</source>
+          <volume>187</volume>
+          <fpage>2426</fpage>
+          <lpage>2438</lpage>
+          <pub-id pub-id-type="pmid">15774886</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Fuxelius1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuxelius</surname>
+              <given-names>HH</given-names>
+            </name>
+            <name>
+              <surname>Darby</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>NH</given-names>
+            </name>
+            <name>
+              <surname>Andersson</surname>
+              <given-names>SG</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Visualization of pseudogenes in intracellular bacteria reveals the different tracks to gene destruction.</article-title>
+          <source>Genome Biol</source>
+          <volume>9</volume>
+          <fpage>R42</fpage>
+          <pub-id pub-id-type="pmid">18302730</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Berglund1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berglund</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Frank</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Calteau</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vinnere Pettersson</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Granberg</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Run-off replication of host-adaptability genes is associated with gene transfer agents in the genome of mouse-infecting <italic>Bartonella grahamii</italic>.</article-title>
+          <source>PLoS Genet</source>
+          <volume>5</volume>
+          <fpage>e1000546</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pgen.1000546">10.1371/journal.pgen.1000546</ext-link></comment>
+          <pub-id pub-id-type="pmid">19578403</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Deitsch1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deitsch</surname>
+              <given-names>KW</given-names>
+            </name>
+            <name>
+              <surname>Moxon</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Wellems</surname>
+              <given-names>TE</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Shared themes of antigenic variation and virulence in bacterial, protozoal, and fungal infections.</article-title>
+          <source>Microbiol Mol Biol Rev</source>
+          <volume>61</volume>
+          <fpage>281</fpage>
+          <lpage>293</lpage>
+          <pub-id pub-id-type="pmid">9293182</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Brayton1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brayton</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Knowles</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>McGuire</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Efficient use of a small genome to generate antigenic diversity in tick-borne ehrlichial pathogens.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>98</volume>
+          <fpage>4130</fpage>
+          <lpage>4135</lpage>
+          <pub-id pub-id-type="pmid">11274438</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Nystedt1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nystedt</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Frank</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Thollesson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Andersson</surname>
+              <given-names>SG</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Diversifying selection and concerted evolution of a type IV secretion system in <italic>Bartonella</italic>.</article-title>
+          <source>Mol Biol Evol</source>
+          <volume>25</volume>
+          <fpage>287</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="pmid">18065487</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Bilek1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bilek</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ison</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Spratt</surname>
+              <given-names>BG</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Relative contributions of recombination and mutation to the diversification of the opa gene repertoire of <italic>Neisseria gonorrhoeae</italic>.</article-title>
+          <source>J Bacteriol</source>
+          <volume>191</volume>
+          <fpage>1878</fpage>
+          <lpage>1890</lpage>
+          <pub-id pub-id-type="pmid">19114493</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Gupta1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Single-molecule DNA sequencing technologies for future genomics research.</article-title>
+          <source>Trends Biotechnol</source>
+          <volume>26</volume>
+          <fpage>602</fpage>
+          <lpage>611</lpage>
+          <pub-id pub-id-type="pmid">18722683</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <year>2009</year>
+          <article-title>The Gene Ontology's Reference Genome Project: A unified framework for functional annotation across species.</article-title>
+          <source>PLoS Comput Biol</source>
+          <volume>5</volume>
+          <fpage>e1000431</fpage>
+          <pub-id pub-id-type="pmid">19578431</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Karp1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karp</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Ouzounis</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Moore-Kochlacs</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Goldovsky</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kaipa</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Expansion of the BioCyc collection of pathway/genome databases to 160 genomes.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>33</volume>
+          <fpage>6083</fpage>
+          <lpage>6089</lpage>
+          <pub-id pub-id-type="pmid">16246909</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Maiden1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maiden</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Bygraves</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Feil</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Morelli</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>JE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Multilocus sequence typing: A portable approach to the identification of clones within populations of pathogenic microorganisms.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>95</volume>
+          <fpage>3140</fpage>
+          <lpage>3145</lpage>
+          <pub-id pub-id-type="pmid">9501229</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Ciccarelli1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ciccarelli</surname>
+              <given-names>FD</given-names>
+            </name>
+            <name>
+              <surname>Doerks</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>von Mering</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Creevey</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Snel</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Toward automatic reconstruction of a highly resolved tree of life.</article-title>
+          <source>Science</source>
+          <volume>311</volume>
+          <fpage>1283</fpage>
+          <lpage>1287</lpage>
+          <pub-id pub-id-type="pmid">16513982</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Turner1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Feil</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The secret life of the multilocus sequence type.</article-title>
+          <source>Int J Antimicrob Agents</source>
+          <volume>29</volume>
+          <fpage>129</fpage>
+          <lpage>135</lpage>
+          <pub-id pub-id-type="pmid">17204401</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Bambini1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bambini</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rappuoli</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>The use of genomics in microbial vaccine development.</article-title>
+          <source>Drug Discov Today</source>
+          <volume>14</volume>
+          <fpage>252</fpage>
+          <lpage>260</lpage>
+          <pub-id pub-id-type="pmid">19150507</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Raes1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raes</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bork</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Molecular eco-systems biology: Towards an understanding of community function.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>6</volume>
+          <fpage>693</fpage>
+          <lpage>699</lpage>
+          <pub-id pub-id-type="pmid">18587409</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Kunin1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunin</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Copeland</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lapidus</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mavromatis</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hugenholtz</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>A bioinformatician's guide to metagenomics.</article-title>
+          <source>Microbiol Mol Biol Rev</source>
+          <volume>72</volume>
+          <fpage>557</fpage>
+          <lpage>578</lpage>
+          <pub-id pub-id-type="pmid">19052320</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Liolios1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liolios</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mavromatis</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tavernarakis</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Kyrpides</surname>
+              <given-names>NC</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The Genomes On Line Database (GOLD) in 2007: Status of genomic and metagenomic projects and their associated metadata.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>36</volume>
+          <fpage>D475</fpage>
+          <lpage>479</lpage>
+          <pub-id pub-id-type="pmid">17981842</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Dethlefsen1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dethlefsen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Huse</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sogin</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Relman</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The pervasive effects of an antibiotic on the human gut microbiota, as revealed by deep 16S rRNA sequencing.</article-title>
+          <source>PLoS Biol</source>
+          <volume>6</volume>
+          <fpage>e280</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0060280">10.1371/journal.pbio.0060280</ext-link></comment>
+          <pub-id pub-id-type="pmid">19018661</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Turnbaugh1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turnbaugh</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Hamady</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yatsunenko</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Cantarel</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Duncan</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>A core gut microbiome in obese and lean twins.</article-title>
+          <source>Nature</source>
+          <volume>457</volume>
+          <fpage>480</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="pmid">19043404</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Mahowald1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahowald</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Rey</surname>
+              <given-names>FE</given-names>
+            </name>
+            <name>
+              <surname>Seedorf</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Turnbaugh</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Fulton</surname>
+              <given-names>RS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Characterizing a model human gut microbiota composed of members of its two dominant bacterial phyla.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>106</volume>
+          <fpage>5859</fpage>
+          <lpage>5864</lpage>
+          <pub-id pub-id-type="pmid">19321416</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Keijser1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keijser</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Zaura</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Huse</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>van der Vossen</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Schuren</surname>
+              <given-names>FH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Pyrosequencing analysis of the oral microflora of healthy adults.</article-title>
+          <source>J Dent Res</source>
+          <volume>87</volume>
+          <fpage>1016</fpage>
+          <lpage>1020</lpage>
+          <pub-id pub-id-type="pmid">18946007</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Spear1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spear</surname>
+              <given-names>GT</given-names>
+            </name>
+            <name>
+              <surname>Sikaroodi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zariffard</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Landay</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>French</surname>
+              <given-names>AL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Comparison of the diversity of the vaginal microbiota in HIV-infected and HIV-uninfected women with or without bacterial vaginosis.</article-title>
+          <source>J Infect Dis</source>
+          <volume>198</volume>
+          <fpage>1131</fpage>
+          <lpage>1140</lpage>
+          <pub-id pub-id-type="pmid">18717638</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Raes2">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raes</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Foerstner</surname>
+              <given-names>KU</given-names>
+            </name>
+            <name>
+              <surname>Bork</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Get the most out of your metagenome: Computational analysis of environmental sequence data.</article-title>
+          <source>Curr Opin Microbiol</source>
+          <volume>10</volume>
+          <fpage>490</fpage>
+          <lpage>498</lpage>
+          <pub-id pub-id-type="pmid">17936679</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Andersson1">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andersson</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Kurland</surname>
+              <given-names>CG</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Reductive evolution of resident genomes.</article-title>
+          <source>Trends Microbiol</source>
+          <volume>6</volume>
+          <fpage>263</fpage>
+          <lpage>268</lpage>
+          <pub-id pub-id-type="pmid">9717214</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Cole1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cole</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Eiglmeier</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Parkhill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>NR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Massive gene decay in the leprosy bacillus.</article-title>
+          <source>Nature</source>
+          <volume>409</volume>
+          <fpage>1007</fpage>
+          <lpage>1011</lpage>
+          <pub-id pub-id-type="pmid">11234002</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Alsmark1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alsmark</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Frank</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Karlberg</surname>
+              <given-names>EO</given-names>
+            </name>
+            <name>
+              <surname>Legault</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Ardell</surname>
+              <given-names>DH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>The louse-borne human pathogen <italic>Bartonella quintana</italic> is a genomic derivative of the zoonotic agent Bartonella henselae.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>101</volume>
+          <fpage>9716</fpage>
+          <lpage>9721</lpage>
+          <pub-id pub-id-type="pmid">15210978</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Cole2">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cole</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Brosch</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Parkhill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Garnier</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Churcher</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Deciphering the biology of <italic>Mycobacterium tuberculosis</italic> from the complete genome sequence.</article-title>
+          <source>Nature</source>
+          <volume>393</volume>
+          <fpage>537</fpage>
+          <lpage>544</lpage>
+          <pub-id pub-id-type="pmid">9634230</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Parkhill2">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parkhill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sebaihia</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Preston</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Comparative analysis of the genome sequences of <italic>Bordetella pertussis</italic>, <italic>Bordetella parapertussis</italic> and <italic>Bordetella bronchiseptica</italic>.</article-title>
+          <source>Nat Genet</source>
+          <volume>35</volume>
+          <fpage>32</fpage>
+          <lpage>40</lpage>
+          <pub-id pub-id-type="pmid">12910271</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Yip1">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yip</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Porter</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Fyfe</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Lavender</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Portaels</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Evolution of <italic>Mycobacterium ulcerans</italic> and other mycolactone-producing mycobacteria from a common <italic>Mycobacterium marinum</italic> progenitor.</article-title>
+          <source>J Bacteriol</source>
+          <volume>189</volume>
+          <fpage>2021</fpage>
+          <lpage>2029</lpage>
+          <pub-id pub-id-type="pmid">17172337</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Rondini1">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rondini</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kaser</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Stinear</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Tessier</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mangold</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Ongoing genome reduction in <italic>Mycobacterium ulcerans</italic>.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>13</volume>
+          <fpage>1008</fpage>
+          <lpage>1015</lpage>
+          <pub-id pub-id-type="pmid">18214172</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Stinear1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stinear</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Seemann</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Pidot</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Frigui</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Reysset</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Reductive evolution and niche adaptation inferred from the genome of <italic>Mycobacterium ulcerans</italic>, the causative agent of Buruli ulcer.</article-title>
+          <source>Genome Res</source>
+          <volume>17</volume>
+          <fpage>192</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="pmid">17210928</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Huber1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huber</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Ruf</surname>
+              <given-names>MT</given-names>
+            </name>
+            <name>
+              <surname>Pluschke</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kaser</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Independent loss of immunogenic proteins in <italic>Mycobacterium ulcerans</italic> suggests immune evasion.</article-title>
+          <source>Clin Vaccine Immunol</source>
+          <volume>15</volume>
+          <fpage>598</fpage>
+          <lpage>606</lpage>
+          <pub-id pub-id-type="pmid">18256209</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Stinear2">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stinear</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Mve-Obiang</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Frigui</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Pryor</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Giant plasmid-encoded polyketide synthases produce the macrolide toxin of <italic>Mycobacterium ulcerans</italic>.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>101</volume>
+          <fpage>1345</fpage>
+          <lpage>1349</lpage>
+          <pub-id pub-id-type="pmid">14736915</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Pidot1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pidot</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Seemann</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Porter</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Yip</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Deciphering the genetic basis for polyketide variation among mycobacteria producing mycolactones.</article-title>
+          <source>BMC Genomics</source>
+          <volume>9</volume>
+          <fpage>462</fpage>
+          <pub-id pub-id-type="pmid">18840298</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pcbi.1000481-Tay1">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tay</surname>
+              <given-names>CY</given-names>
+            </name>
+            <name>
+              <surname>Reeves</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Lan</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Importation of the major pilin TcpA gene and frequent recombination drive the divergence of the <italic>Vibrio</italic> pathogenicity island in <italic>Vibrio cholerae</italic>.</article-title>
+          <source>FEMS Microbiol Lett</source>
+          <volume>289</volume>
+          <fpage>210</fpage>
+          <lpage>218</lpage>
+          <pub-id pub-id-type="pmid">19054108</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>The authors are supported by grants to SGEA from the European Union (QLK3-CT2000-01079, EUWOL and EuroPathogenomics), the Swedish Research Council (<ext-link ext-link-type="uri" xlink:href="http://www.vr.se/">http://www.vr.se/</ext-link>), the Göran Gustafsson Foundation (<ext-link ext-link-type="uri" xlink:href="http://www.gustafssonsstiftelse.se/">http://www.gustafssonsstiftelse.se/</ext-link>), the Swedish Foundation for Strategic Research (<ext-link ext-link-type="uri" xlink:href="http://www.stratresearch.se/">http://www.stratresearch.se/</ext-link>) and the Knut and Alice Wallenberg Foundation (<ext-link ext-link-type="uri" xlink:href="http://www.wallenberg.com/kaw/">http://www.wallenberg.com/kaw/</ext-link>). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

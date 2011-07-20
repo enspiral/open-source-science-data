@@ -1,0 +1,2065 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:52Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2739293" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2739293</identifier><datestamp>2009-10-26</datestamp><setSpec>plospath</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="discussion">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Pathog</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plospath</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Pathogens</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-7366</issn>
+      <issn pub-type="epub">1553-7374</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2739293</article-id>
+      <article-id pub-id-type="pmid">19855818</article-id>
+      <article-id pub-id-type="publisher-id">09-PLPA-RV-0492R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.ppat.1000566</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Evolutionary Biology/Genomics</subject>
+          <subject>Genetics and Genomics/Population Genetics</subject>
+          <subject>Infectious Diseases/Viral Infections</subject>
+          <subject>Virology/Emerging Viral Diseases</subject>
+          <subject>Virology/Immune Evasion</subject>
+          <subject>Virology/Vaccines</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Role of Genomics in Tracking the Evolution of Influenza A Virus</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McHardy</surname>
+            <given-names>Alice Carolyn</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Adams</surname>
+            <given-names>Ben</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Computational Genomics and Epidemiology, Max Planck Institute for Informatics, Saarbruecken, Germany</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Department of Mathematical Sciences, University of Bath, United Kingdom</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Manchester</surname>
+            <given-names>Marianne</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">The Scripps Research Institute, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>mchardy@mpi-inf.mpg.de</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>10</issue>
+      <elocation-id>e1000566</elocation-id>
+      <permissions>
+        <copyright-statement>McHardy et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <abstract>
+        <p>Influenza A virus causes annual epidemics and occasional pandemics of short-term respiratory infections associated with considerable morbidity and mortality. The pandemics occur when new human-transmissible viruses that have the major surface protein of influenza A viruses from other host species are introduced into the human population. Between such rare events, the evolution of influenza is shaped by antigenic drift: the accumulation of mutations that result in changes in exposed regions of the viral surface proteins. Antigenic drift makes the virus less susceptible to immediate neutralization by the immune system in individuals who have had a previous influenza infection or vaccination. A biannual reevaluation of the vaccine composition is essential to maintain its effectiveness due to this immune escape. The study of influenza genomes is key to this endeavor, increasing our understanding of antigenic drift and enhancing the accuracy of vaccine strain selection. Recent large-scale genome sequencing and antigenic typing has considerably improved our understanding of influenza evolution: epidemics around the globe are seeded from a reservoir in East-Southeast Asia with year-round prevalence of influenza viruses; antigenically similar strains predominate in epidemics worldwide for several years before being replaced by a new antigenic cluster of strains. Future in-depth studies of the influenza reservoir, along with large-scale data mining of genomic resources and the integration of epidemiological, genomic, and antigenic data, should enhance our understanding of antigenic drift and improve the detection and control of antigenically novel emerging strains.</p>
+      </abstract>
+      <counts>
+        <page-count count="6"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <p>Influenza is a single-stranded, negative-sense RNA virus that causes acute respiratory illness in humans. In temperate regions, winter influenza epidemics result in 250,000–500,000 deaths per year; in tropical regions, the burden is similar <xref ref-type="bibr" rid="ppat.1000566-WHO1">[1]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Viboud1">[2]</xref>. Influenza viruses of three genera or types (A, B, and C) circulate in the human population. Influenza viruses of the types B and C evolve slowly and circulate at low levels. Type A evolves rapidly and can evade neutralization by antibodies in individuals who have been previously infected with, or vaccinated against, the virus. As a result it regularly causes large epidemics. Furthermore, distinct reservoirs of influenza A exist in other mammals and in birds. Four times in the last hundred years these reservoirs have provided genetic material for novel viruses that have caused global pandemics <xref ref-type="bibr" rid="ppat.1000566-Palese1">[3]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Horimoto1">[8]</xref>.</p>
+    <p>The genome of influenza A viruses comprises eight RNA segments of 0.9–2.3 kb that together span approximately 13.5 kb and encode 11 proteins <xref ref-type="bibr" rid="ppat.1000566-Ghedin1">[9]</xref>. Segment 4 encodes the major surface glycoprotein called hemagglutinin (H), which is responsible for attaching the virus to sialic acid residues on the host cell surface and fusing the virus membrane envelope with the host cell membrane, thus delivering the viral genome into the cell (<xref ref-type="fig" rid="ppat-1000566-g001">Figure 1</xref>). Segment 6 encodes another surface glycoprotein called neuraminidase (N), which cleaves terminal sialic acid residues from glycoproteins and glycolipids on the host cell surface, thus releasing budding viral particles from an infected cell <xref ref-type="bibr" rid="ppat.1000566-Webster1">[10]</xref>. Influenza A viruses are further classified into distinct subtypes based on the genetic and antigenic characteristics of these two surface glycoproteins. Sixteen hemagglutinin (H1–16) and nine neuraminidase subtypes (N1–9) are known to exist, and they occur in various combinations in influenza viruses endemic in aquatic birds <xref ref-type="bibr" rid="ppat.1000566-Webster1">[10]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Fouchier1">[11]</xref>. Viruses with the subtype composition H1N1 and H3N2 have been circulating in the human population for several decades. Of these two subtypes, H3N2 evolves more rapidly, and has until recently caused the majority of infections <xref ref-type="bibr" rid="ppat.1000566-WHO1">[1]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Rambaut1">[12]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Wolf1">[13]</xref>. In the spring of 2009, however, a new H1N1 virus originating from swine influenza A viruses, and only distantly related to the H1N1 already circulating, gained hold in the human population. The emergence of this virus has initiated the first influenza pandemic of the twenty-first century <xref ref-type="bibr" rid="ppat.1000566-Neumann1">[7]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Garten1">[14]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Fraser1">[15]</xref>.</p>
+    <fig id="ppat-1000566-g001" position="float">
+      <object-id pub-id-type="doi">10.1371/journal.ppat.1000566.g001</object-id>
+      <label>Figure 1</label>
+      <caption>
+        <title>Schematic representation of an influenza A virion.</title>
+        <p>Three proteins, hemagglutinin (HA, a trimer of three identical subunits), neuraminidase (NA, a tetramer of four identical subunits), and the M2 transmembrane proton channel (a tetramer of four identical subunits), are anchored in the viral membrane, which is composed of a lipid bilayer. The large, external domains of hemagglutinin and neuraminidase are the major targets for neutralizing antibodies of the host immune response. The M1 matrix protein is located below the membrane. The genome of the influenza A virus is composed of eight individual RNA segments (conventionally ordered by decreasing length, bottom row), which each encode one or two proteins. Inside the virion, the eight RNA segments are packaged in a complex with nucleoprotein (NP) and the viral polymerase complex, consisting of the PA, PB1, and PB2 proteins.</p>
+      </caption>
+      <graphic xlink:href="ppat.1000566.g001"/>
+    </fig>
+    <p>Hemagglutinin is about five times more abundant than neuraminidase in the viral membrane and is the major target of the host immune response <xref ref-type="bibr" rid="ppat.1000566-Wiley1">[16]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Wilson2">[18]</xref>. Following exposure to the virus, whether by infection or vaccination, the host immune system acquires the capacity to produce neutralizing antibodies against the viral surface glycoproteins. These antibodies participate in clearing an infection and may protect an individual from future infections for many decades <xref ref-type="bibr" rid="ppat.1000566-Yu1">[19]</xref>. Five exposed regions on the surface of hemagglutinin, called epitope sites, are predominantly recognized by such antibodies <xref ref-type="bibr" rid="ppat.1000566-Wiley1">[16]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Wilson1">[17]</xref>. However, the human subtypes of influenza A continuously evolve and acquire genetic mutations that result in amino acid changes in the epitopes. These changes reduce the protective effect of antibodies raised against previously circulating viral variants. This “antigenic drift” necessitates frequent modification and readministration of the influenza vaccine to ensure efficient protection (<xref ref-type="boxed-text" rid="ppat-1000566-box001">Box 1</xref>).</p>
+    <boxed-text id="ppat-1000566-box001" position="float">
+      <sec id="s1a1">
+        <title>Box 1. Broadly Protective Vaccines</title>
+        <p>Current influenza vaccines are based on detergent-inactivated viruses. They elicit antibodies with a narrow range of protection that target predominantly the variable regions of the hemagglutinin protein. Accordingly, the seasonal influenza vaccine includes one strain with segments of the surface proteins for each of the A/H1N1, A/H3N2 and B viruses, and it is updated every 1–3 years to match the predominant variants of influenza. Research into vaccines that offer broader protection across diverse subtypes and antigenic drift variants is ongoing <xref ref-type="bibr" rid="ppat.1000566-KarlssonHedestam1">[21]</xref>, <xref ref-type="bibr" rid="ppat.1000566-Sui1">[59]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Carrat1">[61]</xref>. This research is particularly important with respect to the emergence of novel viruses with pandemic potential, such as the 2009 H1N1 virus. In such an event, the time period between the detection of the virus and the onset of a pandemic is too short to produce a specific vaccine for immediate vaccination of the population. Work in this area is focused on developing vaccines that elicit antibodies against conserved viral components, such as certain regions of hemagglutinin, neuraminidase, and the M2 proton channel in the viral membrane <xref ref-type="bibr" rid="ppat.1000566-Gerhard1">[60]</xref>. Other types of vaccines based on live attenuated viruses or plasmid DNA expression vectors, or supplemented with adjuvants, show promise in inducing a more broadly protective immune response <xref ref-type="bibr" rid="ppat.1000566-Carrat1">[61]</xref>.</p>
+      </sec>
+    </boxed-text>
+    <p>To monitor for novel emerging strains, the World Health Organization (WHO) maintains a global surveillance program. A panel of experts meets twice a year to review antigenic, genetic, and epidemiological data and decides on the vaccine composition for the next winter season in the northern or southern hemisphere <xref ref-type="bibr" rid="ppat.1000566-Russell1">[20]</xref>. If an emerging antigenic variant is detected and judged likely to become predominant, an update of the vaccine strain is recommended. This “predict and produce” approach mostly results in efficient vaccines that substantially limit the morbidity and mortality of seasonal epidemics <xref ref-type="bibr" rid="ppat.1000566-KarlssonHedestam1">[21]</xref>. The recommendation has to be made almost a year before the season in which the vaccine is used, however, because of the time required to produce and distribute a new vaccine. Problems arise when an emerging variant is not identified early enough for an update of the vaccine composition <xref ref-type="bibr" rid="ppat.1000566-deJong1">[22]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Salzberg1">[24]</xref>. Thus, gaining a detailed understanding of the evolution and epidemiology of the virus is of the utmost importance, as it may lead to earlier identification of novel emerging variants <xref ref-type="bibr" rid="ppat.1000566-Russell1">[20]</xref>.</p>
+    <p>The development of high-throughput sequencing has recently provided large datasets of high-quality, complete genome sequences for viral isolates collected in a relatively unbiased manner, regardless of virulence or other unusual characteristics <xref ref-type="bibr" rid="ppat.1000566-Ghedin1">[9]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Obenauer1">[25]</xref>. Analyses of the genome sequence data combined with large-scale antigenic typing <xref ref-type="bibr" rid="ppat.1000566-Smith1">[26]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Russell2">[27]</xref> have given insights into the pattern of global spread, the genetic diversity during seasonal epidemics, and the dynamics of subtype evolution. Influenza data repositories such as the NCBI Influenza Virus Resource (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/genomes/FLU/FLU.html">http://www.ncbi.nlm.nih.gov/genomes/FLU/FLU.html</ext-link>) <xref ref-type="bibr" rid="ppat.1000566-Bao1">[28]</xref> and the Global Initiative on Sharing All Influenza Data (GISAID; <ext-link ext-link-type="uri" xlink:href="http://platform.gisaid.org/">http://platform.gisaid.org/</ext-link>) database <xref ref-type="bibr" rid="ppat.1000566-Enserink1">[29]</xref> make the genomic information publicly available, together with epidemiological data for the sequenced isolates. The GISAID model for data sharing requires users to agree to collaborate with, and appropriately credit, all data contributors. A notable success of this initiative has been the contribution of countries, such as Indonesia and China, which have previously been reticent about placing data in the public domain. The WHO also supports the endeavor of rapid publication of all available sequences for influenza viruses and there is hope that comprehensive submission to public databases will soon become a reality <xref ref-type="bibr" rid="ppat.1000566-Salzberg1">[24]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Bogner1">[30]</xref>. In the future, mining these resources and establishing a statistical framework based on epidemiological, antigenic, and genetic information could provide further insights into the rules that govern the emergence and establishment of antigenically novel variants and improve the potential for influenza prevention and control.</p>
+    <sec id="s2">
+      <title>Host Immune Evasion by Antigenic Drift and Shift</title>
+      <p>Influenza viruses can rapidly acquire genetic diversity because of high replication rates in infected hosts, an error-prone RNA polymerase (which introduces mutations during genome replication), and segment reassortment (<xref ref-type="fig" rid="ppat-1000566-g002">Figure 2</xref>). Mutations that change amino acid residues appear significantly more often than silent mutations in the evolution of the hemagglutinin gene of human influenza A, particularly in the protein epitopes <xref ref-type="bibr" rid="ppat.1000566-Fitch1">[31]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Nelson1">[34]</xref>. This observation indicates that selection for antigenic change of the virus is the driving force in the evolutionary “arms race” between the virus and the immunity of the human population <xref ref-type="bibr" rid="ppat.1000566-Grenfell1">[35]</xref>. Reassortment of the eight genome segments between two distinct viruses present simultaneously in a host cell can result in hybrid viruses with genome segments from two different progenitors.</p>
+      <fig id="ppat-1000566-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000566.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Generation of genetic diversity and antigenic drift in the evolution of human influenza A viruses.</title>
+          <p>Blue and yellow viruses depict two antigenically similar strains of the same subtype circulating in the human population. The genetic diversity of the circulating viral population increases through mutation and reasssortment. Single white arrows indicate relationships between ancestral and descendant viruses. White marks on the segments indicate neutral mutations and red marks indicate mutations that affect the antigenic regions of the surface proteins. Incoming pairs of orange arrows indicate the generation of reassortants with segments from two different ancestral viruses. As these viruses continue to circulate, immunity against them builds up in the host population, represented here by the narrowing of the bottleneck. In parallel, viruses with mutations affecting the antigenic regions of the surface proteins accumulate in the viral population. At some point a novel antigenic drift variant, indicated by a red colored virus, which is less affected by immunity in the human population, is generated. This variant is able to cause widespread infection and founds a new cluster of antigenically similar strains.</p>
+        </caption>
+        <graphic xlink:href="ppat.1000566.g002"/>
+      </fig>
+      <p>Antigenic mapping allows researchers to generate a quantitative, two-dimensional representation of antigenic distances between genetically divergent strains <xref ref-type="bibr" rid="ppat.1000566-Smith1">[26]</xref>. This technique has revealed that the relationship between antigenic change and genetic change is nonlinear for the hemagglutinin of influenza A/H3N2. The rate of genetic change of the virus is almost constant over time, but some mutations exert a disproportionately large effect on the antigenic type, whereas others are “hitchhikers” with no phenotypic effect. Elucidating the effects of different mutations at individual sites on the antigenic type will improve our understanding of the overall genotype-to-phenotype mapping for antigenic drift. Furthermore, the antigenic drift of H3N2 is not continuous but punctuated: antigenically homogenous clusters of strains predominate for an average of 3 years before being replaced by a new cluster. In accordance with the punctuated nature of antigenic drift, periods of predominantly neutral evolution alternate with periods of strong selection for antigenic change <xref ref-type="bibr" rid="ppat.1000566-Wolf1">[13]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Nelson2">[36]</xref>. Phylogenetic trees illustrating the evolution of the hemagglutinin gene of H3N2 have a cactus-like shape with a strong temporal structure in which the trunk represents the succession of surviving viral lineages over time. Short side branches indicate that most strains are driven to extinction and that viral diversity at any given time is limited <xref ref-type="bibr" rid="ppat.1000566-Fitch1">[31]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Nelson1">[34]</xref>. The underlying causes of this punctuated antigenic drift and limited viral diversity at a given point in time have been investigated in phylodynamic modeling studies (<xref ref-type="boxed-text" rid="ppat-1000566-box002">Box 2</xref>).</p>
+      <boxed-text id="ppat-1000566-box002" position="float">
+        <sec id="s2a1">
+          <title>Box 2. Modeling Antigenic Evolution</title>
+          <p>There is a long history of the use of mathematical models to study epidemiological and evolutionary systems <xref ref-type="bibr" rid="ppat.1000566-Ross1">[63]</xref>. For rapidly evolving RNA viruses such as influenza the dynamics of these systems are densely interwoven, and recent work has sought to develop unified “phylodynamic” models to examine the processes underlying the observed epidemiological and evolutionary patterns (reviewed in <xref ref-type="bibr" rid="ppat.1000566-Grenfell1">[35]</xref>). A better understanding of the mechanisms driving viral evolution will enhance our capacity to accurately identify novel emerging strains. For influenza, phylodynamic models have been developed to probe the complex processes relating to viral persistence in the human population, antigenic turnover, and the limited genetic diversity at any given point in time. The first models predicted that diversity increases exponentially unless long-term, partial cross-immunity between strains is supplemented by temporary broad immunity that lasts for several months and protects against all infections, regardless of the genetic or antigenic similarity of strains <xref ref-type="bibr" rid="ppat.1000566-Ferguson1">[64]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Tria1">[65]</xref>. Subsequently, it has been proposed that a genotype-to-phenotype mapping defined by neutral networks underlies influenza evolution <xref ref-type="bibr" rid="ppat.1000566-Koelle1">[66]</xref>. A neutral network is a set of genotypes linked by single mutations that all map to the same phenotype, in this case the antigenic characteristics of a virus. Hence, genetic divergence is not accompanied by antigenic divergence as long as the genotype remains in the same network. In certain genetic contexts, however, mutations can move a genotype onto an adjacent network, resulting in a significant change in the antigenic phenotype. Incorporating this evolutionary framework into an epidemiological model leads to both epidemiological and evolutionary patterns characteristic of human influenza A/H3N2.</p>
+        </sec>
+      </boxed-text>
+      <p>Major changes in antigenicity (antigenic shift) are associated with the introduction of novel viruses into the human population that have a hemagglutinin segment of an influenza A virus from another host species and can be transmitted efficiently among humans <xref ref-type="bibr" rid="ppat.1000566-Cox1">[5]</xref>. Such viruses may arise by segment reassortment between a human influenza A virus and an influenza A virus from another host species. Alternatively, an entire virus from another host species may cross into the human population. The appearance of such viruses is rare, as it requires the viral genes encoded by the different segments to be compatible with each other and the virus to be capable of replication and transmission in the human population, which is also thought to be a polygenic trait <xref ref-type="bibr" rid="ppat.1000566-Morens1">[6]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Neumann1">[7]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Webster1">[10]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Lowen1">[37]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Kuiken1">[38]</xref>. Antigenic shift can have grave consequences because neutralizing antibodies against the viral surface proteins offer limited or no cross-protection across subtypes. Cross-protection can also be very limited between viruses of the same subtype that have evolved independently in different hosts for long periods of time <xref ref-type="bibr" rid="ppat.1000566-Garten1">[14]</xref>. Thus, a larger part of the population is susceptible to infection with such viruses than to infection with endemic viruses <xref ref-type="bibr" rid="ppat.1000566-Webster1">[10]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Garten1">[14]</xref>. Antigenic shift caused three global pandemics in the twentieth century, the 1918 H1N1 pandemic, the 1957 H2N2 pandemic, and 1968 H3N2 pandemic (reviewed in <xref ref-type="bibr" rid="ppat.1000566-Palese1">[3]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Cox1">[5]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Horimoto1">[8]</xref>): The 1918 pandemic had the most devastating impact, with an estimated 20–50 million deaths worldwide <xref ref-type="bibr" rid="ppat.1000566-Johnson1">[39]</xref>. There is some uncertainty concerning the origin of the 1918 virus due to the lack of data from this time <xref ref-type="bibr" rid="ppat.1000566-Morens1">[6]</xref>, <xref ref-type="bibr" rid="ppat.1000566-Taubenberger1">[40]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Taubenberger2">[43]</xref>. A recent phylogenetic study suggests that this virus may have been generated by reassortment of avian viruses with already circulating viruses in a mammalian host such as human or swine <xref ref-type="bibr" rid="ppat.1000566-Smith2">[44]</xref>. The H2N2 virus that caused the 1957 pandemic was a reassortant of five human H1N1 segments and avian segments encoding the viral surface proteins and the PB1 protein. Similarly, the reassortant H3N2 virus of the 1968 pandemic featured avian segments encoding hemagglutinin and PB1. H3N2 still circulates today, together with an H1N1 lineage introduced in 1977, which is similar to the H1N1 viruses circulating in the 1950s <xref ref-type="bibr" rid="ppat.1000566-Kilbourne1">[4]</xref>.</p>
+      <p>The first pandemic virus of the twenty-first century probably entered the human population in January or February of 2009 <xref ref-type="bibr" rid="ppat.1000566-Fraser1">[15]</xref>. Phylogenetic analyses of the viral genome determined that the virus has a complex reassortment history with segments of “avian-like” Eurasian swine influenza A viruses (NA and M) that were first observed in Eurasian swine in 1979, and of a triple reassortant virus identified in North American swine after 1998. The segments derived from the triple reassortant stem themselves from human H3N2 (PB1), an avian influenza A virus (PA, PB2), and classical North American swine influenza A viruses (HA, NP, NS), which have a common ancestry with the 1918 H1N1 virus <xref ref-type="bibr" rid="ppat.1000566-Garten1">[14]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Smith3">[45]</xref>. Experiments have shown that the new H1N1 virus replicates efficiently in mammalian model organisms such as ferrets, mice, and cynomolgus macaques and is likely to be capable of long-term circulation in the human population, particularly in the event of further adaptive changes through mutation or reassortment <xref ref-type="bibr" rid="ppat.1000566-Maines1">[46]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Itoh1">[48]</xref>. The novel H1N1 appears, so far, to cause relatively mild human infections in comparison to other viruses such as the highly pathogenic H5N1 avian influenza A viruses that, since 1997, have repeatedly been transmitted to humans and caused severe disease but so far have not been capable of sustained transmission between humans. The emergence of a novel pandemic virus, which may have been circulating undetected in swine for a decade <xref ref-type="bibr" rid="ppat.1000566-Garten1">[14]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Smith3">[45]</xref>, has highlighted the need for increased genomic surveillance of the viral populations in mammalian hosts such as swine. These hosts could be a vessel for mammalian adaptation of avian viruses, either by reassortment with human or swine viruses or through adaptive changes <xref ref-type="bibr" rid="ppat.1000566-Horimoto1">[8]</xref>, but have been monitored less intensely than avian populations. The latest emergence of a pandemic H1N1 virus has also underscored the vital importance of further research into the molecular factors that determine the host range and capacity for sustained human-to-human transmission of influenza A viruses.</p>
+    </sec>
+    <sec id="s3">
+      <title>Reassortment in Subtype Evolution</title>
+      <p>Whole-genome studies have revealed that segment reassortment between different viruses of the same subtype is an important mechanism in the evolution of human-adapted subtypes and generates extensive genome-wide diversity <xref ref-type="bibr" rid="ppat.1000566-Nelson1">[34]</xref>, <xref ref-type="bibr" rid="ppat.1000566-Nelson2">[36]</xref>, <xref ref-type="bibr" rid="ppat.1000566-Holmes1">[49]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Nelson4">[51]</xref>. Periodic selective sweeps caused by a novel antigenic drift variant rising to predominance reduce the genomic diversity of the circulating viral population, either genome-wide or for the hemagglutinin segment only <xref ref-type="bibr" rid="ppat.1000566-Rambaut1">[12]</xref>. Reassortment results in substantial differences in the evolutionary histories of individual segments. However, similarities in the histories of some segments indicate that besides the antigenic characteristics of hemagglutinin, the genomic context and compatibility of certain segment combinations might be an important contributor to viral fitness <xref ref-type="bibr" rid="ppat.1000566-Rambaut1">[12]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Nelson4">[51]</xref>. A case in point is the antigenically novel “Fujian” strain which became predominant in the 2003–2004 season, following a reassortment event that placed a hemagglutinin segment from a lineage that had been circulating at low levels for several years into a new genomic context <xref ref-type="bibr" rid="ppat.1000566-Holmes1">[49]</xref>. The importance of other segments in the adaptive evolution of the virus is further supported by the observation that a number of other segments, including the one encoding neuraminidase, evolve at similar rates to the segment encoding hemagglutinin <xref ref-type="bibr" rid="ppat.1000566-Rambaut1">[12]</xref>.</p>
+    </sec>
+    <sec id="s4">
+      <title>Geographic Spread</title>
+      <p>Genomic analysis has led to profound insights into the global patterns of circulation and evolution of influenza A. Over the course of seasonal epidemics in temperate regions, little evidence has been found for selection for amino acid change and adaptive evolution in the antigenic regions of the surface proteins <xref ref-type="bibr" rid="ppat.1000566-Nelson2">[36]</xref>. There is, however, substantial genetic diversity due to multiple introductions of distinct strains, wide spatial spread, and frequent segment reassortment in seasonal epidemics <xref ref-type="bibr" rid="ppat.1000566-Ghedin1">[9]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Rambaut1">[12]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Nelson2">[36]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Holmes1">[49]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Nelson3">[50]</xref>. The viral population circulating in one season does not directly seed the epidemic in the following one. Instead, gene flow and viral spread are global, with similar strains appearing in northern and southern hemisphere epidemics across several seasons. There is a global reservoir of viral diversity from which seasonal epidemics in temperate regions are seeded <xref ref-type="bibr" rid="ppat.1000566-Rambaut1">[12]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Russell2">[27]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Nelson5">[52]</xref>. This reservoir is located in East-Southeast Asia, where a region-wide network of temporally overlapping epidemics maintains infection incidence throughout the year <xref ref-type="bibr" rid="ppat.1000566-Russell2">[27]</xref>. Novel strains appear in this region on average 6–9 months before they emerge in Oceania, Europe, and North America and 12–18 months before they reach South America.</p>
+    </sec>
+    <sec id="s5">
+      <title>Challenges for the Future</title>
+      <p>A key objective for research into the antigenic drift of influenza A is to improve the accuracy of vaccine strain choice, in particular for seasons preceding the establishment of novel antigenic drift variants. More intensive surveillance and sampling, particularly in East-Southeast Asia, could facilitate the early detection of novel emerging drift variants and alleviate problems related to the time required for vaccine production. A better understanding of the evolutionary and epidemiological rules governing antigenic drift, viral fitness, the role of the source region, and establishment of predominance would be particularly helpful for the selection of vaccine strains when considerable variation among antigenically novel strains is observed and it is unclear which, if any, will become predominant. Such insights are likely to come both from phylodynamic modeling studies and by mining genomic resources for genome-wide properties associated with viral fitness and predominance. Some molecular properties of hemagglutinin with predictive value for this task have already been identified <xref ref-type="bibr" rid="ppat.1000566-Fitch3">[53]</xref>–<xref ref-type="bibr" rid="ppat.1000566-Kryazhimskiy1">[56]</xref>, such as the number of changes at sites under positive selection or in the most extensively altered epitope, although the sites under selection might change over time <xref ref-type="bibr" rid="ppat.1000566-Smith1">[26]</xref>. It is notable that the lack of antigenic information for sequenced viral isolates in public repositories currently restricts the direct analysis of genetic determinants in antigenic drift <xref ref-type="bibr" rid="ppat.1000566-Salzberg1">[24]</xref>. If the World Health Organization were to establish similar policies for the deposition of antigenic information into public databases as exist for sequence data, this could create a valuable resource for research in this area. As existing databases grow, new statistical and computational techniques are being developed for interpretation of these large-scale, population-level genomic datasets in combination with epidemiological and phenotypic information <xref ref-type="bibr" rid="ppat.1000566-Pybus1">[57]</xref>. Ultimately, the expert analysis of the WHO in the detection and control of antigenically novel emerging strains could be extensively supported by the development of a suitable predictive framework based on statistical learning that takes into consideration the population-level phylodynamics of antigenic change <xref ref-type="bibr" rid="ppat.1000566-Pybus1">[57]</xref>,<xref ref-type="bibr" rid="ppat.1000566-Bishop1">[58]</xref>. Such a framework could utilize epidemiological, genomic, and antigenic information and detailed knowledge of the genetic and epidemiological characteristics of antigenic drift to assess the likelihood of strains rising to predominance.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Linus Roune for his help creating the figures.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="ppat.1000566-WHO1">
+        <label>1</label>
+        <mixed-citation publication-type="other">
+          <collab>WHO</collab>
+          <year>2003</year>
+          <article-title>Fact sheet number 211.</article-title>
+          <comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.who.int/mediacentre/factsheets/fs211/en/">http://www.who.int/mediacentre/factsheets/fs211/en/</ext-link>. Accessed 13 August 2009</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Viboud1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Alonso</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Simonsen</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Influenza in tropical regions.</article-title>
+          <source>PLoS Med</source>
+          <volume>3</volume>
+          <fpage>e89</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pmed.0030089">10.1371/journal.pmed.0030089</ext-link></comment>
+          <pub-id pub-id-type="pmid">16509764</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Palese1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Palese</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Influenza: old and new threats.</article-title>
+          <source>Nat Med</source>
+          <volume>10</volume>
+          <fpage>S82</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="pmid">15577936</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Kilbourne1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kilbourne</surname>
+              <given-names>ED</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Influenza pandemics of the 20th century.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>12</volume>
+          <fpage>9</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="pmid">16494710</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Cox1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Subbarao</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Global epidemiology of influenza: past and present.</article-title>
+          <source>Annu Rev Med</source>
+          <volume>51</volume>
+          <fpage>407</fpage>
+          <lpage>421</lpage>
+          <pub-id pub-id-type="pmid">10774473</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Morens1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morens</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Taubenberger</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Fauci</surname>
+              <given-names>AS</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>The persistent legacy of the 1918 influenza virus.</article-title>
+          <source>N Engl J Med</source>
+          <volume>361</volume>
+          <fpage>225</fpage>
+          <lpage>229</lpage>
+          <pub-id pub-id-type="pmid">19564629</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Neumann1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Neumann</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Noda</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kawaoka</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Emergence and pandemic potential of swine-origin H1N1 influenza virus.</article-title>
+          <source>Nature</source>
+          <volume>459</volume>
+          <fpage>931</fpage>
+          <lpage>939</lpage>
+          <pub-id pub-id-type="pmid">19525932</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Horimoto1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horimoto</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kawaoka</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Influenza: Lessons from past pandemics, warnings from current incidents.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>3</volume>
+          <fpage>591</fpage>
+          <lpage>600</lpage>
+          <pub-id pub-id-type="pmid">16064053</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Ghedin1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghedin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sengamalay</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Shumway</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zaborsky</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Feldblyum</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Large-scale sequencing of human influenza reveals the dynamic nature of viral genome evolution.</article-title>
+          <source>Nature</source>
+          <volume>437</volume>
+          <fpage>1162</fpage>
+          <lpage>1166</lpage>
+          <pub-id pub-id-type="pmid">16208317</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Webster1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Webster</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Bean</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Gorman</surname>
+              <given-names>OT</given-names>
+            </name>
+            <name>
+              <surname>Chambers</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Kawaoka</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <year>1992</year>
+          <article-title>Evolution and ecology of influenza A viruses.</article-title>
+          <source>Microbiol Rev</source>
+          <volume>56</volume>
+          <fpage>152</fpage>
+          <lpage>179</lpage>
+          <pub-id pub-id-type="pmid">1579108</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Fouchier1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fouchier</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Munster</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Wallensten</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bestebroer</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Herfst</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Characterization of a novel influenza A virus hemagglutinin subtype (H16) obtained from black-headed gulls.</article-title>
+          <source>J Virol</source>
+          <volume>79</volume>
+          <fpage>2814</fpage>
+          <lpage>2822</lpage>
+          <pub-id pub-id-type="pmid">15709000</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Rambaut1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rambaut</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Taubenberger</surname>
+              <given-names>JK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The genomic and epidemiological dynamics of human influenza A virus.</article-title>
+          <source>Nature</source>
+          <volume>453</volume>
+          <fpage>615</fpage>
+          <lpage>619</lpage>
+          <pub-id pub-id-type="pmid">18418375</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Wolf1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolf</surname>
+              <given-names>YI</given-names>
+            </name>
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Koonin</surname>
+              <given-names>EV</given-names>
+            </name>
+            <name>
+              <surname>Lipman</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Long intervals of stasis punctuated by bursts of positive selection in the seasonal evolution of influenza A virus.</article-title>
+          <source>Biol Direct</source>
+          <volume>1</volume>
+          <fpage>34</fpage>
+          <pub-id pub-id-type="pmid">17067369</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Garten1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garten</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>CT</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Shu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lindstrom</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Antigenic and genetic characteristics of swine-origin 2009 A(H1N1) influenza viruses circulating in humans.</article-title>
+          <source>Science</source>
+          <volume>325</volume>
+          <fpage>197</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">19465683</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Fraser1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraser</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Donnelly</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Cauchemez</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hanage</surname>
+              <given-names>WP</given-names>
+            </name>
+            <name>
+              <surname>Van Kerkhove</surname>
+              <given-names>MD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Pandemic potential of a strain of influenza A (H1N1): Early findings.</article-title>
+          <source>Science</source>
+          <volume>324</volume>
+          <fpage>1557</fpage>
+          <lpage>1561</lpage>
+          <pub-id pub-id-type="pmid">19433588</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Wiley1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wiley</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Skehel</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <year>1981</year>
+          <article-title>Structural identification of the antibody-binding sites of Hong Kong influenza haemagglutinin and their involvement in antigenic variation.</article-title>
+          <source>Nature</source>
+          <volume>289</volume>
+          <fpage>373</fpage>
+          <lpage>378</lpage>
+          <pub-id pub-id-type="pmid">6162101</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Wilson1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilson</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <year>1990</year>
+          <article-title>Structural basis of immune recognition of influenza virus hemagglutinin.</article-title>
+          <source>Annu Rev Immunol</source>
+          <volume>8</volume>
+          <fpage>737</fpage>
+          <lpage>771</lpage>
+          <pub-id pub-id-type="pmid">2188678</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Wilson2">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilson</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Skehel</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Wiley</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <year>1981</year>
+          <article-title>Structure of the haemagglutinin membrane glycoprotein of influenza virus at 3 Å resolution.</article-title>
+          <source>Nature</source>
+          <volume>289</volume>
+          <fpage>366</fpage>
+          <lpage>373</lpage>
+          <pub-id pub-id-type="pmid">7464906</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Yu1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Tsibane</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>McGraw</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>House</surname>
+              <given-names>FS</given-names>
+            </name>
+            <name>
+              <surname>Keefer</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Neutralizing antibodies derived from the B cells of 1918 influenza pandemic survivors.</article-title>
+          <source>Nature</source>
+          <volume>455</volume>
+          <fpage>532</fpage>
+          <lpage>536</lpage>
+          <pub-id pub-id-type="pmid">18716625</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Russell1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Russell</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Barr</surname>
+              <given-names>IG</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Garten</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Influenza vaccine strain selection and recent studies on the global migration of seasonal influenza viruses.</article-title>
+          <source>Vaccine</source>
+          <volume>26</volume>
+          <issue>Suppl 4</issue>
+          <fpage>D31</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="pmid">19230156</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-KarlssonHedestam1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karlsson Hedestam</surname>
+              <given-names>GB</given-names>
+            </name>
+            <name>
+              <surname>Fouchier</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Phogat</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Burton</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Sodroski</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The challenges of eliciting neutralizing antibodies to HIV-1 and to influenza virus.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>6</volume>
+          <fpage>143</fpage>
+          <lpage>155</lpage>
+          <pub-id pub-id-type="pmid">18197170</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-deJong1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Jong</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Beyer</surname>
+              <given-names>WE</given-names>
+            </name>
+            <name>
+              <surname>Palache</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Rimmelzwaan</surname>
+              <given-names>GF</given-names>
+            </name>
+            <name>
+              <surname>Osterhaus</surname>
+              <given-names>AD</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Mismatch between the 1997/1998 influenza vaccine and the major epidemic A(H3N2) virus strain as the cause of an inadequate vaccine-induced antibody response to this strain in the elderly.</article-title>
+          <source>J Med Virol</source>
+          <volume>61</volume>
+          <fpage>94</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="pmid">10745239</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-CDC1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <collab>CDC</collab>
+          <year>2004</year>
+          <article-title>Preliminary assessment of the effectiveness of the 2003–04 inactivated influenza vaccine—Colorado, December 2003.</article-title>
+          <source>MMWR Morb Mortal Wkly Rep</source>
+          <volume>53</volume>
+          <fpage>8</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="pmid">14724559</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Salzberg1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salzberg</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The contents of the syringe.</article-title>
+          <source>Nature</source>
+          <volume>454</volume>
+          <fpage>160</fpage>
+          <lpage>161</lpage>
+          <pub-id pub-id-type="pmid">18615063</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Obenauer1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Obenauer</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Denson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mehta</surname>
+              <given-names>PK</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Mukatira</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Large-scale sequence analysis of avian influenza isolates.</article-title>
+          <source>Science</source>
+          <volume>311</volume>
+          <fpage>1576</fpage>
+          <lpage>1580</lpage>
+          <pub-id pub-id-type="pmid">16439620</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Smith1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Lapedes</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>de Jong</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Bestebroer</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Rimmelzwaan</surname>
+              <given-names>GF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Mapping the antigenic and genetic evolution of influenza virus.</article-title>
+          <source>Science</source>
+          <volume>305</volume>
+          <fpage>371</fpage>
+          <lpage>376</lpage>
+          <pub-id pub-id-type="pmid">15218094</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Russell2">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Russell</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Barr</surname>
+              <given-names>IG</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Garten</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The global circulation of seasonal influenza A (H3N2) viruses.</article-title>
+          <source>Science</source>
+          <volume>320</volume>
+          <fpage>340</fpage>
+          <lpage>346</lpage>
+          <pub-id pub-id-type="pmid">18420927</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Bao1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Bolotov</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Dernovoy</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kiryutin</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zaslavsky</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The influenza virus resource at the National Center for Biotechnology Information.</article-title>
+          <source>J Virol</source>
+          <volume>82</volume>
+          <fpage>596</fpage>
+          <lpage>601</lpage>
+          <pub-id pub-id-type="pmid">17942553</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Enserink1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Enserink</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Data sharing. New Swiss influenza database to test promises of access.</article-title>
+          <source>Science</source>
+          <volume>315</volume>
+          <fpage>923</fpage>
+          <pub-id pub-id-type="pmid">17303723</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Bogner1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bogner</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Capua</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lipman</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>A global initiative on sharing avian flu data.</article-title>
+          <source>Nature</source>
+          <volume>442</volume>
+          <fpage>981</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Fitch1">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fitch</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Leiter</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>XQ</given-names>
+            </name>
+            <name>
+              <surname>Palese</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>1991</year>
+          <article-title>Positive Darwinian evolution in human influenza A viruses.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>88</volume>
+          <fpage>4270</fpage>
+          <lpage>4274</lpage>
+          <pub-id pub-id-type="pmid">1840695</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Fitch2">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fitch</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Bush</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Long term trends in the evolution of H(3) HA1 human influenza type A.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>94</volume>
+          <fpage>7712</fpage>
+          <lpage>7718</lpage>
+          <pub-id pub-id-type="pmid">9223253</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Bush1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bush</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Fitch</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Positive selection on the H3 hemagglutinin gene of human influenza virus A.</article-title>
+          <source>Mol Biol Evol</source>
+          <volume>16</volume>
+          <fpage>1457</fpage>
+          <lpage>1465</lpage>
+          <pub-id pub-id-type="pmid">10555276</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Nelson1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The evolution of epidemic influenza.</article-title>
+          <source>Nat Rev Genet</source>
+          <volume>8</volume>
+          <fpage>196</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="pmid">17262054</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Grenfell1">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grenfell</surname>
+              <given-names>BT</given-names>
+            </name>
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Gog</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Daly</surname>
+              <given-names>JM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Unifying the epidemiological and evolutionary dynamics of pathogens.</article-title>
+          <source>Science</source>
+          <volume>303</volume>
+          <fpage>327</fpage>
+          <lpage>332</lpage>
+          <pub-id pub-id-type="pmid">14726583</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Nelson2">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Simonsen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Stochastic processes are key determinants of short-term evolution in influenza A virus.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>2</volume>
+          <fpage>e125</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.0020125">10.1371/journal.ppat.0020125</ext-link></comment>
+          <pub-id pub-id-type="pmid">17140286</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Lowen1">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lowen</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Palese</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Influenza virus transmission: Basic science and implications for the use of antiviral drugs during a pandemic.</article-title>
+          <source>Infect Disord Drug Targets</source>
+          <volume>7</volume>
+          <fpage>318</fpage>
+          <lpage>328</lpage>
+          <pub-id pub-id-type="pmid">18220963</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Kuiken1">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuiken</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>McCauley</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rimmelzwaan</surname>
+              <given-names>GF</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>CS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Host species barriers to influenza virus infections.</article-title>
+          <source>Science</source>
+          <volume>312</volume>
+          <fpage>394</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="pmid">16627737</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Johnson1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>NP</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Updating the accounts: Global mortality of the 1918–1920 “Spanish” influenza pandemic.</article-title>
+          <source>Bull Hist Med</source>
+          <volume>76</volume>
+          <fpage>105</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="pmid">11875246</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Taubenberger1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taubenberger</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Reid</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Lourens</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Characterization of the 1918 influenza virus polymerase genes.</article-title>
+          <source>Nature</source>
+          <volume>437</volume>
+          <fpage>889</fpage>
+          <lpage>893</lpage>
+          <pub-id pub-id-type="pmid">16208372</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Reid1">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reid</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Taubenberger</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Fanning</surname>
+              <given-names>TG</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Evidence of an absence: The genetic origins of the 1918 pandemic influenza virus.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>2</volume>
+          <fpage>909</fpage>
+          <lpage>914</lpage>
+          <pub-id pub-id-type="pmid">15494747</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Antonovics1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Antonovics</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hood</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Molecular virology: Was the 1918 flu avian in origin?</article-title>
+          <source>Nature</source>
+          <volume>440</volume>
+          <fpage>E9; discussion E9–10</fpage>
+          <pub-id pub-id-type="pmid">16641950</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Taubenberger2">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taubenberger</surname>
+              <given-names>JK</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>The origin and virulence of the 1918 “Spanish” influenza virus.</article-title>
+          <source>Proc Am Philos Soc</source>
+          <volume>150</volume>
+          <fpage>86</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="pmid">17526158</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Smith2">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Bahl</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Vijaykrishna</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Poon</surname>
+              <given-names>LL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Dating the emergence of pandemic influenza viruses.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>106</volume>
+          <fpage>11709</fpage>
+          <lpage>11712</lpage>
+          <pub-id pub-id-type="pmid">19597152</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Smith3">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Vijaykrishna</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bahl</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lycett</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Worobey</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Origins and evolutionary genomics of the 2009 swine-origin H1N1 influenza A epidemic.</article-title>
+          <source>Nature</source>
+          <volume>459</volume>
+          <fpage>1122</fpage>
+          <lpage>1125</lpage>
+          <pub-id pub-id-type="pmid">19516283</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Maines1">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maines</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Jayaraman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Belser</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Wadford</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Pappas</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Transmission and pathogenesis of swine-origin 2009 A(H1N1) influenza viruses in ferrets and mice.</article-title>
+          <source>Science</source>
+          <volume>325</volume>
+          <fpage>484</fpage>
+          <lpage>487</lpage>
+          <pub-id pub-id-type="pmid">19574347</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Munster1">
+        <label>47</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Munster</surname>
+              <given-names>VJ</given-names>
+            </name>
+            <name>
+              <surname>de Wit</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>van den Brand</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Herfst</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schrauwen</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Pathogenesis and transmission of swine-origin 2009 A(H1N1) influenza virus in ferrets.</article-title>
+          <source>Science</source>
+          <volume>325</volume>
+          <fpage>481</fpage>
+          <lpage>483</lpage>
+          <pub-id pub-id-type="pmid">19574348</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Itoh1">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Itoh</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Shinya</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kiso</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sakoda</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>In vitro and in vivo characterization of new swine-origin H1N1 influenza viruses.</article-title>
+          <source>Nature</source>
+          <comment>E-pub ahead of print. doi:10.1038/nature08260</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Holmes1">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Ghedin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Whole-genome analysis of human influenza A virus reveals multiple persistent lineages and reassortment among recent H3N2 viruses.</article-title>
+          <source>PLoS Biol</source>
+          <volume>3</volume>
+          <fpage>e300</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0030300">10.1371/journal.pbio.0030300</ext-link></comment>
+          <pub-id pub-id-type="pmid">16026181</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Nelson3">
+        <label>50</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Edelman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Spiro</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Boyne</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Bera</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Molecular epidemiology of A/H3N2 and A/H1N1 influenza virus during a single epidemic season in the United States.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4</volume>
+          <fpage>e1000133</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000133">10.1371/journal.ppat.1000133</ext-link></comment>
+          <pub-id pub-id-type="pmid">18725925</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Nelson4">
+        <label>51</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Simonsen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bennett</surname>
+              <given-names>RT</given-names>
+            </name>
+            <name>
+              <surname>Griesemer</surname>
+              <given-names>SB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Multiple reassortment events in the evolutionary history of H1N1 influenza A virus since 1918.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4</volume>
+          <fpage>e1000012</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000012">10.1371/journal.ppat.1000012</ext-link></comment>
+          <pub-id pub-id-type="pmid">18463694</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Nelson5">
+        <label>52</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Simonsen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Viboud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Phylogenetic analysis reveals the global migration of seasonal influenza A viruses.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>3</volume>
+          <fpage>e131</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.0030131">10.1371/journal.ppat.0030131</ext-link></comment>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Fitch3">
+        <label>53</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fitch</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Bush</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Subbarao</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>The Wilhelmine E. Key 1999 Invitational lecture. Predicting the evolution of human influenza A.</article-title>
+          <source>J Hered</source>
+          <volume>91</volume>
+          <fpage>183</fpage>
+          <lpage>185</lpage>
+          <pub-id pub-id-type="pmid">10833042</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Gupta1">
+        <label>54</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Earl</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Deem</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Quantifying influenza vaccine efficacy and antigenic distance.</article-title>
+          <source>Vaccine</source>
+          <volume>24</volume>
+          <fpage>3881</fpage>
+          <lpage>3888</lpage>
+          <pub-id pub-id-type="pmid">16460844</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Blackburne1">
+        <label>55</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blackburne</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>Hay</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Goldstein</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Changing selective pressure during antigenic changes in human influenza H3.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4</volume>
+          <fpage>e1000058</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000058">10.1371/journal.ppat.1000058</ext-link></comment>
+          <pub-id pub-id-type="pmid">18451985</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Kryazhimskiy1">
+        <label>56</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kryazhimskiy</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bazykin</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Plotkin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dushoff</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Directionality in the evolution of influenza A haemagglutinin.</article-title>
+          <source>Proc Biol Sci</source>
+          <volume>275</volume>
+          <fpage>2455</fpage>
+          <lpage>2464</lpage>
+          <pub-id pub-id-type="pmid">18647721</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Pybus1">
+        <label>57</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pybus</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Rambaut</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Modelling: Evolutionary analysis of the dynamics of viral infectious disease.</article-title>
+          <source>Nat Rev Genet</source>
+          <volume>10</volume>
+          <fpage>540</fpage>
+          <lpage>550</lpage>
+          <pub-id pub-id-type="pmid">19564871</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Bishop1">
+        <label>58</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bishop</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Pattern recognition and machine learning.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Jordan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kleinberg</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schoellkopf</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <publisher-loc>Singapore</publisher-loc>
+          <publisher-name>Springer</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Sui1">
+        <label>59</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sui</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hwang</surname>
+              <given-names>WC</given-names>
+            </name>
+            <name>
+              <surname>Perez</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Aird</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Structural and functional bases for broad-spectrum neutralization of avian and human influenza A viruses.</article-title>
+          <source>Nat Struct Mol Biol</source>
+          <volume>16</volume>
+          <fpage>265</fpage>
+          <lpage>273</lpage>
+          <pub-id pub-id-type="pmid">19234466</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Gerhard1">
+        <label>60</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gerhard</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Mozdzanowska</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Zharikova</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Prospects for universal influenza virus vaccine.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>12</volume>
+          <fpage>569</fpage>
+          <lpage>574</lpage>
+          <pub-id pub-id-type="pmid">16704803</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Carrat1">
+        <label>61</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carrat</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Flahault</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Influenza vaccine: The challenge of antigenic drift.</article-title>
+          <source>Vaccine</source>
+          <volume>25</volume>
+          <fpage>6852</fpage>
+          <lpage>6862</lpage>
+          <pub-id pub-id-type="pmid">17719149</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Fisher1">
+        <label>62</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fisher</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <source>The genetical theory of natural selection</source>
+          <publisher-loc>Oxford (UK)</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <size units="page"/>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Ross1">
+        <label>63</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ross</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>1910</year>
+          <source>The prevention of malaria</source>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>E.P. Dutton</publisher-name>
+          <size units="page"/>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Ferguson1">
+        <label>64</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferguson</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Galvani</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Bush</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Ecological and immunological determinants of influenza evolution.</article-title>
+          <source>Nature</source>
+          <volume>422</volume>
+          <fpage>428</fpage>
+          <lpage>433</lpage>
+          <pub-id pub-id-type="pmid">12660783</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Tria1">
+        <label>65</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tria</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Lässig</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Peliti</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Franz</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>A minimal stochastic model for influenza evolution.</article-title>
+          <source>J Stat Mech</source>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1088/1742-5468/2005/07/P07008">10.1088/1742-5468/2005/07/P07008</ext-link></comment>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000566-Koelle1">
+        <label>66</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koelle</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Cobey</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Grenfell</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Pascual</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Epochal evolution shapes the phylodynamics of interpandemic influenza A (H3N2) in humans.</article-title>
+          <source>Science</source>
+          <volume>314</volume>
+          <fpage>1898</fpage>
+          <lpage>1903</lpage>
+          <pub-id pub-id-type="pmid">17185596</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>The authors received no specific funding for this work.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

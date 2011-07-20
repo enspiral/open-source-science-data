@@ -1,0 +1,3207 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:20Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2860493" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2860493</identifier><datestamp>2010-04-30</datestamp><setSpec>plosntd</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Negl Trop Dis</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosntds</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Neglected Tropical Diseases</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1935-2727</issn>
+      <issn pub-type="epub">1935-2735</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2860493</article-id>
+      <article-id pub-id-type="pmid">20436960</article-id>
+      <article-id pub-id-type="publisher-id">09-PNTD-RV-0476R3</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0000624</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Infectious Diseases/Neglected Tropical Diseases</subject>
+          <subject>Infectious Diseases/Viral Infections</subject>
+          <subject>Public Health and Epidemiology/Infectious Diseases</subject>
+          <subject>Virology/Emerging Viral Diseases</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Neglected Arboviral Infections in Mainland China</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gao</surname>
+            <given-names>Xiaoyan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nasci</surname>
+            <given-names>Roger</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liang</surname>
+            <given-names>Guodong</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>State Key Laboratory for Infectious Disease Control and Prevention, Institute for Viral Disease Control and Prevention, Chinese Center for Diseases Control and Prevention, Beijing, China</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Centers for Disease Control and Prevention, Fort Collins, Colorado, United States of America</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Brooker</surname>
+            <given-names>Simon</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">London School of Hygiene &amp; Tropical Medicine, United Kingdom</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>gdliang@hotmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>4</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>4</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>4</volume>
+      <issue>4</issue>
+      <elocation-id>e624</elocation-id>
+      <permissions>
+        <copyright-statement>This is an open-access article distributed under the terms of the Creative Commons Public Domain declaration which stipulates that, once placed in the public domain, this work may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose.</copyright-statement>
+      </permissions>
+      <abstract>
+        <p>The major arboviral diseases in mainland China include Japanese encephalitis, dengue fever, Crimean-Congo hemorrhagic fever (also known as Xinjiang hemorrhagic fever), and tick-borne encephalitis. These and other newly found arbovirus infections due to Banna virus and Tahyna virus contribute to a large and relatively neglected disease burden in China. Here we briefly review the literature regarding these arboviral infections in mainland China with emphasis on their epidemiology, primary vectors, phylogenetic associations, and the prevention programs associated with these agents in China.</p>
+      </abstract>
+      <counts>
+        <page-count count="8"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Arboviruses (arthropod-borne viruses) are maintained in nature in cycles involving hematophagous arthropod vectors and susceptible vertebrate hosts <xref ref-type="bibr" rid="pntd.0000624-Calisher1">[1]</xref>. At present, more than 550 arboviruses have been identified, among which are more than 130 virus species that can cause disease in susceptible vertebrate hosts <xref ref-type="bibr" rid="pntd.0000624-Karabatsos1">[2]</xref>. Japanese encephalitis virus (JEV), dengue virus (DENV), Crimean-Congo hemorrhagic fever virus (CCHFV) (also known as Xinjiang hemorrhagic fever virus, XHFV), and tick-borne encephalitis virus (TBEV) are the four principal arboviruses of public health importance in mainland China at present <xref ref-type="bibr" rid="pntd.0000624-Liang1">[3]</xref>. There is a growing body of evidence indicating that other arboviruses are present and causing human infections and diseases in China. In this review, we summarize relevant information available in the Chinese scientific literature, highlight the current situation of arboviral infections in mainland China, and describe current practices and recommendations regarding surveillance and prevention measures.</p>
+    </sec>
+    <sec id="s2">
+      <title>Japanese Encephalitis</title>
+      <p>Japanese encephalitis (JE) is arguably the world's single most important acute viral encephalitis accounting for 30,000–50,000 cases and 10,000–15,000 deaths each year, with survivors often experiencing irreversible neurological damage <xref ref-type="bibr" rid="pntd.0000624-Solomon1">[4]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Erlanger1">[5]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Tyler1">[6]</xref>. By some estimates, the number of cases caused by JEV may be as high as 175,000 each year <xref ref-type="bibr" rid="pntd.0000624-Tsai1">[7]</xref>. JEV is a mosquito-transmitted flavivirus that is concentrated in China, India, and Southeast Asia, where it is the leading cause of viral neurologic disease with an incidence exceeding that of herpes simplex virus <xref ref-type="bibr" rid="pntd.0000624-WilderSmith1">[8]</xref>. The virus is maintained in a cycle involving birds and <italic>Culex</italic> mosquitoes. In Asia, an epizootic cycle involving domestic pigs and <italic>Culex tritaeniorhynchus</italic> mosquitoes is associated with high incidence of human disease in rural areas <xref ref-type="bibr" rid="pntd.0000624-Halstead1">[9]</xref>. Historically, JE prevalence has been high in China, where major outbreaks occurred in 1966 and 1971 with reported disease incidence of &gt;15/100,000 and 20.92/100,000, respectively <xref ref-type="bibr" rid="pntd.0000624-Wang1">[10]</xref>. After the nationwide vaccination program initiated in the 1970s, the number of reported cases dramatically decreased, with disease incidence declining from 20.92/100,000 in 1971 to 0.23/100,000 in 2008 (<xref ref-type="fig" rid="pntd-0000624-g001">Figure 1</xref>) <xref ref-type="bibr" rid="pntd.0000624-httpwww1">[11]</xref>.</p>
+      <fig id="pntd-0000624-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0000624.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>JE incidence from 1951–2008 in mainland China.</title>
+        </caption>
+        <graphic xlink:href="pntd.0000624.g001"/>
+      </fig>
+      <sec id="s2a">
+        <title>Virus and Vectors</title>
+        <p>Nucleotide sequencing of the JEV envelope protein genes has identified five genotypes (GI, GII, GIII, GIV, and GV) <xref ref-type="bibr" rid="pntd.0000624-Solomon2">[12]</xref>. Of these, GI and GIII of JEV circulate in China. GIII was widespread before 2000 while GI has been isolated from Yunnan, Shanghai, Liaoning, Sichuan, Henan, and Gansu provinces in recent years <xref ref-type="bibr" rid="pntd.0000624-Wang2">[13]</xref>. Both GI and GIII of JEV were detected from cerebrospinal fluids (CSF) of patients and mosquitoes simultaneously during a JE outbreak in Yuncheng City, Shanxi province in 2006 <xref ref-type="bibr" rid="pntd.0000624-Wang3">[14]</xref>. <italic>Culex tritaeniorhynchus</italic> is the primary vector of JEV in China, though the virus has been isolated from more than 20 other mosquito species. JEV also has been isolated from <italic>Culicoides</italic> and fruit bats in China <xref ref-type="bibr" rid="pntd.0000624-Wang4">[15]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Wang5">[16]</xref>.</p>
+      </sec>
+      <sec id="s2b">
+        <title>Epidemiology</title>
+        <p>Human JE cases have been reported from all provinces with the exception of Xinjiang Uygur Autonomous Region (hereinafter referred to as Xinjiang), Tibet Autonomous Region (hereinafter referred to as Tibet), and Qinghai province in the western regions of China (<xref ref-type="fig" rid="pntd-0000624-g002">Figure 2</xref>). JE epidemic areas can be divided into categories of high, medium, and low prevalence. Using case reports from 1998–2002, high prevalence areas include Shaanxi province, Chongqing municipality in Sichuan province, Sichuan province, Guizhou province, Henan province, and Yunnan province where JE incidence is over 1/100,000. JE medium prevalence areas include Anhui province, Hubei province, Hunan province, Jiangxi province, and Guangxi province where incidence is 0.5–1/100,000. In low prevalence areas such as Gansu province, Jiangsu province, Shandong province, Fujian province, Guangdong province, and Zhejiang province, the incidence is below 0.5/100,000. From historical and current data, it appears that high prevalence areas have shifted from eastern coastal areas to the central and western regions in the last 50 years <xref ref-type="bibr" rid="pntd.0000624-Wang1">[10]</xref>. Since 2000, the number of JE cases reported in China has decreased every year, with the exception of 2006 when the number of cases increased approximately 50% over the previous year.</p>
+        <fig id="pntd-0000624-g002" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pntd.0000624.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Distribution of mosquito-borne diseases in mainland China.</title>
+            <p>Map 1 shows the distribution of JE and DEN. Map 2 shows the case distribution of JE in 2007. Map 3 shows the case distribution of DEN in 2007.</p>
+          </caption>
+          <graphic xlink:href="pntd.0000624.g002"/>
+        </fig>
+        <p>JE cases occur during every month of the year in mainland China, while cases reported in winter are only from southern provinces. Generally, case reports begin to increase in May, peak in July and August, and decrease in September <xref ref-type="bibr" rid="pntd.0000624-Li1">[17]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Chen1">[18]</xref>. During 2004–2006, the period from June to September accounted for 94.9%–98.1% of all cases within the year while July to August accounted for 78.9%–89.2% of all cases reported <xref ref-type="bibr" rid="pntd.0000624-Li1">[17]</xref>. All age groups can be affected by JEV, but children account for most cases. During most years, children under 15 years of age account for 85.9%–90.6% of reported JE cases <xref ref-type="bibr" rid="pntd.0000624-Wang1">[10]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Li1">[17]</xref>. However, an exception to this pattern occurred during the JE outbreak in Yuncheng city in 2006 when more than 86% of the patients were &gt;30 years of age, with only 10% of patients &lt;7 years of age <xref ref-type="bibr" rid="pntd.0000624-Wang1">[10]</xref>. Males are infected more frequently than females with a ratio 1.37–1.60∶1 probably because of more outdoor activity by males <xref ref-type="bibr" rid="pntd.0000624-Chen1">[18]</xref>.</p>
+      </sec>
+      <sec id="s2c">
+        <title>Prevention and Recommendations</title>
+        <p>An inactivated JE vaccine derived from the P3 strain of JEV was developed in 1968 and was provided to populations at high risk in China <xref ref-type="bibr" rid="pntd.0000624-Gu1">[19]</xref>. In 1988 a live attenuated vaccine (based on the SA 14-14-2 strain) was licensed for use in China after studies had demonstrated its safety and high efficacy <xref ref-type="bibr" rid="pntd.0000624-Tsai2">[20]</xref>. Currently, both vaccines are used nationwide and the vaccine program is largely credited with the reductions in cases that have been observed <xref ref-type="bibr" rid="pntd.0000624-Zhou1">[21]</xref>. In 2007 the Chinese government announced its intention to include JE vaccine in the expanded project of immunization in order to further enhance the prevention and control of JE. Although great success has been achieved by the vaccination program, an enhanced JE surveillance system, including investigation of infection rates in vectors, should be implemented to better describe the burden of disease and risk factors for JE infection in different areas of the country. In addition, JE vaccination rates and immune responses following vaccination warrant further investigation.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Dengue</title>
+      <p>Dengue (DEN) is caused by four serotypes of DENV that occur in over 100 countries and threaten the health of more than 2.5 billion people in urban, peri-urban, and rural areas of the tropics and subtropics <xref ref-type="bibr" rid="pntd.0000624-WHO1">[22]</xref>. DENV can cause a spectrum of illness ranging from dengue fever to the more serious dengue hemorrhagic fever/dengue shock syndrome (DHF/DSS) <xref ref-type="bibr" rid="pntd.0000624-Halstead2">[23]</xref>. Worldwide, the virus causes about 50 to 100 million dengue infections each year, all of which may not present clinically as dengue fever. The estimates of DHF/DSS are close to 500,000 cases <xref ref-type="bibr" rid="pntd.0000624-Webster1">[24]</xref>. In China, dengue epidemics have occurred mainly in the southern regions of the country, primarily in Guangxi province, Guangdong province, Fujian province, Zhejiang province, and Hainan province (<xref ref-type="fig" rid="pntd-0000624-g002">Figure 2</xref>).</p>
+      <sec id="s3a">
+        <title>Virus and Vectors</title>
+        <p>All four serotypes of DENV have caused outbreaks in China. Large outbreaks were caused by DENV-4 in 1978 in Guangdong province, DENV-1 and DENV-3 in 1980 in Hainan province, and DENV-2 in 1986 in Hainan province <xref ref-type="bibr" rid="pntd.0000624-Zhao1">[25]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Li2">[26]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Qiu1">[27]</xref>.</p>
+        <p>The mosquito species <italic>Aedes aegypti</italic> and <italic>Aedes albopictus</italic> are the primary vectors of DENV in China. <italic>Aedes aegypti</italic> is the vector in coastal areas and is mainly distributed in Hainan province and found sporadically in Guangdong province and Guangxi province <xref ref-type="bibr" rid="pntd.0000624-Group1">[28]</xref>. <italic>Aedes albopictus</italic> is the vector in inland regions and is widespread in mainland China. This species is distributed from Liaoning province in the north to Shaanxi province in the northwest and from Tibet in the southwest to the southern reaches of China beyond the Yangtze River <xref ref-type="bibr" rid="pntd.0000624-Fu1">[29]</xref>. In addition to detecting virus in the mosquito vectors, a study reported that DENV RNA has been detected using RT-PCR in the brain tissue of <italic>Rousettus leschenaultia</italic>, a fruit bat collected in Hainan province <xref ref-type="bibr" rid="pntd.0000624-Zhang1">[30]</xref>. Moreover, antibodies to DENV were detected in <italic>Rousettus leschenaultia</italic> collected in Yunnan province during a study of dengue fever in the region <xref ref-type="bibr" rid="pntd.0000624-Zhang2">[31]</xref>.</p>
+      </sec>
+      <sec id="s3b">
+        <title>Epidemiology</title>
+        <p>In the early 1940s, DENV was epidemic on the southeastern coast of China and the middle and lower reaches of the Yangtze River <xref ref-type="bibr" rid="pntd.0000624-Cui1">[32]</xref>. There were no reported cases of DEN in China from 1946 to 1978. The reason for this phenomenon is unclear. In 1978, an epidemic caused by DENV-4 occurred in Foshan City of Guangdong province <xref ref-type="bibr" rid="pntd.0000624-Zhao1">[25]</xref>. The outbreak affected seven neighboring counties, lasted 8 months, and resulted in 22,122 cases and 14 deaths. A dengue outbreak involving 13 cities and counties occurred in Hainan province in 1980, during which DENV-3 was isolated from acute-phase sera and adult <italic>Ae. aegypti</italic> <xref ref-type="bibr" rid="pntd.0000624-Li2">[26]</xref>. This outbreak caused 437,468 cases and 64 deaths <xref ref-type="bibr" rid="pntd.0000624-Qiu2">[33]</xref>. In 1985–1986, DHF was reported in Hainan province. This outbreak was caused by DENV-2 and produced considerable morbidity and high mortality, with 113,589 cases and 289 deaths <xref ref-type="bibr" rid="pntd.0000624-Qiu1">[27]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Qiu2">[33]</xref>.</p>
+        <p>Since the 1990s, dengue epidemics have frequently occurred in Guangdong province, Guangxi province, and Fujian province. The outbreaks of dengue fever in China usually resulted from the introduction of the virus by infected travelers and refugees from various areas of southeastern Asia where dengue is endemic. For example, an outbreak of DENV-1 in Zhejiang province in 2004 was associated with a traveler from Thailand <xref ref-type="bibr" rid="pntd.0000624-Xu1">[34]</xref>. This outbreak caused a total of 82 reported cases. Epidemiological investigation of cases reported from Guangdong showed that cases reported from 1990 to 2006 were mostly imported or occurred in local epidemics initiated by imported cases <xref ref-type="bibr" rid="pntd.0000624-Luo1">[35]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Liang2">[36]</xref>. Nationwide in China, the number of reported cases has varied considerably, ranging from 40 in 2005 to 1,044 in 2006 with the incidence ranging as high as 5.7/1,000,000 over the period from 1990–2008 (<xref ref-type="fig" rid="pntd-0000624-g003">Figure 3</xref>).</p>
+        <fig id="pntd-0000624-g003" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pntd.0000624.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Dengue incidence from 1990–2008 in mainland China.</title>
+          </caption>
+          <graphic xlink:href="pntd.0000624.g003"/>
+        </fig>
+        <p>Though Yunnan province is adjacent to Vietnam, Thailand, and Myanmar where DEN is endemic, <italic>Aedes albopictus</italic> is relatively common in the southwestern part of the province, and DENV has been isolated from this species in the areas <xref ref-type="bibr" rid="pntd.0000624-Zhang3">[37]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Wang6">[38]</xref>, there have been relatively few DEN cases reported from Yunnan. However, increasing travel and commerce between Yunnan and the neighboring dengue epidemic countries increases the likelihood of imported dengue, which could become an important factor influencing dengue epidemiology in Yunnan in the future.</p>
+        <p>The epidemic season for DENV occurs mainly in the rainy, hot summer and autumn, which correlates with the seasonal periodicity of the vectors. Most cases are reported from March to November with a peak in July to September, while Hainan province has cases throughout the year with a peak in July to October <xref ref-type="bibr" rid="pntd.0000624-Yi1">[39]</xref>. Statistical analysis of incidence rates of age groups in different years showed that, in general, the highest incidence was in the 10- to 39-year-old group <xref ref-type="bibr" rid="pntd.0000624-Kan1">[40]</xref>.</p>
+      </sec>
+      <sec id="s3c">
+        <title>Prevention and Recommendations</title>
+        <p>In the absence of an effective vaccine against DENV, vector management is the only prevention tool available. In China, vector control includes programs in community participation and health education to reduce mosquito breeding in household water containers. At present, a vector surveillance system has only been established in Guangxi province, Guangdong province, Fujian province, Yunnan province, and Hainan province. Vector-based surveillance should be established nationwide to determine the distribution of competent vector species and to identify areas that may be at risk if mosquito distributions shift in response to climate change. In view of the current status of a large number of imported cases, it is crucial to provide health education targeted at the high risk groups including travelers from dengue epidemic countries in order to prevent importation of dengue fever. In addition, considering the increased travel between Southeast Asia and China, more surveillance is necessary to monitor DEN epidemiology in the region.</p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Crimean-Congo Hemorrhagic Fever</title>
+      <p>CCHFV is a tick-borne virus in the genus <italic>Nairovirus</italic>, family <italic>Bunyaviridae</italic> that produces a severe hemorrhagic fever and a potentially fatal outcome <xref ref-type="bibr" rid="pntd.0000624-Ergonul1">[41]</xref>. CCHFV has the most extensive geographic distribution of the medically important tick-borne viral diseases and the CCHFV infection has been described in parts of Africa, the Middle East, Eastern Europe, and Asia <xref ref-type="bibr" rid="pntd.0000624-Ergonul1">[41]</xref>. CCHFV causes severe disease in human beings with a reported mortality rate of 3%–30% <xref ref-type="bibr" rid="pntd.0000624-Watts1">[42]</xref>. Global disease burden is difficult to determine, however the incidence of sporadic cases and outbreaks of Crimean-Congo hemorrhagic fever (CCHF) is reported to have increased across the endemic region during the past decade <xref ref-type="bibr" rid="pntd.0000624-Formenty1">[43]</xref>. The apparent increase in incidence possibly reflects both greater human exposure to infected ticks and more widespread recognition of the disease by health care workers <xref ref-type="bibr" rid="pntd.0000624-Vatansever1">[44]</xref>. In China, CCHF was first described in Bachu County along the Tarim river basin in Xinjiang in 1965. CCHFV was first isolated in 1966 in Xinjiang from the blood of patients, organs from autopsy, and the tick <italic>Hyalomma asiaticum</italic> <xref ref-type="bibr" rid="pntd.0000624-Feng1">[45]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Yan1">[46]</xref>. Based on the site of isolation in China, CCHF and CCHFV are referred to as XHF and XHFV in the Chinese literature <xref ref-type="bibr" rid="pntd.0000624-Feng1">[45]</xref>.</p>
+      <sec id="s4a">
+        <title>Virus and Vectors</title>
+        <p>Phylogenetic analysis of the S-RNA sequence showed that strains isolated from Xinjiang form a separate branch with isolates from its border regions (Tajikistan, Uzbekistan, and Kazakhstan). This suggests that CCHFV has developed a unique and possibly isolated focus of transmission in Xinjiang and its border regions <xref ref-type="bibr" rid="pntd.0000624-Saijo1">[47]</xref>. The latest sequence information of CCHFV from China was obtained in a tick-borne arbovirus investigation in 2004 <xref ref-type="bibr" rid="pntd.0000624-Lv1">[48]</xref>. The phylogenetic analysis of partial L gene sequence of CCHFV showed CCHFV isolated in Xinjiang in 2004 has a distant evolutionary relationship to an African strain of CCHFV but a close relationship to central Asian strains from Pakistan and Tajikistan <xref ref-type="bibr" rid="pntd.0000624-Lv1">[48]</xref>.</p>
+        <p><italic>Hyalomma asiaticum kozlovi</italic>, a subspecies of <italic>Hyalomma asiaticum</italic>, is the main vector of CCHFV in China. The most active season for adult ticks is from early April to early May, which coincides with the epidemic season of CCHF and is also the busiest season for work in the pastures in this region. The virus can be transmitted to humans by the bite of infected ticks or by direct contact with blood and tissues from viremic livestock or patients. For example, there has been one report of a possible horizontal transmission from a mother to her child in Xinjiang <xref ref-type="bibr" rid="pntd.0000624-Saijo2">[49]</xref>. So the latter route of transmission indicates that preventive measures should be used by farmers working with sick livestock as well as by caregivers to reduce the risk of human-to-human transmission.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Epidemiology</title>
+        <p>To date in China, CCHF cases have only been reported from Xinjiang (<xref ref-type="fig" rid="pntd-0000624-g004">Figure 4</xref>). However, specific antibodies to CCHFV have been detected in the serum of livestock and humans in areas such as Qinghai province, Inner Mongolia Autonomous Region (hereinafter referred to as Inner Mongolia), Sichuan province, Yunnan province, Hainan province, and Anhui province, which implies that there may be other areas of CCHFV transmission in mainland China <xref ref-type="bibr" rid="pntd.0000624-Tang1">[50]</xref>. Almost all CCHF cases occur from late March to mid-June with peaks in April and May <xref ref-type="bibr" rid="pntd.0000624-Tang1">[50]</xref>. Patients are primarily middle-aged male ranchers.</p>
+        <fig id="pntd-0000624-g004" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pntd.0000624.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Distribution of tick-borne diseases in mainland China.</title>
+          </caption>
+          <graphic xlink:href="pntd.0000624.g004"/>
+        </fig>
+        <p>Bachu County in Xinjiang reports most of the CCHF cases in the region, probably because the ecology of the area is semi-desert and is suitable habitat for the vector ticks. From 1965 to 2002, 230 cases were reported from Bachu County with an average annual incidence of 6 <xref ref-type="bibr" rid="pntd.0000624-Tang2">[51]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Han1">[52]</xref>. The most serious epidemic occurred in 2001 with 51 cases and 3 deaths reported in Bachu County <xref ref-type="bibr" rid="pntd.0000624-Han1">[52]</xref>. Since 2003, no cases have been reported from Xinjiang.</p>
+      </sec>
+      <sec id="s4c">
+        <title>Prevention and Recommendations</title>
+        <p>Currently, there is no vaccine available in China to prevent CCHF and the primary prevention is repelling and killing ticks. An education program informing people about preventing tick bites was established in Xinjiang, which may account for there being no cases reported from this area since 2002. Additional active surveillance using sensitive serological methods and molecular biological methods that are currently available <xref ref-type="bibr" rid="pntd.0000624-Lv1">[48]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Saijo3">[53]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Saijo4">[54]</xref> are required to better understand the distribution and disease burden caused by this pathogen.</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>Tick-Borne Encephalitis</title>
+      <p>TBEV is tick-borne flavivirus in the family <italic>Flaviviridae</italic>. It is considered one of the most dangerous human infections occurring in Europe and many parts of Asia. TBEV is believed to cause at least 11,000 human cases of encephalitis in Russia and about 3,000 cases in the rest of Europe annually <xref ref-type="bibr" rid="pntd.0000624-Gritsun1">[55]</xref>. Tick-borne encephalitis (TBE) has a significant mortality rate depending upon the strain of virus and may cause long-term neurological/neuropsychiatric sequelae <xref ref-type="bibr" rid="pntd.0000624-Mansfield1">[56]</xref>. TBE was first described in China in 1943 and TBEV was isolated from patients and ticks in 1952 <xref ref-type="bibr" rid="pntd.0000624-Zi1">[57]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Hou1">[58]</xref>.</p>
+      <sec id="s5a">
+        <title>Virus and Vectors</title>
+        <p>TBEV is classified as one species with three subtypes: the European subtype, the Siberian subtype, and the Far-Eastern subtype <xref ref-type="bibr" rid="pntd.0000624-Ecker1">[59]</xref>. Human infections with the Far-Eastern subtype viruses are usually severe, frequently with encephalitis signs and with a fatality rate of 20% to 40%. In contrast, the Siberian subtype characteristically induces a less severe acute period and a high prevalence of the nonparalytic febrile form of encephalitis; case fatality rates rarely exceed 6% to 8%. Those following infection by European-subtype strains are usually milder, mostly without sequelae; case fatality rates are often as low as 1% to 2% <xref ref-type="bibr" rid="pntd.0000624-Gritsun2">[60]</xref>.</p>
+        <p>While <italic>Ixodes ricinus</italic> is the most important vector of the European subtype, <italic>I. persulcatus</italic> is the main vector of the other subtypes. The main vector of TBEV in China is <italic>I. persulcatus</italic>, which is distributed in the forest areas of northeast and northwest China, including Liaoning province, Jilin province, Heilongjiang province, Inner Mongolia, and Xinjiang, particularly in areas characterized as mixed broadleaf-conifer forests.</p>
+        <p>By far, all TBEV strains isolated in China belong to the Far-Eastern subtype <xref ref-type="bibr" rid="pntd.0000624-Zi1">[57]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Ecker1">[59]</xref>. TBEV strains have been isolated from patients and ticks in north and north-eastern forest areas of China. HLJ-1 strain and Senzhang strain were isolated from brain tissues of a patient from the northeastern forests of China in 1952 and1953, respectively <xref ref-type="bibr" rid="pntd.0000624-Hou1">[58]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Song1">[61]</xref>. The Senzhang strain was chosen for the vaccine strain. Also from northeastern forest habitats are the MDJ01 strain (isolated from the sera of a TBE patient) and the “T” and “H” strains (isolated from <italic>I. persulcatus</italic> and brain tissue of an encephalitis patient, respectively) <xref ref-type="bibr" rid="pntd.0000624-Song1">[61]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Si1">[62]</xref>. More recently, six TBE strains (DXAL-5, -12, -13, -16, -18, and -21) have been isolated from <italic>I. persulcatus</italic> collected in forest areas of Heilongjiang province in 2002. Phylogenetic analysis of the E protein gene sequence showed that all six strains belong to the Far-Eastern subtype. The homology of amino acid with Senzhang vaccine strain is higher than 97%, indicating that the vaccine strain likely has good protection against the new isolates <xref ref-type="bibr" rid="pntd.0000624-Chen2">[63]</xref>.</p>
+      </sec>
+      <sec id="s5b">
+        <title>Epidemiology</title>
+        <p>The distribution of TBE in China is closely related to the distribution of the tick vectors <xref ref-type="bibr" rid="pntd.0000624-Cheng1">[64]</xref>. There are two foci in mainland China: the Northeast focus and the Xinjiang focus (<xref ref-type="fig" rid="pntd-0000624-g004">Figure 4</xref>). There is also serological evidence of TBEV in Tibet in western China and in Yunnan located in southwestern China <xref ref-type="bibr" rid="pntd.0000624-Lu1">[65]</xref>.</p>
+        <p>TBE cases emerge in late April, increase in May, and reach a peak during late May and early June. This period positively correlates with the active season of the tick vector; however, the peak in human cases generally occurs 2 wk following the peak in tick activity <xref ref-type="bibr" rid="pntd.0000624-Bi1">[66]</xref>. Almost all people infected with TBEV are forest workers, surveyors, rhizotomists, or their family members <xref ref-type="bibr" rid="pntd.0000624-Bi1">[66]</xref>.</p>
+      </sec>
+      <sec id="s5c">
+        <title>Prevention and Recommendations</title>
+        <p>A purified virus vaccine derived from the Senzhang strain in 2001 in China has passed stage I, II, and III clinical trials. It has good immunogenicity and notably decreased adverse effect rates compared with inactivated mouse-brain and chicken embryo tissue-derived vaccine developed in 1953 and inactivated chicken embryo cell and hamster kidney cell-derived vaccine developed from 1958 to 1967 <xref ref-type="bibr" rid="pntd.0000624-Dong1">[67]</xref>, <xref ref-type="bibr" rid="pntd.0000624-He1">[68]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Song2">[69]</xref>. The purified virus vaccine is now produced and marketed in China. Besides vaccination, education programs for preventing tick bites in the forest areas should be implemented in the known epidemic regions.</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>Other Arboviruses</title>
+      <p>Many other arboviruses have been isolated from mosquito and tick vectors, human specimens (serum, CSF, brain tissue), and animal hosts (bats) in mainland China in recent years, including Getah virus (GETV) <xref ref-type="bibr" rid="pntd.0000624-Zhai1">[70]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Li3">[71]</xref>, Chikungunya virus (CHIKV) <xref ref-type="bibr" rid="pntd.0000624-Zhang4">[72]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Shi1">[73]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Dong2">[74]</xref>, Sindbis virus (SINDV) <xref ref-type="bibr" rid="pntd.0000624-Liang3">[75]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Zhou2">[76]</xref>, Banna virus (BAV) <xref ref-type="bibr" rid="pntd.0000624-Xu2">[77]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Liu1">[78]</xref>, Kyasanur forest disease virus (KFDV) <xref ref-type="bibr" rid="pntd.0000624-Wang7">[79]</xref>, Liaoning virus (LNV) <xref ref-type="bibr" rid="pntd.0000624-Tao1">[80]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Lv2">[81]</xref>, Ross river virus (RRV) <xref ref-type="bibr" rid="pntd.0000624-Zhao2">[82]</xref>, Batai virus (BATV) <xref ref-type="bibr" rid="pntd.0000624-Tao2">[83]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Wang8">[84]</xref>, Kadipiro virus (KDV) <xref ref-type="bibr" rid="pntd.0000624-Sun1">[85]</xref>, Tahyna virus (TAHV) <xref ref-type="bibr" rid="pntd.0000624-Lu2">[86]</xref>, and Chaoyang virus (<xref ref-type="table" rid="pntd-0000624-t001">Table 1</xref>) <xref ref-type="bibr" rid="pntd.0000624-Wang9">[87]</xref>. In addition, serosurveys have found evidence of human infection with CHIKV <xref ref-type="bibr" rid="pntd.0000624-Zhang4">[72]</xref>, SINDV <xref ref-type="bibr" rid="pntd.0000624-Liang3">[75]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Zhang5">[88]</xref>, RRV <xref ref-type="bibr" rid="pntd.0000624-Zhao2">[82]</xref>, GETV <xref ref-type="bibr" rid="pntd.0000624-Li3">[71]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Chen3">[89]</xref>, Semliki Forest virus <xref ref-type="bibr" rid="pntd.0000624-Chen3">[89]</xref>, Kunjun virus <xref ref-type="bibr" rid="pntd.0000624-Chen3">[89]</xref>, Powassan virus <xref ref-type="bibr" rid="pntd.0000624-Chen3">[89]</xref>, Langat virus <xref ref-type="bibr" rid="pntd.0000624-Chen3">[89]</xref>, Sagiyama virus <xref ref-type="bibr" rid="pntd.0000624-Bai1">[90]</xref>, TAHV <xref ref-type="bibr" rid="pntd.0000624-Lu2">[86]</xref>, KFDV <xref ref-type="bibr" rid="pntd.0000624-Zhang6">[91]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Hou2">[92]</xref>, and BAV <xref ref-type="bibr" rid="pntd.0000624-Xu2">[77]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Tao3">[93]</xref>. Many of these viruses have been shown to cause various pathologies ranging from mild fever and arthralgia to encephalitis in humans. Specific evidence is currently lacking to demonstrate the public health impact of these viruses in China.</p>
+      <table-wrap id="pntd-0000624-t001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0000624.t001</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Arbovirus isolates and evidence of human infection in mainland China.</title>
+        </caption>
+        <alternatives>
+          <graphic id="pntd-0000624-t001-1" xlink:href="pntd.0000624.t001"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Virus (Strain)</td>
+                <td align="left" rowspan="1" colspan="1">Year of First Isolate</td>
+                <td align="left" rowspan="1" colspan="1">Locations Where Isolated</td>
+                <td align="left" rowspan="1" colspan="1">Sources</td>
+                <td colspan="2" align="left" rowspan="1">Human Serology</td>
+                <td align="left" rowspan="1" colspan="1">References</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">Antibodies</td>
+                <td align="left" rowspan="1" colspan="1">Location</td>
+                <td align="left" rowspan="1" colspan="1"/>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">GETV (M1)</td>
+                <td align="left" rowspan="1" colspan="1">1964</td>
+                <td align="left" rowspan="1" colspan="1">HN/HeB/YN/SH/GS</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito</td>
+                <td align="left" rowspan="1" colspan="1">c</td>
+                <td align="left" rowspan="1" colspan="1">HN</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pntd.0000624-Zhai1">[70]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Li3">[71]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Chen3">[89]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">CHIKV (B8635)</td>
+                <td align="left" rowspan="1" colspan="1">1986</td>
+                <td align="left" rowspan="1" colspan="1">YN/HN</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito/Bats/Human Serum</td>
+                <td align="left" rowspan="1" colspan="1">b</td>
+                <td align="left" rowspan="1" colspan="1">YN/HN/GD</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pntd.0000624-Zhang4">[72]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Shi1">[73]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Dong2">[74]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">SINDV (YN87448)</td>
+                <td align="left" rowspan="1" colspan="1">1987</td>
+                <td align="left" rowspan="1" colspan="1">YN/XJ</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito</td>
+                <td align="left" rowspan="1" colspan="1">b</td>
+                <td align="left" rowspan="1" colspan="1">YN/XJ/FJ</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pntd.0000624-Liang3">[75]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Zhou2">[76]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Zhang5">[88]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">BAV (Banna_Chinese)</td>
+                <td align="left" rowspan="1" colspan="1">1987</td>
+                <td align="left" rowspan="1" colspan="1">YN/GS/LN/SX/IM/BJ</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito/Pig/Cattle/Human Serum/Human CSF</td>
+                <td align="left" rowspan="1" colspan="1">a,b</td>
+                <td align="left" rowspan="1" colspan="1">YN/HeN/JS/FJ/SD</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pntd.0000624-Xu2">[77]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Liu1">[78]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Tao3">[93]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Xu4">[95]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Attoui1">[96]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">KFDV (Nanjianyin)</td>
+                <td align="left" rowspan="1" colspan="1">1989</td>
+                <td align="left" rowspan="1" colspan="1">YN</td>
+                <td align="left" rowspan="1" colspan="1">Human Serum</td>
+                <td align="left" rowspan="1" colspan="1">b</td>
+                <td align="left" rowspan="1" colspan="1">YN/GD/GX/HuB/GZ/HeN/XJ/QH</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pntd.0000624-Wang7">[79]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Zhang6">[91]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Hou2">[92]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">RRV (HBb17)</td>
+                <td align="left" rowspan="1" colspan="1">1993</td>
+                <td align="left" rowspan="1" colspan="1">HN</td>
+                <td align="left" rowspan="1" colspan="1">Bat</td>
+                <td align="left" rowspan="1" colspan="1">a,b</td>
+                <td align="left" rowspan="1" colspan="1">HN</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="pntd.0000624-Zhao2">[82]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">LNV (LNV-NE9712)</td>
+                <td align="left" rowspan="1" colspan="1">1996</td>
+                <td align="left" rowspan="1" colspan="1">JL/XJ</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito</td>
+                <td align="left" rowspan="1" colspan="1">a,b</td>
+                <td align="left" rowspan="1" colspan="1">JL/LN/HLJ</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pntd.0000624-Tao1">[80]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Lv2">[81]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">BATV (YN92-4)</td>
+                <td align="left" rowspan="1" colspan="1">1998</td>
+                <td align="left" rowspan="1" colspan="1">YN</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito</td>
+                <td align="left" rowspan="1" colspan="1">a,b</td>
+                <td align="left" rowspan="1" colspan="1">YN</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="pntd.0000624-Tao2">[83]</xref>, <xref ref-type="bibr" rid="pntd.0000624-Wang8">[84]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">KDV (YN0557)</td>
+                <td align="left" rowspan="1" colspan="1">2006</td>
+                <td align="left" rowspan="1" colspan="1">YN</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito</td>
+                <td align="left" rowspan="1" colspan="1">/</td>
+                <td align="left" rowspan="1" colspan="1">/</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="pntd.0000624-Sun1">[85]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">TAHV (XJ0625)</td>
+                <td align="left" rowspan="1" colspan="1">2006</td>
+                <td align="left" rowspan="1" colspan="1">XJ/QH/IM</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito</td>
+                <td align="left" rowspan="1" colspan="1">a,b,c</td>
+                <td align="left" rowspan="1" colspan="1">XJ</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="pntd.0000624-Lu2">[86]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Chaoyang Virus (CV)</td>
+                <td align="left" rowspan="1" colspan="1">2008</td>
+                <td align="left" rowspan="1" colspan="1">LN</td>
+                <td align="left" rowspan="1" colspan="1">Mosquito</td>
+                <td align="left" rowspan="1" colspan="1">/</td>
+                <td align="left" rowspan="1" colspan="1">/</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="pntd.0000624-Wang9">[87]</xref>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="nt101">
+            <label/>
+            <p>“a” represents IgM antibody positive; “b” represents IgG antibody positive; “c” represents neutralizing antibody positive. HN, Hainan; YN, Yunnan; JL, Jilin; XJ, Xinjiang; HeB, Hebei; SH, Shanghai; GS, Gansu; LN, Liaoning; SX, Shanxi; BJ, Beijing; HeN, Henan; HLJ, Heilongjiang; QH, Qinghai; GD, Guangdong; GX, Guangxi; FJ, Fujian; IM, Inner Mongolia; JS, Jiangsu; GZ, Guizhou; SD, Shandong, HuB, Hubei. “/” means no information available.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>However, persistence of encephalitis cases in areas where large-scale JE vaccine programs have been implemented is suggestive of the health burden these arboviral agents may impose <xref ref-type="bibr" rid="pntd.0000624-Xu3">[94]</xref>. The observations described above underscore the importance of zoonotic arboviruses and reinforce the need to conduct additional investigations into the public health impact of arboviruses and to better understand the epidemiology and ecology of these diseases in mainland China.</p>
+    </sec>
+    <sec id="s7">
+      <title>Conclusions</title>
+      <p>Arboviral diseases, both the well known and relatively obscure, have a great impact on public health in mainland China and have the potential to increase in importance with changes in demographics, land use, and climate change. However, relatively little is known of arboviral epidemiology and transmission ecology in much of the country. It is essential that surveillance be implemented to evaluate and monitor the distribution and true disease burden from arboviral etiologies. In addition, research is needed to better identify and characterize the arboviral strains, vectors, vertebrate hosts, and habitat parameters involved in these complex disease ecologies. Only through accumulation of this additional knowledge will we be able to develop and target appropriate diagnostic services and interventions and to direct resources to developing education programs, vaccines, and therapeutics that may be needed to improve the capacity for infectious disease prevention and control in China and worldwide.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="s8">
+      <title>Supporting Information</title>
+      <supplementary-material content-type="local-data" id="pntd.0000624.s001">
+        <label>Alternative Language Abstract S1</label>
+        <caption>
+          <p>Translation of the abstract into Chinese by XG and GL.</p>
+          <p>(0.04 MB PDF)</p>
+        </caption>
+        <media xlink:href="pntd.0000624.s001.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank Dr. Huanyu Wang and Dr. Hong Liu in State Key Laboratory for Infectious Disease Control and Prevention, Institute for Viral Disease Control and Prevention, China CDC for their assistance in data and literature collection.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>This work was supported by grants from the Ministry of Science and Technology, China (No.2003BA712A08-01 and 2008ZX10004-001); Development Grant of State Key Laboratory for Infectious Disease Prevention and Control (2008SKLID105) and China CDC-US CDC Cooperative Agreement U19-GH000004. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="pntd.0000624-Calisher1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Calisher</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <year>1994</year>
+          <article-title>Medically important arboviruses of the United States and Canada.</article-title>
+          <source>Clin Microbiol Rev</source>
+          <volume>7</volume>
+          <fpage>89</fpage>
+          <lpage>116</lpage>
+          <pub-id pub-id-type="pmid">8118792</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Karabatsos1">
+        <label>2</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karabatsos</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <year>1985</year>
+          <source>International catalogue of arthropod-borne viruses. 3<sup>rd</sup> ed</source>
+          <publisher-loc>San Antonio, TX</publisher-loc>
+          <publisher-name>American Society for Tropical Medicine and Hygiene</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Liang1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liang</surname>
+              <given-names>GD</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Arboviruses — a field that should be urgently strengthened in China.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>19</volume>
+          <fpage>305</fpage>
+          <lpage>306 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Solomon1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solomon</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Control of Japanese encephalitis–within our grasp?</article-title>
+          <source>N Engl J Med</source>
+          <volume>355</volume>
+          <fpage>869</fpage>
+          <lpage>871</lpage>
+          <pub-id pub-id-type="pmid">16943399</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Erlanger1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erlanger</surname>
+              <given-names>TE</given-names>
+            </name>
+            <name>
+              <surname>Weiss</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Keiser</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Utzinger</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wiedenmayer</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Past, present, and future of Japanese encephalitis.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>15</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">19116041</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tyler1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyler</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Emerging viral infections of the central nervous system.</article-title>
+          <source>Arch Neurol</source>
+          <volume>66</volume>
+          <fpage>939</fpage>
+          <lpage>948</lpage>
+          <pub-id pub-id-type="pmid">19667214</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tsai1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsai</surname>
+              <given-names>TF</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>New initiatives for the control of Japanese encephalitis by vaccination: minutes of a WHO/CVI meeting, Bangkok, Thailand, 13–15 Oct. 1998.</article-title>
+          <source>Vaccine</source>
+          <volume>18</volume>
+          <fpage>1</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="pmid">10821969</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-WilderSmith1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilder-Smith</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Japanese encephalitis: is there a need for a novel vaccine?</article-title>
+          <source>Expert Rev Vaccines</source>
+          <volume>8</volume>
+          <fpage>969</fpage>
+          <lpage>972</lpage>
+          <pub-id pub-id-type="pmid">19627179</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Halstead1">
+        <label>9</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halstead</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>TF</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Japanese encephalitis vaccines.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Plotkin</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Orenstein</surname>
+              <given-names>WA</given-names>
+            </name>
+          </person-group>
+          <source>Vaccines. 4th ed</source>
+          <publisher-loc>Philadelphia</publisher-loc>
+          <publisher-name>Saunders</publisher-name>
+          <fpage>919</fpage>
+          <lpage>958</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>XJ</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YP</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>XF</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Dynamic tendency of Japanese B encephalitis in China.</article-title>
+          <source>Chin J Vac Immun</source>
+          <volume>10</volume>
+          <fpage>302</fpage>
+          <lpage>304 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-httpwww1">
+        <label>11</label>
+        <mixed-citation publication-type="other">
+          <ext-link ext-link-type="uri" xlink:href="http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohbgt/s3582/200902/39079.htm">http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohbgt/s3582/200902/39079.htm</ext-link>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Solomon2">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solomon</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ni</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Miquel</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mary</surname>
+              <given-names>JC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Origin and evolution of Japanese encephalitis virus in Southeast Asia.</article-title>
+          <source>J Virol</source>
+          <volume>77</volume>
+          <fpage>3091</fpage>
+          <lpage>3098</lpage>
+          <pub-id pub-id-type="pmid">12584335</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang2">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Takasaki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Molecular epidemiological analysis of Japanese encephalitis virus in China.</article-title>
+          <source>J Gen Virol</source>
+          <volume>71</volume>
+          <fpage>885</fpage>
+          <lpage>894</lpage>
+          <pub-id pub-id-type="pmid">17325361</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang3">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>XF</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>JX</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Japanese encephalitis outbreak, Yuncheng, China, 2006.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>13</volume>
+          <fpage>1123</fpage>
+          <lpage>1125</lpage>
+          <pub-id pub-id-type="pmid">18214202</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang4">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>ZL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Arbovirus survey in some region in Heilongjiang province.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>19</volume>
+          <fpage>307</fpage>
+          <lpage>311 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang5">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>XL</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Japanese encephalitis viruses from bats in Yunnan, China.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>15</volume>
+          <fpage>939</fpage>
+          <lpage>942</lpage>
+          <pub-id pub-id-type="pmid">19523297</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Li1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>YX</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>ZD</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Ning</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>XX</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Epidemiological characteristic analysis of Japanese encephalitis in China during 2004–2006.</article-title>
+          <source>Chin J Vac Immun</source>
+          <volume>13</volume>
+          <fpage>528</fpage>
+          <lpage>532 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Chen1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>XF</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>YX</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>JH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>[Epidemiological characteristic analysis of Japanese encephalitis in China during 2000–2004] (in Chinese).</article-title>
+          <source>Chin J Vac Immun</source>
+          <volume>12</volume>
+          <fpage>196</fpage>
+          <lpage>198</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Gu1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gu</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>ZE</given-names>
+            </name>
+          </person-group>
+          <year>1987</year>
+          <article-title>Inactivated Japanese encephalitis (JE) vaccine made from hamster kidney cell culture (a review).</article-title>
+          <source>Jpn Encephalitis Haemorrhagic Fever Renal Syndr Bull</source>
+          <volume>2</volume>
+          <fpage>15</fpage>
+          <lpage>26</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tsai2">
+        <label>20</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsai</surname>
+              <given-names>TF</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>YX</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Japanese encephalitis vaccines.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Plotkin</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Orenstein</surname>
+              <given-names>WA</given-names>
+            </name>
+          </person-group>
+          <source>Vaccines. 3rd ed</source>
+          <publisher-loc>Philadelphia, PA</publisher-loc>
+          <publisher-name>WB Saunders</publisher-name>
+          <fpage>672</fpage>
+          <lpage>703</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhou1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Jia</surname>
+              <given-names>LL</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>XL</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>ZY</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1999</year>
+          <article-title>A large-scale study on the safety and epidemiological efficacy of Japanese encephalitis (JE) live vaccine (SA14-14-2) in the JE endemic areas.</article-title>
+          <source>Chin J Epidemiol</source>
+          <volume>20</volume>
+          <fpage>38</fpage>
+          <lpage>41 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-WHO1">
+        <label>22</label>
+        <mixed-citation publication-type="book">
+          <collab>WHO</collab>
+          <year>1999</year>
+          <source>Strengthening implementation of the global strategy for dengue fever/dengue haemorrhagic fever prevention and control—report of the Informal Consultation</source>
+          <publisher-loc>Geneva, Switzerland</publisher-loc>
+          <publisher-name>World Health Organization</publisher-name>
+          <comment><ext-link ext-link-type="uri" xlink:href="http://www.whoindia.org/LinkFiles/Dengue_GlobalStrategy.pdf">http://www.whoindia.org/LinkFiles/Dengue_GlobalStrategy.pdf</ext-link> (accessed Nov 11, 2009)</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Halstead2">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halstead</surname>
+              <given-names>SB</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Dengue.</article-title>
+          <source>Lancet</source>
+          <volume>370</volume>
+          <fpage>1644</fpage>
+          <lpage>1652</lpage>
+          <pub-id pub-id-type="pmid">17993365</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Webster1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Webster</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Farrar</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rowland-Jones</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Progress towards a dengue vaccine.</article-title>
+          <source>Lancet Infect Dis</source>
+          <volume>9</volume>
+          <fpage>678</fpage>
+          <lpage>687</lpage>
+          <pub-id pub-id-type="pmid">19850226</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhao1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>QH</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>GZ</given-names>
+            </name>
+          </person-group>
+          <year>1981</year>
+          <article-title>The epidemic of dengue fever at Shiwanzhen of Foshan city in 1978.</article-title>
+          <source>Natl Med J China</source>
+          <volume>61</volume>
+          <fpage>366</fpage>
+          <lpage>369 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Li2">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>FS</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>JQ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1986</year>
+          <article-title>Etiologic and serologic investigations of the 1980 epidemic of dengue fever on Hainan Island, China.</article-title>
+          <source>Am J Trop Med Hyg</source>
+          <volume>35</volume>
+          <fpage>1051</fpage>
+          <lpage>1054</lpage>
+          <pub-id pub-id-type="pmid">3766851</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Qiu1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qiu</surname>
+              <given-names>FX</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>QQ</given-names>
+            </name>
+            <name>
+              <surname>Ho</surname>
+              <given-names>QY</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>WZ</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>ZG</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1991</year>
+          <article-title>The first epidemic of dengue hemorrhagic fever in the People's Republic of China.</article-title>
+          <source>Am J Trop Med Hyg</source>
+          <volume>44</volume>
+          <fpage>364</fpage>
+          <lpage>370</lpage>
+          <pub-id pub-id-type="pmid">2042704</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Group1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <collab>Group for the Prevention and Management of Aedes albopictus and Aedes egypi</collab>
+          <year>1982</year>
+          <article-title>Distribution and control and prevention of Aedes albopictus in China.</article-title>
+          <source>Chin J Epidemiol</source>
+          <volume>3</volume>
+          <fpage>354</fpage>
+          <lpage>356 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Fu1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fu</surname>
+              <given-names>YR</given-names>
+            </name>
+          </person-group>
+          <year>1982</year>
+          <article-title>Primary observation of repetitious hematophagia of the Aedes albopictus.</article-title>
+          <source>Chin J Epidemiol</source>
+          <volume>3</volume>
+          <fpage>215</fpage>
+          <lpage>217 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhang1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>XK</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>GY</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>FL</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>YP</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Detection of dengue virus genome RNA in some kinds of animals caught from Dengue fever endemic areas in Hainan province with reverse transcription-polymerase chain reaction.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>12</volume>
+          <fpage>226</fpage>
+          <lpage>228 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhang2">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Zi</surname>
+              <given-names>DY</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>ZD</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>The epidemiological survey of dengue fever in Yunnan province, China.</article-title>
+          <source>Endemic Diseases Bulletin</source>
+          <volume>14</volume>
+          <fpage>50</fpage>
+          <lpage>53 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Cui1">
+        <label>32</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cui</surname>
+              <given-names>JZ</given-names>
+            </name>
+          </person-group>
+          <year>1983</year>
+          <article-title>Dengue fever in China.</article-title>
+          <fpage>3</fpage>
+          <lpage>25 (in Chinese)</lpage>
+          <comment>Guangxi Center for diseases control and prevention</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Qiu2">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qiu</surname>
+              <given-names>FX</given-names>
+            </name>
+            <name>
+              <surname>Gubler</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>QQ</given-names>
+            </name>
+          </person-group>
+          <year>1993</year>
+          <article-title>Dengue in China: a clinical review.</article-title>
+          <source>Bull World Health Oran</source>
+          <volume>71</volume>
+          <fpage>349</fpage>
+          <lpage>359</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Xu1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>GZ</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>NF</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>AM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>An outbreak of dengue virus serotype 1 infection in Cixi, Ningbo, People's Republic of China, 2004, associated with a traveler from Thailand and high density of Aedes albopictus.</article-title>
+          <source>Am J Trop Med Hyg</source>
+          <volume>76</volume>
+          <fpage>1182</fpage>
+          <lpage>1188</lpage>
+          <pub-id pub-id-type="pmid">17556633</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Luo1">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>LM</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Analysis on the epidemiologic features of Dengue fever in Guangdong province, 1990–2000.</article-title>
+          <source>Clin J Epidemiol</source>
+          <volume>23</volume>
+          <fpage>417</fpage>
+          <lpage>430 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Liang2">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liang</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>HQ</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Analysis on the epidemiologic features of Dengue fever in Guangdong province, 2001–2006.</article-title>
+          <source>South China J Prev Med</source>
+          <volume>33</volume>
+          <fpage>4</fpage>
+          <lpage>7 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhang3">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Zi</surname>
+              <given-names>DY</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>ZD</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>The epidemiological survey of dengue fever in Yunnan province, China.</article-title>
+          <source>Endemic Diseases Bulletin</source>
+          <volume>14</volume>
+          <fpage>50</fpage>
+          <lpage>54 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang6">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Mi</surname>
+              <given-names>ZQ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Identification and sequence analysis of NS1 and NS2a of two strains of dengue type-4 virus from mosquitoes in Yunnan province.</article-title>
+          <source>Chin J Zoonoses</source>
+          <volume>24</volume>
+          <fpage>636</fpage>
+          <lpage>640 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Yi1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yi</surname>
+              <given-names>CT</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>General situation of prevalence and control of dengue fever in China.</article-title>
+          <source>Chin J Public Health</source>
+          <volume>18</volume>
+          <fpage>1128</fpage>
+          <lpage>1130 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Kan1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>YY</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Prevalence and its reason of dengue hemorrhagic fever and dengue shock syndrome in China.</article-title>
+          <source>Chin J Zoonoses</source>
+          <volume>13</volume>
+          <fpage>54</fpage>
+          <lpage>56 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Ergonul1">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ergonul</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Crimean-Congo haemorrhagic fever.</article-title>
+          <source>Lancet Infect Dis</source>
+          <volume>6</volume>
+          <fpage>203</fpage>
+          <lpage>214</lpage>
+          <pub-id pub-id-type="pmid">16554245</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Watts1">
+        <label>42</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Watts</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Ksiazek</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Linthicum</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Hoogstraal</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <year>1988</year>
+          <article-title>Crimean-Congo hemorrhagic fever.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Monath</surname>
+              <given-names>TP</given-names>
+            </name>
+          </person-group>
+          <source>The arboviruses: epidemiology and ecology, volume 2</source>
+          <publisher-loc>Boca Raton, FL, USA</publisher-loc>
+          <publisher-name>CRC Press</publisher-name>
+          <fpage>177</fpage>
+          <lpage>260</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Formenty1">
+        <label>43</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Formenty</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schnepf</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Gonzalez-Martin</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Bi</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>International surveillance and control of Crimean-Congo hemorrhagic fever outbreaks.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ergonul</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Whitehouse</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <source>Crimean Congo hemorrhagic fever: a global perspective</source>
+          <fpage>295</fpage>
+          <lpage>303</lpage>
+          <comment>Springer, Dordrecht, the Netherlands</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Vatansever1">
+        <label>44</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vatansever</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Uzun</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Estrada-Pena</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ergonul</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Crimean-Congo hemorrhagic fever in Turkey.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ergonul</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Whitehouse</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <source>Crimean Congo hemorrhagic fever: a global perspective</source>
+          <fpage>59</fpage>
+          <lpage>74</lpage>
+          <comment>Springer, Dordrecht, the Netherlands</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Feng1">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feng</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Chai</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>YY</given-names>
+            </name>
+          </person-group>
+          <year>1984</year>
+          <article-title>Etiological and serological study of Xinjiang hemorrhagic fever.</article-title>
+          <source>Chin J Epidemiol</source>
+          <volume>5</volume>
+          <fpage>339</fpage>
+          <lpage>341 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Yan1">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yan</surname>
+              <given-names>YC</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YQ</given-names>
+            </name>
+            <name>
+              <surname>Kong</surname>
+              <given-names>LX</given-names>
+            </name>
+          </person-group>
+          <year>1983</year>
+          <article-title>Study on characters of Xinjiang hemorrhagic fever virus.</article-title>
+          <source>Chin J Epidemiol</source>
+          <volume>4</volume>
+          <fpage>129</fpage>
+          <lpage>136 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Saijo1">
+        <label>47</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saijo</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Crimean-Congo hemorrhagic fever in the Xinjiang Uygur autonomous region of Western China.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ergonul</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Whitehouse</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <source>Crimean-Congo hemorrhagic fever: a global perspective</source>
+          <publisher-name>Springer</publisher-name>
+          <fpage>115</fpage>
+          <lpage>130</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Lv1">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lv</surname>
+              <given-names>XJ</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>YM</given-names>
+            </name>
+            <name>
+              <surname>Zhi</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Molecular biological survey of tick-borne arboviruses in southern part of Xinjiang.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>19</volume>
+          <fpage>325</fpage>
+          <lpage>330 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Saijo2">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saijo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Shimayi</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YZ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Possible horizontal transmission of Crimean-Congo hemorrhagic fever virus from mother to her child.</article-title>
+          <source>Jpn J Infect Dis</source>
+          <volume>57</volume>
+          <fpage>55</fpage>
+          <lpage>57</lpage>
+          <pub-id pub-id-type="pmid">15118210</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tang1">
+        <label>50</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Research status and progress of Crimean-Congo hemorrhagic fever.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>20</volume>
+          <fpage>86</fpage>
+          <lpage>89 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tang2">
+        <label>51</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>XQ</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Simayi</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YZ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Molecular epidemiology of Xinjiang hemorrhagic fever viruses.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>19</volume>
+          <fpage>312</fpage>
+          <lpage>318 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Han1">
+        <label>52</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>XQ</given-names>
+            </name>
+            <name>
+              <surname>Xi</surname>
+              <given-names>TZX</given-names>
+            </name>
+            <name>
+              <surname>Tao</surname>
+              <given-names>XX</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Serologic studies of Xinjiang hemorrhagic fever in Bachu county, 2001.</article-title>
+          <source>Chin J Epidemiol</source>
+          <volume>23</volume>
+          <fpage>179</fpage>
+          <lpage>181 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Saijo3">
+        <label>53</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saijo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Niikura</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ikegami</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Immunofluorescence technique using Hela cells expressing recombinant nucleoprotein for detection of immunoglobulin G antibodies to Crimean-Congo hemorrhagic fever virus.</article-title>
+          <source>J Clin Microbiol</source>
+          <volume>40</volume>
+          <fpage>372</fpage>
+          <lpage>375</lpage>
+          <pub-id pub-id-type="pmid">11825944</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Saijo4">
+        <label>54</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saijo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Niikura</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ikegami</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Recombinant nucleoprotein-based enzyme-linked immunosorbent assay for detection of immunoglobulin G antibodies to Crimean-Congo hemorrhagic fever virus.</article-title>
+          <source>J Clin Microbiol</source>
+          <volume>40</volume>
+          <fpage>1587</fpage>
+          <lpage>1591</lpage>
+          <pub-id pub-id-type="pmid">11980926</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Gritsun1">
+        <label>55</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gritsun</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Lashkevich</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Gould</surname>
+              <given-names>EA</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Tick-borne encephalitis.</article-title>
+          <source>Antiviral Research</source>
+          <volume>57</volume>
+          <fpage>129</fpage>
+          <lpage>146</lpage>
+          <pub-id pub-id-type="pmid">12615309</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Mansfield1">
+        <label>56</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mansfield</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Phipps</surname>
+              <given-names>LP</given-names>
+            </name>
+            <name>
+              <surname>Stephenson</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Fooks</surname>
+              <given-names>AR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Tick-borne encephalitis virus – a review of an emerging zoonosis.</article-title>
+          <source>J Gen Virol</source>
+          <volume>90</volume>
+          <fpage>1781</fpage>
+          <lpage>1794</lpage>
+          <pub-id pub-id-type="pmid">19420159</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zi1">
+        <label>57</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zi</surname>
+              <given-names>DY</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>BQ</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>YX</given-names>
+            </name>
+          </person-group>
+          <year>1995</year>
+          <source>Arbovirus and arbovirus diseases</source>
+          <publisher-name>Yunnan Science and Technology Press</publisher-name>
+          <fpage>192</fpage>
+          <lpage>201 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Hou1">
+        <label>58</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hou</surname>
+              <given-names>ZL</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>RZ</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Nucleotides and amino acid sequences of E protein of northeastern tick-borne encephalitis virus strain.</article-title>
+          <source>Chin J Virol</source>
+          <volume>13</volume>
+          <fpage>47</fpage>
+          <lpage>53 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Ecker1">
+        <label>59</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ecker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Allison</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Meixner</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Heinz</surname>
+              <given-names>FX</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Sequence analysis and genetic classification of tick-borne encephalitis viruses from Europe and Asia.</article-title>
+          <source>J Gen Virol</source>
+          <volume>80</volume>
+          <fpage>179</fpage>
+          <lpage>185</lpage>
+          <pub-id pub-id-type="pmid">9934700</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Gritsun2">
+        <label>60</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gritsun</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Frolova</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Zhankov</surname>
+              <given-names>AI</given-names>
+            </name>
+            <name>
+              <surname>Armesto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>SL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Characterization of a Siberian virus isolated from a patient with progressive chronic tick-borne encephalitis.</article-title>
+          <source>J Virol</source>
+          <volume>77</volume>
+          <fpage>25</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="pmid">12477807</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Song1">
+        <label>61</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>WB</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Design and application of M-RT-PCR diagnostic methods for arboviral encephalitis.</article-title>
+          <source>J Microbiol Immunol</source>
+          <volume>24</volume>
+          <fpage>317</fpage>
+          <lpage>323 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Si1">
+        <label>62</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Si</surname>
+              <given-names>BY</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>XY</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>XY</given-names>
+            </name>
+            <name>
+              <surname>Huo</surname>
+              <given-names>QB</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>QY</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Comparison of biology characteristics and nucleotide sequences of the E protein genes of two tick-borne encephalitis viruses isolated from China.</article-title>
+          <source>Bulletin of the Academy of Military Medical Sciences</source>
+          <volume>27</volume>
+          <fpage>259</fpage>
+          <lpage>285 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Chen2">
+        <label>63</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>YC</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Hui</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>JH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Characteristic analysis of E protein genes of new strains of tick-borne encephalitis virus isolated from China.</article-title>
+          <source>Chin J Virol</source>
+          <volume>24</volume>
+          <fpage>202</fpage>
+          <lpage>207 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Cheng1">
+        <label>64</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>GS</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Study of natural foci of tick-borne encephalitis.</article-title>
+          <source>Infectious Disease Information</source>
+          <volume>17</volume>
+          <fpage>7</fpage>
+          <lpage>9 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Lu1">
+        <label>65</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Bröker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>GD</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Tick-borne encephalitis in mainland China.</article-title>
+          <source>Vector Borne Zoonotic Dis</source>
+          <volume>8</volume>
+          <fpage>713</fpage>
+          <lpage>720</lpage>
+          <pub-id pub-id-type="pmid">18837668</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Bi1">
+        <label>66</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bi</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Bu</surname>
+              <given-names>XY</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Study on the partition of natural foci of tick-borne encephalitis.</article-title>
+          <source>Journal of Capital Normal University (Natural Science Edition)</source>
+          <volume>18</volume>
+          <fpage>100</fpage>
+          <lpage>107 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Dong1">
+        <label>67</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dong</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>ZM</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>WX</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>XL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Studies on the vaccination reaction and immunogenicity of purified tick-borne encephalitis virus vaccine.</article-title>
+          <source>Chin J Biologicals</source>
+          <volume>18</volume>
+          <fpage>514</fpage>
+          <lpage>515 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-He1">
+        <label>68</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Shang</surname>
+              <given-names>ZZ</given-names>
+            </name>
+          </person-group>
+          <year>1990</year>
+          <article-title>Evaluation study of effect of tick-borne encephalitis vaccines.</article-title>
+          <source>Bulletin of the Academy of Military Medical Sciences</source>
+          <volume>14</volume>
+          <fpage>20</fpage>
+          <lpage>22 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Song2">
+        <label>69</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>ZM</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Lab check and stage I clinical trials of purified tick-borne encephalitis vaccines.</article-title>
+          <source>Chin J Biologicals</source>
+          <volume>1</volume>
+          <fpage>412</fpage>
+          <lpage>413 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhai1">
+        <label>70</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhai</surname>
+              <given-names>YG</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HQ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Complete sequence characterization of isolates of Getah virus (genus Alphavirus, family Togaviridae) from China.</article-title>
+          <source>J Gen Virol</source>
+          <volume>89</volume>
+          <fpage>1446</fpage>
+          <lpage>1456</lpage>
+          <pub-id pub-id-type="pmid">18474561</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Li3">
+        <label>71</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>XD</given-names>
+            </name>
+            <name>
+              <surname>Qiu</surname>
+              <given-names>FX</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>YN</given-names>
+            </name>
+            <name>
+              <surname>Calisher</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <year>1992</year>
+          <article-title>Isolation of Getah virus from mosquitoes collected on Hainan Island, China, and results of a serosurvey.</article-title>
+          <source>Southeast Asian J Trop Med Public Health</source>
+          <volume>23</volume>
+          <fpage>730</fpage>
+          <lpage>734</lpage>
+          <pub-id pub-id-type="pmid">1338481</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhang4">
+        <label>72</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <year>1989</year>
+          <article-title>Isolation of Chikungunya virus from bats and investigation of serum antibodies to Chikungunya virus in Yuannan province.</article-title>
+          <source>Chin J Virol</source>
+          <volume>5</volume>
+          <fpage>31 (in Chinese)</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Shi1">
+        <label>73</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shi</surname>
+              <given-names>HF</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Zi</surname>
+              <given-names>DY</given-names>
+            </name>
+            <name>
+              <surname>Mi</surname>
+              <given-names>ZQ</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>ZX</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1990</year>
+          <article-title>First isolation of Chikungunya virus from patients in Yunnan, China.</article-title>
+          <source>Chin J Zoonoses</source>
+          <volume>6</volume>
+          <fpage>2</fpage>
+          <lpage>4 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Dong2">
+        <label>74</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dong</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>WZ</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>XY</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>HB</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>YB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1993</year>
+          <article-title>Two isolates of Chikungunya virus isolated from Culex fatigans and bats, for the first time in Hainan, China.</article-title>
+          <source>Chin J Vector Biology and Control</source>
+          <volume>4</volume>
+          <fpage>205</fpage>
+          <lpage>208 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Liang3">
+        <label>75</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liang</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>QP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Isolation and complete nucleotide sequence of a Chinese Sindbis-like virus.</article-title>
+          <source>J Gen Virol</source>
+          <volume>81</volume>
+          <fpage>1347</fpage>
+          <lpage>1351</lpage>
+          <pub-id pub-id-type="pmid">10769078</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhou2">
+        <label>76</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Sequencing and analysis of the whole structural genes of YN87447 isolated in China.</article-title>
+          <source>Chin J Virol</source>
+          <volume>15</volume>
+          <fpage>205</fpage>
+          <lpage>21l (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Xu2">
+        <label>77</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>YM</given-names>
+            </name>
+            <name>
+              <surname>Zuo</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>PM</given-names>
+            </name>
+          </person-group>
+          <year>1990</year>
+          <article-title>Isolation of orbiviruses from sera of patients with unknown fever and encephalitis collected from Yunnan Province.</article-title>
+          <source>Chin J Virol</source>
+          <volume>6</volume>
+          <fpage>27</fpage>
+          <lpage>33 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Liu1">
+        <label>78</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Zhai</surname>
+              <given-names>YG</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>XH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2010</year>
+          <article-title>Banna virus in China from 1987 to 2007: distribution and phylogenetic relationships.</article-title>
+          <source>Emerge Infect Dis</source>
+          <volume>16</volume>
+          <fpage>514</fpage>
+          <lpage>517</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang7">
+        <label>79</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Ni</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Isolation of kyasanur forest disease virus from febrile patient, Yunnan, China.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>15</volume>
+          <fpage>326</fpage>
+          <lpage>328</lpage>
+          <pub-id pub-id-type="pmid">19193286</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tao1">
+        <label>80</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tao</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>ZL</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HQ</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>YX</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1990</year>
+          <article-title>New subtype of coltivirus isolated from mosquitoes in the northeast part of China.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>13</volume>
+          <fpage>228</fpage>
+          <lpage>231 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Lv2">
+        <label>81</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lv</surname>
+              <given-names>XJ</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>Shihong</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HQ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>0507JS60 virus isolated in Xinjiang was identified as Liaoning virus.</article-title>
+          <source>Chin J Virol</source>
+          <volume>24</volume>
+          <fpage>438</fpage>
+          <lpage>442 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhao2">
+        <label>82</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>WZ</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>HH</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>MY</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Cloning and sequence analysis of 3′ending gene of two alphaviruses isolated in Hainan province.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>14</volume>
+          <fpage>213</fpage>
+          <lpage>217 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tao2">
+        <label>83</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tao</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>HQ</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>QZ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Investigation of arboviruses in Lancang river down-stream area in Yunnan province.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>17</volume>
+          <fpage>322</fpage>
+          <lpage>326 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang8">
+        <label>84</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>FT</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Sequencing and analysis of the full coding sequence of Batai virus isolated in China.</article-title>
+          <source>Chin J Virol</source>
+          <volume>25</volume>
+          <fpage>1</fpage>
+          <lpage>5 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Sun1">
+        <label>85</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>ZD</given-names>
+            </name>
+            <name>
+              <surname>Ge</surname>
+              <given-names>JQ</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>WS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Distribution of arboviruses and mosquitoes in northwestern Yunnan Province, China.</article-title>
+          <source>Vector-Borne Zoonotic Dis</source>
+          <volume>9</volume>
+          <fpage>623</fpage>
+          <lpage>630</lpage>
+          <pub-id pub-id-type="pmid">19196130</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Lu2">
+        <label>86</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>XJ</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>ZX</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Tahyna virus and human infection, China.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>15</volume>
+          <fpage>306</fpage>
+          <lpage>309</lpage>
+          <pub-id pub-id-type="pmid">19193280</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Wang9">
+        <label>87</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>ZS</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>SY</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>JQ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>A new virus of flavivirus: Chaoyang virus isolated in Liaoning province.</article-title>
+          <source>Chin J Public Health</source>
+          <volume>25</volume>
+          <fpage>769</fpage>
+          <lpage>772 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhang5">
+        <label>88</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>ZG</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>XR</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>MY</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Investigation on the serology of Sindbis fever in Ninghua county Fujian province.</article-title>
+          <source>Chin J Vector Biology and Control</source>
+          <volume>11</volume>
+          <fpage>137</fpage>
+          <lpage>139 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Chen3">
+        <label>89</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>BQ</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>QZ</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>GF</given-names>
+            </name>
+          </person-group>
+          <year>1983</year>
+          <article-title>Investigation of human antibody to arbovirus in some areas of China.</article-title>
+          <source>Chin J Epidemiol</source>
+          <volume>4</volume>
+          <fpage>263 (in Chinese)</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Bai1">
+        <label>90</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bai</surname>
+              <given-names>ZJ</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>YF</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>XD</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>CH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Prevalence of human antibody to arbovirus in Guangdong and Hainan provinces.</article-title>
+          <source>Chin J Zoonoses</source>
+          <volume>16</volume>
+          <fpage>83</fpage>
+          <lpage>84 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Zhang6">
+        <label>91</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>YM</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YH</given-names>
+            </name>
+            <name>
+              <surname>Duan</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1989</year>
+          <article-title>A survey of antibodies to arboviruses in residents of southwestern Yunnan province.</article-title>
+          <source>Chin J Endemiology</source>
+          <volume>10</volume>
+          <fpage>74</fpage>
+          <lpage>77 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Hou2">
+        <label>92</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hou</surname>
+              <given-names>ZL</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>WL</given-names>
+            </name>
+            <name>
+              <surname>Zi</surname>
+              <given-names>DY</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>HF</given-names>
+            </name>
+          </person-group>
+          <year>1992</year>
+          <article-title>Study of the serologic epidemiology of tick-borne viruses in Yunnan.</article-title>
+          <source>Chin J Vector Biology and Control</source>
+          <volume>3</volume>
+          <fpage>173</fpage>
+          <lpage>176 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Tao3">
+        <label>93</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tao</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>ZY</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>GQ</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>DR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1996</year>
+          <article-title>Detection of coltivirus antibody in sera of patients clinically diagnosed as Japanese Encephalitis.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>10</volume>
+          <fpage>247</fpage>
+          <lpage>250 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Xu3">
+        <label>94</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>ZQ</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YP</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>XL</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>XY</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Lab detection of specimens collected from encephalitis patients in some regions of China.</article-title>
+          <source>Chin J Exp Clin Virol</source>
+          <volume>22</volume>
+          <fpage>98</fpage>
+          <lpage>100 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Xu4">
+        <label>95</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>YM</given-names>
+            </name>
+            <name>
+              <surname>Zuo</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Che</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1990</year>
+          <article-title>Recovery of the same type of virus as human new orbivirus from sera of cattle and pigs collected in Yunnan province.</article-title>
+          <source>Chin J Virol</source>
+          <volume>6</volume>
+          <fpage>327</fpage>
+          <lpage>331 (in Chinese)</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="pntd.0000624-Attoui1">
+        <label>96</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Attoui</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mohd Jaafar</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Micco</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lamballerie</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Coltiviruses and Seadornaviruses in North America, Europe, and Asia.</article-title>
+          <source>Emerge Infect Dis</source>
+          <volume>11</volume>
+          <fpage>1673</fpage>
+          <lpage>1679</lpage>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

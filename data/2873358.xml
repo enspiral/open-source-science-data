@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:32Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2873358" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2873358</identifier><datestamp>2010-05-20</datestamp><setSpec>jcardsurg</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Cardiothorac Surg</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Cardiothoracic Surgery</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1749-8090</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2873358</article-id>
+      <article-id pub-id-type="publisher-id">1749-8090-5-22</article-id>
+      <article-id pub-id-type="pmid">20377866</article-id>
+      <article-id pub-id-type="doi">10.1186/1749-8090-5-22</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Different ways to repair the mitral valve with artificial chordae: a systematic review</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes" id="A1">
+          <name>
+            <surname>Bizzarri</surname>
+            <given-names>Federico</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>federico.bizzarri@uniroma1.it</email>
+        </contrib>
+        <contrib contrib-type="author" id="A2">
+          <name>
+            <surname>Tudisco</surname>
+            <given-names>Antonella</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>doc_84@hotmail.com</email>
+        </contrib>
+        <contrib contrib-type="author" id="A3">
+          <name>
+            <surname>Ricci</surname>
+            <given-names>Massimo</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>massimo.ricci@hotmail.com</email>
+        </contrib>
+        <contrib contrib-type="author" id="A4">
+          <name>
+            <surname>Rose</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>davidrose@libero.it</email>
+        </contrib>
+        <contrib contrib-type="author" id="A5">
+          <name>
+            <surname>Frati</surname>
+            <given-names>Giacomo</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>giacomo.frati@uniroma1.it</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Cardiac Surgery Unit, Polo Pontino, Heart and Great Vessels Department, University of Rome "Sapienza", Latina, Italy</aff>
+      <pub-date pub-type="collection">
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>8</day>
+        <month>4</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>5</volume>
+      <fpage>22</fpage>
+      <lpage>22</lpage>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>11</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>8</day>
+          <month>4</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright ©2010 Bizzarri et al; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <copyright-holder>Bizzarri et al; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="http://www.cardiothoracicsurgery.org/content/5/1/22"/>
+      <abstract>
+        <p>Myxomatous mitral regurgitation (type II Carpentier's functional classification) affects about 1-2% of the population. This represents a very common indication for valve surgery resulting in a low percentage of repairs compared to replacement which is actually performed. In the last decades, several methods for mitral valve repair have been developed, to make the surgical feasibility easier, improve the long-term follow-up thus avoiding the need for reoperations. A very interesting method is represented by the combination of various valve repair techniques, depending on the involvement of the anterior, posterior, or both leaflets, and the use of PTFE artificial chordae tendineae when excessive chordal elongation or rupture due to myxomatous degeneration co-exists. The aim of this review is to summarize the evolution of these techniques from the beginning till now.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="materials|methods">
+      <title>Materials and methods</title>
+      <p>We performed MEDLINE and bibliographic search including 27 articles published between 1984 and 2009 regarding the different applications of mitral valve repair with implantation of artificial PTFE chordae tendinae. The key words we used were mitral, repair, artificial chordae. Most of the techniques we analyzed were employed to repair both leaflets. Atriotomy approach is performed in all but one technique, in which an aortotomy is made too. The main difference between the techniques is in the measurement of the length of the artificial chordae. The oldest and most common method to calibrate the length of the neo-chordae consists in filling the left ventricular cavity with saline solution. Other authors elongated the prosthetic chordae trying to approximate the coaptation area between the two mitral leaflets. Recently, a variety of different calipers that allow in some manner to check the length and to tighten the number of necessary chordae have been introduced to better define the adequacy of the PTFE chordae implantation. One group uses intraoperative transesophageal echocardiography to measure the necessary length of the chordae. Scorsin et al. and Smith et al. used new devices with premeasured artificial chordae. Maselli et al. proposed a method for "tuning" the lenght of the artificial chordae during the operative time. The most interesting and forward-looking technique we analyzed was the one proposed by Smith et al.</p>
+    </sec>
+    <sec>
+      <title>Technique Details</title>
+      <p><bold>Morita and colleagues </bold>were the first to use 4-0 PTFE figure of 8 to repair both leaflets prolapse passing from the papillary body to the leaflet and back adding a Kay annuloplasty at the end of the procedure [<xref ref-type="bibr" rid="B1">1</xref>].</p>
+      <p><bold>Zussa</bold>, one of the pioneers of this technique, repaired an anterior leaflet with PTFE strings passing through the head of the papillary muscle and tying over a reinforcing autologous pericardial pledget. The strings were then anchored to the free margin of the anterior mitral leaflet at the unsupported areas and reinforced with a small autologous pericardial pledget. The two strands were tied after filling the ventricular cavity with saline solution for adjusting the chordal length [<xref ref-type="bibr" rid="B2">2</xref>].</p>
+      <p><bold>Murakami and colleagues </bold>approached the anterior leaflet prolapse using mattress e-PTFE suture with Teflon or autologous pledget passed through the free margin of the leaflet from the ventricular side to the atrial side. The two arms of the suture, reinforced with pledgets, were brought down to the papillary muscle and passed through it. The length of the e-PTFE chordae was then adjusted by approximating the coapting area of the opposite leaflet and the ends of the sutures were then tied together [<xref ref-type="bibr" rid="B3">3</xref>].</p>
+      <p>Chordae tendinae reconstruction, in patients with prolapse of anterior leaflet was done by <bold>Matsumoto and colleagues </bold>in children using the following technique: double-armed mattress e-PTFE sutures were passed through the free prolapsed edge from the ventricular side to the atrial side and then the two ends were passed through the papillary muscle at 3 to 4 mm from its top, drawing the free edge down to the entry point on the papillary muscle of the two ends of the suture. The sutures were passed through a pledget, which would be on the side where the sutures emerged from the papillary muscle. The knot was tied at the level of the opposing normal leaflet. The new chorda was pulled back through the papillary muscle until the pledget came up against the muscle. Another e-PTFE suture was placed in the same fashion. A Kay-Reed annuloplasty was added [<xref ref-type="bibr" rid="B4">4</xref>].</p>
+      <p><bold>Kawahira and colleagues </bold>used 4-0 e-PTFE sutures through the prolapsed leaflet from its ventricular to atrial aspect, placing pledgets for reinforcement on the ventricular surface of the leaflet. The sutures were anchored to the papillary muscles in a mattress fashion. This maneuver could be carried out in reverse order: attaching e-PTFE suture initially to the papillary muscle, subsequently passing it through the leaflet from it's ventricular to atrial aspect. In this circumstance, the knot would be placed on the atrial aspect of the mitral valve [<xref ref-type="bibr" rid="B5">5</xref>].</p>
+      <p><bold>Adams and colleagues </bold>placed one or more 4-0 Gore-Tex sutures into the head of the papillary muscle. Papillary muscle exposure was enhanced after quadrangular posterior leaflet resection. Before annuloplasty poor leaflet apposition is present in all leaflet segments with saline testing and segmental anterior leaflet prolapse is best identified by height comparison with a normal reference point. After ring annuloplasty symmetric leaflet apposition limits leaflet incompetence to the prolapsing anterior leaflet segment. Both arms of the previously placed Gore-Tex suture are passed through the margin of the prolapsing leaflet segment. Passing the suture through the free edge of the cusp twice as well as starting with a surgeon's knot are techniques to prevent overaggressive sliding of the knots when tying the Gore-Tex suture [<xref ref-type="bibr" rid="B6">6</xref>].</p>
+      <p><bold>Tomita </bold>applied the method of David [<xref ref-type="bibr" rid="B7">7</xref>] to use the reconstruction of the valve with CV-4 e-PTFE sutures. The double armed suture is passed twice through the fibrous portion of the papillary muscle head that anchors the elongated or ruptured chordae and is tied down (seven or eight knots are needed for this type of suture material). The two arms of the suture are then brought up to the free margin of the leaflet and passed through the point where the original chorda was attached (thickened portion of the leaflet). The needle is brought from the ventricular side of the leaflet to its atrial side and then passed once through the leaflet. The length of the PTFE chordae is adjusted by approving the coating area of the opposite leaflet. Then both ends of the suture are passed through the leaflet again and tied together on the ventricular side. Another PTFE suture is placed when the prolapsed portion is wide. Kay's annuloplasty is added at the end [<xref ref-type="bibr" rid="B8">8</xref>].</p>
+      <p>With time, it appeared mandatory to find the correct technique to determine the length of the artificial chordae.</p>
+      <p><bold>Sarsam and colleagues </bold>passed one or more 5-0 e-PTFE sutures, supported by a felt pledget through the fibrous portion of the papillary muscle. The suture was left untied. The two arms of the suture were then passed once through the rough free edge of the prolapsing leaflet from the ventricular to the atrial side. If the native chorda to the corresponding part of the opposing leaflet are normal, the edges of the anterior and posterior leaflet are temporarily approximated by a simple or figure 8 suture and then the suture is tied against the temporary suture. Three knots are used. The suture in passed again through the edge of the leaflet from the ventricular to the atrial side and tied permanently. The temporary suture is then removed [<xref ref-type="bibr" rid="B9">9</xref>].</p>
+      <p><bold>Soga </bold>made a resection of both the anterior and posterior mitral leaflets and subvalvular apparatus and placed two 3-0 e-PTFE mattress sutures: one placed and tied at the tip of the anterior papillary muscle, and one at the tip of the posterior papillary muscle. The suture of the anterior PM is placed at the 9-10 o'clock position on the mitral annulus (as defined by mid-anterior annulus to be 0 o'clock), and the suture for the posterior PM at the 5-6 o'clock. According to the authors, the length of the artificial CT can be determined during intraoperative cardiac arrest, and may be suitable if the sutures are tied just less than taut before insertion of the prosthetic. After the valve replacement, the motion of the prosthetic leaflets is examined to ensure that the leaflet are not entrapped by the 3-0 e-PTFE sutures [<xref ref-type="bibr" rid="B10">10</xref>]</p>
+      <p><bold>Tomita </bold>repaired chordae tendinae with CV-4 e-PTFE sutures. Double armed sutures are passed twice through the fibrous portion of the PM head that anchors the elongated or ruptured chordae and are tied down (7 or 8 knots are needed for this suture material). The two arms of the suture are brought up to the free margin of the leaflet and passed through the point where the original chorda was attached (thickened portion of the leaflet). The needle is brought from the ventricular side of the leaflet to its atrial side and passed once more through the leaflet. The length of PTFE chordae is adjusted by referring the contact area of the opposite leaflet and then both ends of the suture are passed through the leaflet again and tied together on the ventricular side. When the prolapsed portion became wide, another PTFE suture was placed in the same fashion. At the end Kay's suture annuloplasty (n = 24) or ring annuloplasty [<xref ref-type="bibr" rid="B11">11</xref>] was performed.</p>
+      <p><bold>Minami </bold>used double armed mattress sutures of 4-0, 5-0 or 6-0 e-PTFE placed to reinforce with felt pledgets between the PM and free margin of the anterior leaflet. The length of the PTFE sutures was adjusted with the adjacent normal anterior leaflet or facing posterior leaflet. When the prolapsed portion became wide, another suture was placed in the same fashion. The number of sutures ranged from 1 to 3. In addition, Kay annuloplasty was perfomed [<xref ref-type="bibr" rid="B12">12</xref>].</p>
+      <p><bold>Matsui </bold>employed a new device (Matsuda Ika-Kogyo, Tokyo, Japan) consisting of two metallic tubes with a circular, hook shaped distal tip made entirely of stainless steel. The distal tip, which is perpendicularly attached to the inner tube, was designed to hold the Gore-Tex thread at the reference point on the PM immovable. The outer tube could slide on the surface of the inner tube to measure the length from the tip of inner tube to the hook of outer tube. A 4-0 or 5-0 Gore-Tex mattress suture, reinforced with a felt pledget, was placed into the head of the PM. Both arms of the suture where left untied. Length was determined by measuring the distance between the leaflet edge and the site of implantation of the artificial chordae on the PM, using a normal valve segment adjacent to the prolapsing segment as a reference. The distal tip of the inner tube of the device was placed at the sutured site of the artificial chordae on the PM. The proximal hook of the outer tube was slid to the edge of the adjacent non prolapsing leaflet and then fixed at that point after reading the distance between the distal tip and proximal hook to the device. Devices were then moved to the prolapsed segments so as to hold an edge of the prolapsed leaflet with a proximal hook. As the determined distance and edge of the leaflet were fixed with the device, the Gore-Tex suture could be tied in the usual manner without knot slipping. The action of knot-tying itself works to immobilize the device by its strength. After removing the device, followed by saline testing, a Carpenter-Edwards annuloplasty ring was attached according to the size of the mitral annulus [<xref ref-type="bibr" rid="B13">13</xref>].</p>
+      <p><bold>Prêtre and colleagues </bold>applied the artificial chordae to the mitral valve using an approach through the aortic valve for an anterior and posterior leaflet prolaps. In the anterior repair an atriotomy was performed first, the artificial chordae was placed in the usual manner, and then a flexible annular ring was tied on the mitral annulus. An aortotomy was performed to expose the native chordae and to calibrate the length of the artificial chordae that were locked but not tied down. The mitral valve was inspected through the atriotomy while saline water was injected through the aortotomy in the left ventricle. The chordae were tied from the aortotomy and the incisions closed in the usual fashion. In the posterior leaflet prolapse, repair was done and a ring was inserted using a classical atrial incision. The ascending aorta was opened and the artificial chordae were set on the papillary muscles and the anterior leaflet was calibrated. The valve was re-inspected through the atriotomy with instillation of saline in the left ventricle for adjusting the chordae until they were definitively secured [<xref ref-type="bibr" rid="B14">14</xref>].</p>
+      <p><bold>Lawrie and co-authors </bold>published their experience on 152 consecutive patients. 5-0 PTFE sutures were placed into the bases of the papillary muscles in a figure-8 fashion, and were brought through the free edge of the prolapsing segment. Dots were made to mark the desired final line of leaflet apposition. The left ventricle was inflated with saline solution and the chordal length was adjusted to align the edges of the leaflets. Leaflet alignment was checked and the PTFE was tied down. The knot was locked with a 6-0 polypropylene stitch which was tied over the end of the PTFE to prevent sliding of the PTFE knots. An annuloplasty ring was then implanted [<xref ref-type="bibr" rid="B15">15</xref>].</p>
+      <p><bold>Calafiore </bold>in the anterior leaflet prolapse passed 4-0 PTFE sutures through the fibrous tip of the papillary muscle and fixed the sutures. The new chorda was passed in the border of the anterior leaflet in the proper place and its final length was measured with a ruler. A mark was applied to indicate this distance and the suture was tied with the aid of a nerve hook [<xref ref-type="bibr" rid="B16">16</xref>].</p>
+      <p><bold>Rankin </bold>in the anterior and/or posterior leaflet prolapse placed 4-0 prolene pledgetted horizontal mattress sutures longitudinally into each papillary muscle, passing one arm through the fibrous tip, and tying firmly; through this anchor suture, a double-armed Gortex suture was passed but not tied. A Carpentier annuloplasty ring was sutured. With the ring in position, the chordae were retrieved from the ventricle, and both needles were woven into the prolapsing segment, straddling the point of maximal prolapse. Two or three bites were taken through the coaptation surface to the line of coaptation. The two arms of the suture were tied on the atrial surface with a slip-knot to bring the leaflet to the annular plane, and a clip was placed across the knot. Pericardial pledgets could be used if the leaflet tissue seems fragile. Cold saline solution was infused to check the length of the suture; once the valve was competent, eight more knot were tied tightly against the clip, the suture was cut, and the clip was removed [<xref ref-type="bibr" rid="B17">17</xref>].</p>
+      <p><bold>Tam </bold>used the following technique for any prolapsing segment. A calliper was used to measure the length of the reference chordae. A 4-0 ePTFE suture was used to create loops around the calliper. Non-sliding knots were placed at the end of each loop while still on the calliper. After making a desired number of loops, the needles were passed through the loops and tied. Two needles at the end of the sutures were passed through an ePTFE pledget, which was now ready to be secured to the papillary muscle. The ePTFE chordae were secured at the tip of the papillary muscle with two pledgets and attached to the edge of the prolapsing mitral leaflet using eight 5-0 ePTFE sutures [<xref ref-type="bibr" rid="B18">18</xref>].</p>
+      <p><bold>Mandegar </bold>for any leaflet prolapse used following technique. During preoperative transesophageal echocardiography, a line was drawn between the base of the anterior and posterior mitral leaflet to measure the distance between the head of the posterior papillary muscle and the plane at the co-optation of the leaflets; this measured the artificial chordal length. During surgery, 4-0 Gore-Tex was passed through the fibrous tip of the papillary muscle with a pledget and was fixed with a loose knot. Two tight reverse knots were made for every millimeter of 4-0 Gore-Tex that was required. The needles were passed through the edge of the anterior leaflet at the prolapsing portion, and the Gore-Tex was knotted onto a strip of pericardium so that the final knot could be placed at the atrial side of the leaflet [<xref ref-type="bibr" rid="B19">19</xref>]</p>
+      <p><bold>Gillinov </bold>describe a technique for reparing anterior leaflet prolapse. Chordal length was determined with a calliper, and ePTFE chordae were constructed making loops around it. A pledget was used to prepare the number of 5-0 ePTFE loops that were needed. When all chordal loops were constructed, each needle was passed through the head of the papillary muscle, and was affixed to the free edge of the anterior leaflet with a figure 8 suture of CV-5 ePTFE [<xref ref-type="bibr" rid="B20">20</xref>]</p>
+      <p><bold>Scorsin</bold>: any leaflet prolapse. Artificial chordae system device was composed of 2 sets of 4 artificial chordae, attached to a 3-mm strip of knitted polyester 18 mm wide, leaving 4 mm between each chorda. The device was applied by suturing the strip to the free edge of the prolapsed leaflet by continuous suture. Each array was anchored to the tip of the correspondent papillary muscle by only one stitch. After this procedure, a prosthetic annuloplasty ring was inserted [<xref ref-type="bibr" rid="B21">21</xref>].</p>
+      <p><bold>Maselli and De Paulis </bold>used a novel system to repair the valve consisting of two components: leaflet component and the papillary component. The first one was achieved with a CV-5 PTFE suture. A circular loop was obtained at the middle of the suture by tying it around a Hegar dilator with a diameter of 13 mm. Flattened loop's length should equals half the circumference. Given a circumference of approximately 4 cm for a circle with a diameter of 13 mm the length of the loop would be approximately 2 cm. Papillary component was obtained by cutting a CV-4 PTFE suture in 2 halves; 5 double knots were placed at a distance of 2 mm at the needleless tip of each CV-4 semisuture. The needleless tip of the suture was anchored on a drape; knots were placed with the help of forceps and a needle holder and slid into definitive position by inserting the tip of the needle or a nerve hook in the knot itself. To realize papillary component for each neochorda 2 CV-4 half sutures with knots were needed. After the assessment of the mitral valve lesions, the papillary component was set in place by first fixing 2 semisutures to a papillary head and tying the sutures so that the papillary head was "sandwiched" between 2 e-PTFE pledgets to reduce trauma. Two CV-5 loops were fixed on the desired leaflet 2 to 3 mm apart from the leaflet's edge, passing the needle from the atrial to the ventricular side and leaving knots on the ventricular aspect of the leaflet. A single PTFE pledget was interposed on the atrial side. To obtain reversible coupling of the leaflet component with the papillary, a loop which could be tightened and loosened as many times as required, was placed in the leaflet component with the help of forceps and a curved instrument. The papillary component passed inside the loop and the loop was tightened. The loop had to fall in the gap between two knots. Chordal length was fixed by closing the loop under the selected reference knot of the papillary component. Same steps were repeated for the other chordae. To shorten or elongate the neochorda without touching its papillary or leaflet anchoring, the loop was released and slid under a reference knot respectively closer or farther from the papillary muscle tip, and tightened again [<xref ref-type="bibr" rid="B22">22</xref>].</p>
+      <p><bold>Boon and colleagues </bold>used CV-5 e-PTFE sutures for older children, while CV-7 was typically used in neonates and small infants. The suture was first tied to the fibrous tip of the PM and the two ends were fixed to the free edge of the valve leaflet in a V-shape. For the anterior leaflet, a new chord length was measured by bringing the free edge of the valve to the level of the anterior annulus. The length could also be compared to healthy non-elongated native chords in the adjacent area. Then both ends of the sutures would be passed again through the free edge and tied on the ventricular side of the leaflet, to prevent the knot from interfering with the co-optation zone. Because the sutures are placed in a V-shape, one suture accounts for 2 new artificial chords. In addition, ring annuloplasty or Wooler-Kay bilateral commissural plication annuloplasty was performed [<xref ref-type="bibr" rid="B23">23</xref>].</p>
+      <p><bold>Chan</bold>: for anterior leaflet prolapse a 4-0 Gore-Tex suture with pledgets was used. The suture was first passed through the papillary muscle and secured with 6 to 8 knots. Both braids were then passed through the prolapsed leaflet edge no more than 4 mm apart. The suture was then tensed up. The non-prolapsing posterior leaflet was used to check the reference length. A single-arm rubber-protected artery forceps was clipped on the mark, and knots were tied on it [<xref ref-type="bibr" rid="B24">24</xref>].</p>
+      <p><bold>Salvador</bold>: for anterior leaflet prolapse repair a e-PTFE double-armed suture (GORE-TEX CV-5) were passed through the PM with a mattress technique and reinforced with autologous pericardial pledgets (rarely, GORE-TEX pledgets), on both sides of the muscle. Each end of the suture were fixed to the free margin of the prolapsed leaflet and reinforced with a small autologous pericardial pledget or a small GORE-TEX pledget. The length of the artificial chordae was adjusted to maintain the corresponding free margin of the leaflet at the desired level in the ventricular cavity. To determine the correct length of the artificial chordae, the neochordae were tied at the end of all the other repair procedures after the ventricular cavity is filled with saline solution [<xref ref-type="bibr" rid="B25">25</xref>].</p>
+      <p><bold>Smith and Stein </bold>made the first endoscopic placement of multiple pre-measured artificial chordae with Robotic assistance and nitinol clip fixation. Robotic bileaflet mitral valve repair used a more lateral approach and 5 right thoracoscopic ports, ranging in size from 8 to 20 mm. Left atriotomy was perform to expose mitral valve using a robotically controlled EndoWrist atrial retractor (Intuitive Surgical Inc.). The prolapsing segment was identified with valve hooks. The "ski-tip" style ends of the robotic retractor blades are longed into the anterior leaflet, then the atrial septum is lifted to visualize PM. The length of the artificial chordae loops were determined with the measure of the distance between the correct plane of apposition on an adjacent normal non-prolapsing segment of the mitral leaflet and the respective PM (done with a More Suture Ruler device). Artificial chordae, with 4 loops each, were constructed of 4-0 PTFE GORE-TEX per the technique by von Oppel and Mohr. A single felt pledget constructed the platform with multiple neochords of definite length extending from its base. Both free suture needles from the pledget platform were passed through the respective PM with 2 robotic large needle drivers. After the correct placement in the muscle head, the needles were retrieved and the neochordae platform was secured with extracorporeal knots tied by the assistant using a closed knot pusher. Each neochordae loop was attached to the edge of the prolapsing leaflet by applying a single-armed V60 U-clip per loop. The single-armed U-clip was placed in the leaflet edge with a robotic large needle holder and the neochordae loop was captured in the open clip circle. The U-clip was deployed by pulling the needle off the clip portion, securing the neochordae loop to the leaflet. Additional reduction of the leaflet height could be achieved by folding the leaflet edge toward the ventricle before deploying the U-clip. The remaining loops were distributed at equal distance along the edge of the prolapsed segment by applying the same technique. After the pledget platform was secured, the 2 free suture needles were placed through the anterior prolapse. The correct apposition was confirmed with saline test. The assistan, at the patient side, tied the knots. Annuloplasty was performed at the surgeon's discretion. For concomitant left atrial ablation a SurgiFlex XL probe was applied endocardially. Lastly the heart was de-aired and the left atrium was closed with a running suture line [<xref ref-type="bibr" rid="B26">26</xref>].</p>
+      <p><bold>Doi </bold>measured the length of the chordae of the posterior leaflet, opposing the prolapsing portion of the anterior leaflet by TEE. The length of chordae was a measurement of the distance between the head of the PM and the free edge of the posterior leaflet. Length of the opposing chordae of the posterior leaflet was measured directly by using a calliper. Double-armed mattress sutures with CV-5 GORE-TEX were placed at the fibrous tip of the PM using PTFE on both sides and tied down firmly. In all cases Doi performed Duran ring annuloplasty. Thereafter, the ePTFE suture is placed through the anterior leaflet. The needles were passed through the rough zone of the prolapsing portion from the atrial to the ventricular side, and again through the free margin of the leaflet from the ventricular to the atrial side. The calliper that was fixed at the length of the opposing chordae was inserted inside the loop created by the ePTFE suture. The suture was easily tied at the exact length of the opposing chordae and the anterior leaflet was fixed at the height of the posterior leaflet [<xref ref-type="bibr" rid="B27">27</xref>].</p>
+    </sec>
+    <sec>
+      <title>Conclusions</title>
+      <p>The results of these techniques we described above have been shown to be safe and effective with low rates of post operative complications or death. Robotics procedures are not widely used because of the high costs and high requirement of technique skills, but they promise to be the overwhelming choice in the very near future.</p>
+      <p>Mitral valve repair is a challenging technique deserving continuous attention over time. In the future we are waiting for more novel procedures to ensure better results in mid and long term morbidity.</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>FB conceived the study and revised the manuscript; AT, MR and DR collected bibliographic pages references, GF revised the final manuscript before publication and checked for any typographical errors.</p>
+      <p>All authors have read and approved the final manuscript.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="B1">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Morita</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Yasui</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Harasawa</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Tomita</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Tominaga</surname>
+            <given-names>R</given-names>
+          </name>
+          <article-title>Extensive use of artificial Chordae for repairing diffuse mitral valve prolapse</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>1996</year>
+          <volume>62</volume>
+          <fpage>878</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="pmid">8784025</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Zussa</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Polesel</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Rocco</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Valfrè</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Artificial chordae in the treatment of anterior mitral leaflet prolapse</article-title>
+          <source>Cardiovascular Surgery</source>
+          <year>1997</year>
+          <volume>5</volume>
+          <issue>1</issue>
+          <fpage>125</fpage>
+          <lpage>128</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0967-2109(96)00066-X</pub-id>
+          <pub-id pub-id-type="pmid">9158134</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Murakami</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Yagihara</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Yamamoto</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Uemura</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Yamashita</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Ishizaka</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>Artificial Chordae for mitral valve reconstruction in Children</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>1998</year>
+          <volume>65</volume>
+          <fpage>1377</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0003-4975(97)01441-0</pub-id>
+          <pub-id pub-id-type="pmid">9594869</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Matsumoto</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Kado</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Masuda</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Shiokawa</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Fukae</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Morita</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Yasui</surname>
+            <given-names>H</given-names>
+          </name>
+          <article-title>Mitral valve repair by reconstructing artificial chordae tendinae in children</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>1999</year>
+          <volume>118</volume>
+          <fpage>94</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-5223(99)70147-9</pub-id>
+          <pub-id pub-id-type="pmid">10384191</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="other">
+          <name>
+            <surname>Kawahira</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Yagihara</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Uemura</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Ishizaka</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Yoshizumi</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Kitamura</surname>
+            <given-names>S</given-names>
+          </name>
+          <article-title>PTFE sutures as artificial chordae tendinae in children with congenital mitral regurgitation</article-title>
+          <source>European Journal of Cardio-thoracic Surgery 15</source>
+          <year>1999</year>
+          <fpage>289</fpage>
+          <lpage>293</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1010-7940(99)00039-1</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Adams</surname>
+            <given-names>DH</given-names>
+          </name>
+          <name>
+            <surname>Kadner</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Chen</surname>
+            <given-names>RH</given-names>
+          </name>
+          <article-title>Artificial mitral valve chordae replacement applied in myxomatous valve disease</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2001</year>
+          <volume>71</volume>
+          <fpage>1377</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0003-4975(00)02184-6</pub-id>
+          <pub-id pub-id-type="pmid">11308205</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>David</surname>
+            <given-names>TE</given-names>
+          </name>
+          <name>
+            <surname>Burns</surname>
+            <given-names>RJ</given-names>
+          </name>
+          <name>
+            <surname>Bacchus</surname>
+            <given-names>CM</given-names>
+          </name>
+          <article-title>Mitral valve replacement for mitral regurgitation with and without preservation of chordae tendineae</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>1984</year>
+          <volume>88</volume>
+          <fpage>718</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="pmid">6492840</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="other">
+          <name>
+            <surname>Tomita</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Yasui</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Tominaga</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Morita</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Masuda</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Kurisu</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Nishimura</surname>
+            <given-names>Y</given-names>
+          </name>
+          <article-title>PTFE sutures for bilateral mitral leaflets repair</article-title>
+          <source>European Journal of Cardio-Thoracic Surgery 21</source>
+          <year>2002</year>
+          <fpage>27</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1010-7940(01)00990-3</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Sarsam</surname>
+            <given-names>MAI</given-names>
+          </name>
+          <article-title>A simple technique for determining the length of artificial chordae in mitral valve repair</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2002</year>
+          <volume>73</volume>
+          <fpage>1659</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0003-4975(01)03565-2</pub-id>
+          <pub-id pub-id-type="pmid">12022582</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="other">
+          <name>
+            <surname>Soga</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Nishimura</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Yamazaki</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Komeda</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>The "oblique" placement of artificial chordae tendinae in mitral valve repair</article-title>
+          <source>European Journal of Cardio-thoracic Surgery 24</source>
+          <year>2003</year>
+          <fpage>653</fpage>
+          <lpage>655</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1010-7940(03)00462-7</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Tomita</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Yasui</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Iwai</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Nishida</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Tatewaki</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Morita</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Masuda</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Yasutsune</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Nishimura</surname>
+            <given-names>Y</given-names>
+          </name>
+          <article-title>Surgical application for prolapsed anterior mitral leaflet</article-title>
+          <source>Surg Today</source>
+          <year>2005</year>
+          <volume>35</volume>
+          <fpage>812</fpage>
+          <lpage>818</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00595-005-3043-2</pub-id>
+          <pub-id pub-id-type="pmid">16175460</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Minami</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Kado</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Sai</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Tatewaki</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Shiokawa</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Nakashima</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Fukae</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Hirose</surname>
+            <given-names>H</given-names>
+          </name>
+          <article-title>Mitral valve repair in children with MR caused by anterior leaflet prolapse</article-title>
+          <source>J Thoracic Cardiovasc Surg</source>
+          <year>2005</year>
+          <volume>129</volume>
+          <fpage>336</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2004.10.016</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Matsui</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Fukada</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Naito</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Sasaki</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Yasuda</surname>
+            <given-names>K</given-names>
+          </name>
+          <article-title>A new device for ensuring the correct length of artificial chordae in mitral valvuloplasty</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2005</year>
+          <volume>79</volume>
+          <fpage>1064</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2003.11.026</pub-id>
+          <pub-id pub-id-type="pmid">15734448</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Prêtre</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Khatchatourov</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Kadner</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Genoni</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Application of artificial chordae to the mitral valve using an approach through the aortic valve</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2006</year>
+          <volume>82</volume>
+          <fpage>761</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2005.07.062</pub-id>
+          <pub-id pub-id-type="pmid">16863816</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lawrie</surname>
+            <given-names>GM</given-names>
+          </name>
+          <name>
+            <surname>Earle</surname>
+            <given-names>EA</given-names>
+          </name>
+          <name>
+            <surname>Earle</surname>
+            <given-names>NR</given-names>
+          </name>
+          <article-title>Feasibility and Intermediate Term Outcome of Repair of Prolapsing Anteior Mitral Leaflets With Artificial Chordal Replacement in 152 patients</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2006</year>
+          <volume>81</volume>
+          <fpage>849</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2005.08.077</pub-id>
+          <pub-id pub-id-type="pmid">16488683</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Calafiore</surname>
+            <given-names>A</given-names>
+          </name>
+          <article-title>Choice of Artificial Chordae Lenght According to Echocardiographic Criteria</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2006</year>
+          <volume>81</volume>
+          <fpage>375</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2004.08.071</pub-id>
+          <pub-id pub-id-type="pmid">16368416</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Rankin</surname>
+            <given-names>JS</given-names>
+          </name>
+          <name>
+            <surname>Orozco</surname>
+            <given-names>RE</given-names>
+          </name>
+          <name>
+            <surname>Rodgers</surname>
+            <given-names>TL</given-names>
+          </name>
+          <name>
+            <surname>Alfery</surname>
+            <given-names>DD</given-names>
+          </name>
+          <name>
+            <surname>Glower</surname>
+            <given-names>DD</given-names>
+          </name>
+          <article-title>"Adjustable" Artificial Chordal Replacement for Repair of Mitral Valve Prolapse</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2006</year>
+          <volume>81</volume>
+          <fpage>1526</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2005.01.042</pub-id>
+          <pub-id pub-id-type="pmid">16564319</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Tam</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Joshi</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Konstantinov</surname>
+            <given-names>IG</given-names>
+          </name>
+          <article-title>A simple method of preparing artificial chordae for mitral valve repair</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>2006</year>
+          <volume>132</volume>
+          <issue>6</issue>
+          <fpage>1486</fpage>
+          <lpage>1487</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2006.07.029</pub-id>
+          <pub-id pub-id-type="pmid">17140991</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Mandegar</surname>
+            <given-names>MH</given-names>
+          </name>
+          <name>
+            <surname>Yousefnia</surname>
+            <given-names>MA</given-names>
+          </name>
+          <name>
+            <surname>Roshanali</surname>
+            <given-names>F</given-names>
+          </name>
+          <article-title>Preoperative Determination of Artificial Chordae Lenght</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2007</year>
+          <volume>84</volume>
+          <fpage>680</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2006.11.084</pub-id>
+          <pub-id pub-id-type="pmid">17643670</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gillinov</surname>
+            <given-names>AM</given-names>
+          </name>
+          <name>
+            <surname>Banbury</surname>
+            <given-names>MK</given-names>
+          </name>
+          <article-title>Pre-Measured Artificial Chordae for Mitral Valve Repair</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2007</year>
+          <volume>84</volume>
+          <fpage>2127</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2007.04.046</pub-id>
+          <pub-id pub-id-type="pmid">18036962</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Scorsin</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Al-Attar</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Lessana</surname>
+            <given-names>A</given-names>
+          </name>
+          <article-title>A novel techinque of utilizing artificial chordae for repair of mitral valve prolapse</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>2007</year>
+          <volume>134</volume>
+          <fpage>1072</fpage>
+          <lpage>3</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2007.06.012</pub-id>
+          <pub-id pub-id-type="pmid">17903545</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Maselli</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>De Paulis</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Weltert</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Salica</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Scaffa</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Bellisario</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Mingiano</surname>
+            <given-names>A</given-names>
+          </name>
+          <article-title>A method for artificial chordae length "tuning" in complex mitral valve regurgitation</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>2007</year>
+          <volume>134</volume>
+          <fpage>454</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2007.04.009</pub-id>
+          <pub-id pub-id-type="pmid">17662789</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="other">
+          <name>
+            <surname>Boon</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Hazekamp</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Hoohenkerk</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Rijlaarsdam</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Schoof</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Koolbergen</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Heredia</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Dion</surname>
+            <given-names>R</given-names>
+          </name>
+          <article-title>Artificial chordae for pediatric mitralvale repair</article-title>
+          <source>European Journal of Cardio-thoracic Surgery 32</source>
+          <year>2007</year>
+          <fpage>143</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejcts.2007.03.035</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Chan</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Chiu</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Chen</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Au</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>Artificial chordae: a simple clip and tie technique</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>2008</year>
+          <volume>136</volume>
+          <fpage>1597</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2007.12.080</pub-id>
+          <pub-id pub-id-type="pmid">19114213</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Salvador</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Mirone</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bianchini</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Regesta</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Patelli</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Minniti</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Masat</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Cavarretta</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Valfré</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Artificial chordae for degenerative mitral regurgitation</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>2008</year>
+          <volume>135</volume>
+          <fpage>1280</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2007.12.026</pub-id>
+          <pub-id pub-id-type="pmid">18544371</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Smith</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Stein</surname>
+            <given-names>H</given-names>
+          </name>
+          <article-title>Endoscopic placement of multiple premeasured artificial chordae with Robotic assistance and nitinol clip fixation</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>2008</year>
+          <volume>135</volume>
+          <fpage>610</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2007.10.041</pub-id>
+          <pub-id pub-id-type="pmid">18329479</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Doi</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Iida</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Sunazawa</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>Intracardiac Calipers for artificial chordae replacement in anterior mitral valve repair</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>2009</year>
+          <volume>87</volume>
+          <fpage>326</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.athoracsur.2008.05.033</pub-id>
+          <pub-id pub-id-type="pmid">19101333</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

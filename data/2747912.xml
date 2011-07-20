@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:31:07Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2747912" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2747912</identifier><datestamp>2009-09-22</datestamp><setSpec>orphjrdis</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Orphanet J Rare Dis</journal-id>
+      <journal-title>Orphanet Journal of Rare Diseases</journal-title>
+      <issn pub-type="epub">1750-1172</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2747912</article-id>
+      <article-id pub-id-type="publisher-id">1750-1172-4-19</article-id>
+      <article-id pub-id-type="pmid">19744342</article-id>
+      <article-id pub-id-type="doi">10.1186/1750-1172-4-19</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Erythropoietic protoporphyria</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="A1" corresp="yes" contrib-type="author">
+          <name>
+            <surname>Lecha</surname>
+            <given-names>Mario</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>4908mlc@comb.es</email>
+        </contrib>
+        <contrib id="A2" contrib-type="author">
+          <name>
+            <surname>Puy</surname>
+            <given-names>Hervé</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <xref ref-type="aff" rid="I3">3</xref>
+          <email>herve.puy@apr.aphp.fr</email>
+        </contrib>
+        <contrib id="A3" corresp="yes" contrib-type="author">
+          <name>
+            <surname>Deybach</surname>
+            <given-names>Jean-Charles</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <xref ref-type="aff" rid="I3">3</xref>
+          <email>jean-charles.deybach@lmr.aphp.fr</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Department of Dermatology, Hospital Clinic, University of Barcelona, Barcelona, Spain</aff>
+      <aff id="I2"><label>2</label>AP-HP, Centre Français des Porphyries, Hôpital Louis Mourier, 178 rue des Renouillers, 92701 Colombes CEDEX, France</aff>
+      <aff id="I3"><label>3</label>INSERM Unité 773, Centre de Recherche Biomedicale Bichat-Beaujon, Université Paris Diderot, site Bichat, 75018, Paris, France</aff>
+      <pub-date pub-type="collection">
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>9</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>4</volume>
+      <fpage>19</fpage>
+      <lpage>19</lpage>
+      <ext-link ext-link-type="uri" xlink:href="http://www.ojrd.com/content/4/1/19"/>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>4</month>
+          <year>2008</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>9</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2009 Lecha et al; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <copyright-holder>Lecha et al; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0"/>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p>
+          <!--<rdf xmlns="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dcterms="http://purl.org/dc/terms"><Work xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by/2.0"/><dc:type rdf:resource="http://purl.org/dc/dcmitype/Text"/><dc:author>
+               Lecha
+               Mario
+               
+               4908mlc@comb.es
+            </dc:author><dc:title>
+            Erythropoietic protoporphyria
+         </dc:title><dc:date>2009</dc:date><dcterms:bibliographicCitation>Orphanet Journal of Rare Diseases 4(1): 19-. (2009)</dcterms:bibliographicCitation><dc:identifier type="sici">1750-1172(2009)4:1&#x0003c;19&#x0003e;</dc:identifier><dcterms:isPartOf>urn:ISSN:1750-1172</dcterms:isPartOf><License rdf:about="http://creativecommons.org/licenses/by/2.0"><permits rdf:resource="http://web.resource.org/cc/Reproduction" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/Distribution" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Notice" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Attribution" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" xmlns=""/></License></Work></rdf>-->
+        </license>
+      </permissions>
+      <abstract>
+        <p>Erythropoietic protoporphyria (EPP) is an inherited disorder of the haem metabolic pathway characterised by accumulation of protoporphyrin in blood, erythrocytes and tissues, and cutaneous manifestations of photosensitivity. EPP has been reported worldwide, with prevalence between 1:75,000 and 1:200,000. It usually manifests in early infancy upon the first sun exposures. EPP is characterised by cutaneous manifestations of acute painful photosensitivity with erythema and oedema, sometimes with petechiae, together with stinging and burning sensations upon exposure to sunlight, without blisters. These episodes have a variable severity depending on the exposure duration and may result in chronic permanent lesions on exposed skin. As protoporphyrin is a lipophilic molecule that is excreted by the liver, EPP patients are at risk of cholelithiasis with obstructive episodes, and chronic liver disease that might evolve to rapid acute liver failure. In most patients, EPP results from a partial deficiency of the last enzyme of the haem biosynthetic pathway, ferrochelatase, EC 4.99.1.1/FECH (encoded by the <italic>FECH </italic>gene). EPP appears to be inherited as an autosomal dominant disease, the clinical expression of which is modulated by the presence of the hypomorphic <italic>FECH </italic>IVS3-48C allele <italic>trans</italic>, but recessive inheritance with two mutated <italic>FECH </italic>alleles has also been described. In about 2% of patients, overt disease was recently shown to be caused by gain-of-function mutations in the erythroid-specific aminolevulinic acid synthase 2 (<italic>ALAS2</italic>/ALAS, EC 2.3.1.27) gene and named X-linked dominant protoporphyria. Diagnosis is established by finding increased levels of protoporphyrin in plasma and red blood cells, and detection of a plasma fluorescence peak at 634 nm. Investigations for hepatic involvement, ferrochelatase activity level, genetic analysis (<italic>FECH </italic>mutations, presence of the hypomorphic <italic>FECH </italic>IVS3-48C allele <italic>trans </italic>and <italic>ALAS2 </italic>mutations) and family studies are advisable. Differential diagnosis includes phototoxic drug reactions, hydroa vacciniforme, solar urticaria, contact dermatitis, angio-oedema and, in some cases, other types of porphyria. Management includes avoidance of exposure to light, reduction of protoporphyrin levels and prevention of progression of possible liver disease to liver failure. As the major risk in EPP patients is liver disease, a regular follow-up of hepatic involvement is essential. Sequential hepatic and bone marrow transplantation should be considered as a suitable treatment for most severe cases of EPP with hepatic involvement. EPP is a lifelong disorder whose prognosis depends on the evolution of the hepatic disease. However, photosensitivity may have a significant impact on quality of life of EPP patients.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Disease names and synonyms</title>
+      <p>Erythropoietic protoporphyria, Protoporphyria, Haem synthetase deficiency, Ferrochelatase deficiency, X-linked dominant protoporphyria (XLDPP), Erythrohepatic protoporphyria (no longer used).</p>
+    </sec>
+    <sec>
+      <title>Definition</title>
+      <p>Erythropoietic protoporphyria (EPP) is a painful photodermatosis without blisters caused by inborn errors of the haem biosynthetic pathway due, in the majority of patients, to a deficient activity of the enzyme ferrochelatase (ferrohaemprotolyase, haem synthetase, ferrohaem-protolyase, EC4.99.1.1, FECH (EPP), (MIM 177000) or caused, in about 2% of patients, by a gain of activity of the erythroid specific aminolevulinic acid synthase 2 (ALAS; EC 2.3.1.27). The latter results in a new protoporphyria named X-linked dominant protoporphyria (XLDPP), (MIM 300752) [<xref ref-type="bibr" rid="B1">1</xref>-<xref ref-type="bibr" rid="B3">3</xref>].</p>
+      <p>ALAS is the first enzyme of the haem synthetic pathway, which is synthesised by two different genes: <italic>ALAS1 </italic>in the liver and other tissues located on chromosome 3, and <italic>ALAS2 </italic>in the erythroid tissue located on chromosome X. The role of ALAS is to combine glycine and succinyl-coenzyme A to form delta aminolevulinic acid (ALA), the first substrate of the pathway in the mitochondrial matrix. FECH is the last of the eight enzymes acting sequentially in the haem biosynthetic pathway and is encoded by <italic>FECH </italic>gene on chromosome 18. The role of FECH is to catalyse the insertion of iron into protoporphyrin ring to generate the final product, haem (Fig <xref ref-type="fig" rid="F1">1</xref>).</p>
+      <fig position="float" id="F1">
+        <label>Figure 1</label>
+        <caption>
+          <p><bold>The haem biosynthesis pathway</bold>.</p>
+        </caption>
+        <graphic xlink:href="1750-1172-4-19-1"/>
+      </fig>
+      <p>Porphyrias may manifest in two clinical types: cutaneous photosensitivity (cutaneous porphyrias) or acute neuro-visceral symptoms (acute porphyrias). EPP belongs to the group of cutaneous porphyrias. In EPP, the enzyme deficiency causes accumulation of protoporphyrin in various tissues (skin, liver) and blood (erythrocytes and plasma). Skin protoporphyrin accumulation results in acute episodes of painful photosensitivity without blisters, which is the characteristic clinical manifestation of the disease.</p>
+      <p>The first comprehensive description of the disease was published by Magnus <italic>et al</italic>. in 1961 [<xref ref-type="bibr" rid="B1">1</xref>].</p>
+    </sec>
+    <sec>
+      <title>Epidemiology</title>
+      <p>EPP has been described in patients worldwide. There are prevalence studies in different populations, with prevalence figures ranging between 1:75,000 (The Netherlands) and 1:200,000 (Wales) [<xref ref-type="bibr" rid="B4">4</xref>,<xref ref-type="bibr" rid="B5">5</xref>]. It seems that males and females are equally affected, as suggested by Holme <italic>et al</italic>. [<xref ref-type="bibr" rid="B6">6</xref>].</p>
+    </sec>
+    <sec>
+      <title>Clinical description</title>
+      <sec>
+        <title>Skin symptoms: photosensitivity</title>
+        <p>EPP manifests clinically by skin symptoms of immediate painful photosensitivity [<xref ref-type="bibr" rid="B2">2</xref>,<xref ref-type="bibr" rid="B7">7</xref>]. This manifestation starts usually in early infancy or childhood, upon the first sun exposures. Skin stinging, prickling and burning on exposed areas are the initial symptoms experienced by the patient during or shortly after sun exposure. These symptoms may have a variable duration, depending on the intensity and duration of sun exposure. If the exposure has been long enough, erythema and oedema may appear, together with petechiae in some cases. Areas affected are the face and dorsa of the hands, but photosensitivity reactions can also appear on any exposed skin area. Reactions may persist for hours up to several days. The appearance of vesicles or bullous lesions characteristic of other forms of cutaneous porphyria is unusual but may occur (Fig. <xref ref-type="fig" rid="F2">2</xref>, <xref ref-type="fig" rid="F3">3</xref>). Nail lesions (photoonycholysis and transversal leuconycholysis) are possible associated manifestations.</p>
+        <fig position="float" id="F2">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>Acute photosensitivity reaction in EPP</bold>.</p>
+          </caption>
+          <graphic xlink:href="1750-1172-4-19-2"/>
+        </fig>
+        <fig position="float" id="F3">
+          <label>Figure 3</label>
+          <caption>
+            <p><bold>Acute photosensitivity reaction in EPP</bold>.</p>
+          </caption>
+          <graphic xlink:href="1750-1172-4-19-3"/>
+        </fig>
+        <p>Late-onset cases have been reported but are exceptional and related to haematologic malignancies, although cases without this association have been described [<xref ref-type="bibr" rid="B8">8</xref>-<xref ref-type="bibr" rid="B10">10</xref>].</p>
+        <p>Repeated photosensitivity episodes result in altered skin appearance with permanent changes, such as skin thickening with a waxy or leathery appearance, and areas of hyperkeratosis. These lesions are usually located on the dorsa of the hands and face, as these are skin areas usually exposed (Fig. <xref ref-type="fig" rid="F4">4</xref>). The lips show linear furrows and pseudo-rhagades that arte also characteristic. In contrast to other forms of cutaneous porphyria, lesions of milia, hypertrichosis or hyperpigmentation do not appear. This last cutaneous sign may only appear in patients with severe hepatic involvement presenting with cholestasis, itching and jaundice [<xref ref-type="bibr" rid="B2">2</xref>].</p>
+        <fig position="float" id="F4">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>Chronic skin lesions of EPP</bold>.</p>
+          </caption>
+          <graphic xlink:href="1750-1172-4-19-4"/>
+        </fig>
+        <p>Seasonal palmar keratoderma has been reported in some EPP patients and in addition this may indicate autosomal recessive inheritance of the disease [<xref ref-type="bibr" rid="B11">11</xref>].</p>
+      </sec>
+      <sec>
+        <title>Liver involvement</title>
+        <p>In EPP, the degree of severity of the hepatic manifestations is variable. Hepatic disease in EPP may include: cholelithiasis with possible obstructive episodes and chronic liver disease evolving to rapid acute hepatic failure [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B13">13</xref>].</p>
+        <p>The incidence of cholelithiasis is frequent in EPP (about 20% of patients). Gallstones with high protoporphyrin content are generated due to the accumulation of insoluble protoporphyrin and increased biliary protoporphyrin concentration [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+        <p>Liver disease develops in association with EPP in 1-4% of cases [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B6">6</xref>], with usual features of visceral enlargement and portal hypertension. Liver disease in protoporphyria is related to the excess protoporphyrin cleared by the entero-hepatic circulation leading to paracrystalin protoporphyrin deposition in hepatocytes and precipitation in the biliary canaliculiy. The percentage of patients who will develop liver disease is not established, nor specific factors that may influence its development. It is not possible to predict whether or not acute hepatic failure will occur. Studies have revealed that an increase in coproporphyrin urinary excretion, together with a change in isomer predominance from isomer III to isomer I, and increasing levels of protoporphyrinaemia may precede this complication [<xref ref-type="bibr" rid="B14">14</xref>].</p>
+        <p>Progression of protoporphyric hepatic deterioration leads to splenomegaly, splenic sequestration of erythrocytes with haemolysis (which increases erythropoiesis) and protoporphyrin generation ending in fulminant hepatic failure [<xref ref-type="bibr" rid="B13">13</xref>-<xref ref-type="bibr" rid="B15">15</xref>].</p>
+        <p>Patients who have <italic>FECH </italic>mutations on both alleles or a gain of function mutation of <italic>ALAS2 </italic>[<xref ref-type="bibr" rid="B3">3</xref>] have an increased risk of liver disease though together they account for only a small proportion of those with liver disease.</p>
+        <p>An unsual neurological syndrome has been described with progressive polyneuropathy, swallowing difficulties and respiratory distress in several patients with end-stage liver disease due to protoprophyria [<xref ref-type="bibr" rid="B16">16</xref>]. Oral mucosa or eye lesions in EPP patents have recently been reported for the first time by Tsuboi H <italic>et al</italic>. [<xref ref-type="bibr" rid="B17">17</xref>].</p>
+      </sec>
+      <sec>
+        <title>Pathological features of EPP</title>
+        <p>Cutaneous lesions result from the presence of protoporphyrin in erythrocytes and plasma in skin vasculature. Histologically, hyaline PAS-positive perivascular material deposits can be found together with extensive presence of fine fibrillar material, and reduplication of blood vessel walls and epidermal basal lamina. Although less prominent, these findings appear also in other cutaneous porphyrias (Fig <xref ref-type="fig" rid="F5">5</xref>).</p>
+        <fig position="float" id="F5">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>Cutaneous histological features of EPP with PAS positive material deposition around papilar blood-vessels and dermo-epidermal junction</bold>.</p>
+          </caption>
+          <graphic xlink:href="1750-1172-4-19-5"/>
+        </fig>
+        <p>Deposition of protoporphyrin in hepatocytes and in thrombi within the biliary canaliculi can be observed in the hepatic tissue. Characteristic pigment depositions are produced and under polarised light birefringent crystalline structures appear with the characteristic Maltese cross shape. Canaliculi may be dilatated and amorphous deposits within the lumen may be present [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+      </sec>
+      <sec>
+        <title>Biochemical and haematological alterations</title>
+        <p>Partial deficiency of FECH produces accumulation of free protoporphyrin IX. It can be detected in circulating red blood cells, in reticulocytes and in bone marrow erythroblasts. Red blood cells are therefore fluorescent under Wood's light. Protoporphyrin may also be detected in patients' plasma, that may also be fluorescent. Protoporphyrin is often excreted in stool and can be detected, but not in all patients. Urine is usually normal, except in cases with cholestasis and protoporphyrin hepatopathy. In this situation, an excess of urinary coproporphyrin isomer I can be demonstrated. FECH deficiency can be detected in different tissues with levels usually under 50% of normal (between 10 - 30%) to induce clinical manifestations [<xref ref-type="bibr" rid="B6">6</xref>].</p>
+        <p>Recently, families have been described in which EPP is inherited in an X-linked dominant pattern [<xref ref-type="bibr" rid="B3">3</xref>]. Patients with this disorder have normal FECH activities but higher erythrocyte total protoporphyrin concentrations than other types of EPP of which around 40% is zinc-protoporphyrin. This high proportion of zinc-protoporphyrin suggests that protoporphyrin accumulates because supply of both its metal substrates, Fe<sup>2+ </sup>and Zn<sup>2+</sup>, becomes rate-limiting. Additionally, the increase in erythrocyte zinc-protoporphyrin in combination with a marked increase in free protoporphyrin appears to be a distinguishing feature of this form of EPP [<xref ref-type="bibr" rid="B18">18</xref>,<xref ref-type="bibr" rid="B19">19</xref>].</p>
+        <p>Microcytic anaemia occurs in 20% to 60% of patients. Erythropoiesis was impaired in most patients with dominant EPP from UK and France [<xref ref-type="bibr" rid="B18">18</xref>,<xref ref-type="bibr" rid="B19">19</xref>]. All had a downward shift in haemoglobin (Hb), women were slightly more anaemic than men. Iron stores, assessed by serum ferritin (sFn), were decreased by two-thirds, but normal serum soluble transferrin receptor-1 and iron concentrations suggested that erythropoiesis was not limited by iron supply. FECH deficiency in EPP appears to lead to a steady state in which decreased erythropoiesis is matched by reduced iron absorption and supply. This response may in part be mediated by protoporphyrin [<xref ref-type="bibr" rid="B18">18</xref>].</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Aetiopathogenesis</title>
+      <p>EPP clinical manifestations are consequence of protoporphyrin accumulation in various tissues. The protoporphyrin molecule absorbs light radiation in a range of wavelengths from 320 to 595 nm. The absorption of these wavelengths increases the energy content of the protoporphyrin molecule (inducing a triplet state) and enables the excess energy to be transferred to oxygen, resulting in a reactive oxygen species that may interact with many biological molecules, such as proteins, lipids and DNA (photodynamic reactions) [<xref ref-type="bibr" rid="B20">20</xref>].</p>
+      <p>As protoporhyrin is a hydrophobic molecule, it tends to accumulate in cellular membranes. Upon irradiation with the specific wavelengths mentioned above, a photodynamic reaction takes place in tissues where protoporphyrin is present (skin, red blood cells in skin blood vessels) and cellular membranes are damaged because of membrane lipids peroxidation. Oxygen species generation may also injure tissues by complement activation and mast cell degranulation phenomena that explain the vasodilatation and oedema components of the skin photosensitivity reactions in EPP patients.</p>
+      <p>Histological examination of the skin upon sun exposure in EPP patients reveals the presence of inflammatory reaction arround dermal capillaries, with inflammatory infiltration. Subsequently, a repair reaction ensues with collagen synthesis. This process is produced repeatedly and manifests histologically by a deposition of PAS-positive material around skin blood vessels, which, on the other hand, show reduplication of capillary basal membranes [<xref ref-type="bibr" rid="B21">21</xref>].</p>
+      <p>Protoporphyrin is highly toxic, independently of the photosensitized reactions. Possible mechanisms underlying this hepatic toxicity have been described, but none of these hypotheses have been confirmed. The basic consequence is that the biliary system is exposed to high concentrations of protoporphyrin that saturate the excretion capacity. Deposits of protoporphyrin are formed and further reduce excretion capacity. Hepatic inflammation may appear with disordered tissue regeneration, hepatic fibrosis and cirrhosis associated with biliary disease [<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B21">21</xref>,<xref ref-type="bibr" rid="B22">22</xref>].</p>
+      <sec>
+        <title>Genetics</title>
+        <p>With only rare exceptions, EPP is an inherited disorder. Even after the identification of mutations in the <italic>FECH </italic>gene in EPP, the precise pattern of inheritance remained uncertain. The difference in FECH activity between clinically overt and latent individuals could not readily be explained by the prevailing view that inheritance was autosomal dominant with low clinical penetrance but was consistent with a three allele system. Recent genetic studies revealed different patterns of inheritance in EPP [<xref ref-type="bibr" rid="B23">23</xref>,<xref ref-type="bibr" rid="B24">24</xref>].</p>
+        <p>In most patients with EPP, a <italic>FECH </italic>mutation that markedly decreases or abolishes enzyme activity can be identified on only one allele [<xref ref-type="bibr" rid="B23">23</xref>,<xref ref-type="bibr" rid="B25">25</xref>-<xref ref-type="bibr" rid="B30">30</xref>]. The discovery that clinical expression of this type of EPP normally required a hypomorphic FECH IVS3-48C allele <italic>trans </italic>to the mutation was demonstrated in France [<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B31">31</xref>] and was independently confirmed by studies from Japan, North America, Sweden, Israel, South Africa, the United Kingdom [<xref ref-type="bibr" rid="B28">28</xref>,<xref ref-type="bibr" rid="B30">30</xref>-<xref ref-type="bibr" rid="B34">34</xref>].</p>
+        <p>The pattern of inheritance of photosensitivity has been well documented by Went and Klasen [<xref ref-type="bibr" rid="B4">4</xref>] who investigated 91 families from the Netherlands, most of whom were likely to have had this type of EPP. About half the cases were sporadic. When a family contained more than one patient, affected siblings were more common than parent to child transmission. The number of families with patients in more than one generation increases with the population prevalence, occurring in 15% of French and 51% of Japanese families. In contrast, EPP caused by FECH deficiency has not been reported in black South African families [<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B33">33</xref>].</p>
+        <p><italic>FECH </italic>mutations on both alleles are an uncommon cause of EPP. To date, twenty-one symptomatic patients from 17 families have been reported. In the UK and France, this type of EPP accounts for about 4% of EPP families. Reported FECH activities, either measured in lymphocytes or estimated from <italic>in vitro </italic>expression studies, are within the median range of 9%. Molecular analyses show that most of the patients are compound heterozygotes. In marked contrast to the type of EPP described above, missense mutations make up 85% of the total and null mutations are unusual [<xref ref-type="bibr" rid="B28">28</xref>,<xref ref-type="bibr" rid="B30">30</xref>-<xref ref-type="bibr" rid="B34">34</xref>].</p>
+        <p>The pattern of inheritance of photosensitivity in these families is characteristic of an autosomal recessive disorder. There is an increased incidence of consanguinity, only siblings are affected and both parents are clinically normal. This last feature may in part be explained by the chance absence of a hypomorphic allele <italic>trans </italic>to the mutation [<xref ref-type="bibr" rid="B35">35</xref>,<xref ref-type="bibr" rid="B36">36</xref>],</p>
+        <p>Acquired somatic FECH mutations have been identified in a small number of patients in whom EPP has developed after the age of 40 years in association with myelodysplasia or myeloproliferative disorder [<xref ref-type="bibr" rid="B10">10</xref>,<xref ref-type="bibr" rid="B37">37</xref>].</p>
+        <p>Patients in which EPP is inherited in an X-linked dominant pattern have normal FECH activities but higher erythrocyte total protoporphyrin concentrations than other types of EPP of which around 40% is zinc-protoporphyrin. Two frameshift mutations have been identified in 8 families that lead to predicted disruption or deletion of the 19-20 C-terminal amino-acids of ALAS2. Prokaryotic expression studies show that both mutations markedly increase ALAS2 activity. Thus the C-terminal region of ALAS2 appears to inhibit enzyme activity; its removal by mutation leads to gain of function whereas all other previously described mutations in <italic>ALAS2 </italic>decrease activity and cause hereditary sideroblastic anaemia.</p>
+        <p>Despite advances in techniques for mutation detection and the discovery of gain in function mutations of <italic>ALAS2 </italic>as a cause of EPP, in about 5% of EPP families no mutations in neither <italic>FECH </italic>or <italic>ALAS2 </italic>genes have been identified. Disease in these families is strongly associated with inheritance of the hypomorphic <italic>FECH </italic>IVS3-48C allele and decreased FECH activity which suggests that most may have mutations in regions of the <italic>FECH </italic>gene that are not included in current strategies for mutation detection.</p>
+      </sec>
+      <sec>
+        <title>Genotype/phenotype correlations</title>
+        <p>The cutaneous features of EPP, though varying in severity are remarkably uniform. No correlation between indices of severity of photosensitivity, such as age of onset or duration of symptoms, and genotype have yet been reported apart from the suggestion that the relatively common missense mutation, P334L, may cause only mild disease Apart from this instance, no correlation between erythrocyte protoporphyrin concentration and type of <italic>FECH </italic>mutation has been reported. Seasonal palmar keratoderma has to date been reported only in patients who are compound heterozygotes or homozygotes for <italic>FECH </italic>mutations [<xref ref-type="bibr" rid="B19">19</xref>,<xref ref-type="bibr" rid="B38">38</xref>].</p>
+        <p>A mainly literature-based study of 112 patients with a single <italic>FECH </italic>mutation, of whom 18 had severe liver disease, found that all patients with liver disease had a 'null' mutation (splicing defect, nonsense or frameshift) while none of the 20 patients with a missense mutation had liver disease; this difference was statistically significant [<xref ref-type="bibr" rid="B39">39</xref>]. Under-representation of missense mutations was also noted in a group of 15 patients with liver disease, all studied in the same laboratory, but comparison with a group without liver disease did not reach statistical significance [<xref ref-type="bibr" rid="B4">4</xref>,<xref ref-type="bibr" rid="B35">35</xref>]. Together these studies suggest that missense mutations that preserve significant amounts of residual activity may carry a lower risk of liver disease than 'null' mutations, a group that includes those misssense mutations that abolish FECH activity. However, 'null' mutations associated with liver disease are found more frequently in patients without liver disease; an observation that indicates the probable importance of genetic factors outside the <italic>FECH </italic>locus and acquired factors in the pathogenesis of protoporphyric liver disease [<xref ref-type="bibr" rid="B40">40</xref>].</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Diagnosis</title>
+      <p>Photosensitivity, with the characteristic painful inflammatory reaction without blistering, is the clinical basis for diagnosis of EPP. Screening by fluorescence microscopy for the presence of fluorescent erythrocytes - fluorocytes - in a fresh unstained blood smear may be the first step in confirmation of the EPP diagnosis. This step should be followed by the detection of a plasmatic fluorescence peak at 634 nm (630 - 635) and the demonstration of high free protoporphyrin levels in plasma and erythrocytes or a higher content and percentage of zinc-protoporphyrin in XLDPP patients. Presence of increased protoporphyrin in the stools may also be a useful diagnostic finding. These data confirm the diagnosis of EPP (Fig <xref ref-type="fig" rid="F6">6</xref>). In addition, the levels of FECH activity in selected tissues may be determined.</p>
+      <fig position="float" id="F6">
+        <label>Figure 6</label>
+        <caption>
+          <p><bold>EPP diagnosis</bold>.</p>
+        </caption>
+        <graphic xlink:href="1750-1172-4-19-6"/>
+      </fig>
+      <p>Hepatic function should be tested and abdominal ultrasonographic examination should be performed to detect cholelithiasis.</p>
+      <p>Screening for either <italic>FECH </italic>gene mutations and for the presence of the <italic>IVS3-48C </italic>hypomorphic <italic>FECH </italic>allele or <italic>ALAS2 </italic>gain of function mutations, together with studies of family members, may also be proposed. These data will be useful for genetic counselling [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+    </sec>
+    <sec>
+      <title>Differential diagnosis</title>
+      <p>Clinically, EPP should be differentiated from phototoxic drug reactions, hydroa vacciniforme, solar urticaria. Contact dermatitis and angioedema or even other types of curaneous porphyria could also be considered. Chronic lesions should be differentiated from lipoid proteinosis [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+      <p>Biochemically, excess protoporphyrin should be present in the form of free protoporphyrin. Elevated zinc chelated-protoporphyrin levels could indicate iron deficiency or lead poisoning but also now the X-linked EPP due to <italic>ALAS2 </italic>gain of function mutations. Elevated levels of zinc-protoprophyrin may be detected in homozygotes with other inherited forms of porphyria [<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B41">41</xref>].</p>
+    </sec>
+    <sec>
+      <title>Genetic counselling</title>
+      <p>In the classic EPP with <italic>FECH </italic>mutation on one allele and hypomorphic <italic>FECH IVS3-48C </italic>allele in <italic>trans </italic>position, the probability for the offspring of an EPP patient to present the disease is less than 1:40 (less than 2.5%). Hypomorphic <italic>FECH </italic>allele in the general population (Caucasians) has a prevalence of around 10% [<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B40">40</xref>]. Screening for the presence of the <italic>FECH IVS3-48C </italic>hypomorphic allele in the EPP patient's partner allows more accurate estimation of this probability.</p>
+      <p>During pregnancy, EPP is usually not a problem neither for the mother nor for the baby. With the exception of one recently published case, the reported cases of pregnancy in patients with EPP have revealed that symptoms of photosensitivity improve during pregnancy, with reduction of erythrocyte protoprophyrin levels [<xref ref-type="bibr" rid="B42">42</xref>].</p>
+    </sec>
+    <sec>
+      <title>Management</title>
+      <sec>
+        <title>Management of photosensitivity</title>
+        <p>Management of photosensitivity is an essential therapeutic measure. Avoidance of sun exposure, even through window glass (<italic>e.g</italic>. car driving), is the most practical way of preventing photosensitivity reactions in EPP patients. The use of adequate clothing (hats, glasses, gloves) and sunscreens is also advisable. Due to the fact that protection should cover both long-wave radiation plus visible light, physical sunscreens are more effective.</p>
+        <p>Management of photosensitivity reactions includes the use of: wet (cold) water compresses applied to the affected areas. Topical corticosteroids may be prescribed but are usually ineffective. Oral treatment, if required, may include non-steroidal anti-inflammatory drugs or oral corticosteroids.</p>
+        <p>Betacarotene has been used extensively, with the aim of improving light tolerance in EPP patients. Some benefit from its use has been experienced by patients. The following doses of betacarotene are recommended: up to 90-120 mg/day in children and up to 180-300 mg/day in adults. Recent studies, however, have suggested inverse associations between carotenoids and lung cancer mainly in smokers [<xref ref-type="bibr" rid="B43">43</xref>,<xref ref-type="bibr" rid="B44">44</xref>].</p>
+        <p>Other treatment approaches include the administration of Vitamin C and E, and cysteine (500 mg/twice daily), orally. Antihistamines may also be used as they may limit the phototoxic reaction.</p>
+        <p>Except for betacarotene, there is a lack of firm evidence proving the effectiveness of all these treatment approaches [<xref ref-type="bibr" rid="B45">45</xref>]. The duration of treatments directed to improve photosensitivity is related to the ratio risk/benefit obtained by patients individually. UVB/NBUVB phototherapy or PUVA may be used in order to induce tanning and improve the sunlight tolerance. The duration of the treatment is limited by the guidelines of phototherapy and depends also on the patient benefit obtained in reduction of photosensitivity [<xref ref-type="bibr" rid="B46">46</xref>].</p>
+        <p>Afamelanotide (an alpha-melanocyte-stimulating hormone analogue that induces epidermal melanin formation) has recently been shown to have beneficial effects in patients with EPP [<xref ref-type="bibr" rid="B47">47</xref>].</p>
+        <p>EPP patients may present photosensivity reactions during surgical procedures due to exposure to the theater lighting or other surgical light conducting devices in laparoscopy, endoscopy or dental procedures. In these cases, the application of yellow filters blocking the radiation under 460 nm offers the best protection in keeping with a level of normal acceptable visibility [<xref ref-type="bibr" rid="B48">48</xref>,<xref ref-type="bibr" rid="B49">49</xref>].</p>
+      </sec>
+      <sec>
+        <title>Reduction of protoporphyrin levels</title>
+        <p>Regarding the reduction of excess protoporhyrn in patients with EPP, two approaches can be considered:</p>
+        <p>a) Reduction of erythropoiesis. This may be achieved by exchange transfusion or hypertransfusion. It is not clear if haematin may temporarily supress erythropoiesis by modifying the activity of the rate-limiting first enzyme of the haem synthetic pathway, ALA synthase. However, this approach cannot be considered as a long-term treatment of the disease [<xref ref-type="bibr" rid="B50">50</xref>-<xref ref-type="bibr" rid="B52">52</xref>].</p>
+        <p>b) Cholestyramine (a bile sequestering agent) may be used to increase the elimination of the excess protoporphyrin through the biliary system. It binds the excess protoprophrin, enhancing its faecal elimination, reducing its plasma and red blood cell concentration, and preventing the protoporphyric hepatopathy. The suggested dose of cholestyramine is 4-16 g daily. Other similar drugs have been considered, such as chenodeoxycholic acid and ursodeoxycholic acid [<xref ref-type="bibr" rid="B53">53</xref>-<xref ref-type="bibr" rid="B55">55</xref>].</p>
+        <p>However these bile sequestering agents might have no or even adverse effect in a mouse model of EPP with progressive liver disease and should be therefore used with caution (JC Deybach and H Puy, personal communication).</p>
+      </sec>
+      <sec>
+        <title>Management of microcytic anaemia</title>
+        <p>Patients studied had a mild microcytic anaemia and thrombocytopenia, as shown by the downward shift of hematologic parameters, which positively correlated with the amount of erythrocyte PPIX. Interestingly, erythropoiesis did not seem to be limited by iron supply in patients, since serum iron and soluble transferrin (Tf) receptor (sTfR) were normal. Therefore oral iron supply is usually found ineffective in trying to correct the usual mild anaemia in EPP patients and is therefore not recommended. However intravenous iron supply or even blood transfusion should be considered in EPP with a more pronounced anaemia [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+      </sec>
+      <sec>
+        <title>Management of liver disease</title>
+        <p>Liver transplantation is the treatment for end-stage liver disease. It was used for the first time in an EPP patient in 1980 [<xref ref-type="bibr" rid="B55">55</xref>]. Progressive liver disease in EPP patients should be considered a medical emergency and, therefore, liver transplantation has ben indicated in patiens with EPP.</p>
+        <p>It is evident that liver transplantation does not alter the consequences of FECH deficiency and overproduction of proporhyrin. Therefore, the EPP patients continue to present with the typical symptoms and same risks. Bone marrow transplantation should be considered and, in fact, the ideal treatment should be sequential liver and bone marrow transplantation, which has already been performed with success [<xref ref-type="bibr" rid="B56">56</xref>,<xref ref-type="bibr" rid="B57">57</xref>].</p>
+        <p>As the experience with liver and bone marrow transplantations in EPP patients increases, rationale for patient selection, indication for transplantation and timing either for bone marrow, liver or sequential transplantations can be established. Knowledge concerning tolerance of the immunosuppressive therapy and long-term complications in EPP patients also needs to be gained. A proposal of guidelines to identify liver disease in EPP patients has been published by Anstey and Rift very recently [<xref ref-type="bibr" rid="B58">58</xref>]. Special attention should be devoted to EPP patients bearing <italic>FECH </italic>null mutations with recessive inherited disease, those belonging to families with more than one member with manifested disease or those with X linked protoporphyria.</p>
+        <p>Liver biopsy should be indicated in patients with null mutations or recessive inherited disease, patients from families with previous cases of EPP liver disease, and in individuals with EPP plus other risk factors for liver disease (such as hepatitis, haemochromatosis, alcoholic or non-alcoholic fatty liver disease, abnormal liver function tests). Special attention should also be given to patients with sudden worsening of photosensitivity, rising blood protoporphyrin levels, increasing urinary coproporphyrinuria isomer I and decreasing faecal protoprophyrin.</p>
+        <p>EPP patients should be monitored through a periodic non-invasive liver testing protocol that includes liver function tests, viral hepatitis serology, haemochromatosis tests and analysis for serum markers of hepatic fibrosis. Liver scanning for detection of gallstones, and computed tomography (CT) and magnetic resonance imaging (MRI) liver studies should also be included.</p>
+        <p>EPP patients should be vaccinated against hepatitis. They should avoid alcohol intake.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Prognosis</title>
+      <p>EPP is a lifelong disease whose prognosis depends on the evolution of the hepatic disease that may lead to potentially fatal liver failure. Regarding life quality aspects, only one study has addressed this question in porphyric patients and, specifically, in EPP patients. It has been concluded that photosensitivity may significantly modify the life style of EPP patients, with a marked impact on the quality of life and with scores that appear higher in EPP patients as compared to those for other skin diseases considered as severe [<xref ref-type="bibr" rid="B6">6</xref>].</p>
+    </sec>
+    <sec>
+      <title>Abbreviations</title>
+      <p>EPP: erythropoietic protoporphyria; FECH: ferrohaemprotolyase; ALAS: aminolevulinic acid synthase; XLDPP: X-linked dominant protoporphyria; ALA: aminolevulinic acid; Hb: haemoglobin; SFn: serum ferritin; Tf: transferrin; STfR: soluble transferrin receptor; CT: computing tomography; MRI: magnetic resonance imaging</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>ML wrote the first draft of the manuscript; all authors revised the manuscript and approved the final version.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>We thank Pr Laurent Gouya (Paris, France) Pr George Elder and Pr Mike Badminton (Cardiff, UK) for helpful discussion and contribution to the manuscript.</p>
+      </sec>
+    </ack>
+    <ref-list>
+      <ref id="B1">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Magnus</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Jarret</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Prankerd</surname>
+              <given-names>TAJ</given-names>
+            </name>
+            <name>
+              <surname>Rimington</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoietic protoporphyria: a new porphyria syndrome with solar urticaria due to protoporphyrinæmia</article-title>
+          <source>Lancet</source>
+          <year>1961</year>
+          <volume>278</volume>
+          <fpage>574</fpage>
+          <lpage>581</lpage>
+        </citation>
+      </ref>
+      <ref id="B2">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cox</surname>
+              <given-names>TM</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Kadish KM, Smith KM, Guilard R</surname>
+            </name>
+          </person-group>
+          <article-title>Protoporpnhyria</article-title>
+          <source>The Porphyrin Handbook Medical Aspects of Poprhyrias, Chap 90</source>
+          <year>2003</year>
+          <volume>14</volume>
+          <publisher-name>Academic Press. San Diego</publisher-name>
+          <fpage>121</fpage>
+          <lpage>149</lpage>
+        </citation>
+      </ref>
+      <ref id="B3">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whatley</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Ducamp</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gouya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Grandchamp</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Beaumont</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Badminton</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Holme</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Anstey</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Corrigall</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Meissner</surname>
+              <given-names>PN</given-names>
+            </name>
+            <name>
+              <surname>Hift</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Marsden</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Mieli-Vergani</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Deybach</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Puy</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>C-terminal deletions in the ALAS2 gene lead to gain of function and cause X-linked dominant protoporphyria without anemia or iron overload</article-title>
+          <source>Am J Hum Genet</source>
+          <year>2008</year>
+          <volume>83</volume>
+          <fpage>408</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="pmid">18760763</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.ajhg.2008.08.003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Went</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Klasen</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic aspects of erythropoietic protoporphyria</article-title>
+          <source>Ann Hum Genet</source>
+          <year>1984</year>
+          <volume>48</volume>
+          <fpage>105</fpage>
+          <lpage>117</lpage>
+          <pub-id pub-id-type="pmid">6742776</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1469-1809.1984.tb01006.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Smyth</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Laboratory investigation of the porphyrias</article-title>
+          <source>Ann Clin Biochem</source>
+          <year>1990</year>
+          <volume>27</volume>
+          <fpage>395</fpage>
+          <lpage>412</lpage>
+          <pub-id pub-id-type="pmid">2281921</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holme</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Anstey</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Finlay</surname>
+              <given-names>AY</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Badminton</surname>
+              <given-names>MN</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoietic protoporphyria in the U.K.: clinical features and effect on quality of life</article-title>
+          <source>Br J Dermatol</source>
+          <year>2006</year>
+          <volume>155</volume>
+          <fpage>574</fpage>
+          <lpage>581</lpage>
+          <pub-id pub-id-type="pmid">16911284</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.2006.07472.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thunell</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Harper</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Brun</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Porphyrins, porphyrin metabolism and porphyrias. IV. Pathophysiology of erythyropoietic protoporphyria--diagnosis, care and monitoring of the patient</article-title>
+          <source>Scand J Clin Lab Invest</source>
+          <year>2000</year>
+          <volume>60</volume>
+          <fpage>581</fpage>
+          <lpage>604</lpage>
+          <pub-id pub-id-type="pmid">11202051</pub-id>
+          <pub-id pub-id-type="doi">10.1080/003655100448310</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bharati</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Badminton</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Whatley</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>O'Brian</surname>
+              <given-names>DV</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>HK</given-names>
+            </name>
+          </person-group>
+          <article-title>Late-onset erythropoietic protoporphyria in association with haematological malignancy</article-title>
+          <source>Clin Exper Dermatol</source>
+          <year>2006</year>
+          <volume>31</volume>
+          <fpage>668</fpage>
+          <lpage>670</lpage>
+          <pub-id pub-id-type="pmid">16901306</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2230.2006.02179.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berroeta</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Man</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Goudie</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Whatley</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Ibbotson</surname>
+              <given-names>SH</given-names>
+            </name>
+          </person-group>
+          <article-title>Late presentation of erythropoietic protoporphyria: case report and genetic analysis of familiy members</article-title>
+          <source>Br J Dermatol</source>
+          <year>2007</year>
+          <volume>157</volume>
+          <fpage>1030</fpage>
+          <lpage>1031</lpage>
+          <pub-id pub-id-type="pmid">17711525</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.2007.08117.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goodwin</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Kell</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Laidler</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Long</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Whatley</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>McKinley</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Badminton</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Burnett</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>GT</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>Photosensitivity and acute liver injury in myeloproliferative disorder secondary to late-onset protoporphyria caused by deletion of a ferrochelatase gene in hematopoietic cells</article-title>
+          <source>Blood</source>
+          <year>2006</year>
+          <volume>107</volume>
+          <fpage>60</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="pmid">16150949</pub-id>
+          <pub-id pub-id-type="doi">10.1182/blood-2004-12-4939</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holme</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Whatley</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Anstey</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Ead</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Farr</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Ackroyd</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Badminton</surname>
+              <given-names>MN</given-names>
+            </name>
+          </person-group>
+          <article-title>Seasonal palmar keratoderma in erythropoietic protoporphyria indicates autosomal recessive inheritance</article-title>
+          <source>J Invest Dermatol</source>
+          <year>2009</year>
+          <volume>129</volume>
+          <fpage>599</fpage>
+          <lpage>605</lpage>
+          <pub-id pub-id-type="pmid">18787536</pub-id>
+          <pub-id pub-id-type="doi">10.1038/jid.2008.272</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meerman</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropietic protoporphyria: an overview with emphasis on the liver</article-title>
+          <source>Scan J Gastroenterol</source>
+          <year>2000</year>
+          <volume>35</volume>
+          <fpage>79</fpage>
+          <lpage>85</lpage>
+        </citation>
+      </ref>
+      <ref id="B13">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bruguera</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Herrero</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>[Liver disease in erythropoietic protoporphyria]</article-title>
+          <source>Gastroenterol Hepatol</source>
+          <year>2005</year>
+          <volume>28</volume>
+          <fpage>632</fpage>
+          <lpage>636</lpage>
+          <pub-id pub-id-type="pmid">16373015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Todd</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoietic protoporphyria</article-title>
+          <source>Br J Dermtol</source>
+          <year>1994</year>
+          <volume>131</volume>
+          <fpage>751</fpage>
+          <lpage>756</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.1994.tb08577.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonkovsky</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Schned</surname>
+              <given-names>AR</given-names>
+            </name>
+          </person-group>
+          <article-title>Fatal liver failure in protoporphyria. Synergism between ethanol excess and the genetic defect</article-title>
+          <source>Gastroenterology</source>
+          <year>1986</year>
+          <volume>90</volume>
+          <fpage>191</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">3940245</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muley</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Midani</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Rank</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Carithrs</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Parry</surname>
+              <given-names>GJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Neuropathy in erythropoietic protoprophyrias</article-title>
+          <source>Neurology</source>
+          <year>1998</year>
+          <volume>51</volume>
+          <fpage>262</fpage>
+          <lpage>265</lpage>
+          <pub-id pub-id-type="pmid">9674816</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsuboi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yonemoto</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Katsuoka</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoietic protoporphyria with eye complications</article-title>
+          <source>J Dermatol</source>
+          <year>2007</year>
+          <volume>34</volume>
+          <fpage>790</fpage>
+          <lpage>794</lpage>
+          <pub-id pub-id-type="pmid">17973823</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1346-8138.2007.00386.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Delaby</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lyoumi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ducamp</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Martin-Schmitt</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gouya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Deybach</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Beaumont</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Puy</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Excessive erythrocyte ppix influences the hematologic status and iron metabolism in patients with dominant erythropoietic protoporphyria</article-title>
+          <source>Cell Mol Biol (Noisy-le-grand)</source>
+          <year>2009</year>
+          <volume>55</volume>
+          <fpage>45</fpage>
+          <lpage>52</lpage>
+          <pub-id pub-id-type="pmid">19268001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holme</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Worwood</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Anstey</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Badminton</surname>
+              <given-names>MN</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoiesis and iron metabolism in dominant erythropoietic protoporphyria</article-title>
+          <source>Blood</source>
+          <year>2007</year>
+          <volume>110</volume>
+          <fpage>4108</fpage>
+          <lpage>4110</lpage>
+          <pub-id pub-id-type="pmid">17804693</pub-id>
+          <pub-id pub-id-type="doi">10.1182/blood-2007-04-088120</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lim</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathophysiology of cutaneous lesions in porphyrias</article-title>
+          <source>Semin Hematol</source>
+          <year>1989</year>
+          <volume>26</volume>
+          <fpage>114</fpage>
+          <lpage>119</lpage>
+          <pub-id pub-id-type="pmid">2658087</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poh-Fitzpatrick</surname>
+              <given-names>MB</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathogenesis and treatment of photocutaneous manifestations of the porphyrias</article-title>
+          <source>Semin Liver Dis</source>
+          <year>1982</year>
+          <volume>2</volume>
+          <fpage>164</fpage>
+          <lpage>176</lpage>
+          <pub-id pub-id-type="pmid">6753166</pub-id>
+          <pub-id pub-id-type="doi">10.1055/s-2008-1040706</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knobler</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Poh-Fitzpatrick</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Kravetz</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Vincent</surname>
+              <given-names>WR</given-names>
+            </name>
+            <name>
+              <surname>Muller-Eberhard</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Vincent</surname>
+              <given-names>SH</given-names>
+            </name>
+          </person-group>
+          <article-title>Interaction of hemopexin, albumin and liver fatty acid-binding protein with protoporphyrin</article-title>
+          <source>Hepatology</source>
+          <year>1989</year>
+          <volume>10</volume>
+          <fpage>995</fpage>
+          <lpage>997</lpage>
+          <pub-id pub-id-type="pmid">2583692</pub-id>
+          <pub-id pub-id-type="doi">10.1002/hep.1840100617</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rüfenacht</surname>
+              <given-names>UB</given-names>
+            </name>
+            <name>
+              <surname>Gouya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Schneider-Yin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Puy</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Schäfer</surname>
+              <given-names>BW</given-names>
+            </name>
+            <name>
+              <surname>Aquaron</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Nordmann</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Minder</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Deybach</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic analysis of molecular defects in the ferrochelatase gene from patients with erythropoietic protoporphyria</article-title>
+          <source>Am J Hum Genet</source>
+          <year>1998</year>
+          <volume>62</volume>
+          <fpage>1341</fpage>
+          <lpage>52</lpage>
+          <pub-id pub-id-type="pmid">9585598</pub-id>
+          <pub-id pub-id-type="doi">10.1086/301870</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nordmann</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Deybach</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Dailey HA</surname>
+            </name>
+          </person-group>
+          <article-title>Human hereditary porphyrias</article-title>
+          <source>Biosynthesis of heme and chlorophylls</source>
+          <year>1990</year>
+          <publisher-name>McGraw-Hill: New York</publisher-name>
+          <fpage>491</fpage>
+          <lpage>542</lpage>
+        </citation>
+      </ref>
+      <ref id="B25">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aurizi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Schneider-Yin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Sorge</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Macrì</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Minder</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Biolcati</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterogeneity of mutations in the ferrochelatase gene in Italian patients with erythropoietic protoporphyria</article-title>
+          <source>Mol Genet Metab</source>
+          <year>2007</year>
+          <volume>90</volume>
+          <fpage>402</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">17196862</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.ymgme.2006.10.012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gouya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Martin-Schmitt</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Robreau</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Austerlitz</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Da Silva</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Brun</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Simonin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lyoumi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Grandchamp</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Beaumont</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Puy</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Deybach</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Contribution of a single-nucleotide polymorphism to the genetic predisposition for erythropoietic protoporphyria</article-title>
+          <source>Am J Hum Genet</source>
+          <year>2006</year>
+          <volume>78</volume>
+          <fpage>2</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="pmid">16385445</pub-id>
+          <pub-id pub-id-type="doi">10.1086/498620</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herrero</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>To-Figueras</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Badenas</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Méndez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Serrano</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Enríquez-Salamanca</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lecha</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical, biochemical, and genetic study of 11 patients with erythropoietic protoporphyria including one with homozygous disease</article-title>
+          <source>Arch Dermatol</source>
+          <year>2007</year>
+          <volume>143</volume>
+          <fpage>1125</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">17875872</pub-id>
+          <pub-id pub-id-type="doi">10.1001/archderm.143.9.1125</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Risheg</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>FP</given-names>
+            </name>
+            <name>
+              <surname>Bloomer</surname>
+              <given-names>JR</given-names>
+            </name>
+          </person-group>
+          <article-title>Genotype determinants of phenotype in North American patients with erythropoietic protoporphyria</article-title>
+          <source>Mol Genet Metab</source>
+          <year>2003</year>
+          <volume>80</volume>
+          <fpage>196</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="pmid">14567969</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.ymgme.2003.07.001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saruwatari</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ueki</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yotsumoto</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Shimada</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Fukumaru</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kanekura</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kanzaki</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic analysis of the ferrochelatase gene in eight Japanese patients from seven families with erythropoietic protoporphyria</article-title>
+          <source>J Dermatol</source>
+          <year>2006</year>
+          <volume>33</volume>
+          <fpage>603</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">16958804</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1346-8138.2006.00140.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wiman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Floderus</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Harper</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel mutations and phenotypic effect of the splice site modulator IVS3-48C in nine Swedish families with erythropoietic protoporphyria</article-title>
+          <source>J Hum Genet</source>
+          <year>2003</year>
+          <volume>48</volume>
+          <fpage>70</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">12601550</pub-id>
+          <pub-id pub-id-type="doi">10.1007/s100380300009</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whatley</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Mason</surname>
+              <given-names>NG</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zamiri</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Badminton</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Missaoui</surname>
+              <given-names>WN</given-names>
+            </name>
+            <name>
+              <surname>Dailey</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Dailey</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Douglas</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Wainwright</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Elder</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>Autosomal recessive erythropoietic protoporphyria in the United Kingdom: prevalence and relationship to liver disease</article-title>
+          <source>J Med Genet</source>
+          <year>2004</year>
+          <volume>41</volume>
+          <fpage>e105</fpage>
+          <pub-id pub-id-type="pmid">15286165</pub-id>
+          <pub-id pub-id-type="doi">10.1136/jmg.2003.016121</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nakano</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Nakano</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Toyomaki</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Ohashi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Moritsugu</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Takeda</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kawada</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mitsuhashi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hanada</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel ferrochelatase mutations in Japanese patients with erythropoietic protoporphyria: high frequency of the splice site modulator IVS3-48C polymorphism in the Japanese population</article-title>
+          <source>J Invest Dermatol</source>
+          <year>2006</year>
+          <volume>126</volume>
+          <fpage>2717</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">16794582</pub-id>
+          <pub-id pub-id-type="doi">10.1038/sj.jid.5700456</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Corrigall</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Hift</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Meissner</surname>
+              <given-names>PN</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular characterisation of erythropoietic protoporphyria in South Africa</article-title>
+          <source>Br J Dermatol</source>
+          <year>2008</year>
+          <volume>159</volume>
+          <fpage>182</fpage>
+          <lpage>191</lpage>
+          <pub-id pub-id-type="pmid">18460026</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.2008.08580.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schneider-Yin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Mamet</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Minder</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Schoenfeld</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Biochemical and molecular diagnosis of erythropoietic protoporphyria in an Ashkenazi Jewish family</article-title>
+          <source>J Inherit Metab Dis</source>
+          <year>2008</year>
+          <comment/>
+          <pub-id pub-id-type="pmid">18758989</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>F-P</given-names>
+            </name>
+            <name>
+              <surname>Risheg</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Bloomer</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Ferrochelatase gene mutations in erythropoietic protoporphyria: focus on liver disease</article-title>
+          <source>Cell Mol Biol</source>
+          <year>2002</year>
+          <volume>48</volume>
+          <fpage>83</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">11929052</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bloomer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Singhal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Risheg</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular studies of liver disease in erythropoietic protoporphyria</article-title>
+          <source>J Clin Gastroenterol</source>
+          <year>2005</year>
+          <volume>39</volume>
+          <fpage>167</fpage>
+          <lpage>175</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.mcg.0000155518.96629.ea</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarkany</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Willis</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Acquired erythropoietic protoporphyria as a result of myelodysplasia causing loss of chromosome 18</article-title>
+          <source>Br J Dermatol</source>
+          <year>2006</year>
+          <volume>155</volume>
+          <fpage>464</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">16882191</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.2006.07318.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Méndez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Poblete-Gutiérrez</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Morán-Jiménez</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Rodriguez</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Garrido-Astray</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Fontanellas</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Frank</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>de Salamanca</surname>
+              <given-names>RE</given-names>
+            </name>
+          </person-group>
+          <article-title>A homozygous mutation in the ferrochelatase gene underlies erythropoietic protoporphyria associated with palmar keratoderma</article-title>
+          <source>Br J Dermatol</source>
+          <year>2009</year>
+          <volume>160</volume>
+          <fpage>1330</fpage>
+          <lpage>4</lpage>
+          <comment>Epub 2009 Mar 9.</comment>
+          <pub-id pub-id-type="pmid">19298273</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.2009.09084.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Minder</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Gouya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Schneider-Yin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Deybach</surname>
+              <given-names>J-C</given-names>
+            </name>
+          </person-group>
+          <article-title>A genotype-phenotype correlation between null allele mutations in the ferrochelatase gene and liver complication in patients with erythropoietic protoporphyria</article-title>
+          <source>Cell Mol Biol</source>
+          <year>2002</year>
+          <volume>48</volume>
+          <fpage>91</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">11929053</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gouya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Puy</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Robreau</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Bourgeois</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lamoril</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Da Silva</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Grandchamp</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Deybach</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>The penetrance of dominant erythropoietic protoporphyria is modulated by expression of wildtype FECH</article-title>
+          <source>Nature Genetics</source>
+          <year>2006</year>
+          <volume>30</volume>
+          <fpage>27</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="pmid">11753383</pub-id>
+          <pub-id pub-id-type="doi">10.1038/ng809</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarkany</surname>
+              <given-names>RPE</given-names>
+            </name>
+            <name>
+              <surname>Breathnach</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Seymour</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Weismann</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Burns</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Burns T, Breathnach S, Cox N, Griffiths C</surname>
+            </name>
+          </person-group>
+          <article-title>The cutaneous Porphyrias</article-title>
+          <source>Textbook of Dermatology</source>
+          <year>2004</year>
+          <volume>3</volume>
+          <edition>7</edition>
+          <publisher-name>Oxford, Blackwell Publishing</publisher-name>
+          <fpage>57</fpage>
+          <comment>20.</comment>
+        </citation>
+      </ref>
+      <ref id="B42">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poh-Fitzpatrick</surname>
+              <given-names>MB</given-names>
+            </name>
+          </person-group>
+          <article-title>Human protoporphyria: reduced cutaneous photosensitivity and lower erythrocyte porphyrin levels during pregnancy</article-title>
+          <source>J Am Acad Dermatol</source>
+          <year>1997</year>
+          <volume>36</volume>
+          <fpage>40</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">8996259</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0190-9622(97)70323-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gallicchio</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Boyd</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Matanoski</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tao</surname>
+              <given-names>XG</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Lam</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Shiels</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hammond</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Caulfield</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Herman</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Guallar</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Alberg</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Carotenoids and the risk of developing lung cancer: a systematic review</article-title>
+          <source>Am J Clin Nutr</source>
+          <year>2008</year>
+          <volume>88</volume>
+          <fpage>372</fpage>
+          <lpage>83</lpage>
+          <pub-id pub-id-type="pmid">18689373</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al-Wadei</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Schuller</surname>
+              <given-names>HM</given-names>
+            </name>
+          </person-group>
+          <article-title>Beta-Carotene promotes the development of NNK-induced small airway-derived lung adenocarcinoma</article-title>
+          <source>Eur J Cancer</source>
+          <year>2009</year>
+          <volume>45</volume>
+          <fpage>1257</fpage>
+          <lpage>64</lpage>
+          <comment>Epub 2009 Feb 28.</comment>
+          <pub-id pub-id-type="pmid">19254833</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.ejca.2008.10.035</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corbett</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Herxheimer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Magnus</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Ramsay</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Kobza-Black</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>The long-term treatment with betacarotene in erythropoietic protoporphyria: a controlled trial</article-title>
+          <source>Br J Dermatol</source>
+          <year>1977</year>
+          <volume>97</volume>
+          <fpage>655</fpage>
+          <lpage>662</lpage>
+          <pub-id pub-id-type="pmid">341955</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.1977.tb14273.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Warren</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>George</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoietic protoporphyria treated with narrow-band (TL-01) UVB phototherapy</article-title>
+          <source>Australas J Dermatol</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>179</fpage>
+          <lpage>182</lpage>
+          <pub-id pub-id-type="pmid">9737047</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1440-0960.1998.tb01278.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harms</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lautenschlager</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Minder</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Minder</surname>
+              <given-names>EI</given-names>
+            </name>
+          </person-group>
+          <article-title>An alpha-melanocyte-stimulating hormone analogue in erythropoietic protoporphyria</article-title>
+          <source>N Engl J Med</source>
+          <year>2009</year>
+          <volume>360</volume>
+          <fpage>306</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">19144952</pub-id>
+          <pub-id pub-id-type="doi">10.1056/NEJMc0805682</pub-id>
+        </citation>
+      </ref>
+      <ref id="B48">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meerman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Verwer</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Schoff</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Perioperative measures durin Liver Transplantation fo Erythropoietic Protoporphyria</article-title>
+          <source>Transplantation</source>
+          <year>1994</year>
+          <volume>57</volume>
+          <fpage>155</fpage>
+          <lpage>158</lpage>
+          <pub-id pub-id-type="pmid">8291103</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49">
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wahlin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Harper</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Brun</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Protection from phototoxic injury in Erythropoietic Protoporphyria</article-title>
+          <source>Proceedings Porphyrins and Porphyrias Rotterdam</source>
+          <year>2007</year>
+          <fpage>51</fpage>
+          <comment>Abstract S07-3</comment>
+        </citation>
+      </ref>
+      <ref id="B50">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dobozy</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Csató</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Siklósi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Simon</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Transfusion therapy for erythropoietic protoporphyria</article-title>
+          <source>Br J Dermatol</source>
+          <year>1983</year>
+          <volume>109</volume>
+          <fpage>571</fpage>
+          <lpage>576</lpage>
+          <pub-id pub-id-type="pmid">6639879</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2133.1983.tb07681.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dellon</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Szczepiorkowski</surname>
+              <given-names>ZM</given-names>
+            </name>
+            <name>
+              <surname>Dzik</surname>
+              <given-names>WH</given-names>
+            </name>
+            <name>
+              <surname>Graeme-Cook</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ades</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bloomer</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Cosimi</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>RT</given-names>
+            </name>
+          </person-group>
+          <article-title>Treatment of recurrent allograft dysfunction with intravenous hematin after liver transplantation for erythropoietic protoporphyria</article-title>
+          <source>Transplantation</source>
+          <year>2002</year>
+          <volume>73</volume>
+          <fpage>911</fpage>
+          <lpage>9152</lpage>
+          <pub-id pub-id-type="pmid">11923691</pub-id>
+          <pub-id pub-id-type="doi">10.1097/00007890-200203270-00014</pub-id>
+        </citation>
+      </ref>
+      <ref id="B52">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wahlin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Aschan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Björnstedt</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Broome</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Harper</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Curative bone marrow transplantation in erythropoietic protoporphyria after reversal of severe cholestasis</article-title>
+          <source>J Hepatol</source>
+          <year>2007</year>
+          <volume>46</volume>
+          <fpage>174</fpage>
+          <pub-id pub-id-type="pmid">17112627</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.jhep.2006.10.004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B53">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frank</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Doss</surname>
+              <given-names>MO</given-names>
+            </name>
+          </person-group>
+          <article-title>Liver and liver cirrhosis in protoporphyria: bile acid therapy</article-title>
+          <source>Gastroenterology</source>
+          <year>1995</year>
+          <volume>33</volume>
+          <fpage>399</fpage>
+          <lpage>403</lpage>
+        </citation>
+      </ref>
+      <ref id="B54">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCullough</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Barron</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mullen</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Petrelli</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Mukhtar</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bickers</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>Fecal protoporphyrin excretion in erythropoietic protoporphyria: effect of cholestyramine and bile acid feeding</article-title>
+          <source>Gastroenterology</source>
+          <year>1988</year>
+          <volume>94</volume>
+          <fpage>177</fpage>
+          <lpage>181</lpage>
+          <pub-id pub-id-type="pmid">3335288</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wells</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Golitz</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>BJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Erythropoietic protoporphyria with hepatic cirrhosis</article-title>
+          <source>Arch Dermatol</source>
+          <year>1980</year>
+          <volume>116</volume>
+          <fpage>29432</fpage>
+          <pub-id pub-id-type="doi">10.1001/archderm.116.4.429</pub-id>
+        </citation>
+      </ref>
+      <ref id="B56">
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Metselaar</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term results of liver transpantation for protoporphyria</article-title>
+          <source>Proceedings Porphyrins and Porphyrias Rotterdam</source>
+          <year>2007</year>
+          <fpage>50</fpage>
+          <comment>Abstract S07-2</comment>
+        </citation>
+      </ref>
+      <ref id="B57">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rand</surname>
+              <given-names>EBm</given-names>
+            </name>
+            <name>
+              <surname>Bunin</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Cochran</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Ruchelli</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Olthoff</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Bloomer</surname>
+              <given-names>JR</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequential liver and bone marrow transplantation for tretment of erythropoietic protopor'hyria</article-title>
+          <source>Pediatrics</source>
+          <year>2006</year>
+          <volume>118</volume>
+          <fpage>e1896</fpage>
+          <lpage>1899</lpage>
+          <pub-id pub-id-type="pmid">17074841</pub-id>
+          <pub-id pub-id-type="doi">10.1542/peds.2006-0833</pub-id>
+        </citation>
+      </ref>
+      <ref id="B58">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anstey</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Hift</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Liver disease in erythropoietic protoporphyria: insights and implications for management</article-title>
+          <source>Gut</source>
+          <year>2007</year>
+          <volume>56</volume>
+          <fpage>1009</fpage>
+          <lpage>1018</lpage>
+          <pub-id pub-id-type="pmid">17360790</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

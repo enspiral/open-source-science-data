@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:32:07Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2604891" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2604891</identifier><datestamp>2008-12-18</datestamp><setSpec>bmcneus</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Neurosci</journal-id>
+      <journal-title>BMC Neuroscience</journal-title>
+      <issn pub-type="epub">1471-2202</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2604891</article-id>
+      <article-id pub-id-type="pmid">19090995</article-id>
+      <article-id pub-id-type="publisher-id">1471-2202-9-S2-S7</article-id>
+      <article-id pub-id-type="doi">10.1186/1471-2202-9-S2-S7</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Heat shock protein 90: translation from cancer to Alzheimer's disease treatment?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="A1" contrib-type="author">
+          <name>
+            <surname>Luo</surname>
+            <given-names>Wenjie</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>luow@rockefeller.edu</email>
+        </contrib>
+        <contrib id="A2" contrib-type="author">
+          <name>
+            <surname>Rodina</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>rodinaa@mskcc.org</email>
+        </contrib>
+        <contrib id="A3" corresp="yes" contrib-type="author">
+          <name>
+            <surname>Chiosis</surname>
+            <given-names>Gabriela</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>chiosisg@mskcc.org</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Laboratory of Molecular and Cellular Neuroscience, The Rockefeller University and Fisher Foundation for Alzheimer's Disease, New York, NY 10021, USA</aff>
+      <aff id="I2"><label>2</label>Department of Medicine and Program in Molecular Pharmacology and Chemistry, Memorial Sloan-Kettering Cancer Center, New York, NY 10021, USA</aff>
+      <pub-date pub-type="collection">
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>3</day>
+        <month>12</month>
+        <year>2008</year>
+      </pub-date>
+      <volume>9</volume>
+      <issue>Suppl 2</issue>
+      <supplement>
+        <named-content content-type="supplement-title">Proceedings of the 8<sup>th </sup>International Conference on Alzheimer's Disease Drug Discovery</named-content>
+        <named-content content-type="supplement-editor">Howard Fillit</named-content>
+        <named-content content-type="supplement-sponsor">The publication of this supplement was made possible by the generous support of the conference sponsors: Forest Laboratories, Inc.; Bellus Health Inc.; Elan Pharmaceuticals, Inc.; Eli Lilly and Company; Esai, Inc., Ortho-McNeil Neurologics, Inc.; Sanofi-Aventis US, Inc.; Schering-Plough; Accera, Inc.; Acumen Pharmaceuticals, Inc.; Pfizer Inc.; and Wyeth Research.</named-content>
+        <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/content/pdf/1471-2202-9-S2-info.pdf">http://www.biomedcentral.com/content/pdf/1471-2202-9-S2-info.pdf</ext-link>
+      </supplement>
+      <fpage>S7</fpage>
+      <lpage>S7</lpage>
+      <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2202/9/S2/S7"/>
+      <permissions>
+        <copyright-statement>Copyright © 2008 Luo et al; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2008</copyright-year>
+        <copyright-holder>Luo et al; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <p>This is an open access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0"/>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p>
+          <!--<rdf xmlns="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dcterms="http://purl.org/dc/terms"><Work xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by/2.0"/><dc:type rdf:resource="http://purl.org/dc/dcmitype/Text"/><dc:author>
+               Luo
+               Wenjie
+               
+               luow@rockefeller.edu
+            </dc:author><dc:title>
+            Heat shock protein 90: translation from cancer to Alzheimer's disease treatment?
+         </dc:title><dc:date>2008</dc:date><dcterms:bibliographicCitation>BMC Neuroscience 9(Suppl 2): S7-. (2008)</dcterms:bibliographicCitation><dc:identifier type="sici">1471-2202(2008)9:Suppl 2&#x0003c;S7&#x0003e;</dc:identifier><dcterms:isPartOf>urn:ISSN:1471-2202</dcterms:isPartOf><License rdf:about="http://creativecommons.org/licenses/by/2.0"><permits rdf:resource="http://web.resource.org/cc/Reproduction" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/Distribution" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Notice" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Attribution" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" xmlns=""/></License></Work></rdf>-->
+        </license>
+      </permissions>
+      <abstract>
+        <p>Both malignant transformation and neurodegeneration, as it occurs in Alzheimer's disease, are complex and lengthy multistep processes characterized by abnormal expression, post-translational modification, and processing of certain proteins. To maintain and allow the accumulation of these dysregulated processes, and to facilitate the step-wise evolution of the disease phenotype, cells must co-opt a compensatory regulatory mechanism. In cancer, this role has been attributed to heat shock protein 90 (Hsp90), a molecular chaperone that maintains the functional conformation of multiple proteins involved in cell-specific oncogenic processes. In this sense, at the phenotypic level, Hsp90 appears to serve as a biochemical buffer for the numerous cancer-specific lesions that are characteristic of diverse tumors. The current review proposes a similar role for Hsp90 in neurodegeneration. It will present experimentally demonstrated, but also hypothetical, roles that suggest Hsp90 can act as a regulator of pathogenic changes that lead to the neurodegenerative phenotype in Alzheimer's disease.</p>
+      </abstract>
+      <conference>
+        <conf-date>15–16 October 2007</conf-date>
+        <conf-name>8<sup>th </sup>International Conference on Alzheimer's Disease Drug Discovery</conf-name>
+        <conf-loc>New York, NY, USA</conf-loc>
+      </conference>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>Neurodegenerative diseases, including Alzheimer's disease (AD), are characterized by the progressive dysfunction of normal physiological cellular events. Whereas the outcome of pathogenic changes in the brain is manifested in a complex set of hallmarks that are different when compared to cancer, the passage into neurodegenerative disease has many similarities to malignant transformation. In this review, we will present recent findings suggesting that heat shock protein 90 (Hsp90) may play a role in maintaining pathogenic changes that lead to neurodegenerative diseases. We will also speculate on yet unexplored putative roles of this chaperone in the particular case of AD.</p>
+    </sec>
+    <sec>
+      <title>Cancer and Hsp90</title>
+      <p>Transformation of normal cells into malignant cells is a multistep process requiring the accumulation of a number of genetic alterations influencing key regulatory processes. In this regard, many types of cancers are diagnosed in the human population with an age-dependent incidence that implicates several events that take the cell from premalignant states into invasive cancers [<xref ref-type="bibr" rid="B1">1</xref>]. Dysregulations may occur in a multitude of pathways and be evidenced through protein mutation, misexpression, or misproccessing, leading to altered functions that confer a pathogenic cell phenotype. While at the cellular level these dysregulations are advantageous in cancer, and may lead to increased survival, at the molecular level, these changes take place at a cost to local energetic stability. To regain a pseudo-stable state, cells co-opt chaperones, for example, Hsp90, to bind aberrant proteins involved in the dysregulated processes with high-affinity and maintain them in a functional conformation [<xref ref-type="bibr" rid="B2">2</xref>-<xref ref-type="bibr" rid="B6">6</xref>]. These interactions buffer the local molecular instability and allow for the accumulation of aberrant proteins that ultimately leads to the blossoming of disease. Thus, following dysregulation in the abundance, stability or activity of a given protein, cell survival can become critically dependent on the association of client proteins of non-native stability with Hsp90.</p>
+      <p>In cancer, Hsp90 and associated co-chaperones were found to assist in the correct conformational folding of transformation-specific 'client proteins' without significantly binding to, or influencing the folding of, 'normal' protein counterparts; many of these client proteins are signal-transduction regulators of cell growth, differentiation, the DNA damage response, and cell survival [<xref ref-type="bibr" rid="B2">2</xref>-<xref ref-type="bibr" rid="B6">6</xref>]. Small molecule inhibitors of Hsp90 disturb its association with aberrant proteins and stimulate their degradation, a process initiated by recruitment of E3-ligases and mediated by the proteasome [<xref ref-type="bibr" rid="B2">2</xref>-<xref ref-type="bibr" rid="B7">7</xref>].</p>
+      <p>Historically, v-Src kinase was the first oncoprotein shown to display unusually stable interactions with Hsp90 and associated chaperones [<xref ref-type="bibr" rid="B8">8</xref>]. In contrast, non-oncogenic c-Src requires only limited assistance from the Hsp90 machinery for its maturation and cellular function. Similarly, stable expression of the mutant, but not wild-type, p53 conformation required tight association of the p53 protein with Hsp90 [<xref ref-type="bibr" rid="B9">9</xref>]. In the chronic myelogenous leukemia cell line K562, transformation is driven by the aberrant fusion of the genes <italic>bcr </italic>and <italic>abl</italic>, leading to the production of a constitutively active kinase, Bcr-Abl. Hsp90, which is minimally required for the stabilization of Abl itself, becomes closely associated with Bcr-Abl and maintains the kinase's functionality in this dysregulated state [<xref ref-type="bibr" rid="B10">10</xref>,<xref ref-type="bibr" rid="B11">11</xref>]. Nucleophosmin-anaplastic lymphoma kinase, found in lymphomas, is another recognized tumor-specific client of Hsp90 [<xref ref-type="bibr" rid="B12">12</xref>], as is mutated Flt3, a kinase involved in driving transformation in acute myeloid leukemias [<xref ref-type="bibr" rid="B13">13</xref>]. Steroid-hormone receptors in breast and prostate cancers have an important role in the malignant behavior of these tumors. They too are examples of tumor-specific clients where oncogenic activity can be disrupted by Hsp90 inhibitors [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B15">15</xref>]. Epidermal growth factor receptor harboring kinase-activating mutations that are involved in the transformation of non-small cell lung cancers also associates with Hsp90. An inhibitor of Hsp90 triggers the rapid degradation of these kinases without affecting wild-type epidermal growth factor receptor [<xref ref-type="bibr" rid="B16">16</xref>]. Zeta-chain-associated protein kinase 70 (ZAP-70), expressed in patients with aggressive chronic lymphocytic leukemia (CLL) and required for cell survival and signaling in CLL, behaves as an Hsp90 client protein only in CLL cells [<xref ref-type="bibr" rid="B17">17</xref>]. Examples may be extended to numerous additional transformed cell types but, in sum, multiple proteins involved in cell-specific oncogenic processes have been shown to be tightly regulated by the binding of Hsp90 and undergo selective degradation following treatment with an Hsp90 inhibitor. In this sense, at the phenotypic level, Hsp90 seems to serve as a biochemical buffer for the numerous cancer-specific lesions that are characteristic of diverse tumors.</p>
+      <p>In an effort to refine the many characteristics that are required for the development of the fully malignant phenotype, Hanahan and Weinberg proposed six essential phenotypic traits, referred to as the 'six hallmarks' of a cancer cell [<xref ref-type="bibr" rid="B1">1</xref>]. Common to these hallmark traits is Hsp90, a protein that has the capacity to regulate key elements of each of these processes, suggesting that the chaperone is an indispensable controller of multiple proteins regulating these cancer hallmarks [<xref ref-type="bibr" rid="B1">1</xref>-<xref ref-type="bibr" rid="B6">6</xref>,<xref ref-type="bibr" rid="B18">18</xref>].</p>
+      <p>In summary, malignant cells co-opt Hsp90 to maintain their viability under the pressure of aberrant proteins and, therefore, allow malignant transformation and the facilitation of disease progression. Hsp90 inhibition therefore offers the potential of accomplishing what most targeted anticancer therapies do not: the simultaneous disruption of multiple signaling events critical to all recognized cancer hallmarks. In consequence, the unique biological role of Hsp90 in cancer cells has suggested that its inhibition could be an answer to the challenge imposed on therapy by the heterogeneity and adaptability of cancer cells, and represent a singular therapeutic modality against a large array of tumors.</p>
+    </sec>
+    <sec>
+      <title>Neurodegenerative diseases and Hsp90</title>
+      <p>For neurodegenerative disorders associated with protein aggregation, the view on Hsp90 has been limited to its regulation of heat shock response [<xref ref-type="bibr" rid="B19">19</xref>-<xref ref-type="bibr" rid="B21">21</xref>]. Inhibition of Hsp90 activates heat shock factor 1 (HSF1) to induce the production of the chaperones Hsp70 and Hsp40, which promote disaggregation and protein degradation. It is suggested that under non-stressed conditions, Hsp90 binds to HSF1 and maintains the transcription factor in a monomeric state [<xref ref-type="bibr" rid="B22">22</xref>]. Inhibition of Hsp90 releases HSF1 from the Hsp90 complex, leading to its trimerization, activation and translocation to the nucleus where it initiates a heat shock response. However, recent evidence suggests an additional role for Hsp90 in neurodegenerative diseases [<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B26">26</xref>]. Based on the large body of evidence on the ubiquitous 'transformation buffering' potential of Hsp90 in cancer, it is intuitive to suggest analogous roles for Hsp90 in neurodegeneration.</p>
+      <sec>
+        <title>Spinal and bulbar muscular atrophy</title>
+        <p>Spinal and bulbar muscular atrophy (SBMA) is an inherited motor neuron disease caused by the expansion of a polyglutamine tract within the androgen receptor (AR) [<xref ref-type="bibr" rid="B27">27</xref>]. The pathological features of SBMA are motor neuron loss in the spinal cord and brainstem, diffuse nuclear accumulation, and nuclear inclusions of the mutant AR in the residual motor neurons and certain visceral organs. Waza <italic>et al. </italic>[<xref ref-type="bibr" rid="B23">23</xref>] recently demonstrated that mutant AR, as present in SBMA, is an Hsp90 client protein that forms a molecular complex with the chaperone. This complex is required to maintain the functional stability of the mutant AR. Addition of 17-allylamino-17-demethoxy geldanamycin (17AAG), a small molecule Hsp90 inhibitor currently in phase II evaluation in patients with advanced cancers, to both cells and transgenic mice led to a preferential degradation of mutant AR compared to wild-type. These effects were a result of increased dependency of the mutant AR, compared to its normal counterpart, on Hsp90 for stability, and not due to an induction of Hsp70 and Hsp40. In a SBMA transgenic mouse model, 17AAG ameliorated motor impairments without detectable toxicity and reduced the amounts of monomeric and aggregated mutant AR. Similar findings were reported by Thomas <italic>et al. </italic>[<xref ref-type="bibr" rid="B24">24</xref>], who found that Hsp90 inhibition blocked the aggregation of the expanded glutamine androgen receptor (AR112Q) in HSF1(-/-) mouse embryonic fibroblasts where the Hsp70 and Hsp40 chaperones were not induced.</p>
+      </sec>
+      <sec>
+        <title>Tauopathies</title>
+        <p>Tauopathies are neurodegenerative diseases characterized by tau protein abnormalities. In these diseases, transformation is characterized by abnormalities in the tau protein that lead to the accumulation of hyperphosphorylated and aggregated tau [<xref ref-type="bibr" rid="B28">28</xref>,<xref ref-type="bibr" rid="B29">29</xref>]. It has been suggested that AD and frontotemporal dementia are linked in a genetic spectrum of presenile degenerative brain disorders in which tau is one of the important players [<xref ref-type="bibr" rid="B30">30</xref>]. In AD, tau hyperphosphorylation is suggested to be a pathogenic process caused by aberrant activation of several kinases, in particular cyclin-dependent protein kinase (cdk)5 and glycogen synthase kinase (GSK)3β, leading to phosphorylation of tau at pathogenic sites. Hyperphosphorylated tau in AD is believed to misfold, undergoing net dissociation from microtubules, and form toxic aggregates [<xref ref-type="bibr" rid="B31">31</xref>,<xref ref-type="bibr" rid="B32">32</xref>]. In a cluster of tauopathies termed 'frontotemporal dementia and parkinsonism linked to chromosome 17 (FTDP-17)', pathology is caused by several mutations in human tau isoforms on chromosome 17, which result in, and are characterized by, the accumulation of aggregated tau, similar to that in AD [<xref ref-type="bibr" rid="B33">33</xref>,<xref ref-type="bibr" rid="B34">34</xref>]. Over 20 pathogenic mutations have been identified but P301L is the most common among tauopathies. Luo <italic>et al. </italic>[<xref ref-type="bibr" rid="B25">25</xref>] recently presented evidence that, in a particular case of tauopathy, the stability of both p35, a neuronal protein that may activate cdk5 through complex formation leading to aberrant tau phosphorylation, and the P301L mutant, but not wild-type tau, are maintained by Hsp90. These proteins form a molecular complex with the chaperone that is necessary to regulate their function and stability. Inhibition of Hsp90 in both cellular and mouse models of tauopathies by Hsp90 inhibitors of the purine-scaffold class [<xref ref-type="bibr" rid="B35">35</xref>] led to the reduction of the aberrant activity of these proteins and resulted in a decrease of aggregated tau. Complementary results were generated by Dickey <italic>et al</italic>. [<xref ref-type="bibr" rid="B26">26</xref>], who demonstrated that inhibition of Hsp90 by a similar small molecule led to a decrease in phosphorylated tau levels independent of HSF1 activation. This reduction occurred selectively in the aberrant phosphorylated tau species, leaving normal tau largely unaffected.</p>
+        <p>Luo <italic>et al. </italic>[<xref ref-type="bibr" rid="B25">25</xref>] and Dickey <italic>et al. </italic>[<xref ref-type="bibr" rid="B26">26</xref>] have also shown that the Hsp90 onco-clients Akt and Raf-1 were mainly unaltered by Hsp90 inhibitors. These important findings suggest that 'tight' regulation of aberrant proteins by Hsp90 is driven by the pathogenic event itself and, therefore, manifested in a pathogenic-specific manner. Dickey <italic>et al. </italic>[<xref ref-type="bibr" rid="B26">26</xref>] further demonstrated that the Hsp90 complex in affected areas of AD brain has a significantly higher binding affinity (approximately 1,000-fold) for small molecule inhibitors than Hsp90 derived from unaffected brain tissue from the same patients or from controls.</p>
+        <p>Collectively, these findings suggest that a neuron undergoing a degenerative process may co-opt Hsp90 in a fashion similar to an epithelial cell undergoing malignant transformation. In doing so, it maintains the functional stability of proteins of aberrant capacity, allowing and sustaining their accumulation as toxic aggregates, thus providing a common principle that governs the two diseases. The process is ill-fated for neurons, ultimately resulting in the loss of disease-specific classes, unlike the increased cellular survival seen in cancer.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Hsp90: putative roles in Alzheimer's disease</title>
+      <p>AD, the most common neurodegenerative dementia in the elderly, affects cognition, behavior and functioning. It is a heterogeneous disease in which the pathogenic transformation is probably driven by a multitude of aberrant events, and as in cancer, no two patients present an identical disease. The major hallmarks accepted for AD include: amyloid deposition composed of β-amyloid peptide (Aβ); intracellular neurofibrillary tangles composed of abnormally phosphorylated forms of the protein tau; prominent neuroinflammation of nearby glial cells; and synaptic loss and specific neuronal death.</p>
+      <p>Several hypotheses on the basis of the disease have emerged, but it is yet unclear whether these are causative events or neuronal pathways prone to being hijacked by pathogenic elements. Irrespective of the initiator factor, a large body of evidence suggests aberrant activation of essential kinases in these pathways is associated with AD progression. Gradually, dysregulated kinase activities might contribute in an age-dependent manner to amyloid generation and deposition, tau hyperphosphorylation and tangle formation, neuroinflammation, and ultimately to neuronal death.</p>
+      <sec>
+        <title>Amyloid generation and deposition</title>
+        <p>Aβ, the major component of the extracellular amyloid deposits, is believed to be the upstream causative factor in the AD pathological cascade generated by the sequential proteolytic cleavage of the amyloid precursor protein (APP), as summarized in Figure <xref ref-type="fig" rid="F1">1</xref>[<xref ref-type="bibr" rid="B34">34</xref>]. The length of Aβ peptides generated can vary. Among the most common forms, Aβ42 is far more prone to aggregation than the more abundant Aβ40 [<xref ref-type="bibr" rid="B35">35</xref>]. Under physiological conditions, the steady state concentrations and ratio of Aβ40 and Aβ42 are balanced, and thus no pathogenic deposits form. Although the mechanisms for pathogenic deposition of Aβ are still unclear, it is speculated that several factors, including familial Alzheimer's mutations, genetic risk factors (for example, apolipoprotein E), environmental stress, and decreased Aβ clearance capability, may disrupt the balance and result in accumulation of amyloid peptides and promote aggregation. The build-up of Aβ may initiate multistep pathogenic events, including disruption of neuronal homeostasis, and the aberrant activation of kinases. These alterations ultimately lead to neurofibrillary tangle formation, prominent neuroinflammation, and neurodegeneration [<xref ref-type="bibr" rid="B34">34</xref>].</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Proposed model for the regulatory roles played by Hsp90 in AD progression. Hsp90 can promote AD by facilitating the activities of protein kinases that cause the pathological features of AD. LTP, long-term potentiation; CTF, carboxyl-terminal fragment – cleavage product of APP (amyloid precursor protein); MT, microtubule.</p>
+          </caption>
+          <graphic xlink:href="1471-2202-9-S2-S7-1"/>
+        </fig>
+        <p>Among the Aβ-induced aberrant kinases, cdk5 has been implicated in AD pathology. In human AD brains, there is a significant, specific elevation in cdk5 activity compared with age-matched controls [<xref ref-type="bibr" rid="B36">36</xref>,<xref ref-type="bibr" rid="B37">37</xref>]. Normally, activation of cdk5 is regulated by association with its cofactor, p35 [<xref ref-type="bibr" rid="B38">38</xref>]. It is also believed that elevated cdk5 activity in AD may be induced by p25, a more stable cleavage form of p35 [<xref ref-type="bibr" rid="B39">39</xref>,<xref ref-type="bibr" rid="B40">40</xref>]. In this case, Aβ accumulation activates intracellular calcium signaling and induces the pathogenic production of p25 via a calpain-dependent cleavage of p35. Upon binding to cdk5, p25 causes mislocalization and prolonged activation of cdk5. The p25-activated cdk5 complex alters substrate specificity, preferentially phosphorylating tau and APP [<xref ref-type="bibr" rid="B41">41</xref>-<xref ref-type="bibr" rid="B44">44</xref>]. Aberrant kinase activities also regulate Aβ generation. Cdk5 phosphorylation of APP on Thr668 can induce a conformational change in APP, altering its intracellular trafficking to facilitate β-secretase cleavage and Aβ generation [<xref ref-type="bibr" rid="B45">45</xref>]. A positive feedback loop could therefore exist between cdk5 and Aβ, where accumulation of Aβ induces aberrant cdk5 activation that in turn further stimulates Aβ generation, ultimately triggering a cascade of pathogenic events (Figure <xref ref-type="fig" rid="F1">1</xref>) [<xref ref-type="bibr" rid="B46">46</xref>]. Similarly, Aβ can activate GSK3β, leading to increased Aβ production [<xref ref-type="bibr" rid="B47">47</xref>]. Casein kinase 1 (CK1) is also implicated in regulating Aβ-generation. Constitutive overexpression of active CK1ε, one of the CK1 isoforms expressed in brain, can generate an increase in Aβ peptide production [<xref ref-type="bibr" rid="B48">48</xref>].</p>
+        <p>Another theory, complementary to the amyloid hypothesis and which also invokes signal transduction, proposes that APP and presenilins may modulate an as yet unknown cell signal, the disruption of which may induce cell-cycle abnormalities, amyloid formation, neuronal death, and eventually dementia [<xref ref-type="bibr" rid="B49">49</xref>].</p>
+      </sec>
+      <sec>
+        <title>Tau pathology</title>
+        <p>One of the major pathologies of AD, hyperphosphorylation of the microtubule-binding protein tau and formation of intracellular neurofibrillary tangles, is suggested to result from abnormal activation of essential kinases (Figure <xref ref-type="fig" rid="F1">1</xref>) [<xref ref-type="bibr" rid="B28">28</xref>-<xref ref-type="bibr" rid="B30">30</xref>,<xref ref-type="bibr" rid="B32">32</xref>]. The hyperphosphorylation of tau at pathogenic sites causes its detachment from microtubules, perturbing normal microtubule function. Hyperphosphorylated species form paired helical filaments that easily aggregate and may ultimately act as physical barriers to axonal transport, impairing synaptic transmission [<xref ref-type="bibr" rid="B50">50</xref>]. Tau hyperphosphorylation may be caused by various events, among which up-regulated or aberrant activation of tau kinases (for example, cdk5, GSK3β, mitogen-activated protein kinases (MAPK), calcium/calmodulin-dependent kinase II (caMK-II), and the microtubule-affinity-regulating kinase (MARK)) are believed to play important roles (Figure <xref ref-type="fig" rid="F1">1</xref>) [<xref ref-type="bibr" rid="B51">51</xref>,<xref ref-type="bibr" rid="B52">52</xref>].</p>
+      </sec>
+      <sec>
+        <title>Neuroinflammation</title>
+        <p>Neuroinflammation, another prominent feature of AD, is caused by microglia and astrocytes (Figure <xref ref-type="fig" rid="F1">1</xref>). These cells are activated in AD brain, as well as in AD transgenic mice [<xref ref-type="bibr" rid="B53">53</xref>-<xref ref-type="bibr" rid="B55">55</xref>]. Recent studies implicate several signaling pathways of neuroinflammation in AD. Microglial activation is suggested to result from Aβ binding and activation of cell surface immune and adhesion molecules, for example, CD45, CD40, CD36 and integrins. Subsequently, members of the Src family of tyrosine kinases, including Fyn, Lyn and Syk, are recruited to activate the ERK and MAPK pathways, inducing proinflammatory gene expression, and leading to the production of cytokines and chemokines. This chain of events leads to further microglial activation, astrogliosis, secretion of proinflammatory molecules, Aβ generation, and tau phosphorylation, thus perpetuating the cascade [<xref ref-type="bibr" rid="B56">56</xref>]. Interestingly, recent studies using AD-transgenic mice indicate that inflammation also contributes to tau pathology by a cdk5/p25-mediated pathway [<xref ref-type="bibr" rid="B57">57</xref>].</p>
+      </sec>
+      <sec>
+        <title>Synaptic and neuronal loss</title>
+        <p>Synaptic loss is an early event in AD and the best correlate of cognitive dysfunction [<xref ref-type="bibr" rid="B58">58</xref>]. Aberrant cdk5 activity in AD can also cause dendritic spine loss and disrupt synaptic activity. In this regard, phosphorylation of WAVE1 by cdk5 inhibits WAVE1's activity in spine development and results in a decrease in mature dendritic spines [<xref ref-type="bibr" rid="B59">59</xref>]. In a transgenic model, prolonged p25 production and cdk5 activation caused severe cognitive deficits that were accompanied by synaptic and neuronal loss, and impaired long-term potentiation [<xref ref-type="bibr" rid="B60">60</xref>]. Neuronal death in AD is also linked to aberrant kinase activity and several signaling pathways that cascade into cell death have been identified [<xref ref-type="bibr" rid="B61">61</xref>-<xref ref-type="bibr" rid="B64">64</xref>]. In a new twist, cdk5 interacts with p53 and increases its stability through post-translational regulation, leading to the accumulation of p53 (particularly in the nucleus), and on to neuronal death [<xref ref-type="bibr" rid="B65">65</xref>]. With respect to the 'cell cycle-like reactivation' hypothesis, pathological kinase activity has again been identified [<xref ref-type="bibr" rid="B65">65</xref>-<xref ref-type="bibr" rid="B67">67</xref>]. Terminally differentiated neurons remain in G0 phase and display, compared to proliferating cells, an opposite regulation pattern of cell cycle markers where most of the key activators and inhibitors are down- and up-regulated, respectively. Experimental attempts to force terminally differentiated neurons to divide ultimately leads to their death. Conversely, cell cycle blockade in experimental models of neuronal death is able to rescue neurons, suggesting that cell cycle dysregulation is among the mechanisms governing neuronal death. For the p25/cdk5 kinase complex, a role in this pathological process has been suggested through retinoblastoma protein phosphorylation and derepression of E2F-responsive genes [<xref ref-type="bibr" rid="B68">68</xref>].</p>
+        <p>Collectively, these findings suggest aberrant kinase activation is a critical step in the cascade of detrimental events that both initiate and permit the development of the pathogenic events in AD. To tolerate the accumulation of these dysregulated processes, and allow the blossoming of the disease phenotype, their functional stability likely requires a 'buffering' mechanism, as offered by Hsp90 in malignant transformation. In Figure <xref ref-type="fig" rid="F1">1</xref>, we present our view on the putative roles Hsp90 may play in AD. This model suggests Hsp90 as a master regulator of pathogenic events leading to AD. We hypothesize that accumulated amyloid may trigger a cascade of cellular changes, including altered kinase activities. These aberrant kinase activities develop Hsp90-dependency and promote disease progression. The outcomes of 'Hsp90-sheltered' aberrantly activated proteins are tau hyperphosphorylation, synaptic deficits, and neuroinflammation, salient determinants of the pathological changes of AD that lead to amyloid deposition, tangle formation, synaptic dysfunction, and neuronal death.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Conclusion and significance</title>
+      <p>The bulk of current AD research is focused on possible interventions along the amyloid pathways. However, this focused approach may not ameliorate outcomes due to abnormal tau phosphorylation. In addition, AD is a complex and heterogeneous disease, with a diversity of risk factors and a multitude of symptoms. In the post-genomic era, identification of novel molecular targets for AD may offer the theoretical promise of great specificity coupled with reduced systemic toxicity, but this highly focused targeting approach faces the potential peril of being unable to deal successfully with a complex disease, such as AD. We speculate that targeting Hsp90, part of the cellular machinery that allows the accumulation and progression of dysregulated events in AD, could provide a more comprehensive approach towards treatment. The model proposes a multifaceted use for Hsp90 inhibitors and presents a view whereby targeting one protein, Hsp90, may ameliorate several aspects of the disease. Hsp90 inhibition may restore a multitude of damaged signaling networks in the diseased brain by alleviating aberrant phosphorylation and reducing protein misprocessing. The ability of Hsp90 inhibitors to simultaneously affect multiple transforming molecules and pathways is a unique and therapeutically attractive feature of targeting this chaperone [<xref ref-type="bibr" rid="B69">69</xref>]. These findings suggest that Hsp90 inhibitors might provide a broader, more effective anti-neurodegenerative therapy than molecules targeting single signaling molecules that are the focus of most current drug discovery efforts. Moreover, the apparent increased requirement for Hsp90 activity in cancer suggests the real potential of an exploitable therapeutic index for this approach in neurodegenerative diseases.</p>
+      <p>Although a target still in its infancy in AD, Hsp90 has recently become the focus of several research efforts. It may take several years until its promise in AD treatment may come to fruition, and it will likely require concerted efforts that entail a better understanding of the biology of Hsp90 in AD, but also the development of small molecule Hsp90 inhibitors better suited for central nervous system use.</p>
+    </sec>
+    <sec>
+      <title>List of abbreviations used</title>
+      <p>17AAG: 17-allylamino-17-demethoxy geldanamycin; Aβ: β-amyloid; AD: Alzheimer's disease; APP: amyloid precursor protein; AR: androgen receptor; cdk: cyclin-dependent protein kinase; CK: casein kinase; CLL: chronic lymphocytic leukemia; GSK: glycogen synthase kinase; HSF1: heat shock factor 1; Hsp: heat shock protein; MAPK: mitogen-activated protein kinase; SBMA: spinal and bulbar muscular atrophy.</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>This work was in part supported by the Institute for the Study of Aging (Alzdiscovery award), National Institute of Aging (1R21AG028811) and the Geoffrey Beene Cancer Research Center of Memorial Sloan-Kettering Cancer Center.</p>
+        <p>This article has been published as part of <italic>BMC Neuroscience </italic>Volume 9 Supplement 2: 2008 Proceedings of the 8<sup>th </sup>International Conference on Alzheimer's Disease Drug Discovery The full contents of the supplement are available online at <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2202/9?issue=S2"/>.</p>
+      </sec>
+    </ack>
+    <ref-list>
+      <ref id="B1">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanahan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Weinberg</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>The hallmarks of cancer</article-title>
+          <source>Cell</source>
+          <year>2000</year>
+          <volume>100</volume>
+          <fpage>57</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">10647931</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(00)81683-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Neckers</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Targeting the molecular chaperone heat shock protein 90 provides a multifaceted effect on diverse cell signaling pathways of cancer cells</article-title>
+          <source>Clin Cancer Res</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <fpage>1625</fpage>
+          <lpage>1629</lpage>
+          <pub-id pub-id-type="pmid">17363512</pub-id>
+          <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-06-2966</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Boehm</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Burrows</surname>
+              <given-names>FJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Therapeutic and diagnostic implications of Hsp90 activation</article-title>
+          <source>Trends Mol Med</source>
+          <year>2004</year>
+          <volume>10</volume>
+          <fpage>283</fpage>
+          <lpage>290</lpage>
+          <pub-id pub-id-type="pmid">15177193</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.molmed.2004.04.006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiosis</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Modulating chaperones in transformed systems – a focus on Hsp90 and cancer</article-title>
+          <source>Expert Opin Ther Targets</source>
+          <year>2006</year>
+          <volume>10</volume>
+          <fpage>37</fpage>
+          <lpage>50</lpage>
+          <pub-id pub-id-type="pmid">16441227</pub-id>
+          <pub-id pub-id-type="doi">10.1517/14728222.10.1.37</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whitesell</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Lindquist</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <article-title>HSP90 and the chaperoning of cancer</article-title>
+          <source>Nat Rev Cancer</source>
+          <year>2005</year>
+          <volume>10</volume>
+          <fpage>761</fpage>
+          <lpage>772</lpage>
+          <pub-id pub-id-type="pmid">16175177</pub-id>
+          <pub-id pub-id-type="doi">10.1038/nrc1716</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Workman</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Burrows</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Neckers</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Drugging the cancer chaperone HSP90: combinatorial therapeutic exploitation of oncogene addiction and tumor stress</article-title>
+          <source>Ann N Y Acad Sci</source>
+          <year>2007</year>
+          <volume>1113</volume>
+          <fpage>202</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="pmid">17513464</pub-id>
+          <pub-id pub-id-type="doi">10.1196/annals.1391.012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mimnaugh</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>Chavany</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Neckers</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyubiquitination and proteasomal degradation of the p185c-erbB-2 receptor protein-tyrosine kinase induced by geldanamycin</article-title>
+          <source>J Biol Chem</source>
+          <year>1996</year>
+          <volume>271</volume>
+          <fpage>22796</fpage>
+          <lpage>22801</lpage>
+          <pub-id pub-id-type="pmid">8798456</pub-id>
+          <pub-id pub-id-type="doi">10.1074/jbc.271.9.4974</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lindquist</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Heat-shock protein Hsp90 governs the activity of pp60v-src kinase</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>1993</year>
+          <volume>90</volume>
+          <fpage>7074</fpage>
+          <lpage>7078</lpage>
+          <pub-id pub-id-type="pmid">7688470</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.90.15.7074</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blagosklonny</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>Toretsky</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bohen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Neckers</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Mutant conformation of p53 translated <italic>in vitro </italic>or <italic>in vivo </italic>requires functional HSP90</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>1996</year>
+          <volume>93</volume>
+          <fpage>8379</fpage>
+          <lpage>8383</lpage>
+          <pub-id pub-id-type="pmid">8710879</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.93.16.8379</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nimmanapalli</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>O'Bryan</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bhalla</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Geldanamycin and its analogue 17-allylamino-17-demethoxygeldanamycin lowers Bcr-Abl levels and induces apoptosis and differentiation of Bcr- Abl-positive human leukemic blasts</article-title>
+          <source>Cancer Res</source>
+          <year>2001</year>
+          <volume>61</volume>
+          <fpage>1799</fpage>
+          <lpage>1804</lpage>
+          <pub-id pub-id-type="pmid">11280726</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gorre</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Ellwood-Yen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chiosis</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Sawyers</surname>
+              <given-names>CL</given-names>
+            </name>
+          </person-group>
+          <article-title>BCR-ABL point mutants isolated from patients with imatinib mesylate-resistant chronic myeloid leukemia remain sensitive to inhibitors of the BCR-ABL chaperone heat shock protein 90</article-title>
+          <source>Blood</source>
+          <year>2002</year>
+          <volume>100</volume>
+          <fpage>3041</fpage>
+          <lpage>3044</lpage>
+          <pub-id pub-id-type="pmid">12351420</pub-id>
+          <pub-id pub-id-type="doi">10.1182/blood-2002-05-1361</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonvini</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gastaldi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Falini</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Rosolen</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Nucleophosmin-anaplastic lymphoma kinase (NPM-ALK), a novel Hsp90-client tyrosine kinase: down-regulation of NPM-ALK expression and tyrosine phosphorylation in ALK(+) CD30(+) lymphoma cells by the Hsp90 antagonist 17-allylamino, 17-demethoxygeldanamycin</article-title>
+          <source>Cancer Res</source>
+          <year>2002</year>
+          <volume>62</volume>
+          <fpage>1559</fpage>
+          <lpage>1566</lpage>
+          <pub-id pub-id-type="pmid">11888936</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>George</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bali</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Tao</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Sigua</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Vishvanath</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Fiskus</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Scuto</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Annavarapu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Moscinski</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bhalla</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Cotreatment with 17-allylamino-demethoxygeldanamycin and FLT-3 kinase inhibitor PKC412 is highly effective against human acute myelogenous leukemia cells with mutant FLT-3</article-title>
+          <source>Cancer Res</source>
+          <year>2004</year>
+          <volume>64</volume>
+          <fpage>3645</fpage>
+          <lpage>3652</lpage>
+          <pub-id pub-id-type="pmid">15150124</pub-id>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-04-0006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beliakoff</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bagatell</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Paine-Murrieta</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Lykkesfeldt</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Whitesell</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Hormone-refractory breast cancer remains sensitive to the antitumor activity of heat shock protein 90 inhibitors</article-title>
+          <source>Clin Cancer Res</source>
+          <year>2003</year>
+          <volume>9</volume>
+          <fpage>4961</fpage>
+          <lpage>4971</lpage>
+          <pub-id pub-id-type="pmid">14581371</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solit</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>FF</given-names>
+            </name>
+            <name>
+              <surname>Drobnjak</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Münster</surname>
+              <given-names>PN</given-names>
+            </name>
+            <name>
+              <surname>Higgins</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Verbel</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Heller</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Cordon-Cardo</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Agus</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Scher</surname>
+              <given-names>HI</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>17-Allylamino-17-demethoxygeldanamycin induces the degradation of androgen receptor and HER-2/NEU and inhibits the growth of prostate cancer xenografts</article-title>
+          <source>Clin Cancer Res</source>
+          <year>2002</year>
+          <volume>8</volume>
+          <fpage>986</fpage>
+          <lpage>993</lpage>
+          <pub-id pub-id-type="pmid">12006510</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimamura</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Lowell</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Engelman</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>GI</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidermal growth factor receptors harboring kinase domain mutations associate with the heat shock protein 90 chaperone and are destabilized following exposure to geldanamycins</article-title>
+          <source>Cancer Res</source>
+          <year>2005</year>
+          <volume>65</volume>
+          <fpage>6401</fpage>
+          <lpage>6408</lpage>
+          <pub-id pub-id-type="pmid">16024644</pub-id>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-05-0933</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castro</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Prada</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Loria</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Kamal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Burrows</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <name>
+              <surname>Kipps</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>ZAP-70 is a novel conditional heat shock protein 90 (Hsp90) client: inhibition of Hsp90 leads to ZAP-70 degradation, apoptosis, and impaired signaling in chronic lymphocytic leukemia</article-title>
+          <source>Blood</source>
+          <year>2005</year>
+          <volume>106</volume>
+          <fpage>2506</fpage>
+          <lpage>2512</lpage>
+          <pub-id pub-id-type="pmid">15972449</pub-id>
+          <pub-id pub-id-type="doi">10.1182/blood-2005-03-1099</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maloney</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Workman</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>HSP90 as a new therapeutic target for cancer therapy: the story unfolds</article-title>
+          <source>Expert Opin Biol Ther</source>
+          <year>2002</year>
+          <volume>2</volume>
+          <fpage>3</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="pmid">11772336</pub-id>
+          <pub-id pub-id-type="doi">10.1517/14712598.2.1.3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klettner</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>The induction of heat shock proteins as a potential strategy to treat neurodegenerative disorders</article-title>
+          <source>Drug News Perspect</source>
+          <year>2004</year>
+          <volume>17</volume>
+          <fpage>299</fpage>
+          <lpage>306</lpage>
+          <pub-id pub-id-type="pmid">15334179</pub-id>
+          <pub-id pub-id-type="doi">10.1358/dnp.2004.17.5.829033</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barral</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Broadley</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Schaffar</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hartl</surname>
+              <given-names>FU</given-names>
+            </name>
+          </person-group>
+          <article-title>Roles of molecular chaperones in protein misfolding diseases</article-title>
+          <source>Semin Cell Dev Biol</source>
+          <year>2004</year>
+          <volume>15</volume>
+          <fpage>17</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="pmid">15036203</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.semcdb.2003.12.010</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soti</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Nagy</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Giricz</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Vigh</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Csermely</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ferdinandy</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Heat shock proteins as emerging therapeutic targets</article-title>
+          <source>Br J Pharmacol</source>
+          <year>2005</year>
+          <volume>146</volume>
+          <fpage>769</fpage>
+          <lpage>780</lpage>
+          <pub-id pub-id-type="pmid">16170327</pub-id>
+          <pub-id pub-id-type="doi">10.1038/sj.bjp.0706396</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zou</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Guettouche</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>Voellmy</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Repression of heat shock transcription factor HSF1 activation by HSP90 (HSP90 complex) that forms a stress-sensitive complex with HSF1</article-title>
+          <source>Cell</source>
+          <year>1998</year>
+          <volume>94</volume>
+          <fpage>471</fpage>
+          <lpage>480</lpage>
+          <pub-id pub-id-type="pmid">9727490</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(00)81588-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Waza</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Adachi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Katsuno</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Minamiyama</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Inukai</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Doyu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sobue</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>17-AAG, an Hsp90 inhibitor, ameliorates polyglutamine-mediated motor neuron degeneration</article-title>
+          <source>Nat Med</source>
+          <year>2005</year>
+          <volume>11</volume>
+          <fpage>1088</fpage>
+          <lpage>1095</lpage>
+          <pub-id pub-id-type="pmid">16155577</pub-id>
+          <pub-id pub-id-type="doi">10.1038/nm1298</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thomas</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Harrell</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Morishima</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Pratt</surname>
+              <given-names>WB</given-names>
+            </name>
+            <name>
+              <surname>Lieberman</surname>
+              <given-names>AP</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmacologic and genetic inhibition of Hsp90-dependent trafficking reduces aggregation and promotes degradation of the expanded glutamine androgen receptor without stress protein induction</article-title>
+          <source>Hum Mol Genet</source>
+          <year>2006</year>
+          <volume>15</volume>
+          <fpage>1876</fpage>
+          <lpage>1883</lpage>
+          <pub-id pub-id-type="pmid">16644868</pub-id>
+          <pub-id pub-id-type="doi">10.1093/hmg/ddl110</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Dou</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Rodina</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chip</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Moulick</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Aguirre</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Greengard</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Chiosis</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Roles of heat shock protein 90 in maintaining and facilitating the neurodegenerative phenotype in tauopathies</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2007</year>
+          <volume>104</volume>
+          <fpage>9511</fpage>
+          <lpage>9516</lpage>
+          <pub-id pub-id-type="pmid">17517623</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.0701055104</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dickey</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Kamal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lundgren</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Klosak</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Dunmore</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ash</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Shoraka</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zlatkovic</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Eckman</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Patterson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Dickson</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Nahman</surname>
+              <given-names>NS</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Hutton</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Burrows</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Petrucelli</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The high-affinity HSP90-CHIP complex recognizes and selectively degrades phosphorylated tau client proteins</article-title>
+          <source>J Clin Invest</source>
+          <year>2007</year>
+          <volume>117</volume>
+          <fpage>648</fpage>
+          <lpage>658</lpage>
+          <pub-id pub-id-type="pmid">17304350</pub-id>
+          <pub-id pub-id-type="doi">10.1172/JCI29715</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adachi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Waza</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Katsuno</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Doyu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sobue</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathogenesis and molecular targeted therapy of spinal and bulbar muscular atrophy</article-title>
+          <source>Neuropathol Appl Neurobiol</source>
+          <year>2007</year>
+          <volume>33</volume>
+          <fpage>135</fpage>
+          <lpage>151</lpage>
+          <pub-id pub-id-type="pmid">17359355</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2990.2007.00830.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murray</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lynch</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Farrell</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinicopathological features of the tauopathies</article-title>
+          <source>Biochem Soc Trans</source>
+          <year>2005</year>
+          <volume>33</volume>
+          <fpage>595</fpage>
+          <lpage>599</lpage>
+          <pub-id pub-id-type="pmid">16042552</pub-id>
+          <pub-id pub-id-type="doi">10.1042/BST0330595</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kosik</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Shimura</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Phosphorylated tau and the neurodegenerative foldopathies</article-title>
+          <source>Biochim Biophys Acta</source>
+          <year>2005</year>
+          <volume>1739</volume>
+          <fpage>298</fpage>
+          <lpage>310</lpage>
+          <pub-id pub-id-type="pmid">15615647</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brandt</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Leschik</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Functional interactions of tau and their relevance for Alzheimer's disease</article-title>
+          <source>Curr Alzheimer Res</source>
+          <year>2004</year>
+          <volume>1</volume>
+          <fpage>255</fpage>
+          <lpage>269</lpage>
+          <pub-id pub-id-type="pmid">15975055</pub-id>
+          <pub-id pub-id-type="doi">10.2174/1567205043332054</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dermaut</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Kumar-Singh</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rademakers</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Theuns</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Cruts</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Van Broeckhoven</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Tau is central in the genetic Alzheimer-frontotemporal dementia spectrum</article-title>
+          <source>Trends Genet</source>
+          <year>2005</year>
+          <volume>21</volume>
+          <fpage>664</fpage>
+          <lpage>672</lpage>
+          <pub-id pub-id-type="pmid">16221505</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.tig.2005.09.005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lau</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Schachter</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Seymour</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Sanner</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Tau protein phosphorylation as a therapeutic target in Alzheimer's disease</article-title>
+          <source>Curr Top Med Chem</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <fpage>395</fpage>
+          <lpage>415</lpage>
+          <pub-id pub-id-type="pmid">11966463</pub-id>
+          <pub-id pub-id-type="doi">10.2174/1568026024607526</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiosis</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Discovery and development of purine-scaffold Hsp90 inhibitors</article-title>
+          <source>Curr Top Med Chem</source>
+          <year>2006</year>
+          <volume>6</volume>
+          <fpage>1183</fpage>
+          <lpage>1191</lpage>
+          <pub-id pub-id-type="pmid">16842155</pub-id>
+          <pub-id pub-id-type="doi">10.2174/156802606777812013</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hardy</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Testing times for the 'amyloid cascade hypothesis'</article-title>
+          <source>Neurobiol Aging</source>
+          <year>2002</year>
+          <volume>23</volume>
+          <fpage>1073</fpage>
+          <lpage>1074</lpage>
+          <pub-id pub-id-type="pmid">12470803</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0197-4580(02)00042-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarrett</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>EP</given-names>
+            </name>
+            <name>
+              <surname>Lansbury</surname>
+              <given-names>PT</given-names>
+              <suffix>Jr</suffix>
+            </name>
+          </person-group>
+          <article-title>The carboxy terminus of the beta amyloid protein is critical for the seeding of amyloid formation: implications for the pathogenesis of Alzheimer's disease</article-title>
+          <source>Biochemistry</source>
+          <year>1993</year>
+          <volume>32</volume>
+          <fpage>4693</fpage>
+          <lpage>4697</lpage>
+          <pub-id pub-id-type="pmid">8490014</pub-id>
+          <pub-id pub-id-type="doi">10.1021/bi00069a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>KY</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>AW</given-names>
+            </name>
+            <name>
+              <surname>Rosales</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Chapman</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Fung</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Johnston</surname>
+              <given-names>RN</given-names>
+            </name>
+          </person-group>
+          <article-title>Elevated neuronal Cdc2-like kinase activity in the Alzheimer disease brain</article-title>
+          <source>Neurosci Res</source>
+          <year>1999</year>
+          <volume>34</volume>
+          <fpage>21</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="pmid">10413323</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0168-0102(99)00026-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mandelkow</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Biernat</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Piwnica-Worms</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mandelkow</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Abnormal Alzheimer-like phosphorylation of tau-protein by cyclin-dependent kinases cdk2 and cdk5</article-title>
+          <source>FEBS Lett</source>
+          <year>1993</year>
+          <volume>336</volume>
+          <fpage>417</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="pmid">8282104</pub-id>
+          <pub-id pub-id-type="doi">10.1016/0014-5793(93)80849-P</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsai</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Delalle</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Caviness</surname>
+              <given-names>VS</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Chae</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Harlow</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>p35 is a neural-specific regulatory subunit of cyclin-dependent kinase 5</article-title>
+          <source>Nature</source>
+          <year>1994</year>
+          <volume>371</volume>
+          <fpage>419</fpage>
+          <lpage>423</lpage>
+          <pub-id pub-id-type="pmid">8090221</pub-id>
+          <pub-id pub-id-type="doi">10.1038/371419a0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tseng</surname>
+              <given-names>HC</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>A survey of cdk5 activator p35 and p25 levels in Alzheimer's disease brains</article-title>
+          <source>FEBS Lett</source>
+          <year>2002</year>
+          <volume>523</volume>
+          <fpage>58</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="pmid">12123804</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0014-5793(02)02934-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>YT</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Friedlander</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>Neurotoxicity induces cleavage of p35 to p25 by calpain</article-title>
+          <source>Nature</source>
+          <year>2000</year>
+          <volume>405</volume>
+          <fpage>360</fpage>
+          <lpage>364</lpage>
+          <pub-id pub-id-type="pmid">10830966</pub-id>
+          <pub-id pub-id-type="doi">10.1038/35012636</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahlijanian</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Barrezueta</surname>
+              <given-names>NX</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Jakowski</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kowsz</surname>
+              <given-names>KP</given-names>
+            </name>
+            <name>
+              <surname>McCarthy</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Coskran</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Carlo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Seymour</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Burkhardt</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>McNeish</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>Hyperphosphorylated tau and neurofilament and cytoskeletal disruptions in mice overexpressing human p25, an activator of cdk5</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2000</year>
+          <volume>97</volume>
+          <fpage>2910</fpage>
+          <lpage>2915</lpage>
+          <pub-id pub-id-type="pmid">10706614</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.040577797</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cruz</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Moy</surname>
+              <given-names>LY</given-names>
+            </name>
+            <name>
+              <surname>Dobbin</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Bronson</surname>
+              <given-names>RT</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>p25/cyclin-dependent kinase 5 induces production and intraneuronal accumulation of amyloid beta <italic>in vivo</italic></article-title>
+          <source>J Neurosci</source>
+          <year>2006</year>
+          <volume>26</volume>
+          <fpage>10536</fpage>
+          <lpage>10541</lpage>
+          <pub-id pub-id-type="pmid">17035538</pub-id>
+          <pub-id pub-id-type="doi">10.1523/JNEUROSCI.3133-06.2006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hashiguchi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Saito</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hisanaga</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hashiguchi</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Truncation of CDK5 activator p35 induces intensive phosphorylation of Ser202/Thr205 of human tau</article-title>
+          <source>J Biol Chem</source>
+          <year>2002</year>
+          <volume>277</volume>
+          <fpage>44525</fpage>
+          <lpage>44530</lpage>
+          <pub-id pub-id-type="pmid">12226093</pub-id>
+          <pub-id pub-id-type="doi">10.1074/jbc.M207426200</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iijima</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ando</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Takeda</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Satoh</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Seki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Itohara</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Greengard</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kirino</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Nairn</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Neuron-specific phosphorylation of Alzheimer's beta-amyloid precursor protein by cyclin-dependent kinase 5</article-title>
+          <source>J Neurochem</source>
+          <year>2000</year>
+          <volume>75</volume>
+          <fpage>1085</fpage>
+          <lpage>1091</lpage>
+          <pub-id pub-id-type="pmid">10936190</pub-id>
+          <pub-id pub-id-type="doi">10.1046/j.1471-4159.2000.0751085.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Kao</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Lemere</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Tseng</surname>
+              <given-names>HC</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Neve</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Ahlijanian</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>APP processing is regulated by cytoplasmic phosphorylation</article-title>
+          <source>J Cell Biol</source>
+          <year>2003</year>
+          <volume>163</volume>
+          <fpage>83</fpage>
+          <lpage>95</lpage>
+          <pub-id pub-id-type="pmid">14557249</pub-id>
+          <pub-id pub-id-type="doi">10.1083/jcb.200301115</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cruz</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>Cdk5 deregulation in the pathogenesis of Alzheimer's disease</article-title>
+          <source>Trends Mol Med</source>
+          <year>2004</year>
+          <volume>10</volume>
+          <fpage>452</fpage>
+          <lpage>458</lpage>
+          <pub-id pub-id-type="pmid">15350898</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.molmed.2004.07.001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phiel</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>VM</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>PS</given-names>
+            </name>
+          </person-group>
+          <article-title>GSK-3alpha regulates production of Alzheimer's disease amyloid-beta peptides</article-title>
+          <source>Nature</source>
+          <year>2003</year>
+          <volume>423</volume>
+          <fpage>435</fpage>
+          <lpage>439</lpage>
+          <pub-id pub-id-type="pmid">12761548</pub-id>
+          <pub-id pub-id-type="doi">10.1038/nature01640</pub-id>
+        </citation>
+      </ref>
+      <ref id="B48">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Flajolet</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Heiman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nairn</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Greengard</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of Alzheimer's disease amyloid-beta formation by casein kinase I</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2007</year>
+          <volume>104</volume>
+          <fpage>4159</fpage>
+          <lpage>4164</lpage>
+          <pub-id pub-id-type="pmid">17360493</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.0611236104</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Venezia</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Nizzari</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Carlo</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Corsaro</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Florio</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Russo</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Amyloid precursor protein and presenilin involvement in cell signaling</article-title>
+          <source>Neurodegener Dis</source>
+          <year>2007</year>
+          <volume>4</volume>
+          <fpage>101</fpage>
+          <lpage>111</lpage>
+          <pub-id pub-id-type="pmid">17596704</pub-id>
+          <pub-id pub-id-type="doi">10.1159/000101834</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ballatore</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>VM</given-names>
+            </name>
+            <name>
+              <surname>Trojanowski</surname>
+              <given-names>JQ</given-names>
+            </name>
+          </person-group>
+          <article-title>Tau-mediated neurodegeneration in Alzheimer's disease and related disorders</article-title>
+          <source>Nat Rev Neurosci</source>
+          <year>2007</year>
+          <volume>8</volume>
+          <fpage>663</fpage>
+          <lpage>672</lpage>
+          <pub-id pub-id-type="pmid">17684513</pub-id>
+          <pub-id pub-id-type="doi">10.1038/nrn2194</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blurton-Jones</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Laferla</surname>
+              <given-names>FM</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathways by which Abeta facilitates tau pathology</article-title>
+          <source>Curr Alzheimer Res</source>
+          <year>2006</year>
+          <volume>3</volume>
+          <fpage>437</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="pmid">17168643</pub-id>
+          <pub-id pub-id-type="doi">10.2174/156720506779025242</pub-id>
+        </citation>
+      </ref>
+      <ref id="B52">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Churcher</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Tau therapeutic strategies for the treatment of Alzheimer's disease</article-title>
+          <source>Curr Top Med Chem</source>
+          <year>2006</year>
+          <volume>6</volume>
+          <fpage>579</fpage>
+          <lpage>595</lpage>
+          <pub-id pub-id-type="pmid">16712493</pub-id>
+          <pub-id pub-id-type="doi">10.2174/156802606776743057</pub-id>
+        </citation>
+      </ref>
+      <ref id="B53">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McGeer</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Rogers</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>McGeer</surname>
+              <given-names>EG</given-names>
+            </name>
+          </person-group>
+          <article-title>Inflammation, anti-inflammatory agents and Alzheimer disease: the last 12 years</article-title>
+          <source>J Alzheimers Dis</source>
+          <year>2006</year>
+          <volume>9</volume>
+          <fpage>271</fpage>
+          <lpage>276</lpage>
+          <pub-id pub-id-type="pmid">16914866</pub-id>
+        </citation>
+      </ref>
+      <ref id="B54">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cole</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Morihara</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>GP</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Begum</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Frautschy</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>NSAID and antioxidant prevention of Alzheimer's disease: lessons from <italic>in vitro </italic>and animal models</article-title>
+          <source>Ann N Y Acad Sci</source>
+          <year>2004</year>
+          <volume>1035</volume>
+          <fpage>68</fpage>
+          <lpage>84</lpage>
+          <pub-id pub-id-type="pmid">15681801</pub-id>
+          <pub-id pub-id-type="doi">10.1196/annals.1332.005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akiyama</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Barger</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Barnum</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bradt</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Bauer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Cole</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Cooper</surname>
+              <given-names>NR</given-names>
+            </name>
+            <name>
+              <surname>Eikelenboom</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Emmerling</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fiebich</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Finch</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Frautschy</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Griffin</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Hampel</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hull</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Landreth</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lue</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mrak</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Mackenzie</surname>
+              <given-names>IR</given-names>
+            </name>
+            <name>
+              <surname>McGeer</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>O'Banion</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Pachter</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pasinetti</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Plata-Salaman</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rogers</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rydel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Streit</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Strohmeyer</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Tooyoma</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Van Muiswinkel</surname>
+              <given-names>FL</given-names>
+            </name>
+            <name>
+              <surname>Veerhuis</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Walker</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Webster</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wegrzyniak</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wenk</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Wyss-Coray</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Inflammation and Alzheimer's disease</article-title>
+          <source>Neurobiol Aging</source>
+          <year>2000</year>
+          <volume>21</volume>
+          <fpage>383</fpage>
+          <lpage>421</lpage>
+          <pub-id pub-id-type="pmid">10858586</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0197-4580(00)00124-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B56">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ho</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Drego</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hakimian</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Masliah</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanisms of cell signaling and inflammation in Alzheimer's disease</article-title>
+          <source>Curr Drug Targets Inflamm Allergy</source>
+          <year>2005</year>
+          <volume>4</volume>
+          <fpage>247</fpage>
+          <lpage>256</lpage>
+          <pub-id pub-id-type="pmid">15853747</pub-id>
+          <pub-id pub-id-type="doi">10.2174/1568010053586237</pub-id>
+        </citation>
+      </ref>
+      <ref id="B57">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kitazawa</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Oddo</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yamasaki</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Green</surname>
+              <given-names>KN</given-names>
+            </name>
+            <name>
+              <surname>LaFerla</surname>
+              <given-names>FM</given-names>
+            </name>
+          </person-group>
+          <article-title>Lipopolysaccharide-induced inflammation exacerbates tau pathology by a cyclin-dependent kinase 5-mediated pathway in a transgenic model of Alzheimer's disease</article-title>
+          <source>J Neurosci</source>
+          <year>2005</year>
+          <volume>25</volume>
+          <fpage>8843</fpage>
+          <lpage>8853</lpage>
+          <pub-id pub-id-type="pmid">16192374</pub-id>
+          <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2868-05.2005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B58">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Masliah</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mallory</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Alford</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>DeTeresa</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hansen</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>McKeel</surname>
+              <given-names>DW</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Morris</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Altered expression of synaptic proteins occurs early during progression of Alzheimer's disease</article-title>
+          <source>Neurology</source>
+          <year>2001</year>
+          <volume>56</volume>
+          <fpage>127</fpage>
+          <lpage>129</lpage>
+          <pub-id pub-id-type="pmid">11148253</pub-id>
+        </citation>
+      </ref>
+      <ref id="B59">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sung</surname>
+              <given-names>JY</given-names>
+            </name>
+            <name>
+              <surname>Ceglia</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>KW</given-names>
+            </name>
+            <name>
+              <surname>Ahn</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Halford</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Kwak</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Ho Ryu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schenck</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bardoni</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Scott</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Nairn</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Greengard</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Phosphorylation of WAVE1 regulates actin polymerization and dendritic spine morphology</article-title>
+          <source>Nature</source>
+          <year>2006</year>
+          <volume>442</volume>
+          <fpage>814</fpage>
+          <lpage>817</lpage>
+          <pub-id pub-id-type="pmid">16862120</pub-id>
+          <pub-id pub-id-type="doi">10.1038/nature04976</pub-id>
+        </citation>
+      </ref>
+      <ref id="B60">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fischer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sananbenesi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Pang</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>Opposing roles of transient and prolonged expression of p25 in synaptic plasticity and hippocampus-dependent memory</article-title>
+          <source>Neuron</source>
+          <year>2005</year>
+          <volume>48</volume>
+          <fpage>825</fpage>
+          <lpage>838</lpage>
+          <pub-id pub-id-type="pmid">16337919</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.neuron.2005.10.033</pub-id>
+        </citation>
+      </ref>
+      <ref id="B61">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>McAllister</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lindholm</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Distinct destructive signal pathways of neuronal death in Alzheimer's disease</article-title>
+          <source>Trends Mol Med</source>
+          <year>2006</year>
+          <volume>12</volume>
+          <fpage>574</fpage>
+          <lpage>579</lpage>
+          <pub-id pub-id-type="pmid">17055782</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.molmed.2006.10.002</pub-id>
+        </citation>
+      </ref>
+      <ref id="B62">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takashima</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>GSK-3 is essential in the pathogenesis of Alzheimer's disease</article-title>
+          <source>J Alzheimers Dis</source>
+          <year>2006</year>
+          <volume>9</volume>
+          <fpage>309</fpage>
+          <lpage>317</lpage>
+          <pub-id pub-id-type="pmid">16914869</pub-id>
+        </citation>
+      </ref>
+      <ref id="B63">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sekine</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Takeda</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ichijo</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>The ASK1-MAP kinase signaling in ER stress and neurodegenerative diseases</article-title>
+          <source>Curr Mol Med</source>
+          <year>2006</year>
+          <volume>6</volume>
+          <fpage>87</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="pmid">16472116</pub-id>
+          <pub-id pub-id-type="doi">10.2174/156652406775574541</pub-id>
+        </citation>
+      </ref>
+      <ref id="B64">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monaco</surname>
+              <given-names>EA</given-names>
+              <suffix>3rd</suffix>
+            </name>
+          </person-group>
+          <article-title>Recent evidence regarding a role for Cdk5 dysregulation in Alzheimer's disease</article-title>
+          <source>Curr Alzheimer Res</source>
+          <year>2004</year>
+          <volume>1</volume>
+          <fpage>33</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="pmid">15975083</pub-id>
+          <pub-id pub-id-type="doi">10.2174/1567205043480519</pub-id>
+        </citation>
+      </ref>
+      <ref id="B65">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>KT</given-names>
+            </name>
+          </person-group>
+          <article-title>Stabilization and activation of p53 induced by Cdk5 contributes to neuronal cell death</article-title>
+          <source>J Cell Sci</source>
+          <year>2007</year>
+          <volume>120</volume>
+          <fpage>2259</fpage>
+          <lpage>2271</lpage>
+          <pub-id pub-id-type="pmid">17591690</pub-id>
+          <pub-id pub-id-type="doi">10.1242/jcs.03468</pub-id>
+        </citation>
+      </ref>
+      <ref id="B66">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McShea</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>HG</given-names>
+            </name>
+            <name>
+              <surname>Petersen</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Casadesus</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Vincent</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Linford</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Funk</surname>
+              <given-names>JO</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Neuronal cell cycle re-entry mediates Alzheimer disease-type changes</article-title>
+          <source>Biochim Biophys Acta</source>
+          <year>2007</year>
+          <volume>1772</volume>
+          <fpage>467</fpage>
+          <lpage>472</lpage>
+          <pub-id pub-id-type="pmid">17095196</pub-id>
+        </citation>
+      </ref>
+      <ref id="B67">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Woods</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Snape</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>The cell cycle hypothesis of Alzheimer's disease: suggestions for drug development</article-title>
+          <source>Biochim Biophys Acta</source>
+          <year>2007</year>
+          <volume>1772</volume>
+          <fpage>503</fpage>
+          <lpage>508</lpage>
+          <pub-id pub-id-type="pmid">17223322</pub-id>
+        </citation>
+      </ref>
+      <ref id="B68">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamdane</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Buée</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The complex p25/Cdk5 kinase in neurofibrillary degeneration and neuronal death: the missing link to cell cycle</article-title>
+          <source>Biotechnol J</source>
+          <year>2007</year>
+          <volume>2</volume>
+          <fpage>967</fpage>
+          <lpage>977</lpage>
+          <pub-id pub-id-type="pmid">17571276</pub-id>
+          <pub-id pub-id-type="doi">10.1002/biot.200700059</pub-id>
+        </citation>
+      </ref>
+      <ref id="B69">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Powers</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>Workman</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Targeting of multiple signalling pathways by heat shock protein 90 molecular chaperone inhibitors</article-title>
+          <source>Endocr Relat Cancer</source>
+          <year>2006</year>
+          <fpage>S125</fpage>
+          <lpage>S135</lpage>
+          <pub-id pub-id-type="pmid">17259553</pub-id>
+          <pub-id pub-id-type="doi">10.1677/erc.1.01324</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:34Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2822523" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2822523</identifier><datestamp>2010-02-17</datestamp><setSpec>bmcgeno</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Genomics</journal-id>
+      <journal-title-group>
+        <journal-title>BMC Genomics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1471-2164</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2822523</article-id>
+      <article-id pub-id-type="pmid">20158866</article-id>
+      <article-id pub-id-type="publisher-id">1471-2164-11-S1-S1</article-id>
+      <article-id pub-id-type="doi">10.1186/1471-2164-11-S1-S1</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mechanisms of chromosomal rearrangement in the human genome</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="A1">
+          <name>
+            <surname>Tsai</surname>
+            <given-names>Albert G</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>albertts@usc.edu</email>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes" id="A2">
+          <name>
+            <surname>Lieber</surname>
+            <given-names>Michael R</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>lieber@usc.edu</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>USC Norris Comprehensive Cancer Ctr., Rm. 5428 Departments of Pathology, Biochemistry &amp; Molecular Biology, Molecular Microbiology &amp; Immunology, and of Biological Sciences (Section of Molecular &amp; Computational Biology), University of Southern California 1441 Eastlake Ave., MC9176 Los Angeles, CA 90089-9176, USA</aff>
+      <pub-date pub-type="collection">
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>2</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>Suppl 1</issue>
+      <supplement>
+        <named-content content-type="supplement-title">International Workshop on Computational Systems Biology: Approaches to Analysis of Genome Complexity and Regulatory Gene Networks</named-content>
+        <named-content content-type="supplement-editor">Vladimir A Kuznetsov and Jun Liu</named-content>
+        <named-content content-type="supplement-sponsor">Publication of this supplement was made possible with help from the Bioinformatics Agency for Science, Technology and Research of Singapore and the Institute for Mathematical Sciences at the National University of Singapore.</named-content>
+        <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/content/pdf/1471-2164-11-S1-info.pdf">http://www.biomedcentral.com/content/pdf/1471-2164-11-S1-info.pdf</ext-link>
+      </supplement>
+      <fpage>S1</fpage>
+      <lpage>S1</lpage>
+      <permissions>
+        <copyright-statement>Copyright ©2010 Lieber and Tsai; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <copyright-holder>Lieber and Tsai; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="http://www.biomedcentral.com/1471-2164/11/S1/S1"/>
+      <abstract>
+        <p>Many human cancers are associated with characteristic chromosomal rearrangements, especially hematopoietic cancers such as leukemias and lymphomas. The first and most critical step in the rearrangement process is the induction of two DNA double-strand breaks (DSB). In all cases, at least one of the two DSBs is generated by a pathologic process, such as (1) randomly-positioned breaks due to ionizing radiation, free radical oxidative damage, or spontaneous hydrolysis; (2) breaks associated with topoisomerase inhibitor treatment; or (3) breaks at direct or inverted repeat sequences, mediated by unidentified strand breakage mechanisms. In lymphoid cells, one of the two requisite DSBs is often physiologic, the result of V(D)J recombination or class switch recombination (CSR) at the lymphoid antigen receptor loci. The RAG complex, which causes the DSBs in V(D)J recombination, can cause (4) sequence-specific, pathologic DSBs at sites that fit the consensus of their normal V(D)J recombination signal targets; or (5) structure-specific, pathologic DSBs at regions of single- to double-strand transition. CSR occurs specifically in the B-cell lineage, and requires (6) activation-induced cytidine deaminase (AID) action at sites of single-stranded DNA, which may occur pathologically outside of the normal target loci of class switch recombination regions and somatic hypermutation (SHM) zones. Recent work proposes a seventh mechanism: the sequential action of AID and the RAG complex at CpG sites provides a coherent model for the pathologic DSBs at some of the most common sites of translocation in human lymphoma – the bcl-2 gene in follicular lymphoma and diffuse large B-cell lymphoma, and the bcl-1 gene in mantle cell lymphoma.</p>
+      </abstract>
+      <conference>
+        <conf-date>20–25 November 2008</conf-date>
+        <conf-name>International Workshop on Computational Systems Biology Approaches to Analysis of Genome Complexity and Regulatory Gene Networks</conf-name>
+        <conf-loc>Singapore</conf-loc>
+      </conference>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>Somatic cell chromosomal rearrangements are either physiologic events [V(D)J recombination or class switch recombination (CSR)] exclusive to lymphoid cells, or they are pathologic events, often found in neoplasia. This review focuses primarily on these somatic cell types. Constitutional rearrangements which arise during gametogenesis and the first nuclear divisions of the fertilzed egg, and rearrangements which occur during evolution and population selection are beyond the scope of this review, but similar principles of breakage and rejoining apply, particularly the rejoining of double-strand breaks by nonhomologous DNA end joining (NHEJ).</p>
+      <p>All cancers begin with somatic cell mutations. Chromosomal rearrangements are important types of mutations initiated by two double-strand DNA breaks (DSBs), resulting in four DNA ends (Figure <xref ref-type="fig" rid="F1">1</xref>). The four DNA ends can be rejoined in a new configuration as a translocation. Translocations are found at high frequencies in many malignancies, especially in the hematopoietic system, but are insufficient to drive carcinogenesis. Thus, they appear to be critical initiating events in such cancers, after which a variety of secondary and apparently less consistent mutations are required to complete the process.</p>
+      <fig id="F1" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p><bold>Features of some neoplastic chromosomal translocations.</bold> Chromosomal translocations in somatic cells are most often encountered in the context of neoplasia. Constitutional translocations arise during gametogenesis or early divisions of the fertilized egg. It is useful to dissect the chromosomal translocation process into two phases: the causes of the breaks and then the rejoining of the four broken ends. [Most chromosomal translocations involve two DSBs, though some can occur during DNA replication (see text).]  In neoplastic translocations, the causes of the two DSBs can be different. In this example, one chromosome break is of the CpG-type (see text), and the other can be a V(D)J-type or a random DSB.  In addition, breaks can be of the class switch type (CSR-type) or somatic hypermutation type (SHM-type). The V(D)J-type, CSR-type, SHM-type, and CpG-type are limited to lymphoid cells, and further limited by stage of differentiation (see text).  Random breaks are thought to be due to oxidative free radicals (reactive oxygen species), ionizing radiation (IR), or topoisomerase failures. The joining of the four DNA ends is done by nonhomologous DNA end joining (NHEJ) in most cases.  The causes of the breaks all generate heterogeniety at the break site, and NHEJ creates additional heterogeneity at the joining site. Hence, even when both translocation junctions are sequenced, one can only trace the site or boundary of the original breaks to a zone of at least several nucleotides (often longer, such as 10-20 bp). Less commonly, no nucleotides are lost from either DSB site, and this permits determination of the specific phosphodiester bonds at which the original DSBs occurred. This proved useful for defining the CpG-type break (see text).  Some of the specific translocations discussed here have been previously diagrammed in more detail [<xref ref-type="bibr" rid="B26">26</xref>-<xref ref-type="bibr" rid="B28">28</xref>]. The normal V(D)J and class switch recombination processes have been previously diagrammed [<xref ref-type="bibr" rid="B5">5</xref>-<xref ref-type="bibr" rid="B9">9</xref>]
+					.</p>
+        </caption>
+        <graphic xlink:href="1471-2164-11-S1-S1-1"/>
+      </fig>
+      <p>Translocations occur in two steps: a cutting step and a joining step.  The joining step is usually done by the major repair pathway for double-strand DNA breaks, NHEJ.  NHEJ joins the ends of most DSBs in most eukaryotic cells, and it can join any two incompatible or compatible DNA ends, even though they usually have no homology. (In rare patients with mutations in NHEJ or in mouse models lacking all NHEJ factors, other enzymes can substitute for the missing factors, and this is often called alternative NHEJ [<xref ref-type="bibr" rid="B1">1</xref>-<xref ref-type="bibr" rid="B4">4</xref>].) The other major pathway is called homologous recombination, which is largely restricted to late S and G2 of the cell cycle and requires hundreds of base pairs of homology. The natural causes of DSB formation – the cutting mechanisms – are often more difficult to determine and are the focus of this review. As with somatic cell rearrangements, one can organize DSBs into those that are pathologic (maladaptive) and those that are physiologic (programmed or adaptive). Physiologic DSBs participate in physiologic rearrangements whereas pathologic DSBs by definition, do not. In the majority of pathologic chromosomal rearrangements, one of the two requisite DSBs is pathologic, and the other is physiologic (occurs during the course of a physiologic gene rearrangement process).</p>
+    </sec>
+    <sec>
+      <title>Physiologic causes of double-strand DNA breaks</title>
+      <p>In the somatic cells of multicellular eukaryotes, physiologic DSBs only occur in the lymphoid cells of the vertebrate immune system as a way of generating a diverse array of receptors for binding to antigens of invading organisms.</p>
+      <sec>
+        <title>V(D)J recombination</title>
+        <p>B-cells and T-cells bind and recognize foreign antigens using the variable domains of B-cell receptors (immunoglobulins, or Ig) and T-cell receptors (TCR), respectively. Igs and TCRs are encoded by the Ig and TCR gene loci, which are organized into a set of V gene segments, followed sometimes by a set of D gene segments, followed by a set of J gene segments. Using the process of V(D)J recombination, early B cells (pro-B and pre-B cells residing in the bone marrow) and early T cells (pro-T and pro-T residing in the thymus) select one V, one D, and one J segment and join them together into the antigen receptor variable domain exon, deleting the intervening segments [<xref ref-type="bibr" rid="B5">5</xref>-<xref ref-type="bibr" rid="B9">9</xref>].</p>
+        <p>These early lymphoid cells express the RAG1 and RAG2 proteins, which combine with the constitutively-expressed HMGB1 or 2 to form the RAG complex. The RAG complex binds at special sequences termed recombination signal sequences (RSS) located directly adjacent to the V, D, or J segments. RSS are composed of a heptamer of consensus CACAGTG, and a nonamer of consensus ACAAAAACC, with an intervening spacer of 12 or 23 bp. A 12 bp-spaced RSS is termed a 12-RSS and a 23 bp-spaced RSS is termed a 23-RSS. After binding, the RAG complex makes a nick 5’ of the RSS heptamer sequence. This results in a single-strand break with a 5’ phosphate and a 3’ hydroxyl (OH). One 12-RSS and one 23-RSS must synapse, or bind the same RAG complex, before the complex can progress to the next step, which is use of the 3' OH to attack the opposite DNA strand, creating a hairpin DNA end at the terminus of the V, D or J segment, and a blunt DNA end containing the RSS.</p>
+        <p>Once the hairpins are generated, enzymes of the NHEJ pathway open the hairpins and join the resulting ends [<xref ref-type="bibr" rid="B10">10</xref>,<xref ref-type="bibr" rid="B11">11</xref>]. As a result, the requisite antigen receptor gene segments are assembled next to one another, forming a functional antigen receptor variable domain exon.</p>
+        <p>In B and T cell development, V(D)J recombination occurs not only in the earliest lymphoid precursors, but also in later stages of B and T cell development in secondary V(D)J recombination events called receptor editing or receptor revision. (Recombination failures that lead to translocations can occur at any point [<xref ref-type="bibr" rid="B1">1</xref>-<xref ref-type="bibr" rid="B4">4</xref>].)</p>
+      </sec>
+      <sec>
+        <title>Class switch recombination</title>
+        <p>After V(D)J recombination, B cells, but not T-cells, can later undergo a second type of recombination event called class switch recombination (CSR), which changes the type of immunoglobulin they produce from IgM and IgD to IgG, IgA, or IgE. This change in the constant portion of the Ig heavy chain enhances phagocytosis of antibody-bound antigens and allows antibodies to penetrate extravascular regions of the body, such as epithelial surfaces in the lungs, gastrointestinal tract, and genitourinary system.</p>
+        <p>Downstream of the Ig heavy chain J segments is a set of constant domains, each preceded by a several kilobases-long CSR target region termed a class switch sequence [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B13">13</xref>]. Following successful V(D)J recombination, Ig heavy chain transcription runs through the variable domain, the IgM switch sequence, and the IgM and IgD constant regions. Alternative splicing determines production of IgM or IgD. Subsequently, B-cells can be activated by cytokine stimulation, which drives transcription through the IgG, IgA, or IgE switch regions. Different cytokines drive transcription through different switch regions. The RNA generated at switch regions is very G-rich, having a tendency to thread-back onto the template DNA strand from which they were transcribed, and causing formation of what is called an R-loop structure [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B15">15</xref>]. In an R-loop, the RNA is hybridized to its template DNA strand, with the nontemplate DNA strand left single-stranded.</p>
+        <p>CSR requires a protein called activation-induced deaminase (AID) [<xref ref-type="bibr" rid="B16">16</xref>], predominantly expressed in B cells located in the germinal centers of the lymph nodes, spleen, and Peyer's patches.  AID is a cytidine deaminase that converts cytosine (C) to uracil (U) or 5-methylcytosine (5-meC) to thymine (T). Importantly, AID only functions on single-stranded DNA (ssDNA) and is therefore a structure-specific deaminase [<xref ref-type="bibr" rid="B17">17</xref>-<xref ref-type="bibr" rid="B19">19</xref>].  AID generates Us in the nontemplate strand ssDNA at switch regions, which are excised by uracil DNA glycosylase (UDG), leaving abasic sites [<xref ref-type="bibr" rid="B20">20</xref>].  Apurinic/apyrimidinic endonuclease (APE) nicks the phosphodiester bond on the 5' side of any abasic site. Single-stranded regions occur on the template strand at the edges of the R-loop, where the RNA ceases to hybridize. Nicking on the nontemplate strand and on the template strand thus results in a DSB. We call these types of DSBs CSR-type. This term is useful for some translocations that require AID, but where the break is at a genomic site other than the Ig class switch regions. Such locations could be called off-target, and an example is the c-myc translocation in Burkitt lymphoma [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>].</p>
+        <p>AID also functions in somatic hypermutation (SHM) at Ig variable domains of the light and heavy chains, causing point mutations, some of which increase the affinity of the Ig for its antigen [<xref ref-type="bibr" rid="B20">20</xref>]. It is not yet clear how single-strandedness arises at the variable domains to permit AID to function in SHM. Transcription alone appears to be insufficient, as not all transcribed sequences undergo SHM.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Pathologic causes of double-strand DNA breaks</title>
+      <p>Pathologic DSBs are arbitrarily defined as DSBs which serve no physiologic purpose and may lead to cell dysfunction.</p>
+      <sec>
+        <title>Random DNA breaks due to ionizing radiation or oxidative free radicals</title>
+        <p>In many chromosomal rearrangements, the DSBs at one or both genes appear to be located randomly within large regions of many kilobases. Random positioning and the apparent lack of sequence propensity are suggestive of sequence-nonspecific DSB mechanisms such as oxidative free radicals, ionizing radiation, or less commonly, spontaneous DNA backbone hydrolysis.</p>
+        <p>About half of the natural ionizing radiation of the environment originates from natural heavy metals of the earth, such as uranium, thorium, and even potassium. The other half of the ionizing radiation emanates from cosmic radiation that is not entirely blocked by the atmosphere. In total, about 3 x 10<sup>8</sup> ionizing radiation particles pass through each of us every hour [<xref ref-type="bibr" rid="B10">10</xref>], producing hydroxyl free radicals from water in their wake.  This tract of hydroxyl free radicals causes cluster damage on DNA, thereby breaking both DNA strands.</p>
+        <p>About 0.1% of the oxygen that we breathe is converted to free radicals [<xref ref-type="bibr" rid="B21">21</xref>]. This generates 3 x10<sup>22</sup> free radicals per hour within each of us, and these damaging free radicals are distributed across the 10<sup>14</sup> cells of the human body.  Free radicals cause predominantly single-strand DNA damage, but two nearby such events can result in a DSB.</p>
+      </sec>
+      <sec>
+        <title>RAG action at cryptic RSS sites at off-target locations in a sequence-specific manner: V(D)J-type breaks</title>
+        <p>The RSS heptamer/nonamer consensus sequence is by no means unique to the Ig and TCR loci, and the RAG complex can cut at sites which differ substantially from the 16 bp consensus [<xref ref-type="bibr" rid="B22">22</xref>]. The minimal motif for RAG nicking is only CAC. Thus the RAG complex can act at RSS-like non-antigen receptor locus sites, termed cryptic RSS (cRSS). This occurs in many of the rearrangements observed in human T-cell acute lymphoblastic lymphoma [<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B25">25</xref>].  In these cases, instead of the RAG complex pairing a 12-RSS with a 23-RSS, a 12-RSS pairs with a 23-cRSS or a 23-RSS pairs with a 12-cRSS. We call these breaks V(D)J-type breaks because they are occurring via the same mechanism as normal V(D)J recombination, regardless of the fact that one of the sites is outside of the usual antigen receptor loci (that is, it is off-target). </p>
+      </sec>
+      <sec>
+        <title>RAG action at DNA bubble structures and other regions of heterology in a structure-specific manner</title>
+        <p>In addition to its sequence-specific mode of cutting, the RAG complex can also nick in a structure-specific manner at sites of transition from dsDNA to ssDNA, such as occurs at the edges of bubble DNA structures or even single-base mismatches [<xref ref-type="bibr" rid="B26">26</xref>-<xref ref-type="bibr" rid="B28">28</xref>]. Such activity by the RAG complex may have arisen because the RAG complex is accustomed to creating hairpin structures, which involves substantial DNA distortion. Hence, any region of mismatch or slippage is a potential target for nicking by the RAG complex in lymphoid cells.</p>
+      </sec>
+      <sec>
+        <title>RAG-mediated transposition as a mechanism for chromosomal rearrangement</title>
+        <p>From 1998 to 2007, several laboratories proposed that the RAG complex might insert the blunt RSS-containing ends from V(D)J recombination, termed signal ends, into new locations in the genome. This is called RAG transposition, and occurs at a low level using a truncated form of the RAG proteins called core RAGs (reviewed in [<xref ref-type="bibr" rid="B7">7</xref>]). However, efforts to find RAG transposition events in vivo showed that these were much less common than random integration of DNA [<xref ref-type="bibr" rid="B29">29</xref>]. Finally, there are no examples of human lymphoid malignancies (or any other type of malignancy) where the genome was altered by a RAG transpositional insertion of signal ends (or any other apparent variant of such a transposition).</p>
+      </sec>
+      <sec>
+        <title>AID action at off-target locations</title>
+        <p>As mentioned in the above discussion of class switch recombination, AID can convert C to U or methyl C or T at any region of ssDNA. This appears to occur not only at the switch sequences and variable domains of the Ig loci, but also at some pathologic locations, such as some oncogenes like c-myc [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>]. When targeted by AID, these regions may sustain point mutations or DSBs [<xref ref-type="bibr" rid="B30">30</xref>]. AID action at the IgH switch region during CSR and independent AID action at the c-myc gene to create a DSB are thought to be the basis of the two initiating DSBs in both mouse and human c-myc translocations [<xref ref-type="bibr" rid="B1">1</xref>-<xref ref-type="bibr" rid="B4">4</xref>]. One could regard breaks of this type as CSR-type breaks (as mentioned above in the discussion of class switch recombination) or SHM-type breaks, where SHM refers to AID initiated events of the type similar to what normally occurs in somatic hypermutation.</p>
+      </sec>
+      <sec>
+        <title>Putative combined action of AID and RAGs at CpG sites: CpG-type breaks</title>
+        <p>Recently, we reported that DSBs at certain loci in pro-B/pre-B stage translocations – the bcl-2 from t(14;18), the bcl-1 from t(11;14), and E2A from t(1;19) – have a strong propensity to occur at the dinucleotide sequence CpG.</p>
+        <p>The bcl-2 translocation is the most common translocation in cancer, occurring in &gt;90% of follicular lymphomas and a third of diffuse large cell lymphomas. Fifty percent of the breaks at the bcl-2 gene occur within the major breakpoint region (MBR), which is a 175 bp hotspot in the 3' most exon in the region encoding the 3'UTR. Two less-frequently used hotspots are located 18 and 29 kb further distal to the bcl-2 gene, the 105 bp bcl-2 intermediate cluster region (icr), and the 561 bp bcl-2 minor cluster region (mcr), respectively. Any of the CpG sites within any of these three bcl-2 translocation zones can be a target for a DSB [<xref ref-type="bibr" rid="B28">28</xref>]. Thirteen percent of bcl-2 translocation breaks are located in the icr, and 5% in the mcr.</p>
+        <p>The use of CpGs applies also to the bcl-1 major translocation cluster, which is the location involved in the t(11;14) translocation. The bcl-1 translocation occurs in almost all mantle cell lymphomas, with 30% of the breaks occurring at the 150 bp bcl-1 major translocation cluster (MTC).</p>
+        <p>CpG-type breaks also occur in a third lymphoid malignancy, the t(1;19) in a small percentage of pre-B ALLs, a translocation which occurs between the Pbx1 gene and the E2A gene. The breaks at the E2A gene occur in a zone of only 23 bp, and these DSBs are also significantly clustered around CpG sites [<xref ref-type="bibr" rid="B28">28</xref>]. All three translocations involving the bcl-2, bcl-1 and E2A occur at the pro-B/pre-B stage of B-cell development.</p>
+        <p> The bcl-2 MBR is reactive with a chemical probe for single-strandedness called bisulfite [<xref ref-type="bibr" rid="B27">27</xref>]. Like the bcl-2 MBR, this bcl-1 MTC is relatively small (150 bp) and features a similar reactivity to bisulfite [<xref ref-type="bibr" rid="B31">31</xref>]. These highly bisulfite reactive zones are rich in runs of Cs. Based on circular dichroism, X-ray crystallography, NMR, and chemical probing, such runs of Cs tend to adopt a DNA structure that is intermediate between B-form DNA and A-form DNA, termed B/A-intermediate [<xref ref-type="bibr" rid="B31">31</xref>]. The B/A-intermediate structure has more rapid opening kinetics, perhaps accounting for part of the observed increase in bisulfite reactivity. Such unusual DNA regions may be more prone to slippage events, perhaps induced by DNA replication or transcription. This may then account for their vulnerability in minichromosomal recombination assays [<xref ref-type="bibr" rid="B27">27</xref>].</p>
+        <p>The Cs of the CpGs within or directly adjacent to these B/A-intermediate zones are at increased risk of undergoing deamination [<xref ref-type="bibr" rid="B28">28</xref>]. This deamination does not apply to all Cs in the region, but only the Cs that are within CpG sites. The only distinctive feature about such Cs within CpGs is that they can be methylated by DNA methyltransferase.  When regular Cs deaminate, they become U, resulting in a U:G mismatch.  But when methyl Cs deaminate, they become T, resulting in a T:G mismatch. The repair of U:G mismatches is very efficient, but the repair of T:G mismatches is not efficient. In fact, T:G mismatch repair is so inefficient, it accounts for about half of the point mutations at the p53 gene across a wide range of human cancers. These T:G mismatch sites are always at CpG sites.</p>
+        <p>What causes the break at these T:G mismatch sites?  Interestingly, this deamination at these lymphoid translocation hotspots appears to occur at the pre-B stage of differentiation.  This is the stage of B cell development when D to J recombination is occurring most vigorously. Since the bcl-2 and bcl-1 translocations occur at this stage, this seems likely to be the stage of the translocation.  We have shown that the RAG complex can cause a DSB at sites of small bubble structures, and even single base pair mismatches. (As mentioned above, this action by the RAG complex reflects its structure-specific nuclease activity, perhaps a feature that reflects the structure-specific actions by the RAG complex during the hairpin formation step of V(D)J recombination.) Therefore, we have proposed that the RAG complex makes the DSBs at the sites of T:G mismatch [<xref ref-type="bibr" rid="B28">28</xref>].</p>
+        <p>If the RAG complex causes the DSBs at CpG sites, then why do such CpG-type breaks not occur in pre-T cells, which also express the RAG enzyme complex? The B cell lineage expresses a cytidine deaminase for class switch recombination and somatic hypermutation. As mentioned above, this enzyme is called activation-induced deaminase (AID). AID is expressed in B cells but not other somatic cells. AID is most highly expressed in B cells when they are in the germinal centers. However, a low level of AID expression has been described in pre-B cells [<xref ref-type="bibr" rid="B32">32</xref>-<xref ref-type="bibr" rid="B34">34</xref>]. Moreover, B cells just leaving the bone marrow, called transitional B cells, also are thought to express AID [<xref ref-type="bibr" rid="B1">1</xref>].  Therefore, there is a period of time when B cells are completing V(D)J recombination and beginning to express AID when both AID and the RAG complex are present in the B cells. AID has been shown to be capable of deaminating methyl C to T.  Therefore, we propose that AID is likely responsible for the mutation of meC to T at CpG sites in early B cells. The resulting T:G mismatch is then cut by the RAG complex, resulting in a DSB. This model explains three peaks of translocation located within the bcl-2 MBR, all of which are centered at CpG sites [<xref ref-type="bibr" rid="B28">28</xref>].</p>
+      </sec>
+      <sec>
+        <title>Other causes of pathologic DSBs of unknown mechanism</title>
+        <p>Certain translocations are heavily associated with type II topoisiomerase inhibitor therapy [<xref ref-type="bibr" rid="B35">35</xref>]. After such therapy, some patients develop secondary malignancies with these characteristic translocations. Topoisomerases in general make single- or double-strand breaks in order to wind or unwind DNA, thus they have a nuclease activity as part of their function. After winding or unwinding the DNA, they normally reseal the break(s). It has been proposed that interruption or prevention of resealing may result in stable breaks seen in chromosomal rearrangements [<xref ref-type="bibr" rid="B36">36</xref>,<xref ref-type="bibr" rid="B37">37</xref>].</p>
+        <p>Some DSBs arise at sites nearby direct or inverted DNA repeats. Such repeats may give rise to slipped DNA structures containing regions of single-stranded DNA, which may be targets for cleavage. The best example of this is the constitutional translocation t(11;22)(q23;q11), which contains an AT-rich palindrome of several hundred bases, with potential for cruciform formation.</p>
+      </sec>
+      <sec>
+        <title>Combination of multiple DSB mechanisms within a rearrangement</title>
+        <p>Given that two DSBs are required to generate a translocation, the two breaks are often not related to one another.  In the bcl-2 and bcl-1 translocations, for example, the break at the IgH locus is a V(D)J-type break generated by the <italic>sequence</italic>-specific action of the RAG complex during V(D)J recombination. (One could consider this to be a failure in the completion of the normal V(D)J recombination process [<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B25">25</xref>].) The DSB at the bcl-2 or bcl-1 locus is a CpG-type break that has been proposed to be due to the sequential action of AID and the <italic>structure</italic>-specific nicking activity of the RAG complex [<xref ref-type="bibr" rid="B28">28</xref>].</p>
+        <p>Even within a given locus, there can be a wide range of DSB mechanisms. The SCL and LMO2 loci predominantly both sustain V(D)J-type DSBs, but one-third or more of the DSBs are incompatible with the sequence requirements for V(D)J-type DSBs, and these may be due to free radical damage, ionizing radiation, or topoisomerase failures. Different loci within a single cell are therefore prone to different types of DSB mechanisms.</p>
+      </sec>
+      <sec>
+        <title>Replication-induced DSBs</title>
+        <p>During DNA replication, deletions can arise due to slippage of the synthesizing strand on the template strand. Chromosomal rearrangements that occur at specific hotspots, whether in cancer in somatic cells or during gametogenesis/initial developmental divisions as constitutional translocations, are called recurrent translocations that can be seen across many patients. Nonrecurrent translocations are those that occur at different locations from one patient to another but alter or inactivate a gene that causes a disease.  Unlike the recurrent translocations that we have discussed in cancer above, the mechanisms that cause the strand exchange in nonrecurrent translocations appear to involve template switching during replicative DNA synthesis. These template switches can occur at small regions of DNA sequence homology, such as 5 bp. This template switching has been called microhomology-mediated breakage-induced replication (MMBIR) or Fork Stalling and Template Switching (FoSTeS). For nonrecurrent translocation junctions that involve several long stretches of sequence from regions of the genome that are normally separated from one another, multiple template switching events has been proposed as a mechanism [<xref ref-type="bibr" rid="B38">38</xref>,<xref ref-type="bibr" rid="B39">39</xref>].</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Biological factors and neoplastic chromosomal translocations</title>
+      <p>This review has not emphasized the neoplastic cellular proliferation advantage provided by these chromosomal rearrangements [<xref ref-type="bibr" rid="B40">40</xref>,<xref ref-type="bibr" rid="B41">41</xref>]. Rather, here we have focused on the factors that make some very focal (23 to 561 bp) DNA sequences particularly prone to repeated rearrangement events in a wide range of different patients, even though the translocations could have arisen within zones of 29 kb, as in the case of the bcl-2 gene or 100 kb, as in the bcl-1 translocation.</p>
+      <p>Recurrent rearrangements found in particular cancers are oncogenic, and by nature provide a growth advantage. Some such rearrangements result in the genesis of chimeric fusion transcripts between two genes, and such is the case for the t(1;19) translocation involving E2A and Pbx1 [<xref ref-type="bibr" rid="B42">42</xref>-<xref ref-type="bibr" rid="B47">47</xref>]. In these cases, the DSB could, in principle, occur across much of the length of a given intron within each gene so as to create the neoplastic fusion transcript. For the Pbx1 gene, the breaks occur diffusely in an intron in this way, and these DSBs are likely random and due to mechanisms such as free radical damage (i.e., ROS), ionizing radiation (IR), or topoisomerase failures. But the break at the E2A gene is focused to a 23 bp zone that is 150-fold tighter than the 3.2 kb intron in which it is located, and this is a CpG-type break site.</p>
+      <p>The same concepts apply to the t(9;22) translocation, the hallmark in chronic myeloid leukemia (CML) and also common in the t(9;22) ALLs in which the BCR gene and the ABL gene fuse and produce a p210 fusion transcript [<xref ref-type="bibr" rid="B48">48</xref>]. DSB formation at both the BCR gene and the ABL gene occur over broad translocation zones of more than 5.8 kb at the BCR gene and a much broader approximately 200 kb zone at the ABL gene [<xref ref-type="bibr" rid="B49">49</xref>-<xref ref-type="bibr" rid="B52">52</xref>]. Among the translocations that give rise to malignancy, the fusion gene minimally contains the first exon of BCR, which contains an oligomerization domain, and almost always contains exons 2 to 11 of ABL, which encode the tyrosine kinase. The 200 kb breakage zone at ABL contains translocation break sites distributed anywhere between alternative exons 1a and 1b. The 5.8 kb breakage zone at BCR is the major breakpoint cluster region (M-BCR) and encompasses a region containing exons 13 and 14. [A minor BCR, m-BCR (~130 kb in length), can give rise to a shorter p190 fusion gene and is located in intron 1.] Leukemia only arises from those fusion genes that can produce an mRNA encoding a functional protein: thus, only certain splice combinations produce a BCR/ABL protein. Therefore, it is not the increased breakage in the BCR that makes it a translocation zone; it is the lack of growth advantage outside of the zone which demarcates the boundaries of where the zone can be.</p>
+      <p>Again, the DSBs at both the BCR and ABL are likely due to random causes (ROS, IR, toposimerase failures).  Therefore, it is useful to distinguish between focal hotspots (i.e., high concentrations of breaks at small zones within the total breakage zone, usually &lt;200 bp), as in the bcl-2, bcl-1 or E2A cases, and broad translocation zones that often span the length of an entire intron (usually kilobases, and sometimes tens of kilobases or more).</p>
+      <p>For translocations involving focal hotspots, there are two factors that make the translocation clinically apparent: the increased propensity for DSB and the growth advantage.  In contrast, for translocations that have no hotspot propensity, then only the growth advantage acts to bring the translocation to the level of clinically attention [<xref ref-type="bibr" rid="B28">28</xref>].</p>
+    </sec>
+    <sec>
+      <title>Relevance to constitutional chromosomal rearrangements and to changes in a genome during evolution</title>
+      <p>We have focused here on neoplastic chromosomal rearrangements. As mentioned, the breakage and rejoining mechanisms and concepts may be relevant to constitutional translocations or changes in a genome during evolution. The most common constitutional chromosomal rearrangement is the t(11;22) in the Emanuel Syndrome [<xref ref-type="bibr" rid="B35">53</xref>]. In this case, inverted repeats result in cruciform formation, creating a DNA structure that is vulnerable to DNA enzymes that can act on various portions of the cruciform structure. Once broken, the DNA ends likely join by NHEJ. Hence, the concepts of DNA structural deviation, followed by inadvertent action of a physiologic DNA enzyme to cause the break and rejoining by NHEJ have more general relevance.</p>
+      <p>During evolution, some of the chromosomal rearrangements that arise during speciation are almost certain to share themes with those discussed here, including breakage at sites of DNA structural variation and joining by NHEJ. Replication-based mechanisms mentioned briefly here and discussed in detail elsewhere are also likely to be very important for major genomic rearrangements [<xref ref-type="bibr" rid="B38">38</xref>,<xref ref-type="bibr" rid="B39">39</xref>].</p>
+    </sec>
+    <sec>
+      <title>List of abbreviations used</title>
+      <p>NHEJ: nonhomologous DNA end joining; RAG: recombination activating gene; AID: activation-induced deaminase; RAG complex: RAG1:RAG2:HMGB1 proteins in a complex; V(D)J: variable (diversity) joining, which refers to segments of DNA joined by the RAG1:RAG2:HMGGB1 complex to generate the variable domain exons of immunoglobulins and T-cell receptors; V(D)J recombination: the process of joining of V, D, and J coding segments together to form the variable domain exon; RSS: recombination signal sequence, which is also called the signal sequence. The RSS or signal sequence is the site where the RAG complex binds. The RSS or signal sequence consists of a heptamer (CACAGTG; this consensus sequence can vary at the right side from one signal to another) and a nonamer (ACAAAAACC; this consensus sequence varies quite a bit); Coding sequence: any sequence adjacent to an RSS; Coding end: the DNA end generated by RAG cleavage. This has a hairpin configuration until it the hairpin is opened by the Artemis:DNA-PKcs complex; Signal end: the DNA end at the RSS side generated by RAG cleavage. This has a 5'P and 3'OH; CSR: class switch recombination; Class switch sequences or regions: repetitive units of length 25 to 80 that compose the class switch recombination regions in mammalian B cells; ALL: acute lymphoblastic leukemia or lymphoma. The distinction of the leukemia or lymphoma for ALL is largely arbitrary. If the patient presents with extensive bone marrow and peripheral blood ALL cells, then the designation leukemia is preferred. If the patient presents with a mass lesion and &lt;25% ALL cells in the bone marrow, the term lymphoma is preferred.</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>Both authors wrote all portions of the text.</p>
+    </sec>
+  </body>
+  <back>
+    <sec>
+      <title>Acknowledgements</title>
+      <p>The authors thank helpful discussions with Dr. Bharat Nathwani, Dr. Chih-Lin Hsieh, Darryl Shibata and members of the Lieber laboratory.  Work in the Lieber laboratory is supported by the NIH.</p>
+      <p>This article has been published as part of <italic>BMC Genomics</italic> Volume 11 Supplement 1, 2010: International Workshop on Computational Systems Biology Approaches to Analysis of Genome Complexity and Regulatory Gene Networks. The full contents of the supplement are available online at <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2164/11?issue=S1">http://www.biomedcentral.com/1471-2164/11?issue=S1</ext-link>.</p>
+    </sec>
+    <ref-list>
+      <ref id="B1">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Wang</surname>
+            <given-names>JH</given-names>
+          </name>
+          <name>
+            <surname>Alt</surname>
+            <given-names>FW</given-names>
+          </name>
+          <name>
+            <surname>Gostissa</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Datta</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Murphy</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Alimzhanov</surname>
+            <given-names>MB</given-names>
+          </name>
+          <name>
+            <surname>Coakley</surname>
+            <given-names>KM</given-names>
+          </name>
+          <name>
+            <surname>Rajewsky</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Manis</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Yan</surname>
+            <given-names>CT</given-names>
+          </name>
+          <article-title>Oncogenic transformation in the absence of Xrcc4 targets peripheral B cells that have undergone editing and switching</article-title>
+          <source>J Exp Med</source>
+          <year>2008</year>
+          <volume>205</volume>
+          <fpage>3079</fpage>
+          <lpage>3090</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20082271</pub-id>
+          <pub-id pub-id-type="pmid">19064702</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gostissa</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Ranganath</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bianco</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Alt</surname>
+            <given-names>FW</given-names>
+          </name>
+          <article-title>Chromosomal location targets different MYC family gene members for oncogenic translocations</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>2009</year>
+          <volume>106</volume>
+          <fpage>2265</fpage>
+          <lpage>2270</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0812763106</pub-id>
+          <pub-id pub-id-type="pmid">19174520</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Robbiani</surname>
+            <given-names>DF</given-names>
+          </name>
+          <name>
+            <surname>Bothmer</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Callen</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Reina-San-Martin</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Dorsett</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Difilippantonio</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bolland</surname>
+            <given-names>DJ</given-names>
+          </name>
+          <name>
+            <surname>Chen</surname>
+            <given-names>HT</given-names>
+          </name>
+          <name>
+            <surname>Corcoran</surname>
+            <given-names>AE</given-names>
+          </name>
+          <name>
+            <surname>Nussenzweig</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Nussenzweig</surname>
+            <given-names>MC</given-names>
+          </name>
+          <article-title>AID is required for the chromosomal breaks in c-myc that lead to c-myc/IgH translocations</article-title>
+          <source>Cell</source>
+          <year>2008</year>
+          <volume>135</volume>
+          <fpage>1028</fpage>
+          <lpage>1038</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2008.09.062</pub-id>
+          <pub-id pub-id-type="pmid">19070574</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Mahowald</surname>
+            <given-names>GK</given-names>
+          </name>
+          <name>
+            <surname>Baron</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Sleckman</surname>
+            <given-names>BP</given-names>
+          </name>
+          <article-title>Collateral damage from antigen receptor gene diversification</article-title>
+          <source>Cell</source>
+          <year>2008</year>
+          <volume>135</volume>
+          <fpage>1009</fpage>
+          <lpage>1012</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2008.11.024</pub-id>
+          <pub-id pub-id-type="pmid">19070571</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Bassing</surname>
+            <given-names>CH</given-names>
+          </name>
+          <name>
+            <surname>Swat</surname>
+            <given-names>W</given-names>
+          </name>
+          <name>
+            <surname>Alt</surname>
+            <given-names>FW</given-names>
+          </name>
+          <article-title>The mechanism and regulation of chromosomal V(D)J recombination</article-title>
+          <source>Cell</source>
+          <year>2002</year>
+          <volume>109</volume>
+          <fpage>S45</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(02)00675-X</pub-id>
+          <pub-id pub-id-type="pmid">11983152</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Jung</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Giallourakis</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Mostoslavsky</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Alt</surname>
+            <given-names>FW</given-names>
+          </name>
+          <article-title>Mechanism and control of V(D)J recombination at the immunoglobulin heavy chain locus</article-title>
+          <source>Annu Rev Immunol</source>
+          <year>2006</year>
+          <volume>24</volume>
+          <fpage>541</fpage>
+          <lpage>570</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.immunol.23.021704.115830</pub-id>
+          <pub-id pub-id-type="pmid">16551259</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gellert</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>V(D)J recombination: RAG proteins, repair factors, and regulation</article-title>
+          <source>Annu</source>
+          <year>2002</year>
+          <volume>71</volume>
+          <fpage>101</fpage>
+          <lpage>132</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.biochem.71.090501.150203</pub-id>
+          <pub-id pub-id-type="pmid">12045092</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Fugmann</surname>
+            <given-names>SD</given-names>
+          </name>
+          <name>
+            <surname>Lee</surname>
+            <given-names>AI</given-names>
+          </name>
+          <name>
+            <surname>Shockett</surname>
+            <given-names>PE</given-names>
+          </name>
+          <name>
+            <surname>Villey</surname>
+            <given-names>IJ</given-names>
+          </name>
+          <name>
+            <surname>Schatz</surname>
+            <given-names>DG</given-names>
+          </name>
+          <article-title>The RAG proteins and V(D)J recombination: complexes, ends, and transposition</article-title>
+          <source>Annu Rev Immunol</source>
+          <year>2000</year>
+          <volume>18</volume>
+          <fpage>495</fpage>
+          <lpage>527</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.immunol.18.1.495</pub-id>
+          <pub-id pub-id-type="pmid">10837067</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Swanson</surname>
+            <given-names>PC</given-names>
+          </name>
+          <article-title>The bounty of RAGs: recombination signal complexes and reaction outcomes</article-title>
+          <source>Immunol Rev</source>
+          <year>2004</year>
+          <volume>200</volume>
+          <fpage>90</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.0105-2896.2004.00159.x</pub-id>
+          <pub-id pub-id-type="pmid">15242399</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <name>
+            <surname>Ma</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Pannicke</surname>
+            <given-names>U</given-names>
+          </name>
+          <name>
+            <surname>Schwarz</surname>
+            <given-names>K</given-names>
+          </name>
+          <article-title>Mechanism and regulation of human non-homologous DNA end-joining</article-title>
+          <source>Nat Rev Mol Cell Biol</source>
+          <year>2003</year>
+          <volume>4</volume>
+          <fpage>712</fpage>
+          <lpage>720</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrm1202</pub-id>
+          <pub-id pub-id-type="pmid">14506474</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <name>
+            <surname>Yu</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Raghavan</surname>
+            <given-names>SC</given-names>
+          </name>
+          <article-title>Roles of nonhomologous DNA end joining, V(D)J recombination, and class switch recombination in chromosomal translocations</article-title>
+          <source>DNA Repair</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>1234</fpage>
+          <lpage>1245</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dnarep.2006.05.013</pub-id>
+          <pub-id pub-id-type="pmid">16793349</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Dudley</surname>
+            <given-names>DD</given-names>
+          </name>
+          <name>
+            <surname>Chaudhuri</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Bassing</surname>
+            <given-names>CH</given-names>
+          </name>
+          <name>
+            <surname>Alt</surname>
+            <given-names>FW</given-names>
+          </name>
+          <article-title>Mechanism and control of V(D)J recombination versus class switch recombination: similarities and differences</article-title>
+          <source>Adv</source>
+          <year>2005</year>
+          <volume>86</volume>
+          <fpage>43</fpage>
+          <lpage>112</lpage>
+          <comment>full_text</comment>
+          <pub-id pub-id-type="pmid">15705419</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Hackney</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Misaghi</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Senger</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Garris</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Sun</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Lorenzo</surname>
+            <given-names>MN</given-names>
+          </name>
+          <name>
+            <surname>Zarrin</surname>
+            <given-names>AA</given-names>
+          </name>
+          <article-title>DNA targets of AID evolutionary link between antibody somatic hypermutation and class switch recombination</article-title>
+          <source>Adv Immunol</source>
+          <year>2009</year>
+          <volume>101</volume>
+          <fpage>163</fpage>
+          <lpage>189</lpage>
+          <comment>full_text</comment>
+          <pub-id pub-id-type="pmid">19231595</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Yu</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>Nucleic acid structures and enzymes in the immunoglobulin class switch recombination mechanism</article-title>
+          <source>DNA Repair</source>
+          <year>2003</year>
+          <volume>2</volume>
+          <fpage>1163</fpage>
+          <lpage>1174</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dnarep.2003.08.010</pub-id>
+          <pub-id pub-id-type="pmid">14599739</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Yu</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Chedin</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Hsieh</surname>
+            <given-names>CL</given-names>
+          </name>
+          <name>
+            <surname>Wilson</surname>
+            <given-names>TE</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>R-loops at immunoglobulin class switch regions in the chromosomes of stimulated B cells</article-title>
+          <source>Nat Immunol</source>
+          <year>2003</year>
+          <volume>4</volume>
+          <fpage>442</fpage>
+          <lpage>451</lpage>
+          <pub-id pub-id-type="doi">10.1038/ni919</pub-id>
+          <pub-id pub-id-type="pmid">12679812</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Muramatsu</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Nagaoka</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Shinkura</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Begum</surname>
+            <given-names>NA</given-names>
+          </name>
+          <name>
+            <surname>Honjo</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>Discovery of activation-induced cytidine deaminase, the engraver of antibody memory</article-title>
+          <source>Adv Immunol</source>
+          <year>2007</year>
+          <volume>94</volume>
+          <fpage>1</fpage>
+          <lpage>36</lpage>
+          <comment>full_text</comment>
+          <pub-id pub-id-type="pmid">17560270</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Bransteitter</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Pham</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Scharff</surname>
+            <given-names>MD</given-names>
+          </name>
+          <name>
+            <surname>Goodman</surname>
+            <given-names>MF</given-names>
+          </name>
+          <article-title>Activation-induced cytidine deaminase deaminates deoxycytidine on single-stranded DNA but requires the action of RNase</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>2003</year>
+          <volume>100</volume>
+          <fpage>4102</fpage>
+          <lpage>4107</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0730835100</pub-id>
+          <pub-id pub-id-type="pmid">12651944</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Pham</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Bransteitter</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Petruska</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Goodman</surname>
+            <given-names>MF</given-names>
+          </name>
+          <article-title>Processive AID-catalyzed cytosine deamination on single-stranded DNA stimulates somatic hypermutation</article-title>
+          <source>Nature</source>
+          <year>2003</year>
+          <volume>424</volume>
+          <fpage>103</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature01760</pub-id>
+          <pub-id pub-id-type="pmid">12819663</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Yu</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Huang</surname>
+            <given-names>FT</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>DNA substrate length and surrounding sequence affect the activation induced deaminase activity at cytidine</article-title>
+          <source>J</source>
+          <year>2004</year>
+          <volume>279</volume>
+          <fpage>6496</fpage>
+          <lpage>6500</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M311616200</pub-id>
+          <pub-id pub-id-type="pmid">14645244</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Di Noia</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Neuberger</surname>
+            <given-names>MS</given-names>
+          </name>
+          <article-title>Molecular mechanisms of antibody somatic hypermutation</article-title>
+          <source>Annu Rev Biochem</source>
+          <year>2007</year>
+          <volume>76</volume>
+          <fpage>1</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.biochem.76.061705.090740</pub-id>
+          <pub-id pub-id-type="pmid">17328676</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Chance</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Sies</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Boveris</surname>
+            <given-names>A</given-names>
+          </name>
+          <article-title>Hydroperoxide metabolism in mammalian organs</article-title>
+          <source>Physiol</source>
+          <year>1979</year>
+          <volume>59</volume>
+          <fpage>527</fpage>
+          <lpage>603</lpage>
+          <pub-id pub-id-type="pmid">37532</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Ferguson</surname>
+            <given-names>DO</given-names>
+          </name>
+          <name>
+            <surname>Alt</surname>
+            <given-names>FW</given-names>
+          </name>
+          <article-title>DNA double-strand break repair and chromosomal translocations: lessons from animal models</article-title>
+          <source>Oncogene</source>
+          <year>2001</year>
+          <volume>20</volume>
+          <fpage>5572</fpage>
+          <lpage>5579</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.onc.1204767</pub-id>
+          <pub-id pub-id-type="pmid">11607810</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Raghavan</surname>
+            <given-names>SC</given-names>
+          </name>
+          <name>
+            <surname>Kirsch</surname>
+            <given-names>IR</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>Analysis of the V(D)J recombination efficiency at lymphoid chromosomal translocation breakpoints</article-title>
+          <source>J</source>
+          <year>2001</year>
+          <volume>276</volume>
+          <fpage>29126</fpage>
+          <lpage>29133</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M103797200</pub-id>
+          <pub-id pub-id-type="pmid">11390401</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Marculescu</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Le</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Simon</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Jaeger</surname>
+            <given-names>U</given-names>
+          </name>
+          <name>
+            <surname>Nadel</surname>
+            <given-names>B</given-names>
+          </name>
+          <article-title>V(D)J-mediated translocations in lymphoid neoplasms: a functional assessment of genomic instability by cryptic sites</article-title>
+          <source>J</source>
+          <year>2002</year>
+          <volume>195</volume>
+          <fpage>85</fpage>
+          <lpage>98</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20011578</pub-id>
+          <pub-id pub-id-type="pmid">11781368</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Marculescu</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Vanura</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Montpellier</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Roulland</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Le</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Navarro</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Jager</surname>
+            <given-names>U</given-names>
+          </name>
+          <name>
+            <surname>McBlane</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Nadel</surname>
+            <given-names>B</given-names>
+          </name>
+          <article-title>Recombinase, chromosomal translocations and lymphoid neoplasia: Targeting mistakes and repair failures</article-title>
+          <source>DNA Repair</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>1246</fpage>
+          <lpage>1258</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dnarep.2006.05.015</pub-id>
+          <pub-id pub-id-type="pmid">16798110</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Raghavan</surname>
+            <given-names>SC</given-names>
+          </name>
+          <name>
+            <surname>Swanson</surname>
+            <given-names>PC</given-names>
+          </name>
+          <name>
+            <surname>Ma</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>Double-strand break formation by the RAG complex at the bcl-2 Mbr and at other non-B DNA structures in vitro</article-title>
+          <source>Mol</source>
+          <year>2005</year>
+          <volume>25</volume>
+          <fpage>5904</fpage>
+          <lpage>5919</lpage>
+          <pub-id pub-id-type="doi">10.1128/MCB.25.14.5904-5919.2005</pub-id>
+          <pub-id pub-id-type="pmid">15988007</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Raghavan</surname>
+            <given-names>SC</given-names>
+          </name>
+          <name>
+            <surname>Swanson</surname>
+            <given-names>PC</given-names>
+          </name>
+          <name>
+            <surname>Wu</surname>
+            <given-names>X</given-names>
+          </name>
+          <name>
+            <surname>Hsieh</surname>
+            <given-names>C-L</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>A non-B-DNA structure at the bcl-2 major break point region is cleaved by the RAG complex</article-title>
+          <source>Nature</source>
+          <year>2004</year>
+          <volume>428</volume>
+          <fpage>88</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature02355</pub-id>
+          <pub-id pub-id-type="pmid">14999286</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Tsai</surname>
+            <given-names>AG</given-names>
+          </name>
+          <name>
+            <surname>Lu</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Raghavan</surname>
+            <given-names>SC</given-names>
+          </name>
+          <name>
+            <surname>Muschen</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Hsieh</surname>
+            <given-names>CL</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>Human chromosomal translocations at CpG sites and a theoretical basis for their lineage and stage specificity</article-title>
+          <source>Cell</source>
+          <year>2008</year>
+          <volume>135</volume>
+          <fpage>1130</fpage>
+          <lpage>1142</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2008.10.035</pub-id>
+          <pub-id pub-id-type="pmid">19070581</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Curry</surname>
+            <given-names>JD</given-names>
+          </name>
+          <name>
+            <surname>Schulz</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Guidos</surname>
+            <given-names>CJ</given-names>
+          </name>
+          <name>
+            <surname>Danska</surname>
+            <given-names>JS</given-names>
+          </name>
+          <name>
+            <surname>Nutter</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Nussenzweig</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Schlissel</surname>
+            <given-names>MS</given-names>
+          </name>
+          <article-title>Chromosomal reinsertion of broken RSS ends during T cell development</article-title>
+          <source>J Exp Med</source>
+          <year>2007</year>
+          <volume>204</volume>
+          <fpage>2293</fpage>
+          <lpage>2303</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20070583</pub-id>
+          <pub-id pub-id-type="pmid">17785508</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Liu</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Duke</surname>
+            <given-names>JL</given-names>
+          </name>
+          <name>
+            <surname>Richter</surname>
+            <given-names>DJ</given-names>
+          </name>
+          <name>
+            <surname>Vinuesa</surname>
+            <given-names>CG</given-names>
+          </name>
+          <name>
+            <surname>Goodnow</surname>
+            <given-names>CC</given-names>
+          </name>
+          <name>
+            <surname>Kleinstein</surname>
+            <given-names>SH</given-names>
+          </name>
+          <name>
+            <surname>Schatz</surname>
+            <given-names>DG</given-names>
+          </name>
+          <article-title>Two levels of protection for the B cell genome during somatic hypermutation</article-title>
+          <source>Nature</source>
+          <year>2008</year>
+          <volume>451</volume>
+          <fpage>841</fpage>
+          <lpage>845</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature06547</pub-id>
+          <pub-id pub-id-type="pmid">18273020</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Tsai</surname>
+            <given-names>AG</given-names>
+          </name>
+          <name>
+            <surname>Engelhart</surname>
+            <given-names>AE</given-names>
+          </name>
+          <name>
+            <surname>Hatmal</surname>
+            <given-names>MM</given-names>
+          </name>
+          <name>
+            <surname>Houston</surname>
+            <given-names>SI</given-names>
+          </name>
+          <name>
+            <surname>Hud</surname>
+            <given-names>NV</given-names>
+          </name>
+          <name>
+            <surname>Haworth</surname>
+            <given-names>IS</given-names>
+          </name>
+          <name>
+            <surname>Lieber</surname>
+            <given-names>MR</given-names>
+          </name>
+          <article-title>Conformational variants of duplex DNA correlated with cytosine-rich chromosomal fragile sites</article-title>
+          <source>J Biol Chem</source>
+          <year>2008</year>
+          <volume>284</volume>
+          <fpage>7157</fpage>
+          <lpage>7164</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M806866200</pub-id>
+          <pub-id pub-id-type="pmid">19106104</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Crouch</surname>
+            <given-names>EE</given-names>
+          </name>
+          <name>
+            <surname>Li</surname>
+            <given-names>Z</given-names>
+          </name>
+          <name>
+            <surname>Takizawa</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Fichtner-Feigl</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Gourzi</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Montano</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Feigenbaum</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Wilson</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Janz</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Papavasiliou</surname>
+            <given-names>FN</given-names>
+          </name>
+          <name>
+            <surname>Casellas</surname>
+            <given-names>R</given-names>
+          </name>
+          <article-title>Regulation of AID expression in the immune response</article-title>
+          <source>J Exp Med</source>
+          <year>2007</year>
+          <volume>204</volume>
+          <fpage>1145</fpage>
+          <lpage>1156</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20061952</pub-id>
+          <pub-id pub-id-type="pmid">17452520</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Feldhahn</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Henke</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Melchior</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Duy</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Soh</surname>
+            <given-names>BN</given-names>
+          </name>
+          <name>
+            <surname>Klein</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>von Levetzow</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Giebel</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Li</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Hofmann</surname>
+            <given-names>WK</given-names>
+          </name>
+          <name>
+            <surname>Jumaa</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Muschen</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Activation-induced cytidine deaminase acts as a mutator in BCR-ABL1-transformed acute lymphoblastic leukemia cells</article-title>
+          <source>J Exp Med</source>
+          <year>2007</year>
+          <volume>204</volume>
+          <fpage>1157</fpage>
+          <lpage>1166</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20062662</pub-id>
+          <pub-id pub-id-type="pmid">17485517</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Mao</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Jiang</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Melo-Jorge</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Puthenveetil</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Zhang</surname>
+            <given-names>X</given-names>
+          </name>
+          <name>
+            <surname>Carroll</surname>
+            <given-names>MC</given-names>
+          </name>
+          <name>
+            <surname>Imanishi-Kari</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>T cell-independent somatic hypermutation in murine B cells with an immature phenotype</article-title>
+          <source>Immunity</source>
+          <year>2004</year>
+          <volume>20</volume>
+          <fpage>133</fpage>
+          <lpage>144</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1074-7613(04)00019-6</pub-id>
+          <pub-id pub-id-type="pmid">14975236</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Felix</surname>
+            <given-names>CA</given-names>
+          </name>
+          <article-title>Leukemias related to treatment with DNA topoisomerase II inhibitors</article-title>
+          <source>Med</source>
+          <year>2001</year>
+          <volume>36</volume>
+          <fpage>525</fpage>
+          <lpage>535</lpage>
+          <pub-id pub-id-type="doi">10.1002/mpo.1125</pub-id>
+          <pub-id pub-id-type="pmid">11340607</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Libura</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Slater</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Felix</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Richardson</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Therapy-related acute myeloid leukemia-like MLL rearrangements are induced by etoposide in primary human CD34+ cells and remain stable after clonal expansion</article-title>
+          <source>Blood</source>
+          <year>2005</year>
+          <volume>105</volume>
+          <fpage>2124</fpage>
+          <lpage>2131</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2004-07-2683</pub-id>
+          <pub-id pub-id-type="pmid">15528316</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Felix</surname>
+            <given-names>CA</given-names>
+          </name>
+          <name>
+            <surname>Kolaris</surname>
+            <given-names>CP</given-names>
+          </name>
+          <name>
+            <surname>Osheroff</surname>
+            <given-names>N</given-names>
+          </name>
+          <article-title>Topoisomerase II and the etiology of chromosomal translocations</article-title>
+          <source>DNA Repair (Amst)</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>1093</fpage>
+          <lpage>1108</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dnarep.2006.05.031</pub-id>
+          <pub-id pub-id-type="pmid">16857431</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Lee</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Carvalho</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Lupski</surname>
+            <given-names>JR</given-names>
+          </name>
+          <article-title>A DNA replication mechanism for generating nonrecurrent rearrangements associated with genomic disorders</article-title>
+          <source>Cell</source>
+          <year>2007</year>
+          <volume>131</volume>
+          <fpage>1235</fpage>
+          <lpage>1247</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2007.11.037</pub-id>
+          <pub-id pub-id-type="pmid">18160035</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Hastings</surname>
+            <given-names>PJ</given-names>
+          </name>
+          <name>
+            <surname>Ira</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Lupski</surname>
+            <given-names>JR</given-names>
+          </name>
+          <article-title>A microhomology-mediated break-induced replication model for the origin of human copy number variation</article-title>
+          <source>PLoS Genet</source>
+          <year>2009</year>
+          <volume>5</volume>
+          <fpage>e1000327</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pgen.1000327</pub-id>
+          <pub-id pub-id-type="pmid">19180184</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Look</surname>
+            <given-names>AT</given-names>
+          </name>
+          <article-title>Oncogenic Transcription Factors in Human Acute Leukemias</article-title>
+          <source>Science</source>
+          <year>1997</year>
+          <volume>278</volume>
+          <fpage>1059</fpage>
+          <lpage>1064</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.278.5340.1059</pub-id>
+          <pub-id pub-id-type="pmid">9353180</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Korsmeyer</surname>
+            <given-names>SJ</given-names>
+          </name>
+          <article-title>Chromosomal translocations in lymphoid malignancies reveal novel proto-oncogenes</article-title>
+          <source>Annu</source>
+          <year>1992</year>
+          <volume>10</volume>
+          <fpage>785</fpage>
+          <lpage>807</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.iy.10.040192.004033</pub-id>
+          <pub-id pub-id-type="pmid">1591003</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Hunger</surname>
+            <given-names>SP</given-names>
+          </name>
+          <name>
+            <surname>Galili</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Carroll</surname>
+            <given-names>AJ</given-names>
+          </name>
+          <name>
+            <surname>Crist</surname>
+            <given-names>WM</given-names>
+          </name>
+          <name>
+            <surname>Link</surname>
+            <given-names>MP</given-names>
+          </name>
+          <name>
+            <surname>Cleary</surname>
+            <given-names>ML</given-names>
+          </name>
+          <article-title>The t(1;19)(q23;p13) results in consistent fusion of E2A and PBX1 coding sequences in acute lymphoblastic leukemias</article-title>
+          <source>Blood</source>
+          <year>1991</year>
+          <volume>77</volume>
+          <fpage>687</fpage>
+          <lpage>693</lpage>
+          <pub-id pub-id-type="pmid">1671560</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>LeBrun</surname>
+            <given-names>DP</given-names>
+          </name>
+          <name>
+            <surname>Cleary</surname>
+            <given-names>ML</given-names>
+          </name>
+          <article-title>Fusion with E2A alters the transcriptional properties of the homeodomain protein PBX1 in t(1;19) leukemias</article-title>
+          <source>Oncogene</source>
+          <year>1994</year>
+          <volume>9</volume>
+          <fpage>1641</fpage>
+          <lpage>1647</lpage>
+          <pub-id pub-id-type="pmid">8183558</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Monica</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>LeBrun</surname>
+            <given-names>DP</given-names>
+          </name>
+          <name>
+            <surname>Dedera</surname>
+            <given-names>DA</given-names>
+          </name>
+          <name>
+            <surname>Brown</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Cleary</surname>
+            <given-names>ML</given-names>
+          </name>
+          <article-title>Transformation properties of the E2a-Pbx1 chimeric oncoprotein: fusion with E2a is essential, but the Pbx1 homeodomain is dispensable</article-title>
+          <source>Mol Cell Biol</source>
+          <year>1994</year>
+          <volume>14</volume>
+          <fpage>8304</fpage>
+          <lpage>8314</lpage>
+          <pub-id pub-id-type="pmid">7969166</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Nourse</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Mellentin</surname>
+            <given-names>JD</given-names>
+          </name>
+          <name>
+            <surname>Galili</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Wilkinson</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Stanbridge</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Smith</surname>
+            <given-names>SD</given-names>
+          </name>
+          <name>
+            <surname>Cleary</surname>
+            <given-names>ML</given-names>
+          </name>
+          <article-title>Chromosomal translocation t(1;19) results in synthesis of a homeobox fusion mRNA that codes for a potential chimeric transcription factor</article-title>
+          <source>Cell</source>
+          <year>1990</year>
+          <volume>60</volume>
+          <fpage>535</fpage>
+          <lpage>545</lpage>
+          <pub-id pub-id-type="doi">10.1016/0092-8674(90)90657-Z</pub-id>
+          <pub-id pub-id-type="pmid">1967982</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kamps</surname>
+            <given-names>MP</given-names>
+          </name>
+          <name>
+            <surname>Murre</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Sun</surname>
+            <given-names>XH</given-names>
+          </name>
+          <name>
+            <surname>Baltimore</surname>
+            <given-names>D</given-names>
+          </name>
+          <article-title>A new homeobox gene contributes the DNA binding domain of the t(1;19) translocation protein in pre-B ALL</article-title>
+          <source>Cell</source>
+          <year>1990</year>
+          <volume>60</volume>
+          <fpage>547</fpage>
+          <lpage>555</lpage>
+          <pub-id pub-id-type="doi">10.1016/0092-8674(90)90658-2</pub-id>
+          <pub-id pub-id-type="pmid">1967983</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Murre</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>McCaw</surname>
+            <given-names>PS</given-names>
+          </name>
+          <name>
+            <surname>Baltimore</surname>
+            <given-names>D</given-names>
+          </name>
+          <article-title>A new DNA binding and dimerization motif in immunoglobulin enhancer binding, daughterless, MyoD, and myc proteins</article-title>
+          <source>Cell</source>
+          <year>1989</year>
+          <volume>56</volume>
+          <fpage>777</fpage>
+          <lpage>783</lpage>
+          <pub-id pub-id-type="doi">10.1016/0092-8674(89)90682-X</pub-id>
+          <pub-id pub-id-type="pmid">2493990</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Heisterkamp</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Groffen</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Philadelphia-positive leukemia: a personal perspective</article-title>
+          <source>Oncogene</source>
+          <year>2002</year>
+          <volume>21</volume>
+          <fpage>8536</fpage>
+          <lpage>8540</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.onc.1206080</pub-id>
+          <pub-id pub-id-type="pmid">12476299</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Groffen</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Heisterkamp</surname>
+            <given-names>NC</given-names>
+          </name>
+          <article-title>Philadelphia chromosome translocation</article-title>
+          <source>Crit Rev Oncog</source>
+          <year>1989</year>
+          <volume>1</volume>
+          <fpage>53</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="pmid">2488124</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Heisterkamp</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Stam</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Groffen</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>de Klein</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Grosveld</surname>
+            <given-names>G</given-names>
+          </name>
+          <article-title>Structural organization of the bcr gene and its role in the Ph' translocation</article-title>
+          <source>Nature</source>
+          <year>1985</year>
+          <volume>315</volume>
+          <fpage>758</fpage>
+          <lpage>761</lpage>
+          <pub-id pub-id-type="doi">10.1038/315758a0</pub-id>
+          <pub-id pub-id-type="pmid">2989703</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Heisterkamp</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Stephenson</surname>
+            <given-names>JR</given-names>
+          </name>
+          <name>
+            <surname>Groffen</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Hansen</surname>
+            <given-names>PF</given-names>
+          </name>
+          <name>
+            <surname>de Klein</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Bartram</surname>
+            <given-names>CR</given-names>
+          </name>
+          <name>
+            <surname>Grosveld</surname>
+            <given-names>G</given-names>
+          </name>
+          <article-title>Localization of the c-ab1 oncogene adjacent to a translocation break point in chronic myelocytic leukaemia</article-title>
+          <source>Nature</source>
+          <year>1983</year>
+          <volume>306</volume>
+          <fpage>239</fpage>
+          <lpage>242</lpage>
+          <pub-id pub-id-type="doi">10.1038/306239a0</pub-id>
+          <pub-id pub-id-type="pmid">6316147</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>van der Feltz</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>Shivji</surname>
+            <given-names>MK</given-names>
+          </name>
+          <name>
+            <surname>Allen</surname>
+            <given-names>PB</given-names>
+          </name>
+          <name>
+            <surname>Heisterkamp</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Groffen</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Wiedemann</surname>
+            <given-names>LM</given-names>
+          </name>
+          <article-title>Nucleotide sequence of both reciprocal translocation junction regions in a patient with Ph positive acute lymphoblastic leukaemia, with a breakpoint within the first intron of the BCR gene</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>1989</year>
+          <volume>17</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/17.1.1</pub-id>
+          <pub-id pub-id-type="pmid">2911461</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kurahashi</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Inagaki</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Ohye</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Kogo</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Kato</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Emanuel</surname>
+            <given-names>BS</given-names>
+          </name>
+          <article-title>Palindrome-mediated chromosomal translocations in humans</article-title>
+          <source>DNA Repair (Amst)</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>1136</fpage>
+          <lpage>1145</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dnarep.2006.05.035</pub-id>
+          <pub-id pub-id-type="pmid">16829213</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,2054 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:48Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2745564" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2745564</identifier><datestamp>2009-10-26</datestamp><setSpec>plospath</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="discussion">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Pathog</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plospath</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Pathogens</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-7366</issn>
+      <issn pub-type="epub">1553-7374</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2745564</article-id>
+      <article-id pub-id-type="pmid">19855821</article-id>
+      <article-id pub-id-type="publisher-id">09-PLPA-RV-1112R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.ppat.1000600</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Evolutionary Biology</subject>
+          <subject>Evolutionary Biology/Genomics</subject>
+          <subject>Evolutionary Biology/Microbial Evolution and Genomics</subject>
+          <subject>Immunology/Immunity to Infections</subject>
+          <subject>Infectious Diseases</subject>
+          <subject>Infectious Diseases/Antimicrobials and Drug Resistance</subject>
+          <subject>Infectious Diseases/Bacterial Infections</subject>
+          <subject>Infectious Diseases/Epidemiology and Control of Infectious Diseases</subject>
+          <subject>Infectious Diseases/HIV Infection and AIDS</subject>
+          <subject>Microbiology</subject>
+          <subject>Microbiology/Immunity to Infections</subject>
+          <subject>Microbiology/Innate Immunity</subject>
+          <subject>Microbiology/Medical Microbiology</subject>
+          <subject>Public Health and Epidemiology</subject>
+          <subject>Public Health and Epidemiology/Global Health</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Past and Future of Tuberculosis Research</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Comas</surname>
+            <given-names>Iñaki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gagneux</surname>
+            <given-names>Sebastien</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>Division of Mycobacterial Research, MRC National Institute for Medical Research, London, United Kingdom</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Manchester</surname>
+            <given-names>Marianne</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">The Scripps Research Institute, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>gagneux@nimr.mrc.ac.uk</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>10</issue>
+      <elocation-id>e1000600</elocation-id>
+      <permissions>
+        <copyright-statement>Comas, Gagneux. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <abstract>
+        <p>Renewed efforts in tuberculosis (TB) research have led to important new insights into the biology and epidemiology of this devastating disease. Yet, in the face of the modern epidemics of HIV/AIDS, diabetes, and multidrug resistance—all of which contribute to susceptibility to TB—global control of the disease will remain a formidable challenge for years to come. New high-throughput genomics technologies are already contributing to studies of TB's epidemiology, comparative genomics, evolution, and host–pathogen interaction. We argue here, however, that new multidisciplinary approaches—especially the integration of epidemiology with systems biology in what we call “systems epidemiology”—will be required to eliminate TB.</p>
+      </abstract>
+      <counts>
+        <page-count count="7"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Tuberculosis (TB) remains an important public health problem <xref ref-type="bibr" rid="ppat.1000600-World1">[1]</xref>. With close to 10 million new cases per year, and a pool of two billion latently infected individuals, control efforts are struggling in many parts of the world (<xref ref-type="fig" rid="ppat-1000600-g001">Figure 1</xref>). Nevertheless, the renewed interest in research and improved funding for TB give reasons for optimism. Recently, the Stop TB Partnership, a network of concerned governments, organizations, and donors lead by the WHO (<ext-link ext-link-type="uri" xlink:href="http://www.stoptb.org/stop_tb_initiative/">http://www.stoptb.org/stop_tb_initiative/</ext-link>), outlined a global plan to halve TB prevalence and mortality by 2015 and eliminate the disease as a public health problem by 2050 <xref ref-type="bibr" rid="ppat.1000600-Stop1">[2]</xref>.Attaining these goals will depend on both strong government commitment and increased interdisciplinary research and development. As existing diagnostics, drugs, and vaccines will be insufficient to achieve these objectives, a substantial effort in both basic science and epidemiology will be necessary to develop better tools and strategies to control TB <xref ref-type="bibr" rid="ppat.1000600-Young1">[3]</xref>. Here we review the recent history of TB research and some of the latest insights into the evolutionary history of the disease. We then discuss ways in which we could benefit from a more comprehensive systems approach to control TB in the future.</p>
+      <fig id="ppat-1000600-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000600.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>The global incidence of TB.</title>
+          <p>The number of new TB cases per 100,000 population for the year 2007 according to WHO estimates (adapted from <xref ref-type="bibr" rid="ppat.1000600-World1">[1]</xref>).</p>
+        </caption>
+        <graphic xlink:href="ppat.1000600.g001"/>
+      </fig>
+    </sec>
+    <sec id="s2">
+      <title>Recent History of the Field</title>
+      <p>TB is caused by several species of gram-positive bacteria known as tubercle bacilli or <italic>Mycobacterium tuberculosis</italic> complex (MTBC). MTBC includes obligate human pathogens such as <italic>Mycobacterium tuberculosis</italic> and <italic>Mycobacterium africanum</italic>, as well as organisms adapted to various other species of mammal. In the developed world, TB incidence declined steadily during the second half of the 20th century and so funds available for research and control of TB decreased substantially during that time <xref ref-type="bibr" rid="ppat.1000600-Kaufmann1">[4]</xref>. When TB started to reemerge in the early 1990s, fuelled by the growing pandemic of HIV/AIDS (Box 1), scientists and public health officials were caught off-guard; billions of dollars of emergency funds were necessary to control TB outbreaks <xref ref-type="bibr" rid="ppat.1000600-Frieden1">[5]</xref>. Moreover, long-term neglect of basic TB research and product development meant that global TB control relied on a 100-year-old diagnostic method (i.e. sputum smear microscopy) of poor sensitivity, an 80-year-old and largely ineffective vaccine (Bacille Calmette-Guérin [BCG]), and just a few drugs that were decades old (streptomycin, rifampicin, isoniazid, ethambutol, pyrozinamide) <xref ref-type="bibr" rid="ppat.1000600-Young1">[3]</xref>. Tragically, these are the tools still in use today in most parts of the world where TB remains one of the most important public health problems (<xref ref-type="fig" rid="ppat-1000600-g001">Figure 1</xref>).</p>
+      <boxed-text id="ppat-1000600-box001" position="float">
+        <sec id="s1a1a">
+          <title>Box 1. The Influence of Modern Epidemics on TB Incidence</title>
+          <p>HIV/AIDS and diabetes are important comorbidities that dramatically increase the susceptibility to TB. The synergy between TB and HIV/AIDS is a particular problem in sub-Saharan Africa, while the impact of diabetes on TB is increasing in many rapidly growing world economies; it may already be a more important risk factor for TB than HIV/AIDS in places like India and Mexico. The emergence of multidrug-resistant strains represents an additional threat to global TB control. The strong association between HIV/AIDS and drug-resistant TB has been well established, but whether similar interactions exist between drug-resistant TB and diabetes needs to be explored further.</p>
+        </sec>
+      </boxed-text>
+      <p>In addition to the lack of appropriate tools to control TB globally, much about the disease was unknown in the early 1990s and many dogmas were guiding the field at the time. These included the view that differences in the clinical manifestation of TB were primarily driven by host variables and the environment as opposed to bacterial factors, a notion reinforced by early DNA sequencing studies that reported very limited genetic diversity in MTBC compared with other bacterial pathogens <xref ref-type="bibr" rid="ppat.1000600-Sreevatsan1">[6]</xref>. According to other dogmas, TB was mainly a consequence of reactivation of latent infections rather than ongoing disease transmission, and that mixed infections and exogenous reinfections with different strains were very unlikely.</p>
+      <p>The development of molecular techniques to differentiate between strains of MTBC made it possible to readdress some of these points. One of these methods, a DNA fingerprinting protocol based on the <italic>Mycobacterium</italic> insertion sequence IS6110, quickly evolved into the first international gold standard for genotyping of MTBC <xref ref-type="bibr" rid="ppat.1000600-vanEmbden1">[7]</xref>. It also became a key component of pragmatic public health efforts, such as detecting disease outbreaks and ongoing TB transmission <xref ref-type="bibr" rid="ppat.1000600-Small1">[8]</xref>, and allowed differentiation between patients who relapsed due to treatment failure and those reinfected with a different strain <xref ref-type="bibr" rid="ppat.1000600-Small2">[9]</xref>. This latter finding demonstrated for the first time that previous exposure to MTBC does not protect against subsequent exogenous reinfection and TB disease, which is a phenomenon with implications for vaccine design. Many other new insights were gained through these molecular epidemiological studies <xref ref-type="bibr" rid="ppat.1000600-Mathema1">[10]</xref>, which, for the most part, were performed in wealthy countries; corresponding data from most high-burden areas remained limited because of poor infrastructure and lack of funding.</p>
+      <p>Routine genotyping of MTBC for public health purposes also revived discussions about the role of pathogen variation in outcome of infection and disease. Some strains of MTBC appeared over-represented in particular patient populations, which suggested that strain diversity may have epidemiological implications. The completion of the first whole genome sequence of <italic>M. tuberculosis</italic> in 1998 <xref ref-type="bibr" rid="ppat.1000600-Cole1">[11]</xref> and the development of DNA microarrays offered a new opportunity to address this question by interrogating the entire genome of multiple clinical strains of MTBC. These comparative genomics studies revealed that genomic deletions, also known as large sequence polymorphisms (LSPs), are an important source of genome plasticity in MTBC <xref ref-type="bibr" rid="ppat.1000600-Tsolaki1">[12]</xref>. Furthermore, statistical analyses of patient data suggested possible associations between strain genomic content and disease severity in humans <xref ref-type="bibr" rid="ppat.1000600-KatoMaeda1">[13]</xref>. Clinical phenotypes in TB are difficult to standardize, however, and whether MTBC genotype plays a meaningful role in TB severity remains controversial <xref ref-type="bibr" rid="ppat.1000600-Nicol1">[14]</xref>.</p>
+      <p>Comparative genomics of MTBC also yielded interesting insights into the evolution and geographic distribution of the organism. Because MTBC has essentially no detectible horizontal gene transfer <xref ref-type="bibr" rid="ppat.1000600-Hirsh1">[15]</xref>,<xref ref-type="bibr" rid="ppat.1000600-Supply1">[16]</xref>, LSPs can be used as phylogenetic markers to trace the evolutionary relationships of different strain families. Following such an approach, studies have shown that humans did not, as previously believed, acquire MTBC from animals during the initiation of animal domestication, rather the human- and animal-adapted members of MTBC share a common ancestor, which might have infected humans even before the Neolithic transition <xref ref-type="bibr" rid="ppat.1000600-Brosch1">[17]</xref>,<xref ref-type="bibr" rid="ppat.1000600-Mostowy1">[18]</xref>. LSPs also allowed researchers to define several discrete strain lineages within the human-adapted members of MTBC, which are associated with different human populations and geographical regions (<xref ref-type="fig" rid="ppat-1000600-g002">Figures 2</xref> and <xref ref-type="fig" rid="ppat-1000600-g003">3</xref>) <xref ref-type="bibr" rid="ppat.1000600-Hirsh1">[15]</xref>,<xref ref-type="bibr" rid="ppat.1000600-Reed1">[19]</xref>,<xref ref-type="bibr" rid="ppat.1000600-Gagneux1">[20]</xref>. Because of the lack of horizontal gene exchange in MTBC, phylogenetic trees derived using various molecular markers define the same phylogenetic groupings <xref ref-type="bibr" rid="ppat.1000600-Gagneux2">[21]</xref>, and several studies based on single nucleotide polymorphisms (SNPs) and other molecular makers have gathered additional support for the highly phylogeographical population structure of MTBC <xref ref-type="bibr" rid="ppat.1000600-Baker1">[22]</xref>–<xref ref-type="bibr" rid="ppat.1000600-Brudey1">[25]</xref>.</p>
+      <fig id="ppat-1000600-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000600.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Global distribution of the six main lineages of human MTBC.</title>
+          <p>Each dot represents the most frequent lineage(s) circulating in a country. Colours correspond to the lineages defined in <xref ref-type="fig" rid="ppat-1000600-g003">Figure 3</xref> (adapted from <xref ref-type="bibr" rid="ppat.1000600-Gagneux1">[20]</xref>).</p>
+        </caption>
+        <graphic xlink:href="ppat.1000600.g002"/>
+      </fig>
+      <fig id="ppat-1000600-g003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000600.g003</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>The global phylogeny of <italic>Mycobacterium tuberculosis</italic> complex (MTBC).</title>
+          <p>The phylogenic relationships between various human- and animal-adapted strains and species are largely consistent when defined by using either (A) large sequence polymorphisms (LSPs) or (B) single nucleotide polymorphisms (SNPs) identified by sequencing 89 genes in 108 MTBC strains. Numbers inside the squares in (A) refer to specific lineage-defining LSPs. Colors indicate congruent lineages (adapted from <xref ref-type="bibr" rid="ppat.1000600-Gagneux1">[20]</xref> and <xref ref-type="bibr" rid="ppat.1000600-Hershberg1">[29]</xref>).</p>
+        </caption>
+        <graphic xlink:href="ppat.1000600.g003"/>
+      </fig>
+    </sec>
+    <sec id="s3">
+      <title>Ancient History of the Pathogen</title>
+      <p>Although LSPs have proven very useful for defining different lineages within MTBC, these markers do not reflect actual genetic distances, and the mode of molecular evolution in MTBC cannot be easily inferred from them <xref ref-type="bibr" rid="ppat.1000600-Gagneux2">[21]</xref>. By contrast, DNA sequence-based methods can provide important clues about the evolutionary forces shaping bacterial populations. Multilocus sequence typing (MLST), in which fragments of seven structural genes are sequenced for each strain <xref ref-type="bibr" rid="ppat.1000600-Maiden1">[26]</xref>, has been used very successfully to define the genetic population structure of many bacterial species <xref ref-type="bibr" rid="ppat.1000600-Maiden2">[27]</xref>. Because of the low degree of sequence polymorphisms in MTBC, however, standard MLST is uninformative <xref ref-type="bibr" rid="ppat.1000600-Achtman1">[28]</xref>. A recent study of MTBC extended the traditional MLST scheme by sequencing 89 complete genes in 108 strains, covering 1.5% of the genome of each strain <xref ref-type="bibr" rid="ppat.1000600-Hershberg1">[29]</xref>. Phylogenetic analysis of this extended multilocus sequence dataset resulted in a tree that was highly congruent with that generated previously using LSPs (<xref ref-type="fig" rid="ppat-1000600-g003">Figure 3</xref>). The new sequence-based data also revealed that the MTBC strains that are adapted to various animal species represent just a subset of the global genetic diversity of MTBC that affects different human populations <xref ref-type="bibr" rid="ppat.1000600-Hershberg1">[29]</xref>. Furthermore, by comparing the geographical distribution of various human MTBC strains with their position on the phylogenetic tree, it became evident that MTBC most likely originated in Africa and that human MTBC originally spread out of Africa together with ancient human migrations along land routes. This view is further supported by the fact that the so-called “smooth tubercle bacilli,” which are the closest relatives of the human MTBC, are highly restricted to East Africa <xref ref-type="bibr" rid="ppat.1000600-Gutierrez1">[30]</xref>. The multilocus sequence data reported by Hershberg et al. <xref ref-type="bibr" rid="ppat.1000600-Hershberg1">[29]</xref> further suggested a scenario in which the three “modern” lineages of MTBC (purple, blue, and red in <xref ref-type="fig" rid="ppat-1000600-g003">Figure 3</xref>) seeded Eurasia, which experienced dramatic human population expansion in more recent times. These three lineages then spread globally out of Europe, India, and China, respectively, accompanying waves of colonization, trade and conquest. In contrast to the ancient human migrations, however, this more recent dispersal of human MTBC occurred primarily along water routes <xref ref-type="bibr" rid="ppat.1000600-Hershberg1">[29]</xref>.</p>
+      <p>The availability of comprehensive DNA sequence data has also allowed researchers to address questions about the molecular evolution of MTBC. In-depth population genetic analyses by Hershberg et al. highlight the fact that purifying selection against slightly deleterious mutations in this organism is strongly reduced compared to other bacteria <xref ref-type="bibr" rid="ppat.1000600-Hershberg1">[29]</xref>. As a consequence, nonsynonymous SNPs tend to accumulate in MTBC, leading to a high ratio of nonsynonymous to synonymous mutations (also known as dN/dS). The authors hypothesized that the high dN/dS in MTBC compared to most other bacteria might indicate increased random genetic drift associated with serial population bottlenecks during past human migrations and patient-to-patient transmission. If confirmed, this would indicate that “chance,” not just natural selection, has been driving the evolution of MTBC. Although these kinds of fundamental evolutionary questions are often underappreciated by clinicians and biomedical researchers, studying the evolution of a pathogen ultimately allows for better epidemiological predictions by contributing to our understanding of basic biology, particularly with respect to antibiotic resistance.</p>
+    </sec>
+    <sec id="s4">
+      <title>A Vision for the Future</title>
+      <p>Thanks to recent increases in research funding for TB <xref ref-type="bibr" rid="ppat.1000600-Kaufmann1">[4]</xref>, substantial progress has been made in our understanding of the basic biology and epidemiology of the disease. Unfortunately, this increased knowledge has not yet had any noticeable impact on the current global trends of TB (<xref ref-type="fig" rid="ppat-1000600-g001">Figure 1</xref>). While TB incidence appears to have stabilized in many countries, the total number of cases is still increasing as a function of global human population growth <xref ref-type="bibr" rid="ppat.1000600-World1">[1]</xref>. Of particular concern are the ongoing epidemics of multidrug-resistant TB <xref ref-type="bibr" rid="ppat.1000600-World2">[31]</xref>, as well as the synergies between TB and the ongoing epidemics of HIV/AIDS and other comorbidities such as diabetes (Box 1).</p>
+      <p>As our understanding of TB improves, we would like to be able to make better predictions about the future trajectory of the disease and to develop new tools to control the disease better and ultimately reverse global trends. For this to be feasible, TB epidemiology needs to evolve into a more predictive, interdisciplinary endeavour; a discipline we might refer to as “systems epidemiology” (<xref ref-type="fig" rid="ppat-1000600-g004">Figure 4</xref>). Systems biology is already a rapidly emerging field, in which cycles of mathematical modelling and experiments using various large-scale “-omics” datasets are integrated in an iterative manner <xref ref-type="bibr" rid="ppat.1000600-Zak1">[32]</xref>. Novel biological processes are being discovered through these systems approaches, which might not have been possible using more traditional methods <xref ref-type="bibr" rid="ppat.1000600-Gilchrist1">[33]</xref>–<xref ref-type="bibr" rid="ppat.1000600-Stuart1">[35]</xref>.</p>
+      <fig id="ppat-1000600-g004" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000600.g004</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title>A systems epidemiology approach to TB research.</title>
+          <p>The spread of TB is influenced by social and biological factors. On the one hand, the new discipline of systems biology integrates approaches that address the host, the pathogen, and interactions between the two. On the other hand, epidemiology addresses the burden of the disease and the social, economic, and ecological causes of its frequency and distribution. There is little crosstalk between these two disciplines at the moment. “Systems epidemiology” is an attempt to take into account the interactions between these various fields of research.</p>
+        </caption>
+        <graphic xlink:href="ppat.1000600.g004"/>
+      </fig>
+      <p>Last year, Young et al. argued that systems biology approaches will be necessary to elucidate some of the key aspects of host–pathogen interactions in TB <xref ref-type="bibr" rid="ppat.1000600-Young2">[36]</xref> and to develop new drugs, vaccines, and biomarkers to evaluate new interventions <xref ref-type="bibr" rid="ppat.1000600-Young1">[3]</xref>. For example, according to another dogma in the TB field, latent TB infections are caused by physiologically dormant bacilli and can thus be differentiated from active disease where MTBC is actively growing and dividing <xref ref-type="bibr" rid="ppat.1000600-Gill1">[37]</xref>. In reality, however, the phenomenon of TB latency most likely reflects a whole spectrum of responses to TB infection, involving phenotypically distinct bacterial subpopulations and spanning various degrees of bacterial burden and associated host immune responses <xref ref-type="bibr" rid="ppat.1000600-Young3">[38]</xref>. We agree with Young et al. <xref ref-type="bibr" rid="ppat.1000600-Young2">[36]</xref> that TB latency and similar biological complexities will only be adequately addressed using systems approaches, and we argue further that to comprehend the current TB epidemic as a whole, and to better predict its future trajectory, a complementary systems epidemiology approach will be necessary (<xref ref-type="fig" rid="ppat-1000600-g004">Figure 4</xref>).</p>
+      <p>Mathematical models are already being used extensively to study the epidemiology of TB and to guide control policies <xref ref-type="bibr" rid="ppat.1000600-Cohen1">[39]</xref>. Recent applications have shown that socioeconomic factors are key drivers of today's TB epidemic <xref ref-type="bibr" rid="ppat.1000600-Lonnroth1">[40]</xref>. In addition, much theoretical emphasis has been placed on trying to define the impact that drug resistance will have on the global TB epidemic <xref ref-type="bibr" rid="ppat.1000600-Borrell1">[41]</xref>. Some of this theoretical work has become more complex by incorporating new biological insights obtained empirically and through targeted experimental studies. Early theoretical studies on the spread of drug-resistant MTBC were based on the assumption that all drug-resistant bacteria had an inherent fitness disadvantage compared to drug-susceptible strains <xref ref-type="bibr" rid="ppat.1000600-Dye1">[42]</xref>; however, as is becoming clear from experimental and molecular epidemiological investigation, substantial heterogeneity exists with respect to the reproductive success of drug-resistant strains <xref ref-type="bibr" rid="ppat.1000600-Bottger1">[43]</xref>–<xref ref-type="bibr" rid="ppat.1000600-vanSoolingen1">[46]</xref>. Newer mathematical models account for some of this heterogeneity <xref ref-type="bibr" rid="ppat.1000600-Cohen2">[47]</xref>–<xref ref-type="bibr" rid="ppat.1000600-Dye2">[49]</xref>.</p>
+      <p>One could imagine an expansion of such mathematical approaches—much as systems biology operates—in which epidemiological modelling is combined with more comprehensive biological data related to the host, the pathogen, and their interactions (<xref ref-type="fig" rid="ppat-1000600-g004">Figure 4</xref>). Of course, environmental and sociological data would also need to be considered <xref ref-type="bibr" rid="ppat.1000600-Lonnroth1">[40]</xref>. As mathematical models become more finely tuned, they could in turn inform future experimental work to test some of the specific predictions. The genomics revolution now offers the opportunity to study host–pathogen interactions at an unprecedented depth. To be able to make sense out of the current and upcoming deluge of -omics data, however, scientists will have to rely on a mathematically and statistically robust analytical framework. Ideally, some of these theoretical approaches will be able to accommodate increasingly diverse sets of data in order to capture the various biological, environmental, and social aspects of TB.</p>
+      <p>Among the newly emerging technologies, we believe that next-generation DNA sequencing will play an important role in improving our understanding of TB <xref ref-type="bibr" rid="ppat.1000600-Mardis1">[50]</xref>. Whole-genome sequencing could potentially become the new gold standard for strain typing in routine molecular epidemiology <xref ref-type="bibr" rid="ppat.1000600-MacLean1">[51]</xref>. For host genetics and TB susceptibility, too, de novo DNA sequencing based approaches could have advantages over traditional SNP typing <xref ref-type="bibr" rid="ppat.1000600-Hardy1">[52]</xref>. For example, many of the human populations carrying the largest proportion of the global TB burden have not been sufficiently characterised genetically (<xref ref-type="fig" rid="ppat-1000600-g001">Figure 1</xref>) <xref ref-type="bibr" rid="ppat.1000600-Tishkoff1">[53]</xref>,<xref ref-type="bibr" rid="ppat.1000600-Basu1">[54]</xref>, and screening for currently limited human SNP collections might have little relevance for these populations <xref ref-type="bibr" rid="ppat.1000600-Campbell1">[55]</xref>. Furthermore, comprehensive DNA sequencing of TB patients and controls in various human populations could help unveil rare but biologically relevant mutations <xref ref-type="bibr" rid="ppat.1000600-Goldstein1">[56]</xref>. Another approach increasingly being used to study both the host and the pathogen is sequence-based transcriptomics, in which gene expression is measured by whole genome sequencing of RNA transcripts; a method referred to as RNA-seq <xref ref-type="bibr" rid="ppat.1000600-Wang1">[57]</xref>. One of the advantages of this approach over existing microarray-based methods is that changes in the expression of noncoding RNAs and other novel transcripts can be easily detected. RNA-seq is particularly useful for genome-wide studies of small regulatory RNAs, as such studies are more difficult to perform using standard DNA microarrays. Recent studies, for example, have reported a role for small regulatory RNAs in <italic>M. tuberculosis</italic> <xref ref-type="bibr" rid="ppat.1000600-Arnvig1">[58]</xref>, and there is little doubt more regulatory RNAs will soon be identified by RNA-seq <xref ref-type="bibr" rid="ppat.1000600-Wang1">[57]</xref>.</p>
+    </sec>
+    <sec id="s5">
+      <title>Challenges for the Future</title>
+      <p>Advances in TB research are hampered by the fact that MTBC is a Biosafety Level 3 pathogen with a long generation time, making it slow and complex to culture. Moreover, TB is a chronic disease that can develop over many years, and is characterised by extended periods of latency during which MTBC cannot be isolated from infected individuals. All of these factors complicate and prolong the development of new interventions and their assessment in clinical trials. As we have already mentioned, the field has been marked by a number of dogmas that, in some cases, might have contributed to the slow progress in TB research. New insights are now questioning some of these views, but at the same time, new opinions could well evolve into new dogmas. For example, we and others have spent much of our scientific careers seeking convincing evidence for the role of MTBC strain diversity in human disease. Although some pieces of evidence have recently started to emerge <xref ref-type="bibr" rid="ppat.1000600-deJong1">[59]</xref>–<xref ref-type="bibr" rid="ppat.1000600-Thwaites1">[61]</xref>, the subject needs more work. One of the problems has been that the macrophage and mouse infection models used in these studies relied on poorly characterised strains, and finding relevant links to human disease has been all but impossible <xref ref-type="bibr" rid="ppat.1000600-Nicol1">[14]</xref>,<xref ref-type="bibr" rid="ppat.1000600-Gagneux2">[21]</xref>.</p>
+      <p>In TB control, too, potential new dogmas might emerge to limit future progress. A strong T cell–derived interferon gamma (INFγ) response appears to be crucial for the immunological control of TB, and many MTBC antigens have been identified based on their capacity to elicit INFγ responses in TB patients or their infected contacts <xref ref-type="bibr" rid="ppat.1000600-Ernst1">[62]</xref>. Some of these antigens are being developed into new TB diagnostics and vaccines, but the potential impact of MTBC diversity on immune responses is not generally being considered <xref ref-type="bibr" rid="ppat.1000600-Gagneux2">[21]</xref>. A recent study in The Gambia showed that INFγ responses to one of the key MTBC antigens differed in an MTBC lineage–specific manner <xref ref-type="bibr" rid="ppat.1000600-deJong2">[63]</xref>. Developing a universally effective vaccine might be the only way to eliminate TB in the future <xref ref-type="bibr" rid="ppat.1000600-Young1">[3]</xref>. This is particularly true given the large reservoir of latently infected individuals in the world, which would be impossible to eliminate through prophylactic drug treatment. Considering that natural TB infection does not protect against exogenous reinfection and disease, however, mimicking natural infection using attenuated strains or a cocktail of traditional INFγ-inducing antigens might not necessarily be the most promising vaccine strategy. Indeed, the largely unsuccessful implementation of BCG vaccination might serve as a warning <xref ref-type="bibr" rid="ppat.1000600-Andersen1">[64]</xref>.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Peter Small and Douglas Young for comments on the manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="ppat.1000600-World1">
+        <label>1</label>
+        <mixed-citation publication-type="book">
+          <collab>World Health Organization</collab>
+          <year>2009</year>
+          <article-title>Global tuberculosis control - surveillance, planning, financing.</article-title>
+          <publisher-loc>Geneva, Switzerland</publisher-loc>
+          <publisher-name>WHO</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Stop1">
+        <label>2</label>
+        <mixed-citation publication-type="book">
+          <collab>Stop TB Partnership</collab>
+          <year>2006</year>
+          <article-title>The global plan to stop TB 2006–2015.</article-title>
+          <publisher-loc>Geneva</publisher-loc>
+          <publisher-name>WHO</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Young1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Young</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Perkins</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Duncan</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Barry</surname>
+              <given-names>CE</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Confronting the scientific obstacles to global control of tuberculosis.</article-title>
+          <source>J Clin Invest</source>
+          <volume>118</volume>
+          <fpage>1255</fpage>
+          <lpage>1265</lpage>
+          <pub-id pub-id-type="pmid">18382738</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Kaufmann1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaufmann</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Parida</surname>
+              <given-names>SK</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Changing funding patterns in tuberculosis.</article-title>
+          <source>Nat Med</source>
+          <volume>13</volume>
+          <fpage>299</fpage>
+          <lpage>303</lpage>
+          <pub-id pub-id-type="pmid">17342144</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Frieden1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frieden</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Fujiwara</surname>
+              <given-names>PI</given-names>
+            </name>
+            <name>
+              <surname>Washko</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Hamburg</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>1995</year>
+          <article-title>Tuberculosis in New York City–turning the tide.</article-title>
+          <source>N Engl J Med</source>
+          <volume>333</volume>
+          <fpage>229</fpage>
+          <lpage>233</lpage>
+          <pub-id pub-id-type="pmid">7791840</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Sreevatsan1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sreevatsan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Stockbauer</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Connell</surname>
+              <given-names>ND</given-names>
+            </name>
+            <name>
+              <surname>Kreiswirth</surname>
+              <given-names>BN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1997</year>
+          <article-title>Restricted structural gene polymorphism in the <italic>Mycobacterium tuberculosis</italic> complex indicates evolutionarily recent global dissemination.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>94</volume>
+          <fpage>9869</fpage>
+          <lpage>9874</lpage>
+          <pub-id pub-id-type="pmid">9275218</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-vanEmbden1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Embden</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Cave</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Crawford</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Dale</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Eisenach</surname>
+              <given-names>KD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1993</year>
+          <article-title>Strain identification of <italic>Mycobacterium tuberculosis</italic> by DNA fingerprinting: recommendations for a standardized methodology.</article-title>
+          <source>J Clin Microbiol</source>
+          <volume>31</volume>
+          <fpage>406</fpage>
+          <lpage>409</lpage>
+          <pub-id pub-id-type="pmid">8381814</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Small1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Small</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Hopewell</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Paz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Parsonnet</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1994</year>
+          <article-title>The epidemiology of tuberculosis in San Francisco. A population-based study using conventional and molecular methods.</article-title>
+          <source>N Engl J Med</source>
+          <volume>330</volume>
+          <fpage>1703</fpage>
+          <lpage>1709</lpage>
+          <pub-id pub-id-type="pmid">7910661</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Small2">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Small</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Shafer</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Hopewell</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1993</year>
+          <article-title>Exogenous reinfection with multidrug-resistant <italic>Mycobacterium tuberculosis</italic> in patients with advanced HIV infection.</article-title>
+          <source>N Engl J Med</source>
+          <volume>328</volume>
+          <fpage>1137</fpage>
+          <lpage>1144</lpage>
+          <pub-id pub-id-type="pmid">8096066</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Mathema1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mathema</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Kurepina</surname>
+              <given-names>NE</given-names>
+            </name>
+            <name>
+              <surname>Bifani</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Kreiswirth</surname>
+              <given-names>BN</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Molecular epidemiology of tuberculosis: current insights.</article-title>
+          <source>Clin Microbiol Rev</source>
+          <volume>19</volume>
+          <fpage>658</fpage>
+          <lpage>685</lpage>
+          <pub-id pub-id-type="pmid">17041139</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Cole1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cole</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Brosch</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Parkhill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Garnier</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Churcher</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Deciphering the biology of <italic>Mycobacterium tuberculosis</italic> from the complete genome sequence.</article-title>
+          <source>Nature</source>
+          <volume>393</volume>
+          <fpage>537</fpage>
+          <lpage>544</lpage>
+          <pub-id pub-id-type="pmid">9634230</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Tsolaki1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsolaki</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Hirsh</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>DeRiemer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Enciso</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>MZ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Functional and evolutionary genomics of <italic>Mycobacterium tuberculosis</italic>: insights from genomic deletions in 100 strains.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>101</volume>
+          <fpage>4865</fpage>
+          <lpage>4870</lpage>
+          <pub-id pub-id-type="pmid">15024109</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-KatoMaeda1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kato-Maeda</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rhee</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Gingeras</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Salamon</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Drenkow</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Comparing genomes within the species <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>Genome Res</source>
+          <volume>11</volume>
+          <fpage>547</fpage>
+          <lpage>554</lpage>
+          <pub-id pub-id-type="pmid">11282970</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Nicol1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nicol</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The clinical consequences of strain diversity in <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>Trans R Soc Trop Med Hyg</source>
+          <volume>102</volume>
+          <fpage>955</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="pmid">18513773</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Hirsh1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirsh</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Tsolaki</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>DeRiemer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Feldman</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>PM</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Stable association between strains of <italic>Mycobacterium tuberculosis</italic> and their human host populations.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>101</volume>
+          <fpage>4871</fpage>
+          <lpage>4876</lpage>
+          <pub-id pub-id-type="pmid">15041743</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Supply1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Supply</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Warren</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Banuls</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Lesjean</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Van Der Spuy</surname>
+              <given-names>GD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Linkage disequilibrium between minisatellite loci supports clonal evolution of <italic>Mycobacterium tuberculosis</italic> in a high tuberculosis incidence area.</article-title>
+          <source>Mol Microbiol</source>
+          <volume>47</volume>
+          <fpage>529</fpage>
+          <lpage>538</lpage>
+          <pub-id pub-id-type="pmid">12519202</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Brosch1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brosch</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>SV</given-names>
+            </name>
+            <name>
+              <surname>Marmiesse</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Brodin</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Buchrieser</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>A new evolutionary scenario for the <italic>Mycobacterium tuberculosis</italic> complex.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>99</volume>
+          <fpage>3684</fpage>
+          <lpage>3689</lpage>
+          <pub-id pub-id-type="pmid">11891304</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Mostowy1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mostowy</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cousins</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Brinkman</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Aranaz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Behr</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Genomic deletions suggest a phylogeny for the <italic>Mycobacterium tuberculosis</italic> complex.</article-title>
+          <source>J Infect Dis</source>
+          <volume>186</volume>
+          <fpage>74</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="pmid">12089664</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Reed1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reed</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Pichler</surname>
+              <given-names>VK</given-names>
+            </name>
+            <name>
+              <surname>McIntosh</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Mattia</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Fallow</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Major <italic>Mycobacterium tuberculosis</italic> lineages associate with patient country of origin.</article-title>
+          <source>J Clin Microbiol</source>
+          <volume>47</volume>
+          <fpage>1119</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="pmid">19213699</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gagneux1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gagneux</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Deriemer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Van</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kato-Maeda</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>de Jong</surname>
+              <given-names>BC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Variable host-pathogen compatibility in <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>103</volume>
+          <fpage>2869</fpage>
+          <lpage>2873</lpage>
+          <pub-id pub-id-type="pmid">16477032</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gagneux2">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gagneux</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>PM</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Global phylogeography of <italic>Mycobacterium tuberculosis</italic> and implications for tuberculosis product development.</article-title>
+          <source>Lancet Infect Dis</source>
+          <volume>7</volume>
+          <fpage>328</fpage>
+          <lpage>337</lpage>
+          <pub-id pub-id-type="pmid">17448936</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Baker1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baker</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Maiden</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Drobniewski</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Silent nucleotide polymorphisms and a phylogeny for <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>10</volume>
+          <fpage>1568</fpage>
+          <lpage>1577</lpage>
+          <pub-id pub-id-type="pmid">15498158</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gutacker1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gutacker</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Mathema</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Soini</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shashkina</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kreiswirth</surname>
+              <given-names>BN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Single-nucleotide polymorphism-based population genetic analysis of <italic>Mycobacterium tuberculosis</italic> strains from 4 geographic sites.</article-title>
+          <source>J Infect Dis</source>
+          <volume>193</volume>
+          <fpage>121</fpage>
+          <lpage>128</lpage>
+          <pub-id pub-id-type="pmid">16323140</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Filliol1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filliol</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Motiwala</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Cavatore</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Qi</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hernando Hazbon</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Global phylogeny of <italic>Mycobacterium tuberculosis</italic> based on single nucleotide polymorphism (SNP) analysis: insights into tuberculosis evolution, phylogenetic accuracy of other DNA fingerprinting systems, and recommendations for a minimal standard SNP set.</article-title>
+          <source>J Bacteriol</source>
+          <volume>188</volume>
+          <fpage>759</fpage>
+          <lpage>772</lpage>
+          <pub-id pub-id-type="pmid">16385065</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Brudey1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brudey</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Driscoll</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Rigouts</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Prodinger</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Gori</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title><italic>Mycobacterium tuberculosis</italic> complex genetic diversity: mining the fourth international spoligotyping database (SpolDB4) for classification, population genetics and epidemiology.</article-title>
+          <source>BMC Microbiol</source>
+          <volume>6</volume>
+          <fpage>23</fpage>
+          <pub-id pub-id-type="pmid">16519816</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Maiden1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maiden</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Bygraves</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Feil</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Morelli</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>JE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Multilocus sequence typing: a portable approach to the identification of clones within populations of pathogenic microorganisms.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>95</volume>
+          <fpage>3140</fpage>
+          <lpage>3145</lpage>
+          <pub-id pub-id-type="pmid">9501229</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Maiden2">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maiden</surname>
+              <given-names>MC</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Multilocus sequence typing of bacteria.</article-title>
+          <source>Annu Rev Microbiol</source>
+          <volume>60</volume>
+          <fpage>561</fpage>
+          <lpage>588</lpage>
+          <pub-id pub-id-type="pmid">16774461</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Achtman1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Achtman</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Evolution, population structure, and phylogeography of genetically monomorphic bacterial pathogens.</article-title>
+          <source>Annu Rev Microbiol</source>
+          <volume>62</volume>
+          <fpage>53</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">18785837</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Hershberg1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hershberg</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lipatov</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Sheffer</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Niemann</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>High functional diversity in <italic>Mycobacterium tuberculosis</italic> driven by genetic drift and human demography.</article-title>
+          <source>PLoS Biol</source>
+          <volume>6</volume>
+          <fpage>e311</fpage>
+          <pub-id pub-id-type="pmid">19090620</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gutierrez1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gutierrez</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Brisse</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brosch</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Fabre</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Omais</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Ancient origin and gene mosaicism of the progenitor of <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>PLoS Pathogens</source>
+          <volume>1</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-World2">
+        <label>31</label>
+        <mixed-citation publication-type="book">
+          <collab>World Health Organization</collab>
+          <year>2008</year>
+          <article-title>Anti-tuberculosis drug resistance in the world report no. 4.</article-title>
+          <publisher-loc>Geneva, Switzerland</publisher-loc>
+          <publisher-name>WHO</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Zak1">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zak</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Aderem</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Systems biology of innate immunity.</article-title>
+          <source>Immunol Rev</source>
+          <volume>227</volume>
+          <fpage>264</fpage>
+          <lpage>282</lpage>
+          <pub-id pub-id-type="pmid">19120490</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gilchrist1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gilchrist</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Thorsson</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Rust</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Korb</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Systems biology approaches identify ATF3 as a negative regulator of Toll-like receptor 4.</article-title>
+          <source>Nature</source>
+          <volume>441</volume>
+          <fpage>173</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="pmid">16688168</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Querec1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Querec</surname>
+              <given-names>TD</given-names>
+            </name>
+            <name>
+              <surname>Akondy</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>EK</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Nakaya</surname>
+              <given-names>HI</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans.</article-title>
+          <source>Nat Immunol</source>
+          <volume>10</volume>
+          <fpage>116</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="pmid">19029902</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Stuart1">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stuart</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Boulais</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Charriere</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Hennessy</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Brunet</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>A systems biology analysis of the Drosophila phagosome.</article-title>
+          <source>Nature</source>
+          <volume>445</volume>
+          <fpage>95</fpage>
+          <lpage>101</lpage>
+          <pub-id pub-id-type="pmid">17151602</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Young2">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Young</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Stark</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kirschner</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Systems biology of persistent infection: tuberculosis as a case study.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>6</volume>
+          <fpage>520</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">18536727</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gill1">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gill</surname>
+              <given-names>WP</given-names>
+            </name>
+            <name>
+              <surname>Harik</surname>
+              <given-names>NS</given-names>
+            </name>
+            <name>
+              <surname>Whiddon</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Liao</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Mittler</surname>
+              <given-names>JE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>A replication clock for <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>Nat Med</source>
+          <volume>15</volume>
+          <fpage>211</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="pmid">19182798</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Young3">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Young</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Gideon</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Eliminating latent tuberculosis.</article-title>
+          <source>Trends Microbiol</source>
+          <volume>17</volume>
+          <fpage>183</fpage>
+          <lpage>188</lpage>
+          <pub-id pub-id-type="pmid">19375916</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Cohen1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Dye</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Colijn</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Mathematical models of the epidemiology and control of drug-resistant TB.</article-title>
+          <source>Expert Rev Resp Med in press</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Lonnroth1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lonnroth</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Jaramillo</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Dye</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Raviglione</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Drivers of tuberculosis epidemics: The role of risk factors and social determinants.</article-title>
+          <source>Soc Sci Med</source>
+          <volume>68</volume>
+          <fpage>2240</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">19394122</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Borrell1">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borrell</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gagneux</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Infectiousness, reproductive fitness, and evolution of drug-resistant <italic>Mycobactyerium tuberculosis</italic>.</article-title>
+          <source>Int J Tuberc Lung Dis in press</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Dye1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dye</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Espinal</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Raviglione</surname>
+              <given-names>MC</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Erasing the world's slow stain: strategies to beat multidrug-resistant tuberculosis.</article-title>
+          <source>Science</source>
+          <volume>295</volume>
+          <fpage>2042</fpage>
+          <lpage>2046</lpage>
+          <pub-id pub-id-type="pmid">11896268</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Bottger1">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bottger</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Springer</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Pletschette</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sander</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Fitness of antibiotic-resistant microorganisms and compensatory mutations.</article-title>
+          <source>Nat Med</source>
+          <volume>4</volume>
+          <fpage>1343</fpage>
+          <lpage>1344</lpage>
+          <pub-id pub-id-type="pmid">9846553</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gagneux3">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gagneux</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Burgos</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>DeRiemer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Encisco</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Munoz</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Impact of bacterial genetics on the transmission of isoniazid-resistant <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>2</volume>
+          <fpage>e61</fpage>
+          <pub-id pub-id-type="pmid">16789833</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Gagneux4">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gagneux</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Long</surname>
+              <given-names>CD</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Van</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Schoolnik</surname>
+              <given-names>GK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>The competitive cost of antibiotic resistance in <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>Science</source>
+          <volume>312</volume>
+          <fpage>1944</fpage>
+          <lpage>1946</lpage>
+          <pub-id pub-id-type="pmid">16809538</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-vanSoolingen1">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Soolingen</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>de Haas</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>van Doorn</surname>
+              <given-names>HR</given-names>
+            </name>
+            <name>
+              <surname>Kuijper</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Rinder</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Mutations at amino acid position 315 of the katG gene are associated with high-level resistance to isoniazid, other drug resistance, and successful transmission of <italic>Mycobacterium tuberculosis</italic> in the Netherlands.</article-title>
+          <source>J Infect Dis</source>
+          <volume>182</volume>
+          <fpage>1788</fpage>
+          <lpage>1790</lpage>
+          <pub-id pub-id-type="pmid">11069256</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Cohen2">
+        <label>47</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Modeling epidemics of multidrug-resistant <italic>M. tuberculosis</italic> of heterogeneous fitness.</article-title>
+          <source>Nat Med</source>
+          <volume>10</volume>
+          <fpage>1117</fpage>
+          <lpage>1121</lpage>
+          <pub-id pub-id-type="pmid">15378056</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Blower1">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blower</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Chou</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Modeling the emergence of the ‘hot zones’: tuberculosis and the amplification dynamics of drug resistance.</article-title>
+          <source>Nat Med</source>
+          <volume>10</volume>
+          <fpage>1111</fpage>
+          <lpage>1116</lpage>
+          <pub-id pub-id-type="pmid">15378053</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Dye2">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dye</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Doomsday postponed? Preventing and reversing epidemics of drug-resistant tuberculosis.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>7</volume>
+          <fpage>81</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="pmid">19079354</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Mardis1">
+        <label>50</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mardis</surname>
+              <given-names>ER</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Next-generation DNA sequencing methods.</article-title>
+          <source>Annu Rev Genomics Hum Genet</source>
+          <volume>9</volume>
+          <fpage>387</fpage>
+          <lpage>402</lpage>
+          <pub-id pub-id-type="pmid">18576944</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-MacLean1">
+        <label>51</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MacLean</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Studholme</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Application of ‘next-generation’ sequencing technologies to microbial genetics.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>7</volume>
+          <fpage>287</fpage>
+          <lpage>296</lpage>
+          <pub-id pub-id-type="pmid">19287448</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Hardy1">
+        <label>52</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hardy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Singleton</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Genomewide association studies and human disease.</article-title>
+          <source>N Engl J Med</source>
+          <volume>360</volume>
+          <fpage>1759</fpage>
+          <lpage>1768</lpage>
+          <pub-id pub-id-type="pmid">19369657</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Tishkoff1">
+        <label>53</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tishkoff</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Friedlaender</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name>
+              <surname>Ehret</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ranciaro</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>The genetic structure and history of Africans and African Americans.</article-title>
+          <source>Science</source>
+          <volume>324</volume>
+          <fpage>1035</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="pmid">19407144</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Basu1">
+        <label>54</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Basu</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Banerjee</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Ethnic India: a genomic view, with special reference to peopling and structure.</article-title>
+          <source>Genome Res</source>
+          <volume>13</volume>
+          <fpage>2277</fpage>
+          <lpage>2290</lpage>
+          <pub-id pub-id-type="pmid">14525929</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Campbell1">
+        <label>55</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Campbell</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Tishkoff</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>African Genetic Diversity: Implications for human demographic history, modern human origins, and complex disease mapping.</article-title>
+          <source>Annu Rev Genomics Hum Genet</source>
+          <volume>9</volume>
+          <fpage>403</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="pmid">18593304</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Goldstein1">
+        <label>56</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goldstein</surname>
+              <given-names>DB</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Common genetic variation and human traits.</article-title>
+          <source>N Engl J Med</source>
+          <volume>360</volume>
+          <fpage>1696</fpage>
+          <lpage>1698</lpage>
+          <pub-id pub-id-type="pmid">19369660</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Wang1">
+        <label>57</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Gerstein</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Snyder</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>RNA-Seq: a revolutionary tool for transcriptomics.</article-title>
+          <source>Nat Rev Genet</source>
+          <volume>10</volume>
+          <fpage>57</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="pmid">19015660</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Arnvig1">
+        <label>58</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arnvig</surname>
+              <given-names>KB</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>DB</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Identification of small RNAs in <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>Mol Microbiol</source>
+          <volume>73</volume>
+          <fpage>397</fpage>
+          <lpage>408</lpage>
+          <pub-id pub-id-type="pmid">19555452</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-deJong1">
+        <label>59</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Jong</surname>
+              <given-names>BC</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Aiken</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Awine</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Antonio</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Progression to active tuberculosis, but not transmission, varies by <italic>Mycobacterium tuberculosis</italic> lineage in the Gambia.</article-title>
+          <source>J Infect Dis</source>
+          <volume>198</volume>
+          <fpage>1037</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">18702608</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Caws1">
+        <label>60</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caws</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Thwaites</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Dunstan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hawn</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Thi Ngoc Lan</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The influence of host and bacterial genotype on the development of disseminated disease with <italic>Mycobacterium tuberculosis</italic>.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4</volume>
+          <fpage>e1000034</fpage>
+          <pub-id pub-id-type="pmid">18369480</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Thwaites1">
+        <label>61</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thwaites</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Caws</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chau</surname>
+              <given-names>TT</given-names>
+            </name>
+            <name>
+              <surname>D'Sa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lan</surname>
+              <given-names>NT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The relationship between <italic>Mycobacterium tuberculosis</italic> genotype and the clinical phenotype of pulmonary and meningeal tuberculosis.</article-title>
+          <source>J Clin Microbiol</source>
+          <volume>46</volume>
+          <fpage>1363</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">18287322</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Ernst1">
+        <label>62</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ernst</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Lewinsohn</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Behar</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Blythe</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Schlesinger</surname>
+              <given-names>LS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Meeting report: NIH workshop on the Tuberculosis Immune Epitope Database.</article-title>
+          <source>Tuberculosis (Edinb)</source>
+          <volume>88</volume>
+          <fpage>366</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">18068490</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-deJong2">
+        <label>63</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Jong</surname>
+              <given-names>BC</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Brookes</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Gagneux</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jeffries</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title><italic>Mycobacterium africanum</italic> elicits an attenuated T Cell response to Early Secreted Antigenic Target, 6 kDa, in patients with tuberculosis and their household contacts.</article-title>
+          <source>J Infect Dis</source>
+          <volume>193</volume>
+          <fpage>1279</fpage>
+          <lpage>1286</lpage>
+          <pub-id pub-id-type="pmid">16586366</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000600-Andersen1">
+        <label>64</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andersen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Doherty</surname>
+              <given-names>TM</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Opinion: The success and failure of BCG - implications for a novel tuberculosis vaccine.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>3</volume>
+          <fpage>656</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="pmid">16012514</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>Work in our laboratory is supported by the Medical Research Council, UK, and the US National Institutes of Health grants HHSN266200700022C and AI034238. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

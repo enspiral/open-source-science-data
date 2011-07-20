@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:31:53Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2656552" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2656552</identifier><datestamp>2009-03-17</datestamp><setSpec>plosbiol</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="other" xml:lang="EN">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Biol</journal-id>
+      <journal-id journal-id-type="publisher-id">pbio</journal-id>
+      <journal-id journal-id-type="publisher-id">plbi</journal-id>
+      <journal-id journal-id-type="pmc">plosbiol</journal-id>
+      <journal-title>PLoS Biology</journal-title>
+      <issn pub-type="ppub">1544-9173</issn>
+      <issn pub-type="epub">1545-7885</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2656552</article-id>
+      <article-id pub-id-type="pmid">19296723</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pbio.1000062</article-id>
+      <article-id pub-id-type="publisher-id">08-PLBI-E-4385R4</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Essay</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Molecular Biology</subject>
+          <subject>Neuroscience</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Implications of Multiple Circadian Clock Origins</article-title>
+        <alt-title alt-title-type="running-head">Essay</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rosbash</surname>
+            <given-names>Michael</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <month>3</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>3</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>7</volume>
+      <issue>3</issue>
+      <elocation-id>e1000062</elocation-id>
+      <copyright-statement><bold>Copyright:</bold> © 2009 Michael Rosbash. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      <copyright-year>2009</copyright-year>
+      <abstract abstract-type="toc">
+        <p>Michael Rosbash considers whether the mechanisms that govern circadian rhythms in different organisms have arisen multiple times in evolution, and discusses the implications for our understanding of circadian clocks.</p>
+      </abstract>
+      <counts>
+        <page-count count="5"/>
+      </counts>
+      <custom-meta-wrap>
+        <custom-meta>
+          <meta-name>citation</meta-name>
+          <meta-value>Rosbash M (2009) The implications of multiple circadian clock origins. PLoS Biol 7(3): e1000062. doi:<ext-link ext-link-type="doi" xlink:href="10.1371/journal.pbio.1000062">10.1371/journal.pbio.1000062</ext-link></meta-value>
+        </custom-meta>
+      </custom-meta-wrap>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>In the Beginning…</title>
+      <p>Genetics has had an awesome impact on our understanding of basic processes like circadian rhythms, which were mysterious before the incredibly successful marriage between genetics and recombinant DNA technology about 30 years ago. Subsequent to the pioneering work of Konopka and Benzer [<xref ref-type="bibr" rid="pbio-1000062-b001">1</xref>], genetic screens and DNA sequencing in multiple systems (including but not limited to humans, mice, <named-content content-type="genus-species">Drosophila</named-content>, <named-content content-type="genus-species">Neurospora</named-content>, plants, and cyanobacteria) identified many circadian genes as well as their protein sequences. Coupled with PCR methods to bootstrap from one system to another (e.g., [<xref ref-type="bibr" rid="pbio-1000062-b002">2</xref>,<xref ref-type="bibr" rid="pbio-1000062-b003">3</xref>]), this strategy also revealed that many clock proteins are shared between systems. For example, mammals and <named-content content-type="genus-species">Drosophila</named-content> use orthologs to construct their clocks [<xref ref-type="bibr" rid="pbio-1000062-b004">4–6</xref>]. Fly proteins include the PAS domain-containing transcription factor heterodimer Clock–Cycle (CLK–CYC [orthologs in mammals: CLK–BMAL1]) and the negative regulator Period (PER [orthologs in mammals: PER1, PER2]). These relationships indicate that a similar, basic clock mechanism was present in a common ancestor, before the separation of insects and mammals more than 500 million years ago. Some argue that the relationship of basic clock mechanism and proteins extends to <named-content content-type="genus-species">Neurospora</named-content> [<xref ref-type="bibr" rid="pbio-1000062-b007">7</xref>,<xref ref-type="bibr" rid="pbio-1000062-b008">8</xref>], which would push back the common ancestor date even further. (I am assuming that horizontal gene transfer is not responsible for the commonalities between systems.)</p>
+      <p>There is, however, no evidence that this relationship extends across the animal–bacterial kingdom divide; i.e., the key circadian proteins of mammals appear completely unrelated to the key circadian proteins of cyanobacteria. Although negative evidence must be interpreted with great caution (“absence of evidence is not evidence of absence”), there is no relationship evident between the circadian proteins of cyanobacteria and those of mammals [<xref ref-type="bibr" rid="pbio-1000062-b004">4</xref>,<xref ref-type="bibr" rid="pbio-1000062-b009">9</xref>]. As this is not the case for many other classes of proteins, the strong suggestion is that circadian rhythms have arisen at least twice, once in an ancestor of present-day cyanobacteria and then again in an ancestor of animals. (More than two evolutionary origins are also possible, as the different set of plant circadian proteins may indicate a third independent origin; although see below.) As some early version of cyanobacteria are generally credited with the rise of oxygen about 2.4 billion years ago, and multicellular eukaryotes did not appear for another 1.5 billion years or so [<xref ref-type="bibr" rid="pbio-1000062-b010">10</xref>], the evolution of cyanobacterial rhythms was probably well before that of eukaryotic rhythms.</p>
+    </sec>
+    <sec id="s2">
+      <title>The Importance of Biochemistry</title>
+      <p>A multiple-origin view of circadian clock origins has implications for how animal clocks keep time; i.e., what are their mechanisms or “quartz crystals”? In other words, progress in one system may have no impact on understanding a second. Relevant also is the fact that genetics is a poor way to define mechanism, in contrast to its irrefutable value in identifying key genes and proteins. These sequences are seductive, as a link between a circadian gene and a transcription factor can be interpreted to indicate an intimate relationship between transcription and timekeeping (e.g., [<xref ref-type="bibr" rid="pbio-1000062-b011">11</xref>]). However, only biochemistry can rigorously define mechanism, and nowhere is the distinction with genetics better illustrated than in the breathtaking reconstruction of a cyanobacterial clock in vitro [<xref ref-type="bibr" rid="pbio-1000062-b012">12</xref>].</p>
+      <p>In vivo genetics and physiology suggested that the Kai system of cyanobacteria functions to regulate transcription and that a transcriptional feedback loop is therefore the key to mechanism [<xref ref-type="bibr" rid="pbio-1000062-b013">13</xref>]. This paradigm came from the animal clock world, because it was first shown in flies that mRNA levels of a key clock undergo oscillations due to transcriptional feedback [<xref ref-type="bibr" rid="pbio-1000062-b014">14</xref>,<xref ref-type="bibr" rid="pbio-1000062-b015">15</xref>]. However, subsequent work by Kondo and colleagues, especially their in vitro biochemistry, indicates that a post-translational phosphorylation–dephosphorylation cycle of the Kai A-B-C complex is the quartz crystal of cyanobacteria, with transcriptional rhythms a largely downstream consequence or of secondary value [<xref ref-type="bibr" rid="pbio-1000062-b012">12</xref>,<xref ref-type="bibr" rid="pbio-1000062-b016">16</xref>]. Important work on this system has continued [<xref ref-type="bibr" rid="pbio-1000062-b017">17</xref>,<xref ref-type="bibr" rid="pbio-1000062-b018">18</xref>], and recent in vitro comparisons of mutant KaiC proteins suggest that the KaiC ATPase or phosphatase activity is the key timekeeper for the entire cyanobacterial 24-hour cycle [<xref ref-type="bibr" rid="pbio-1000062-b019">19</xref>]. If this is the case, then a single overarching enzyme and mechanism may be rate-limiting for this circadian cycle, consistent with a limit cycle mechanism. This description is almost certainly an oversimplification, as conformational states or aggregates of states are also likely to be important for mechanism [<xref ref-type="bibr" rid="pbio-1000062-b020">20</xref>,<xref ref-type="bibr" rid="pbio-1000062-b021">21</xref>]. In addition, very recent data complicate this highly circumscribed view and suggest that transcription is not as irrelevant as previously believed, or that it may constitute a second circadian oscillator that ticks away in parallel within each bacterium [<xref ref-type="bibr" rid="pbio-1000062-b022">22</xref>]. Although the importance of these new findings is not yet clear, the key point is that in vitro biochemistry has been indispensible for understanding the cyanobacterial clock mechanism.</p>
+    </sec>
+    <sec id="s3">
+      <title>Kinases and Animal Rhythms</title>
+      <p>In contrast to cyanobacteria, eukaryotic circadian systems are notably lacking in comparable biochemistry that addresses timekeeping mechanisms. (To keep matters circumscribed, I will focus on animals and especially <named-content content-type="genus-species">Drosophila</named-content>.) Given the lack of evidence for common proteins and a common ancestor of animals and cyanobacterial circadian systems, it is unlikely that they have a mechanistic relationship. If indeed truly of independent origin, the two systems could still reflect convergent evolution, e.g., hitting upon the same mechanism by accident or because it is the only way to keep circadian time. It is more likely, however, that the cyanobacterial mechanism is misleading for understanding animal clock mechanisms.</p>
+      <p>Nonetheless, this work has had an enormous influence on the animal clock world. This is because the KaiC phosphorylation cycle makes a seductive link to the phosphorylation events that animal clock transcription factors experience [<xref ref-type="bibr" rid="pbio-1000062-b023">23–26</xref>]. In other words, these proteins not only function in circadian transcriptional feedback but are also subject to temporally regulated phosphorylation. Moreover, the same clock kinases have been identified in both <named-content content-type="genus-species">Drosophila</named-content> and mammalian systems [<xref ref-type="bibr" rid="pbio-1000062-b006">6</xref>,<xref ref-type="bibr" rid="pbio-1000062-b027">27–29</xref>], suggesting that this feature of circadian rhythms was already present in a common ancestor of flies and mammals. To extend the analogy with cyanobacteria, many now believe that this post-translational regulation is more central to timekeeping than the initially proposed and embraced transcriptional feedback loop. For example, dramatic period length alterations are more frequently found in mutants that affect post-translational regulation (e.g., [<xref ref-type="bibr" rid="pbio-1000062-b026">26</xref>,<xref ref-type="bibr" rid="pbio-1000062-b030">30</xref>]), and there is evidence that aspects of transcriptional feedback are not necessary for circadian rhythmicity [<xref ref-type="bibr" rid="pbio-1000062-b031">31</xref>]. A real test requires disabling the ability of a key positive transcription factor like CLK to experience transcriptional feedback in an animal (e.g., [<xref ref-type="bibr" rid="pbio-1000062-b032">32</xref>]). Behavioral rhythmicity would then make a strong case for the primacy of post-translational regulation.</p>
+    </sec>
+    <sec id="s4">
+      <title>Genetics and Rate-Limiting Steps</title>
+      <p>Given the absence of relevant in vitro experiments, what can genetics say about mechanism or the rate-limiting timing steps of animal circadian clocks? First, it is important to emphasize that mutant or overexpression studies, even in vivo, do not define rate-limiting steps for a wild-type clock. Although a mutant enzyme is likely to become rate-limiting for timekeeping of the mutant clock, there is no reason why the same activity should be rate-limiting in the context of a wild-type clock. Even if the mutant effect on K<sub>m</sub> or V<sub>max</sub> can be measured in vitro and is modest, this has not been done in vivo (admittedly difficult) nor in vitro in the context of bona fide circadian timekeeping as in the cyanobacterial experiments. Given that the in vivo effects are therefore unknown, it seems possible that many mutations with period effects move their in vivo enzyme activities far from their normal K<sub>m</sub> or V<sub>max</sub> values. The same argument applies to small molecule screens. Kinases are known to be good drug targets (transcription factors, in contrast, are poor drug targets), and it therefore makes sense that small molecule inhibitors used in period screens will successfully target kinases and will decrease an activity sufficiently to make it rate-limiting [<xref ref-type="bibr" rid="pbio-1000062-b033">33</xref>]. However, Occam's razor suggests that the activities of conserved circadian kinases like casein kinase I e (CKIe [<italic>doubletime</italic> in flies; <italic>tau</italic> in mammals]) are unlikely to be rate-limiting for period determination in fully wild-type circumstances—despite being critically involved in timekeeping.</p>
+      <p>A perhaps broader view is that post-translational regulation, the rate of PER turnover in flies as an example, may be partly rate-limiting for period determination, and DBT (Doubletime) activity on PER is one aspect of PER turnover biochemistry. However, even this is uncertain, and it is certainly unknown which protein turnover steps, e.g., <italic>period</italic> protein phosphorylation and/or recognition of the protein by its E3 ligase Slimb [<xref ref-type="bibr" rid="pbio-1000062-b026">26</xref>], are actually rate-determining in the wild-type context.</p>
+    </sec>
+    <sec id="s5">
+      <title>Increasing Gene Dose and Transcription</title>
+      <p>There are, however, a few interesting and simple genetic approaches of mechanistic value, including dosage sensitivity. Which genes substantially affect circadian period with a simple 2× change in gene dose? The logical assumption is that a 2× change in gene dose will have a modest, approximately 2-fold effect on gene activity and protein level. A consequent period effect may therefore indicate a rate-limiting step. Konopka originally appreciated this point and used classical <named-content content-type="genus-species">Drosophila</named-content> genetic approaches to show that an increase in <italic>period</italic> gene dose shortened period length [<xref ref-type="bibr" rid="pbio-1000062-b034">34</xref>]. This observation was subsequently confirmed by others using transgenic technology [<xref ref-type="bibr" rid="pbio-1000062-b035">35</xref>,<xref ref-type="bibr" rid="pbio-1000062-b036">36</xref>]. More recently, a modest decrease in <italic>vrille</italic> (<italic>vri</italic>) gene dose (VRI is another transcription factor clock gene) decreased circadian period [<xref ref-type="bibr" rid="pbio-1000062-b037">37</xref>], and a modest increase in <italic>Clock</italic> gene dose also decreased period length [<xref ref-type="bibr" rid="pbio-1000062-b038">38</xref>]. An increase in the dose of the orthologous <italic>Clock</italic> gene in mammals had a similar effect in that system [<xref ref-type="bibr" rid="pbio-1000062-b039">39</xref>]. Interestingly, all three of these genes encode transcription factors, and it is notable that there is no comparable (modest) gene dose–period effect reported for clock kinases. This might indicate that it is the transcription of clock genes that is rate-limiting for circadian period. On the other hand, an increase in <italic>period</italic> gene dose might have a more primary effect on the rate of <italic>period</italic> protein phosphorylation and only a secondary effect on transcription; a similar possibility applies to alterations in <italic>vri</italic> and <italic>Clk</italic> gene dose.</p>
+      <p>Relevant to this pro-transcription argument is our recent demonstration that adding the strong transcriptional activator viral protein 16 (VP16) to the positive transcription factor CYC strongly increases clock gene transcription and decreases period length [<xref ref-type="bibr" rid="pbio-1000062-b038">38</xref>]. On the other hand, the substantial transcription effects of CYC–VP16 make the result subject to the same criticism applied above to kinases. Perhaps a better pro-transcription argument is that the promoter of the direct CLK–CYC target gene is necessary for the short period characteristic of the CYC–VP16 strain. In addition, increases in <italic>period</italic> gene dose with a heterologous promoter lengthen rather than shorten circadian period [<xref ref-type="bibr" rid="pbio-1000062-b038">38</xref>]. This suggests that the effects of increasing CLK levels might shorten period by predominantly increasing the rate of <italic>period</italic> transcription.</p>
+    </sec>
+    <sec id="s6">
+      <title>Multiple Rate-Limiting Steps?</title>
+      <p>It is important to emphasize that a transcription-centric view of circadian period control is not incompatible with a parallel post-translational-centric view, emphasizing for example protein turnover. One possibility is that both processes contribute to a more robust oscillator [<xref ref-type="bibr" rid="pbio-1000062-b040">40</xref>]. Another nonexclusive possibility is that both transcriptional and post-transcriptional regulation control period but at different phases of the circadian cycle. This alternative proposal of multiple rate-limiting steps emphasizes a cell cycle-like circadian program, in which different phases of the cycle occur in sequence, like G1-S-G2-M, with different rate-limiting steps at different phases of the cycle. (This is an analogy, not a proposal that rate-limiting steps that govern the circadian cycle are related to or even similar to those that govern the cell cycle.) For example, PER protein turnover might be rate-limiting at one phase of the cycle. Degradation of this transcriptional repressor below some threshold value would then be required for transcription to recommence and become a subsequent and very different rate-limiting step (<xref ref-type="fig" rid="pbio-1000062-g001">Figure 1</xref>). It is noteworthy that this almost certainly oversimplified view is not dramatically different from what was suggested based on the original <italic>per</italic> RNA, transcription, and <italic>per</italic> protein western blot observations about 15 years ago [<xref ref-type="bibr" rid="pbio-1000062-b014">14</xref>,<xref ref-type="bibr" rid="pbio-1000062-b015">15</xref>,<xref ref-type="bibr" rid="pbio-1000062-b023">23</xref>].</p>
+      <fig id="pbio-1000062-g001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <title>A Schematic Picture of the <named-content content-type="genus-species">Drosophila</named-content> Circadian Cycle as a Series of Discrete Steps</title>
+          <p>An oversimplified view that depicts each step in the cycle (transcription, translation, etc.) as being temporally and mechanistically separated from all other steps.</p>
+        </caption>
+        <graphic xlink:href="pbio.1000062.g001"/>
+      </fig>
+      <p>This view is, however, dramatically different from the current, single rate-limiting process that dominates the cyanobacterial circadian world: although armed with multiple subroutines, a single enzyme activity is probably rate-limiting for the entire 24-hour cycle [<xref ref-type="bibr" rid="pbio-1000062-b019">19</xref>]. Importantly, a common ancestor or a single origin for both animal and cyanobacterial clocks would make this multiple rate-limiting step proposal much less likely.</p>
+    </sec>
+    <sec id="s7">
+      <title>Temperature Compensation</title>
+      <p>How to achieve the enigmatic process of temperature compensation is a troubling but unavoidable complication of a multiple rate-limiting step view of animal circadian clocks. Temperature compensation reflects the fact that circadian period length changes little as a function of temperature (within a physiological range; Q<sub>10</sub> ~1.0). For multiple rate-limiting steps, there must then be multiple mechanisms of temperature compensation, at least one for each rate-limiting reaction. Balancing kinases and phosphatases that govern each step and have comparable temperature coefficients is a single mechanism that could apply to different kinase–phosphatase pairs acting on different substrates at different cycle times. There are also other solutions, including an overall measuring device that keeps the cycle at 24 hours and a balanced expansion–contraction of different steps. The latter should be easy to disprove, by examining for example the relative length of the transcription and the protein turnover phases of the circadian cycle at different temperatures. Temperature compensation may even apply more broadly to other physiological processes; i.e., circadian rhythms may not be so special from this point of view. In any case, temperature compensation of the cyanobacterial circadian system is likely to have a single solution, which may be different from the eukaryotic solution(s) and reflect the independent origins of the two systems.</p>
+    </sec>
+    <sec id="s8">
+      <title>Transcription and the Origins of Circadian Clocks</title>
+      <p>Finally, what were the original selective advantages, the driving forces, for the origins/development of rhythms in the eukaryotic and bacterial systems? Present-day differences between prokaryotic and eukaryotic circadian systems in their relationship to transcription, DNA, and light offer possible clues.</p>
+      <p>Circadian rhythms are important for the fitness of a photosynthetic organism like cyanobacteria [<xref ref-type="bibr" rid="pbio-1000062-b041">41</xref>,<xref ref-type="bibr" rid="pbio-1000062-b042">42</xref>]. Many cyanobacterial species also organize a large fraction of their metabolism under circadian transcriptional control (e.g., [<xref ref-type="bibr" rid="pbio-1000062-b043">43</xref>]), implying for example a selective advantage to transcribing photosynthesis genes at the right time during a light–dark cycle. Moreover, in species that do not spatially segregate nitrogen fixation and photosynthesis, oxygen sensitivity of the former demands temporal segregation from the latter [<xref ref-type="bibr" rid="pbio-1000062-b044">44</xref>]. So although circadian transcription may not be essential for some cyanobacterial timekeeping features, its temporal organization may have provided a progenitor with a sufficient selective advantage to drive the development of rhythms. (A similar point has been made by McKnight and colleagues based on the temporal organization of yeast metabolism, including the segregation of reductive and oxidative functions [<xref ref-type="bibr" rid="pbio-1000062-b045">45</xref>,<xref ref-type="bibr" rid="pbio-1000062-b046">46</xref>].) This bottom-up view suggests that the Kai transcription factors of a photosynthetic progenitor of current-day cyanobacteria developed the capacity to orchestrate transcription in response to the ever-present light–dark cycle, and eventually to anticipate that cycle in a transcription- and even light-independent manner.</p>
+      <p>Eukaryotes, in contrast, show rather little pan-tissue circadian transcription—with the notable exception of central clock genes [<xref ref-type="bibr" rid="pbio-1000062-b047">47</xref>]. Although other interpretations are possible, this suggests that circadian output transcription, critical to many tissue-specific functions including metabolism, did not drive the development of eukaryotic rhythms but developed secondarily. This is despite the intimate relationship between circadian transcription and metabolism in certain tissues of present-day mammals, e.g., [<xref ref-type="bibr" rid="pbio-1000062-b048">48</xref>,<xref ref-type="bibr" rid="pbio-1000062-b049">49</xref>].</p>
+    </sec>
+    <sec id="s9">
+      <title>Light and the Origins of Circadian Clocks</title>
+      <p>My view of eukaryotic clock origins was inspired by the fact that cryptochrome is a circadian light-sensor in insects [<xref ref-type="bibr" rid="pbio-1000062-b050">50</xref>,<xref ref-type="bibr" rid="pbio-1000062-b051">51</xref>]. As cryptochrome has a close relationship to photolyase, an enzyme that uses light to repair UV-induced DNA damage [<xref ref-type="bibr" rid="pbio-1000062-b052">52</xref>], responding to light-induced DNA damage may have been a major driving force for the development of circadian rhythms in eukaryotes [<xref ref-type="bibr" rid="pbio-1000062-b051">51</xref>,<xref ref-type="bibr" rid="pbio-1000062-b053">53–55</xref>]. In this context, it is intriguing that DNA synthesis, DNA repair, and the cell cycle have been recently shown to have a closer relationship with circadian rhythms and light than previously imagined, in <named-content content-type="genus-species">Neurospora</named-content> as well as metazoans [<xref ref-type="bibr" rid="pbio-1000062-b046">46</xref>,<xref ref-type="bibr" rid="pbio-1000062-b055">55</xref>,<xref ref-type="bibr" rid="pbio-1000062-b056">56</xref>]. For example, the S phase in zebrafish is under light and circadian control [<xref ref-type="bibr" rid="pbio-1000062-b057">57</xref>], and mammalian homologs of the <named-content content-type="genus-species">Drosophila</named-content> clock protein Timeless (TIM) function in the DNA damage response and perhaps also the cell cycle [<xref ref-type="bibr" rid="pbio-1000062-b058">58–60</xref>]. Given the important role played by signal transduction in DNA repair, the relationship of DNA damage and repair to rhythms may have additional explanatory power, namely, the origin of circadian kinases. Intriguingly, at least one enzyme is important for plant as well as animal and <named-content content-type="genus-species">Neurospora</named-content> clocks and also for other major signal transduction systems, e.g., CKII [<xref ref-type="bibr" rid="pbio-1000062-b006">6</xref>,<xref ref-type="bibr" rid="pbio-1000062-b061">61</xref>,<xref ref-type="bibr" rid="pbio-1000062-b062">62</xref>]. In other words, the regular, daily appearance of light as well as the consequent regular induction of DNA damage and repair systems may have provided the molecular tool kit (photolyase, a TIM ancestor, and even kinases) for the development of circadian rhythmicity. This largely negative relationship between light and eukaryotic circadian rhythms, “flight from light” [<xref ref-type="bibr" rid="pbio-1000062-b053">53</xref>], further underscores the contrast with photosynthetic cyanobacteria.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>I thank Ueli Schibler, Paul Hardin, Ravi Allada, Justin Blau, Susan Golden, Sebastian Kadener, and current Rosbash lab members for comments on this essay. I also thank Sebastian Kadener and Jerome Menet for the figure.</p>
+    </ack>
+    <glossary>
+      <def-list>
+        <title>Abbreviations</title>
+        <def-item>
+          <term>CK</term>
+          <def>
+            <p>casein kinase</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>
+            <italic>clk</italic>
+          </term>
+          <def>
+            <p>
+              <italic>clock</italic>
+            </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>
+            <italic>cyc</italic>
+          </term>
+          <def>
+            <p>
+              <italic>cycle</italic>
+            </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>
+            <italic>per</italic>
+          </term>
+          <def>
+            <p>
+              <italic>period</italic>
+            </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>VP16</term>
+          <def>
+            <p>viral protein 16</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>
+            <italic>vri</italic>
+          </term>
+          <def>
+            <p>
+              <italic>vrille</italic>
+            </p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <title>References</title>
+      <ref id="pbio-1000062-b001">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Konopka</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Benzer</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>1971</year>
+          <article-title>Clock mutants of <named-content content-type="genus-species">Drosophila melanogaster</named-content></article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>68</volume>
+          <fpage>2112</fpage>
+          <lpage>2116</lpage>
+          <pub-id pub-id-type="pmid">5002428</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b002">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Sun</surname>
+              <given-names>ZS</given-names>
+            </name>
+            <name>
+              <surname>Albrecht</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Zhuchenko</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Eichele</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1997</year>
+          <article-title><italic>RIGUI</italic>, a putative mammalian ortholog of the <named-content content-type="genus-species">Drosophila period</named-content> gene</article-title>
+          <source>Cell</source>
+          <volume>90</volume>
+          <fpage>1003</fpage>
+          <lpage>1011</lpage>
+          <pub-id pub-id-type="pmid">9323128</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b003">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Tei</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Okamura</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shigeyoshi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Fukuhara</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ozawa</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1997</year>
+          <article-title>Circadian oscillation of a mammalian homologue of the <named-content content-type="genus-species">Drosophila period</named-content> gene</article-title>
+          <source>Nature</source>
+          <volume>389</volume>
+          <fpage>512</fpage>
+          <lpage>516</lpage>
+          <pub-id pub-id-type="pmid">9333243</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b004">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Young</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Kay</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Time zones: A comparative genetics of circadian clocks</article-title>
+          <source>Nat Rev Genet</source>
+          <volume>2</volume>
+          <fpage>702</fpage>
+          <lpage>715</lpage>
+          <pub-id pub-id-type="pmid">11533719</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b005">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Yu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hardin</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Circadian oscillators of <named-content content-type="genus-species">Drosophila</named-content> and mammals</article-title>
+          <source>J Cell Sci</source>
+          <volume>119</volume>
+          <fpage>4793</fpage>
+          <lpage>4795</lpage>
+          <pub-id pub-id-type="pmid">17130292</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b006">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Hamilton</surname>
+              <given-names>EE</given-names>
+            </name>
+            <name>
+              <surname>Kay</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>SnapShot: Circadian clock proteins</article-title>
+          <source>Cell</source>
+          <volume>135</volume>
+          <fpage>368</fpage>
+          <lpage>368</lpage>
+          <pub-id pub-id-type="pmid">18957209</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b007">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Lee</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Loros</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Dunlap</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Interconnected feedback loops in the <named-content content-type="genus-species">Neurospora</named-content> circadian system</article-title>
+          <source>Science</source>
+          <volume>289</volume>
+          <fpage>107</fpage>
+          <lpage>110</lpage>
+          <pub-id pub-id-type="pmid">10884222</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b008">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Tauber</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Last</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Olive</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Kyriacou</surname>
+              <given-names>CP</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Clock gene evolution and functional divergence</article-title>
+          <source>J Biol Rhythms</source>
+          <volume>19</volume>
+          <fpage>445</fpage>
+          <lpage>458</lpage>
+          <pub-id pub-id-type="pmid">15534324</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b009">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Bell-Pedersen</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Cassone</surname>
+              <given-names>VM</given-names>
+            </name>
+            <name>
+              <surname>Earnest</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Golden</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Hardin</surname>
+              <given-names>PE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Circadian rhythms from multiple oscillators: Lessons from diverse organisms</article-title>
+          <source>Nat Rev Genet</source>
+          <volume>6</volume>
+          <fpage>544</fpage>
+          <lpage>556</lpage>
+          <pub-id pub-id-type="pmid">15951747</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b010">
+        <citation citation-type="other">
+          <person-group>
+            <name>
+              <surname>Abelson</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The birth of oxygen</article-title>
+          <source>Bull Am Acad Arts Sci LX</source>
+          <fpage>28</fpage>
+          <lpage>33</lpage>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b011">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Crews</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Goodman</surname>
+              <given-names>CS</given-names>
+            </name>
+          </person-group>
+          <year>1988</year>
+          <article-title>The <named-content content-type="genus-species">Drosophila</named-content> <italic>single-minded</italic> gene encodes a nuclear protein with sequence similarity to the <italic>per</italic> gene product</article-title>
+          <source>Cell</source>
+          <volume>52</volume>
+          <fpage>143</fpage>
+          <lpage>152</lpage>
+          <pub-id pub-id-type="pmid">3345560</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b012">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Nakajima</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Imai</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Nishiwaki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Murayama</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Reconstitution of circadian oscillation of cyanobacterial KaiC phosphorylation in vitro</article-title>
+          <source>Science</source>
+          <volume>308</volume>
+          <fpage>414</fpage>
+          <lpage>415</lpage>
+          <pub-id pub-id-type="pmid">15831759</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b013">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Ishiura</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kutsuna</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Aoki</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Iwasaki</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Andersson</surname>
+              <given-names>CR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Expression of a gene cluster <italic>kaiABC</italic> as a circadian feedback process in cyanobacteria</article-title>
+          <source>Science</source>
+          <volume>281</volume>
+          <fpage>1519</fpage>
+          <lpage>1523</lpage>
+          <pub-id pub-id-type="pmid">9727980</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b014">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Hardin</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Rosbash</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>1990</year>
+          <article-title>Feedback of the <named-content content-type="genus-species">Drosophila</named-content> <italic>period</italic> gene product on circadian cycling of its messenger RNA levels</article-title>
+          <source>Nature</source>
+          <volume>343</volume>
+          <fpage>536</fpage>
+          <lpage>540</lpage>
+          <pub-id pub-id-type="pmid">2105471</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b015">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Hardin</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Rosbash</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>1992</year>
+          <article-title>Circadian oscillations in <italic>period</italic> gene mRNA levels are transcriptionally regulated</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>89</volume>
+          <fpage>11711</fpage>
+          <lpage>11715</lpage>
+          <pub-id pub-id-type="pmid">1465387</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b016">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Tomita</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nakajima</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kondo</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Iwasaki</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>No transcription-translation feedback in circadian rhythm of KaiC phosphorylation</article-title>
+          <source>Science</source>
+          <volume>307</volume>
+          <fpage>251</fpage>
+          <lpage>254</lpage>
+          <pub-id pub-id-type="pmid">15550625</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b017">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Nishiwaki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Satomi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kitayama</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Terauchi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kiyohara</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>A sequential program of dual phosphorylation of KaiC as a basis for circadian rhythm in cyanobacteria</article-title>
+          <source>Embo J</source>
+          <volume>26</volume>
+          <fpage>4029</fpage>
+          <lpage>4037</lpage>
+          <pub-id pub-id-type="pmid">17717528</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b018">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Rust</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Markson</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Lane</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>O'Shea</surname>
+              <given-names>EK</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Ordered phosphorylation governs oscillation of a three-protein circadian clock</article-title>
+          <source>Science</source>
+          <volume>318</volume>
+          <fpage>809</fpage>
+          <lpage>812</lpage>
+          <pub-id pub-id-type="pmid">17916691</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b019">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Terauchi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kitayama</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Nishiwaki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Miwa</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Murayama</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>ATPase activity of KaiC determines the basic timing for circadian clock of cyanobacteria</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>104</volume>
+          <fpage>16377</fpage>
+          <lpage>16381</lpage>
+          <pub-id pub-id-type="pmid">17901204</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b020">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Ito</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kageyama</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mutsuda</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Nakajima</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Oyama</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Autonomous synchronization of the circadian KaiC phosphorylation rhythm</article-title>
+          <source>Nat Struct Mol Biol</source>
+          <volume>14</volume>
+          <fpage>1084</fpage>
+          <lpage>1088</lpage>
+          <pub-id pub-id-type="pmid">17965725</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b021">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Pattanayek</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Pattanayek</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mori</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>CH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Structural model of the circadian clock KaiB-KaiC complex and mechanism for modulation of KaiC phosphorylation</article-title>
+          <source>Embo J</source>
+          <volume>27</volume>
+          <fpage>1767</fpage>
+          <lpage>1778</lpage>
+          <pub-id pub-id-type="pmid">18497745</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b022">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Kitayama</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Nishiwaki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Terauchi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kondo</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Dual KaiC-based oscillations constitute the circadian system of cyanobacteria</article-title>
+          <source>Genes Dev</source>
+          <volume>22</volume>
+          <fpage>1513</fpage>
+          <lpage>1521</lpage>
+          <pub-id pub-id-type="pmid">18477603</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b023">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Edery</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Zwiebel</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Dembinska</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Rosbash</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>1994</year>
+          <article-title>Temporal phosphorylation of the <named-content content-type="genus-species">Drosophila</named-content> <italic>period</italic> protein</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>91</volume>
+          <fpage>2260</fpage>
+          <lpage>2264</lpage>
+          <pub-id pub-id-type="pmid">8134384</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b024">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Lee</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Bae</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Edery</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>The <named-content content-type="genus-species">Drosophila</named-content> CLOCK protein undergoes daily rhythms in abundance, phosphorylation and interactions with the PER-TIM complex</article-title>
+          <source>Neuron</source>
+          <volume>4</volume>
+          <fpage>857</fpage>
+          <lpage>867</lpage>
+          <pub-id pub-id-type="pmid">9808471</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b025">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Yu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Houl</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Dauwalder</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hardin</surname>
+              <given-names>PE</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>PER-dependent rhythms in CLK phosphorylation and E-box binding regulate circadian transcription</article-title>
+          <source>Genes Dev</source>
+          <volume>20</volume>
+          <fpage>723</fpage>
+          <lpage>733</lpage>
+          <pub-id pub-id-type="pmid">16543224</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b026">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Chiu</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Vanselow</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Kramer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Edery</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The phospho-occupancy of an atypical SLIMB-binding site on PERIOD that is phosphorylated by DOUBLETIME controls the pace of the clock</article-title>
+          <source>Genes Dev</source>
+          <volume>22</volume>
+          <fpage>1758</fpage>
+          <lpage>1772</lpage>
+          <pub-id pub-id-type="pmid">18593878</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b027">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Kloss</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Price</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Saez</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Blau</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rothenfluh-Hilfiker</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>The <named-content content-type="genus-species">Drosophila</named-content> clock gene <italic>double-time</italic> encodes a protein closely related to human casein kinase Ie</article-title>
+          <source>Cell</source>
+          <volume>94</volume>
+          <fpage>97</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="pmid">9674431</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b028">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Price</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Blau</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rothenfluh</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Abodeely</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kloss</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title><italic>double-time</italic> is a novel <named-content content-type="genus-species">Drosophila</named-content> clock gene that regulates PERIOD protein accumulation</article-title>
+          <source>Cell</source>
+          <volume>94</volume>
+          <fpage>83</fpage>
+          <lpage>95</lpage>
+          <pub-id pub-id-type="pmid">9674430</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b029">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Lowrey</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Shimomura</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Antoch</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Yamazaki</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zemenides</surname>
+              <given-names>PD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Positional syntenic cloning and functional characterization of the mammalian circadian mutation <italic>tau</italic></article-title>
+          <source>Science</source>
+          <volume>288</volume>
+          <fpage>483</fpage>
+          <lpage>492</lpage>
+          <pub-id pub-id-type="pmid">10775102</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b030">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Smith</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>J-M</given-names>
+            </name>
+            <name>
+              <surname>Meissner</surname>
+              <given-names>R-A</given-names>
+            </name>
+            <name>
+              <surname>Allada</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Dominant-negative CK2a induces potent effects on circadian rhythmicity</article-title>
+          <source>PLoS Genet</source>
+          <volume>4</volume>
+          <issue>1</issue>
+          <fpage>e12</fpage>
+          <comment>doi:<ext-link ext-link-type="doi" xlink:href="10.1371/journal.pgen.0040012">10.1371/journal.pgen.0040012</ext-link></comment>
+          <pub-id pub-id-type="pmid">18208335</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b031">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Sehgal</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Role of molecular oscillations in generating behavioral rhythms in <named-content content-type="genus-species">Drosophila</named-content></article-title>
+          <source>Neuron</source>
+          <volume>29</volume>
+          <fpage>453</fpage>
+          <lpage>467</lpage>
+          <pub-id pub-id-type="pmid">11239435</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b032">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Sato</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Yamada</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Ukai</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Baggs</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Miraglia</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Feedback repression is required for mammalian circadian clock function</article-title>
+          <source>Nat Genet</source>
+          <volume>38</volume>
+          <fpage>312</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="pmid">16474406</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b033">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Liu</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>WG</given-names>
+            </name>
+            <name>
+              <surname>Kay</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Mammalian circadian signaling networks and therapeutic targets</article-title>
+          <source>Nat Chem Biol</source>
+          <volume>3</volume>
+          <fpage>630</fpage>
+          <lpage>639</lpage>
+          <pub-id pub-id-type="pmid">17876320</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b034">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Smith</surname>
+              <given-names>RF</given-names>
+            </name>
+            <name>
+              <surname>Konopka</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <year>1982</year>
+          <article-title>Effects of dosage alterations at the <italic>per</italic> locus on the period of the circadian clock of <named-content content-type="genus-species">Drosophila</named-content></article-title>
+          <source>Mol Gen Genet</source>
+          <volume>189</volume>
+          <fpage>30</fpage>
+          <lpage>36</lpage>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b035">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Baylies</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Bargiello</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <year>1987</year>
+          <article-title>Changes in abundance and structure of the <italic>per</italic> gene product can alter periodicity of the <named-content content-type="genus-species">Drosophila</named-content> clock</article-title>
+          <source>Nature</source>
+          <volume>326</volume>
+          <fpage>390</fpage>
+          <lpage>392</lpage>
+          <pub-id pub-id-type="pmid">2436052</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b036">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Rutila</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Edery</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Rosbash</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>1992</year>
+          <article-title>The analysis of new short-period circadian rhythm mutants suggests features of <named-content content-type="genus-species">D. melanogaster</named-content> <italic>period</italic> gene function</article-title>
+          <source>J Neurogenet</source>
+          <volume>8</volume>
+          <fpage>101</fpage>
+          <lpage>113</lpage>
+          <pub-id pub-id-type="pmid">1634995</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b037">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Blau</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Cycling <italic>vrille</italic> expression is required for a functional <named-content content-type="genus-species">Drosophila</named-content> clock</article-title>
+          <source>Cell</source>
+          <volume>99</volume>
+          <fpage>661</fpage>
+          <lpage>671</lpage>
+          <pub-id pub-id-type="pmid">10612401</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b038">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Kadener</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Menet</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Schoer</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Rosbash</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Circadian transcription contributes to core period determination in <named-content content-type="genus-species">Drosophila</named-content></article-title>
+          <source>PLoS Biol</source>
+          <volume>6</volume>
+          <issue>5</issue>
+          <fpage>e119</fpage>
+          <comment>doi:<ext-link ext-link-type="doi" xlink:href="10.1371/journal.pbio.0060119">10.1371/journal.pbio.0060119</ext-link></comment>
+          <pub-id pub-id-type="pmid">18494558</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b039">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Antoch</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>E-J</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>A-M</given-names>
+            </name>
+            <name>
+              <surname>Vitaterna</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1997</year>
+          <article-title>Functional identification of the mouse circadian <italic>clock</italic> gene by transgenic BAC rescue</article-title>
+          <source>Cell</source>
+          <volume>89</volume>
+          <fpage>655</fpage>
+          <lpage>667</lpage>
+          <pub-id pub-id-type="pmid">9160756</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b040">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Blau</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>PERspective on PER phosphorylation</article-title>
+          <source>Genes Dev</source>
+          <volume>22</volume>
+          <fpage>1737</fpage>
+          <lpage>1740</lpage>
+          <pub-id pub-id-type="pmid">18593875</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b041">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Ouyang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Andersson</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Kondo</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Golden</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Resonating circadian clocks enhance fitness in cyanobacteria</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>95</volume>
+          <fpage>8660</fpage>
+          <lpage>8664</lpage>
+          <pub-id pub-id-type="pmid">9671734</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b042">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Woelfle</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Ouyang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Phanvijhitsiri</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>The adaptive value of circadian clocks: An experimental assessment in cyanobacteria</article-title>
+          <source>Curr Biol</source>
+          <volume>14</volume>
+          <fpage>1481</fpage>
+          <lpage>1486</lpage>
+          <pub-id pub-id-type="pmid">15324665</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b043">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Stockel</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Welsh</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Liberton</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kunnvakkam</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Aurora</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Global transcriptomic analysis of <named-content content-type="genus-species">Cyanothece</named-content> 51142 reveals robust diurnal oscillation of central metabolic processes</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>105</volume>
+          <fpage>6156</fpage>
+          <lpage>6161</lpage>
+          <pub-id pub-id-type="pmid">18427117</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b044">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Golden</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Yoon</surname>
+              <given-names>HS</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Heterocyst development in <named-content content-type="genus-species">Anabaena</named-content></article-title>
+          <source>Curr Opin Microbiol</source>
+          <volume>6</volume>
+          <fpage>557</fpage>
+          <lpage>563</lpage>
+          <pub-id pub-id-type="pmid">14662350</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b045">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Tu</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>McKnight</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Metabolic cycles as an underlying basis of biological oscillations</article-title>
+          <source>Nat Rev Mol Cell Biol</source>
+          <volume>7</volume>
+          <fpage>696</fpage>
+          <lpage>701</lpage>
+          <pub-id pub-id-type="pmid">16823381</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b046">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Odstrcil</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Tu</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>McKnight</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Restriction of DNA replication to the reductive phase of the metabolic cycle protects genome integrity</article-title>
+          <source>Science</source>
+          <volume>316</volume>
+          <fpage>1916</fpage>
+          <lpage>1919</lpage>
+          <pub-id pub-id-type="pmid">17600220</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b047">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Storch</surname>
+              <given-names>KF</given-names>
+            </name>
+            <name>
+              <surname>Lipan</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Leykin</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Viswanathan</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>FC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Extensive and divergent circadian gene expression in liver and heart</article-title>
+          <source>Nature</source>
+          <volume>417</volume>
+          <fpage>78</fpage>
+          <lpage>83</lpage>
+          <pub-id pub-id-type="pmid">11967526</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b048">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Asher</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Gatfield</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Stratmann</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Reinke</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Dibner</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>SIRT1 regulates circadian clock gene expression through PER2 deacetylation</article-title>
+          <source>Cell</source>
+          <volume>134</volume>
+          <fpage>317</fpage>
+          <lpage>328</lpage>
+          <pub-id pub-id-type="pmid">18662546</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b049">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Nakahata</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kaluzova</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Grimaldi</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sahar</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hirayama</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The NAD+-dependent deacetylase SIRT1 modulates CLOCK-mediated chromatin remodeling and circadian control</article-title>
+          <source>Cell</source>
+          <volume>134</volume>
+          <fpage>329</fpage>
+          <lpage>340</lpage>
+          <pub-id pub-id-type="pmid">18662547</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b050">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Stanewsky</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kaneko</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Emery</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Beretta</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wager-Smith</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>The <italic>cry <sup>b</sup></italic> mutation identifies cryptochrome as a circadian photoreceptor in <named-content content-type="genus-species">Drosophila</named-content></article-title>
+          <source>Cell</source>
+          <volume>95</volume>
+          <fpage>681</fpage>
+          <lpage>692</lpage>
+          <pub-id pub-id-type="pmid">9845370</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b051">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Emery</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>So</surname>
+              <given-names>WV</given-names>
+            </name>
+            <name>
+              <surname>Kaneko</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Rosbash</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>CRY, a <named-content content-type="genus-species">Drosophila</named-content> clock and light-regulated cryptochrome, is a major contributor to circadian rhythm resetting and photosensitivity</article-title>
+          <source>Cell</source>
+          <volume>95</volume>
+          <fpage>669</fpage>
+          <lpage>679</lpage>
+          <pub-id pub-id-type="pmid">9845369</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b052">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Ozturk</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Ozgur</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Selby</surname>
+              <given-names>CP</given-names>
+            </name>
+            <name>
+              <surname>Morrison</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Structure and function of animal cryptochromes</article-title>
+          <source>Cold Spring Harb Symp Quant Biol</source>
+          <volume>72</volume>
+          <fpage>119</fpage>
+          <lpage>131</lpage>
+          <pub-id pub-id-type="pmid">18419269</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b053">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Pittendrigh</surname>
+              <given-names>CS</given-names>
+            </name>
+          </person-group>
+          <year>1993</year>
+          <article-title>Temporal organization: Reflections of a Darwinian clock-watcher</article-title>
+          <source>Annu Rev Physiol</source>
+          <volume>55</volume>
+          <fpage>17</fpage>
+          <lpage>54</lpage>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b054">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Gehring</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Rosbash</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>The coevolution of blue-light photoreception and circadian rhythms</article-title>
+          <source>J Mol Evol</source>
+          <volume>57</volume>
+          <issue>Suppl 1</issue>
+          <fpage>S286</fpage>
+          <lpage>S289</lpage>
+          <pub-id pub-id-type="pmid">15008426</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b055">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>McKnight</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>A conserved DNA damage response pathway responsible for coupling the cell division cycle to the circadian and metabolic cycles</article-title>
+          <source>Cell Cycle</source>
+          <volume>6</volume>
+          <fpage>2906</fpage>
+          <lpage>2912</lpage>
+          <pub-id pub-id-type="pmid">18000400</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b056">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Pregueiro</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Dunlap</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Loros</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>The <named-content content-type="genus-species">Neurospora</named-content> checkpoint kinase 2: A regulatory link between the circadian and cell cycles</article-title>
+          <source>Science</source>
+          <volume>313</volume>
+          <fpage>644</fpage>
+          <lpage>649</lpage>
+          <pub-id pub-id-type="pmid">16809488</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b057">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Dekens</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Santoriello</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Vallone</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Whitmore</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Light regulates the cell cycle in zebrafish</article-title>
+          <source>Curr Biol</source>
+          <volume>13</volume>
+          <fpage>2051</fpage>
+          <lpage>2057</lpage>
+          <pub-id pub-id-type="pmid">14653994</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b058">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Unsal-Kacmaz</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mullen</surname>
+              <given-names>TE</given-names>
+            </name>
+            <name>
+              <surname>Kaufmann</surname>
+              <given-names>WK</given-names>
+            </name>
+            <name>
+              <surname>Sancar</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Coupling of human circadian and cell cycles by the timeless protein</article-title>
+          <source>Mol Cell Biol</source>
+          <volume>25</volume>
+          <fpage>3109</fpage>
+          <lpage>3116</lpage>
+          <pub-id pub-id-type="pmid">15798197</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b059">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Chou</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Elledge</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Tipin and Timeless form a mutually protective complex required for genotoxic stress resistance and checkpoint function</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>103</volume>
+          <fpage>18143</fpage>
+          <lpage>18147</lpage>
+          <pub-id pub-id-type="pmid">17116885</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b060">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Unsal-Kacmaz</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chastain</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Qu</surname>
+              <given-names>PP</given-names>
+            </name>
+            <name>
+              <surname>Minoo</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Cordeiro-Stone</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>The human Tim/Tipin complex coordinates an Intra-S checkpoint response to UV that slows replication fork displacement</article-title>
+          <source>Mol Cell Biol</source>
+          <volume>27</volume>
+          <fpage>3131</fpage>
+          <lpage>3142</lpage>
+          <pub-id pub-id-type="pmid">17296725</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b061">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Daniel</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Sugano</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tobin</surname>
+              <given-names>EM</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>CK2 phosphorylation of CCA1 is necessary for its circadian oscillator function in <named-content content-type="genus-species">Arabidopsis</named-content></article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>101</volume>
+          <fpage>3292</fpage>
+          <lpage>3297</lpage>
+          <pub-id pub-id-type="pmid">14978263</pub-id>
+        </citation>
+      </ref>
+      <ref id="pbio-1000062-b062">
+        <citation citation-type="journal">
+          <person-group>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kilman</surname>
+              <given-names>VL</given-names>
+            </name>
+            <name>
+              <surname>Keegan</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Paddock</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Emery-Le</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>A role for casein kinase 2alpha in the <named-content content-type="genus-species">Drosophila</named-content> circadian clock</article-title>
+          <source>Nature</source>
+          <volume>420</volume>
+          <fpage>816</fpage>
+          <lpage>820</lpage>
+          <pub-id pub-id-type="pmid">12447397</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><bold>Academic Editor:</bold> Michael Young, Rockefeller University, United States of America</p>
+      </fn>
+      <fn id="n1" fn-type="current-aff">
+        <p>Michael Rosbash is with the Howard Hughes Medical Institute, National Center for Behavioral Genomics, and Department of Biology, Brandeis University, Waltham, Massachusetts, United States of America. E-mail: <email>rosbash@brandeis.edu</email></p>
+      </fn>
+      <fn id="ack1" fn-type="financial-disclosure">
+        <p><bold>Funding.</bold> Funding was provided by the Howard Hughes Medical Institute and grant# P01-NS044232 from the National Institutes of Health. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

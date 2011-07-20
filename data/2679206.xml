@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:31:44Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2679206" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2679206</identifier><datestamp>2009-05-22</datestamp><setSpec>plosgen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="article-commentary" xml:lang="EN">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Genet</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosgen</journal-id>
+      <journal-title>PLoS Genetics</journal-title>
+      <issn pub-type="ppub">1553-7390</issn>
+      <issn pub-type="epub">1553-7404</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2679206</article-id>
+      <article-id pub-id-type="pmid">19461890</article-id>
+      <article-id pub-id-type="publisher-id">09-PLGE-PV-0694R1</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pgen.1000493</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Perspective</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Cell Biology/Developmental Molecular Mechanisms</subject>
+          <subject>Developmental Biology/Developmental Evolution</subject>
+          <subject>Developmental Biology/Developmental Molecular Mechanisms</subject>
+          <subject>Developmental Biology/Germ Cells</subject>
+          <subject>Evolutionary Biology/Developmental Molecular Mechanisms</subject>
+          <subject>Genetics and Genomics/Chromosome Biology</subject>
+          <subject>Genetics and Genomics/Epigenetics</subject>
+          <subject>Molecular Biology/Chromatin Structure</subject>
+          <subject>Molecular Biology/Histone Modification</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>XY and ZW: Is Meiotic Sex Chromosome Inactivation the Rule in Evolution?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Namekawa</surname>
+            <given-names>Satoshi H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lee</surname>
+            <given-names>Jeannie T.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Howard Hughes Medical Institute, Department of Molecular Biology, Massachusetts General Hospital, Boston, Massachusetts, United States of America</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Malik</surname>
+            <given-names>Harmit S.</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">Fred Hutchinson Cancer Research Center, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>lee@molbio.mgh.harvard.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>5</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>5</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>5</issue>
+      <elocation-id>e1000493</elocation-id>
+      <copyright-statement>Namekawa, Lee. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      <copyright-year>2009</copyright-year>
+      <related-article xlink:href="info:doi/10.1371/journal.pgen.1000466" id="RA1" related-article-type="companion" ext-link-type="uri" vol="5" page="e1000466">
+        <article-title>Female Meiotic Sex Chromosome Inactivation in Chicken</article-title>
+      </related-article>
+      <counts>
+        <page-count count="3"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <p>The sex chromosomes are among the most rapidly evolving and most diverse genetic systems in all of biology. Students of model organisms may, however, have the false impression that there is only one chromosomal mechanism of specifying sex. Among the best-studied metazoans, the XY system is indeed the rule, with inheritance of two X's determining the female sex (XX), and inheritance of an X and a Y specifying the male sex (XY) <xref ref-type="bibr" rid="pgen.1000493-Charlesworth1">[1]</xref>. In this system, females produce only one type of oocyte (X), whereas males produce two types of sperm (X and Y). However, sex is not always determined this way. Throughout evolution, the XY system has co-existed alongside the lesser known ZW system, a scheme exemplified by members of the avian clade who diverged from Mammalia 300 million years ago (<xref ref-type="fig" rid="pgen-1000493-g001">Figure 1</xref>) <xref ref-type="bibr" rid="pgen.1000493-Graves1">[2]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Arnold1">[3]</xref>. In birds, females are the heterogametic sex, as females have one Z and one W chromosome (ZW) and can therefore produce two types of gametes (Z or W oocytes). By contrast, males are ZZ and can produce only one type of gamete (homogametic)—the Z-bearing sperm. In XY and ZW systems, the homologous sex chromosomes are genetically unequal due to suppression of homologous recombination and accumulation of deleterious mutations on one chromosome of the heterogametic sex <xref ref-type="bibr" rid="pgen.1000493-Charlesworth1">[1]</xref>. In the XY system, it is the Y that genetically degenerates; in the ZW system, it is the W. Today, the mammalian X carries over three times more genes than the Y does, whereas the chicken Z carries over ten times more than the W.</p>
+    <p>There are two intriguing consequences of having unequal sex chromosomes. The first relates to dosage imbalance or X- or Z-borne genes between males and females. A need to correct for this imbalance has led to co-evolution of “dosage compensation” in many organisms that use the XY system, such as mammals, fruit flies, and worms <xref ref-type="bibr" rid="pgen.1000493-Lucchesi1">[4]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Payer1">[5]</xref>. In mammals, dosage compensation involves transcriptional inactivation of one X chromosome in the female. The second consequence of unequal sex chromosomes is the absence of a full pairing partner during meiosis in the heterogametic sex <xref ref-type="bibr" rid="pgen.1000493-Turner1">[6]</xref>. During meiosis, homologous chromosomes pair (align), synapse (held by the synaptonemal complex), and exchange genetic material via homologous recombination. But for sex chromosomes, pairing occurs either partially or not at all. The X and Y of eutherian mammals pair through their pseudoautosomal regions, but the X and Y of marsupial mammals lack significant homology and come together without synapsis <xref ref-type="bibr" rid="pgen.1000493-Namekawa1">[7]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Franco1">[8]</xref>. Lack of pairing triggers meiotic silencing of unsynapsed chromatin (or unpaired DNA) (MSUC or MSUD) <xref ref-type="bibr" rid="pgen.1000493-Baarends1">[9]</xref>–<xref ref-type="bibr" rid="pgen.1000493-Schimenti1">[11]</xref>, which is an ancient genome defense mechanism that silences sequences without pairing partners <xref ref-type="bibr" rid="pgen.1000493-Shiu1">[12]</xref>. Mammalian MSUC/MSUD results in meiotic sex chromosome inactivation (MSCI), by which the X and Y alone become transcriptionally inactivated during the first meiotic prophase <xref ref-type="bibr" rid="pgen.1000493-Turner1">[6]</xref>, <xref ref-type="bibr" rid="pgen.1000493-Lifschytz1">[13]</xref>–<xref ref-type="bibr" rid="pgen.1000493-Hornecker1">[15]</xref>. MSCI is not confined to mammals, as metazoans as diverse as the fruit fly <xref ref-type="bibr" rid="pgen.1000493-Hense1">[16]</xref>, grasshopper <xref ref-type="bibr" rid="pgen.1000493-Cabrero1">[17]</xref>, and the nematode worm <xref ref-type="bibr" rid="pgen.1000493-Bean1">[18]</xref> also demonstrate MSCI (grasshopper and worm males are XO, with the Y having completely degenerated).</p>
+    <p>How universal are dosage compensation and MSCI? Analyses in chickens have reached the consensus that Z genes may only be partially equalized between ZZ and ZW individuals, although the mechanism of dosage compensation remains unclear <xref ref-type="bibr" rid="pgen.1000493-Graves1">[2]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Arnold1">[3]</xref>. Until now, no evidence of MSCI had been found in birds <xref ref-type="bibr" rid="pgen.1000493-Wu1">[19]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Solari1">[20]</xref>. In this issue of <italic>PLoS Genetics</italic>, Schoenmakers et al. have re-examined bird oogenesis and found that MSCI actually occurs in chickens <xref ref-type="bibr" rid="pgen.1000493-Schoenmakers1">[21]</xref>. This discovery has a number of implications for the evolution and developmental behavior of sex chromosomes.</p>
+    <p>Chicken MSCI is both similar and different from MSCI in XY animals <xref ref-type="bibr" rid="pgen.1000493-Schoenmakers1">[21]</xref>. Like mammal and worm MSCI, chicken MSCI occurs during the first meiotic prophase (divided into leptotene, zygotene, pachytene, and diplotene) and is marked by chromatin changes. Schoenmakers and colleagues observed heterochromatic marks and exclusion of Pol-II on both Z and W and verified, by quantitative reverse-transcriptase (RT)-PCR analysis of a handful of Z and W genes, that the genes are expressed at lower levels during pachytene than in zygotene and diplotene, as is observed for murine X and Y genes <xref ref-type="bibr" rid="pgen.1000493-Lifschytz1">[13]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Namekawa2">[14]</xref>. Although how much of Z and W is silenced remains to be investigated, these similarities imply a conserved mechanism based in part on MSUC/MSUD.</p>
+    <p>There are intriguing differences as well, one of which is in the timing relative to chromosome synapsis. In eutherian mammals, MSCI coincides with the failure of synapsis during pachytene <xref ref-type="bibr" rid="pgen.1000493-Baarends1">[9]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Turner2">[10]</xref>. On the other hand, chicken MSCI precedes synapsis of Z and W. Thus, chicken MSCI may be based as much on “unpairing” as on “asynapsis.” Interestingly, this feature of ZW MSCI is similar to opossum MSCI, which occurs in early pachytene before X and Y colocalization <xref ref-type="bibr" rid="pgen.1000493-Namekawa1">[7]</xref>. Therefore, in chickens and opossum, a homology search mechanism—rather than asynapsis itself—might be the trigger for MSCI.</p>
+    <p>MSCI in birds and mammals also differs in terms of what chromatin changes occur. In the mouse and the opossum, chromatin changes and transcriptional silencing take place concurrently throughout nonhomologous regions of both sex chromosomes. Microarray analysis has shown that very few genes escape MSCI in mice. Both X and Y exclude Pol-II and are coated by heterochromatic marks such as H3-K9me3 and HP1, as well as by MSUC-associated marks such as γH2AX. By contrast, chicken W-inactivation slightly precedes Z-inactivation, leading Schoenmaker et al. to hypothesize that MSCI occurs by the spreading of heterochromatin from W to Z <xref ref-type="bibr" rid="pgen.1000493-Schoenmakers1">[21]</xref>. (An alternative is that W and Z inactivation occur independently, which cannot be excluded.) Additionally, γH2AX is absent on the ZW pair during pachytene and accumulates only after separation of ZW during late pachytene—and only on the Z. Thus, ZW inactivation seems different from XY inactivation in the eutherian (mouse), but may partially resemble XY inactivation in marsupial (opossum), the mammalian clade that is evolutionarily closer to birds (<xref ref-type="fig" rid="pgen-1000493-g001">Figure 1</xref>). These differences suggest that MSCI in birds and mammals both borrowed from MSUD/MSUC, but independent evolutionary origins led to unique innovations as well.</p>
+    <fig id="pgen-1000493-g001" position="float">
+      <object-id pub-id-type="doi">10.1371/journal.pgen.1000493.g001</object-id>
+      <label>Figure 1</label>
+      <caption>
+        <title>MSCI in the bird and the mammal.</title>
+        <p>(A) Divergence of birds from mammals approximately 300 million years ago coincides with the split between XY and ZW sex determination schemes. (B) Schematic representation of MSCI in birds, marsupial mammals, and placental mammals. Unlike the X and Y, all of the Z and W are co-localized and held together by a proteinaceous bond during mid-pachytene (intertwined), although there is no homology and no genetic exchange takes place. ZW inactivation is also limited to prophase I, whereas XY inactivation persists into the post-meiotic period.</p>
+      </caption>
+      <graphic xlink:href="pgen.1000493.g001"/>
+    </fig>
+    <p>A final major difference is found in XY and ZW transcriptional fates after meiosis. In mice, the effects of MSCI are felt long after meiosis is finished—i.e., the X and Y remain heterochromatic and transcriptionally suppressed during the entire post-meiotic period <xref ref-type="bibr" rid="pgen.1000493-Namekawa2">[14]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Turner3">[22]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Greaves1">[23]</xref>. In two other XY (or XO) species examined to date (grasshopper and worm), post-meiotic silencing is also observed <xref ref-type="bibr" rid="pgen.1000493-Cabrero1">[17]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Bean1">[18]</xref>. By contrast, bird MSCI is very transient and is lost by late diplotene <xref ref-type="bibr" rid="pgen.1000493-Schoenmakers1">[21]</xref>. Thus, post-meiotic silencing is not an absolute consequence of MSCI. One school of thought argues that persistence of silencing is an active process that evolved for a specific purpose in mammals <xref ref-type="bibr" rid="pgen.1000493-Namekawa1">[7]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Namekawa2">[14]</xref>.</p>
+    <p>Why do the X and Y remain suppressed after meiosis? And why does MSCI occur in the first place? Given that early spermatogenesis genes are enriched on the mammalian X and that several spermiogenesis genes can also be found there <xref ref-type="bibr" rid="pgen.1000493-Khil1">[24]</xref>, transcriptional suppression is especially puzzling. One thought suggests that MSCI was driven by sexual antagonism, i.e., a male germline response to a “feminized” X that might adversely affect spermatogenesis <xref ref-type="bibr" rid="pgen.1000493-Wu1">[19]</xref>. Another possibility is that MSCI is merely an evolutionary relic of MSUD/MSUC; persistence into the post-meiotic period might occur by default. The fact that ZW inactivation is transitory, however, argues against the latter idea. It is also possible that MSCI evolved to suppress recombination between the nonhomologous sex chromosomes. Silent post-meiotic sex chromatin could then have been exploited and extended to deal with dosage compensation in the early XX embryo of marsupial and eutherian mammals, both of which display imprinted paternal X-chromosome silencing <xref ref-type="bibr" rid="pgen.1000493-Namekawa1">[7]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Namekawa2">[14]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Hornecker1">[15]</xref>. Post-meiotic silencing is remarkably heritable in the worm, and possibly also in the grasshopper as well <xref ref-type="bibr" rid="pgen.1000493-Cabrero1">[17]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Bean1">[18]</xref>. The inheritance of a pre-inactivated X from the paternal germline would be an effective way of achieving dosage balance between XX and XY offspring. The absence of post-meiotic silencing in chickens is consistent with this hypothesis, as dosage compensation is not robust in avians studied to date <xref ref-type="bibr" rid="pgen.1000493-Graves1">[2]</xref>,<xref ref-type="bibr" rid="pgen.1000493-Arnold1">[3]</xref>.</p>
+    <p>Birds are mammals' closest relatives on the evolutionary tree (<xref ref-type="fig" rid="pgen-1000493-g001">Figure 1</xref>). Around 300 million years ago, avian and mammalian genetics evolved such that the ZW system was used in the avian progenitor and the opposite XY system was used in the mammalian progenitor. While the XY system has been intensively investigated, many questions remain regarding the ZW system. How is sex determined by the Z and W, and why did MSCI evolve in birds if its effects are as ephemeral as they seem? Does MSCI bear any relationship to dosage compensation? The cumulative evidence suggests that MSCI is universal among organisms bearing heteromorphic sex chromosomes. Regardless, the ZW system will be a useful model, because avian MSCI is so transient, and it should facilitate teasing out the <italic>raison d'etre</italic> of MSCI, separated from post-meiotic silencing and its after-effects.</p>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="pgen.1000493-Charlesworth1">
+        <label>1</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Charlesworth</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <year>1991</year>
+          <article-title>The evolution of sex chromosomes.</article-title>
+          <source>Science</source>
+          <volume>251</volume>
+          <fpage>1030</fpage>
+          <lpage>1033</lpage>
+          <pub-id pub-id-type="pmid">1998119</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Graves1">
+        <label>2</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Graves</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Sex chromosome specialization and degeneration in mammals.</article-title>
+          <source>Cell</source>
+          <volume>124</volume>
+          <fpage>901</fpage>
+          <lpage>914</lpage>
+          <pub-id pub-id-type="pmid">16530039</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Arnold1">
+        <label>3</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arnold</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Itoh</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Melamed</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>A bird's-eye view of sex chromosome dosage compensation.</article-title>
+          <source>Annu Rev Genomics Hum Genet</source>
+          <volume>9</volume>
+          <fpage>109</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="pmid">18489256</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Lucchesi1">
+        <label>4</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lucchesi</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>WG</given-names>
+            </name>
+            <name>
+              <surname>Panning</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Chromatin remodeling in dosage compensation.</article-title>
+          <source>Annu Rev Genet</source>
+          <volume>39</volume>
+          <fpage>615</fpage>
+          <lpage>651</lpage>
+          <pub-id pub-id-type="pmid">16285873</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Payer1">
+        <label>5</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Payer</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JT</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>X chromosome dosage compensation: how mammals keep the balance.</article-title>
+          <source>Annu Rev Genet</source>
+          <volume>42</volume>
+          <fpage>733</fpage>
+          <lpage>772</lpage>
+          <pub-id pub-id-type="pmid">18729722</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Turner1">
+        <label>6</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Meiotic sex chromosome inactivation.</article-title>
+          <source>Development</source>
+          <volume>134</volume>
+          <fpage>1823</fpage>
+          <lpage>1831</lpage>
+          <pub-id pub-id-type="pmid">17329371</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Namekawa1">
+        <label>7</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Namekawa</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>VandeBerg</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>McCarrey</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JT</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Sex chromosome silencing in the marsupial male germ line.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>104</volume>
+          <fpage>9730</fpage>
+          <lpage>9735</lpage>
+          <pub-id pub-id-type="pmid">17535928</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Franco1">
+        <label>8</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franco</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Sciurano</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Solari</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Protein immunolocalization supports the presence of identical mechanisms of XY body formation in eutherians and marsupials.</article-title>
+          <source>Chromosome Res</source>
+          <volume>15</volume>
+          <fpage>815</fpage>
+          <lpage>824</lpage>
+          <pub-id pub-id-type="pmid">17846907</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Baarends1">
+        <label>9</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baarends</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Wassenaar</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>van der Laan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hoogerbrugge</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sleddens-Linkels</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Silencing of unpaired chromatin and histone H2A ubiquitination in mammalian meiosis.</article-title>
+          <source>Mol Cell Biol</source>
+          <volume>25</volume>
+          <fpage>1041</fpage>
+          <lpage>1053</lpage>
+          <pub-id pub-id-type="pmid">15657431</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Turner2">
+        <label>10</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Mahadevaiah</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Fernandez-Capetillo</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Nussenzweig</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Silencing of unsynapsed meiotic chromosomes in the mouse.</article-title>
+          <source>Nat Genet</source>
+          <volume>37</volume>
+          <fpage>41</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="pmid">15580272</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Schimenti1">
+        <label>11</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schimenti</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Synapsis or silence.</article-title>
+          <source>Nat Genet</source>
+          <volume>37</volume>
+          <fpage>11</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="pmid">15624015</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Shiu1">
+        <label>12</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shiu</surname>
+              <given-names>PK</given-names>
+            </name>
+            <name>
+              <surname>Raju</surname>
+              <given-names>NB</given-names>
+            </name>
+            <name>
+              <surname>Zickler</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Metzenberg</surname>
+              <given-names>RL</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Meiotic silencing by unpaired DNA.</article-title>
+          <source>Cell</source>
+          <volume>107</volume>
+          <fpage>905</fpage>
+          <lpage>916</lpage>
+          <pub-id pub-id-type="pmid">11779466</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Lifschytz1">
+        <label>13</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lifschytz</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lindsley</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <year>1972</year>
+          <article-title>The role of X-chromosome inactivation during spermatogenesis (Drosophila-allocycly-chromosome evolution-male sterility-dosage compensation).</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>69</volume>
+          <fpage>182</fpage>
+          <lpage>186</lpage>
+          <pub-id pub-id-type="pmid">4621547</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Namekawa2">
+        <label>14</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Namekawa</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Shima</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>McCarrey</surname>
+              <given-names>JR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Postmeiotic sex chromatin in the male germline of mice.</article-title>
+          <source>Curr Biol</source>
+          <volume>16</volume>
+          <fpage>660</fpage>
+          <lpage>667</lpage>
+          <pub-id pub-id-type="pmid">16581510</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Hornecker1">
+        <label>15</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hornecker</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Samollow</surname>
+              <given-names>PB</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Vandeberg</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>McCarrey</surname>
+              <given-names>JR</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Meiotic sex chromosome inactivation in the marsupial Monodelphis domestica.</article-title>
+          <source>Genesis</source>
+          <volume>45</volume>
+          <fpage>696</fpage>
+          <lpage>708</lpage>
+          <pub-id pub-id-type="pmid">17987663</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Hense1">
+        <label>16</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hense</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Baines</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Parsch</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>X chromosome inactivation during Drosophila spermatogenesis.</article-title>
+          <source>PLoS Biol</source>
+          <volume>5</volume>
+          <fpage>e273</fpage>
+          <comment>doi: 10.1371/journal.pbio.0050273</comment>
+          <pub-id pub-id-type="pmid">17927450</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Cabrero1">
+        <label>17</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cabrero</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Teruel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Carmona</surname>
+              <given-names>FD</given-names>
+            </name>
+            <name>
+              <surname>Jimenez</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Camacho</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Histone H3 lysine 9 acetylation pattern suggests that X and B chromosomes are silenced during entire male meiosis in a grasshopper.</article-title>
+          <source>Cytogenet Genome Res</source>
+          <volume>119</volume>
+          <fpage>135</fpage>
+          <lpage>142</lpage>
+          <pub-id pub-id-type="pmid">18160793</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Bean1">
+        <label>18</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bean</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Schaner</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>WG</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Meiotic pairing and imprinted X chromatin assembly in Caenorhabditis elegans.</article-title>
+          <source>Nat Genet</source>
+          <volume>36</volume>
+          <fpage>100</fpage>
+          <lpage>105</lpage>
+          <pub-id pub-id-type="pmid">14702046</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Wu1">
+        <label>19</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>CI</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>EY</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Sexual antagonism and X inactivation–the SAXI hypothesis.</article-title>
+          <source>Trends Genet</source>
+          <volume>19</volume>
+          <fpage>243</fpage>
+          <lpage>247</lpage>
+          <pub-id pub-id-type="pmid">12711214</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Solari1">
+        <label>20</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solari</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <year>1989</year>
+          <article-title>Sex chromosome pairing and fertility in the heterogametic sex of mammals and birds. Fertility and chromosome pairing: Recent studies in plants and animals.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Gillies</surname>
+              <given-names>CB</given-names>
+            </name>
+          </person-group>
+          <publisher-loc>Boca Raton</publisher-loc>
+          <publisher-name>CRC Press</publisher-name>
+          <fpage>77</fpage>
+          <lpage>107</lpage>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Schoenmakers1">
+        <label>21</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schoenmakers</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wassenaar</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hoogerbrugge</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Laven</surname>
+              <given-names>JSE</given-names>
+            </name>
+            <name>
+              <surname>Grootegoed</surname>
+              <given-names>JA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Female meiotic sex chromosome inactivation in chicken.</article-title>
+          <source>PLoS Genet</source>
+          <volume>5(5)</volume>
+          <fpage>e1000466</fpage>
+          <comment>doi: 10.1371/journal.pgen.1000466</comment>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Turner3">
+        <label>22</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Mahadevaiah</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Ellis</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Burgoyne</surname>
+              <given-names>PS</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Pachytene asynapsis drives meiotic sex chromosome inactivation and leads to substantial postmeiotic repression in spermatids.</article-title>
+          <source>Dev Cell</source>
+          <volume>10</volume>
+          <fpage>521</fpage>
+          <lpage>529</lpage>
+          <pub-id pub-id-type="pmid">16580996</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Greaves1">
+        <label>23</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greaves</surname>
+              <given-names>IK</given-names>
+            </name>
+            <name>
+              <surname>Rangasamy</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Devoy</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Marshall Graves</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Tremethick</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>The X and Y chromosomes assemble into H2A.Z-containing facultative heterochromatin following meiosis.</article-title>
+          <source>Mol Cell Biol</source>
+          <volume>26</volume>
+          <fpage>5394</fpage>
+          <lpage>5405</lpage>
+          <pub-id pub-id-type="pmid">16809775</pub-id>
+        </citation>
+      </ref>
+      <ref id="pgen.1000493-Khil1">
+        <label>24</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khil</surname>
+              <given-names>PP</given-names>
+            </name>
+            <name>
+              <surname>Smirnova</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Romanienko</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Camerini-Otero</surname>
+              <given-names>RD</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>The mouse X chromosome is enriched for sex-biased genes not subject to selection by meiotic sex chromosome inactivation.</article-title>
+          <source>Nat Genet</source>
+          <volume>36</volume>
+          <fpage>642</fpage>
+          <lpage>646</lpage>
+          <pub-id pub-id-type="pmid">15156144</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>The authors received no specific funding for this article.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:54Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2761381" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2761381</identifier><datestamp>2009-10-14</datestamp><setSpec>jcardsurg</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Cardiothorac Surg</journal-id>
+      <journal-title>Journal of Cardiothoracic Surgery</journal-title>
+      <issn pub-type="epub">1749-8090</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2761381</article-id>
+      <article-id pub-id-type="publisher-id">1749-8090-4-54</article-id>
+      <article-id pub-id-type="pmid">19793400</article-id>
+      <article-id pub-id-type="doi">10.1186/1749-8090-4-54</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Intramural haematoma of the thoracic aorta: who's to be alerted the cardiologist or the cardiac surgeon?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="A1" corresp="yes" contrib-type="author">
+          <name>
+            <surname>Baikoussis</surname>
+            <given-names>Nikolaos G</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>ngbaik@yahoo.com</email>
+        </contrib>
+        <contrib id="A2" contrib-type="author">
+          <name>
+            <surname>Apostolakis</surname>
+            <given-names>Efstratios E</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>stratisapostolakis@yahoo.gr</email>
+        </contrib>
+        <contrib id="A3" contrib-type="author">
+          <name>
+            <surname>Siminelakis</surname>
+            <given-names>Stavros N</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>ssiminel@yahoo.gr</email>
+        </contrib>
+        <contrib id="A4" contrib-type="author">
+          <name>
+            <surname>Papadopoulos</surname>
+            <given-names>Georgios S</given-names>
+          </name>
+          <xref ref-type="aff" rid="I3">3</xref>
+          <email>baikoussisn@yahoo.com</email>
+        </contrib>
+        <contrib id="A5" contrib-type="author">
+          <name>
+            <surname>Goudevenos</surname>
+            <given-names>John</given-names>
+          </name>
+          <xref ref-type="aff" rid="I4">4</xref>
+          <email>ngbaik@yahoo.com</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Cardio-thoracic Surgery Department, University Hospital of Patras, School of Medicine, Patras, Greece</aff>
+      <aff id="I2"><label>2</label>Cardiac Surgery Department, University Hospital of Ioannina, School of Medicine, Ioannina, Greece</aff>
+      <aff id="I3"><label>3</label>Department of Clinical Anaesthesiology and Intensive Postoperative Care Unit, University Hospital of Ioannina, School of Medicine, Ioannina, Greece</aff>
+      <aff id="I4"><label>4</label>Department of Cardiology, University Hospital of Ioannina, School of Medicine, Ioannina, Greece</aff>
+      <pub-date pub-type="collection">
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>1</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>4</volume>
+      <fpage>54</fpage>
+      <lpage>54</lpage>
+      <ext-link ext-link-type="uri" xlink:href="http://www.cardiothoracicsurgery.org/content/4/1/54"/>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>5</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>1</day>
+          <month>10</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2009 Baikoussis et al; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <copyright-holder>Baikoussis et al; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0"/>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p>
+          <!--<rdf xmlns="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dcterms="http://purl.org/dc/terms"><Work xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by/2.0"/><dc:type rdf:resource="http://purl.org/dc/dcmitype/Text"/><dc:author>
+               Baikoussis
+               G
+               Nikolaos
+               
+               
+               ngbaik@yahoo.com
+            </dc:author><dc:title>
+            Intramural haematoma of the thoracic aorta: who's to be alerted the cardiologist or the cardiac surgeon?
+         </dc:title><dc:date>2009</dc:date><dcterms:bibliographicCitation>Journal of Cardiothoracic Surgery 4(1): 54-. (2009)</dcterms:bibliographicCitation><dc:identifier type="sici">1749-8090(2009)4:1&#x0003c;54&#x0003e;</dc:identifier><dcterms:isPartOf>urn:ISSN:1749-8090</dcterms:isPartOf><License rdf:about="http://creativecommons.org/licenses/by/2.0"><permits rdf:resource="http://web.resource.org/cc/Reproduction" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/Distribution" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Notice" xmlns=""/><requires rdf:resource="http://web.resource.org/cc/Attribution" xmlns=""/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" xmlns=""/></License></Work></rdf>-->
+        </license>
+      </permissions>
+      <abstract>
+        <p>This review article is written so as to present the pathophysiology, the symptomatology and the ways of diagnosis and treatment of a rather rare aortic disease called Intra-Mural Haematoma (IMH). Intramural haematoma is a quite uncommon but potentially lethal aortic disease that can strike as a primary occurrence in hypertensive and atherosclerotic patients to whom there is spontaneous bleeding from vasa vasorum into the aortic wall (media) or less frequently, as the evolution of a penetrating atherosclerotic ulcer (PAU). IMH displays a typical of dissection progress, and could be considered as a precursor of classic aortic dissection. IMH enfeebles the aortic wall and may progress to either outward rupture of the aorta or inward disruption of the intima layer, which ultimately results in aortic dissection. Chest and back acute penetrating pain is the most commonly noticed symptom at patients with IMH. Apart from a transesophageal echocardiography (TEE), a tomographic imaging such as a chest computed tomography (CT), a magnetic resonance (MRI) and most lately a multy detector computed tomography (MDCT) can ensure a quick and accurate diagnosis of IMH. Similar to type A and B aortic dissection, surgery is indicated at patients with type-A IMH, as well as at patients with a persistent and/or recurrent pain. For any other patient (with type-B IMH without an incessant pain and/or without complications), medical treatment is suggested, as applied in the case of aortic dissection. The outcome of IMH in ascending aorta (type A) appears favourable after immediate (emergent or urgent) surgical intervention, but according to international bibliography patients with IMH of the descending aorta (type B) show similar mortality rates to those being subjected to conservative medical or surgical treatment. Endovascular surgery and stent-graft placement is currently indicated in type B IMH.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Intramural haematoma (IMH) belongs to "acute aortic syndrome" followed by penetrating atherosclerotic ulcer (PAU) and the classical acute aortic dissection. It occurs as a bleeding into the aortic wall (media) without initial rupture of the intima and the classic flap formation. Despite IMH of the thoracic aorta being a disease of the aorta, its optimal initial treatment still remains a hot debatable issue. Aortic intramural haematoma can firstly appear to hypertensive and atherosclerotic patients who suffer an impulsive haemorrhage from vasa vasorum rupture into the media either spontaneously, or less commonly, as a result of PAU. Rarely does a thoracic trauma lead to IMH [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B2">2</xref>]. According to records [<xref ref-type="bibr" rid="B3">3</xref>], the IMH can successfully be cured; lead to aortic dissection or in aortic rupture. The initial haematoma of the aortic wall may be augmented and further affect the medial layer of the aorta [<xref ref-type="bibr" rid="B3">3</xref>], similarly to the aortic dissection. Consequently, IMH weakens the aorta and may progress to either outward rupture of the aortic wall or inward disruption of the intima, which leads to aortic dissection [<xref ref-type="bibr" rid="B4">4</xref>-<xref ref-type="bibr" rid="B6">6</xref>]. Similarly to aortic dissection, IMH is divided in proximal (type A) and distal, without the ascending aorta being involved (type B). According to recommendations of the Task Force on aortic dissection, European Society of Cardiology, there are two types of IMH: Type I shows a smooth inner aortic lumen, the diameter usually being less than 3.5 cm, and the wall thickness is bigger than 0.5 cm [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B7">7</xref>]. The Type II IMH occurs in aortic atherosclerosis. A rough inner aortic surface with severe aortic sclerosis is frequently noticed. The aorta is dilated to more than 3.5 cm and calcification is usually found. Mean wall thickness is 1.3 cm ranging from 0.6 to 4 cm [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B7">7</xref>]. As far as the clinical impact of intramural haematoma is concerned, it has been documented that the cases of type A haematomas tend to have a high frequency of complications (dissection or rupture) even death, and therefore should be surgically treated in emergent or urgent setting [<xref ref-type="bibr" rid="B4">4</xref>,<xref ref-type="bibr" rid="B8">8</xref>]. Contrary to the above, type B-distal, (descending aorta), IMH uncommonly progress to complications and is frequently completely resolved without any intervention [<xref ref-type="bibr" rid="B8">8</xref>]. In the era of endovascular surgery the stent-graft placement in the descending aorta has an indication.</p>
+      <sec>
+        <title>Pathogenesis and pathophysiology of the IMH</title>
+        <p>The common risk factors for cardiovascular diseases are to be held responsible in the pathogenesis of the IMH. Special circumstances, such as pregnancy as well as some congenital disorders should be taken into account. Arterial hypertension is the most frequent predisposing factor for IMH, present in 84% of the patient cohort and similarly to the 67% incidence, reported in a post mortem study of 161 cases of dissection [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B9">9</xref>]. Nevertheless, as in the case of aortic dissection, the initiating event of acute IMH remains unknown. Nutrient vases called Vasa vasorum are present in most arteries, including the aorta and coronary arteries, carotids, and femoral arteries [<xref ref-type="bibr" rid="B10">10</xref>]. Pathological neovascularization of the vessel wall is a consistent feature in the formation of atherosclerotic plaque and development of the disease [<xref ref-type="bibr" rid="B11">11</xref>,<xref ref-type="bibr" rid="B12">12</xref>]. Additionally, microvessels are increased in coronary lesions from patients with acute myocardial infarction, suggesting a potential role of microvessels in plaque rupture and instability [<xref ref-type="bibr" rid="B13">13</xref>]. Furthermore, microvessels play a role in plaque haemorrhage associated with the development of symptoms in cerebrovascular disease according to some reports [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B15">15</xref>]. Gore [<xref ref-type="bibr" rid="B16">16</xref>] suggested that spontaneous rupture of aortic vasa vasorum may initiate aortic wall disintegration, eventually leading to dissection. Moreover, rupture of the nutrient vasa vasorum of the media layer may cause haematoma without a tear [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B14">14</xref>]. Other authors have proposed intimal "fracture" of an atherosclerotic plaque as the primary event, which then allows propagation of blood into the aortic media causing intramural haematoma. Moreover, discrete penetrating atheromatous ulcers have also been thought as a prerequisite for intramural bleeding [<xref ref-type="bibr" rid="B17">17</xref>]. In such a chronic setting, however, the haematoma is confined to the area nearest to the atherosclerotic ulcer. Although some uncertainty exists concerning how to distinguish IMH from limited aortic dissection with a thrombosed false lumen, IMH pathology has been identified as the very early stages of dissection with an impending risk of rupture [<xref ref-type="bibr" rid="B18">18</xref>,<xref ref-type="bibr" rid="B19">19</xref>]. What is more, patients with intramural haematoma are also typically older than those with classic dissection, supporting the opinion that degenerative changes in the media play a key role in the IMH formation [<xref ref-type="bibr" rid="B5">5</xref>]. There are some both acquired and genetic conditions leading to the breakdown in the integrity of the intima, which weaken the media layers of the aorta, and lead to a higher aortic wall stress [<xref ref-type="bibr" rid="B6">6</xref>,<xref ref-type="bibr" rid="B20">20</xref>]. As a final result, these factors may induce an aortic dilation, aneurysm formation, intramural beeding, acute or chronic aortic dissection, or aortic rupture. Furthermore, the extracellular matrix may be subjected to degradation, apoptosis, and elastolysis, frequently at the limits of the atherosclerotic plaques [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B2">2</xref>,<xref ref-type="bibr" rid="B21">21</xref>]. However, a series of congenital abnormalities such as Marfan's syndrome, Ehlers-Danlos syndrome [<xref ref-type="bibr" rid="B3">3</xref>] annuloaortic ectasia, bicuspid aortic valve, and familial aortic dissection are the prime suspects, predisposing acute aortic syndromes [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B22">22</xref>]. Stefanadis's study carried out with dogs experimented, revealed that aortic wall distensibility decreased significantly to those with removed vasa vasorum of the aortic wall [<xref ref-type="bibr" rid="B20">20</xref>]. Atherosclerosis leads to the thickening of the intima layer of the vases. Thickness of the intima increases the distance between the endothelial layer and the media, compromising the nutrient and oxygen supply while adventitial fibrosis may obstruct small intramural vasa vasorum. Reduced nutritional supply of the media results in media thinning following a necrosis due to the necrosis of the smooth muscle cells. [<xref ref-type="bibr" rid="B3">3</xref>] Advanced imaging technology (MDCT) has defined precursors or "variants" to frank aortic dissection such as IMH, PAU, and localized intimal tears [<xref ref-type="bibr" rid="B3">3</xref>-<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B23">23</xref>,<xref ref-type="bibr" rid="B24">24</xref>]. Ramona Scotland et al characterize endothelin-1 (ET-1)-mediated contraction of vasa vasorum and investigate whether threshold concentrations of ET-1 alter any sensitivity to constrictors [<xref ref-type="bibr" rid="B25">25</xref>]. Circulating plasma levels of ET-1 are elevated in several disease including atherosclerosis, hypertension, congestive heart failure asthma and diabetes. In our opinion, after the atheroschlerotic plaque destabilization, a spontaneous plaque rupture follows. As we know, vassels (vasa vasorum), are also present in the atheroschlerotic plaque matrix. Is it the plaque rupture that provokes immediately vasa vasorum rupture and intramural haematoma? The presence of several layers of smooth muscle implies that the vessels of the vasa vasorum actively regulate their own tone rather than serving as a passive channel for the blood flow. Many studies have been conducted with dogs in vivo supporting this hypothesis investigating vasa vasorum reactivity to vasoactive agents. Heistad suggested that the diameter of the vasa vasorum of canine thoracic aorta increases in response to intravenous infusion of adenosine [<xref ref-type="bibr" rid="B26">26</xref>].</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Diagnosis</title>
+      <p>The IMH is diagnosed in the same way as with acute aortic dissection. In reality, the clinical symptomatology of IMH may be virtually indistinguishable from that of acute dissection. Chest and back pain is reportedly as the most frequent clinical manifestation in patients with IMH [<xref ref-type="bibr" rid="B27">27</xref>]. Chest pain is more common with ascending (proximal-type A) IMH; upper or lower back pain is more common with descending (distal-type B) lesions [<xref ref-type="bibr" rid="B28">28</xref>]. Patiens with acute aortic dissection may suffer renal and hepatic ischemia due to malperfusion; malperfusion and pulse deficit are decidedly rare in IMH because of its local limitation [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B27">27</xref>]. During physical examination some suspicion of a serious aortic disease should arise. As in aortic dissection, a widening of the mediastinum or the aortic shadow and pleural effusion may be illustrated in the x-ray. [<xref ref-type="bibr" rid="B29">29</xref>-<xref ref-type="bibr" rid="B31">31</xref>]. Acute myocardial infarction can resemble the acute aortic syndrome and can be dangerous if not correctly diagnosed. The ECG must be applied at all patients because it helps distinguish acute myocardial infarction, for which thrombolytic therapy may be life saving, from aortic dissection or acute aortic syndrome, for which thrombolytic therapy may be detrimental [<xref ref-type="bibr" rid="B3">3</xref>]. Consequently, the trans-thoracic ultrasuonography is useful but not diagnostic but the trans-esophageal echocardiography will demonstrate localized thickening of the aorta with a "thrombuslike appearance" characterized by echo-lucent areas, and compression of the true lumen [<xref ref-type="bibr" rid="B32">32</xref>]. Intimal displacement of calcium may be evident when using this technology, just as it may happen with other imaging modalities. Sensitivity of transesophageal echocardiography has been reported to be as high as 100% with a specificity of 91%, although this as it is known, will be operator dependent [<xref ref-type="bibr" rid="B33">33</xref>]. In other studies sensitivity and specificity of trans-thoracic echocardiography range from 77% to 80% and 93% to 96%, respectively, for the involvement of the ascending aorta [<xref ref-type="bibr" rid="B3">3</xref>]. According to the Task Force on aortic dissection, European Society of Cardiology, Echo-free spaces (seen echocardiographically) as a sign of intramural haematoma are found in only one third of the patients. The mean longitudinal extent of the haematoma is 11 cm and the echo free spaces show no signs of flow [<xref ref-type="bibr" rid="B7">7</xref>]. In patients with a Type II IMH echo free spaces are found in 70%. The longitudinal extension has a range similar to type I haematoma, usually about 11 cm [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B7">7</xref>]. The capability of this diagnostic tool of finding an intimal flap and thereby distinguish IMH from dissection with thrombosis is limited [<xref ref-type="bibr" rid="B34">34</xref>]. In this way, a CTA is necessary for the diagnosis and the treatment. We are to present two interesting images of one of our patients, treated by the authors (figure <xref ref-type="fig" rid="F1">1</xref>, <xref ref-type="fig" rid="F2">2</xref>); in figure <xref ref-type="fig" rid="F1">1</xref> an IMH is shown in ascending aorta (type A). This patient was treated surgically in emergency setting. In figure <xref ref-type="fig" rid="F2">2</xref> the same patient with IMH placed in the aortic arch. Our patient underwent a Bentall procedure with hemiarch replacement through axillary artery cannulation [<xref ref-type="bibr" rid="B35">35</xref>]. In this way we were able to operate without any cerebral perfusion compromise. In a study of Nienaber et al the sensitivity of the thorax CT was nearly 100% [<xref ref-type="bibr" rid="B8">8</xref>]. According to studies, the majority (50% to 85%) is located in the descending aorta (type B) and are usually associated with hypertension [<xref ref-type="bibr" rid="B34">34</xref>,<xref ref-type="bibr" rid="B35">35</xref>]. In the case of IMH no dissection flap is present because the integrity of intima layer of the aortic wall is unexceptionable [<xref ref-type="bibr" rid="B6">6</xref>,<xref ref-type="bibr" rid="B8">8</xref>]. Recently [<xref ref-type="bibr" rid="B36">36</xref>], the multi-detector computed tomography (MDCT) has an important role in the diagnosis of the IMH. According to this report the accuracy provided, a chronic from an acute clot into the aortic wall is distinguished. Magnetic resonance imaging (MRI) may be superior to computed tomography in differentiating IMH from atherosclerotic plaque [<xref ref-type="bibr" rid="B37">37</xref>]. This is crucial, because the two findings have a completely different prognosis and the ways of treatment are different. MRI will demonstrate the thickening of the wall, with hyperintense foci indicative of bleeding on T1-weighted images, although the signal intensity characteristics depend partly on the age of the haematoma [<xref ref-type="bibr" rid="B32">32</xref>,<xref ref-type="bibr" rid="B38">38</xref>]. Cost and availability are of course two deterrents in MRI application; provincial Hospitals usually have neither the instrumentation nor the technology or equipment needed for MRI. Regardless of the technology employed, the extent and thickness of the IMH is important in order to compare with subsequent studies. Nienaber CA and colleagues demonstrated in 1995 that while transthoracic ultrasound was not useful, TEE, CT and MRI had a diagnostic ability for IMH, with sensitivities of 100% each [<xref ref-type="bibr" rid="B8">8</xref>]. Different diagnosis is essential because both, the initial and the final management may be completely different.</p>
+      <fig position="float" id="F1">
+        <label>Figure 1</label>
+        <caption>
+          <p><bold>Contrast-enhanced CT reveals an intramural haematoma (IMH) of the ascending aorta located mainly in the anterolateral wall (arrow)</bold>. The haematoma is appeared as a thickening of the aortic wall.</p>
+        </caption>
+        <graphic xlink:href="1749-8090-4-54-1"/>
+      </fig>
+      <fig position="float" id="F2">
+        <label>Figure 2</label>
+        <caption>
+          <p><bold>Oblique reformation image of a contrast-enhanced CT scan of the same patient</bold>. The IMH is appeared as a thickening of the aortic wall extended in the aortic arch compressing the origin of the brachiocephalic artery (arrow).</p>
+        </caption>
+        <graphic xlink:href="1749-8090-4-54-2"/>
+      </fig>
+      <p>Natural history and predictors for progress and complications of IMH.</p>
+      <p>There is some controversy concerning the natural history of acute IMH. It is known that IMH may either progress or regress in an extend way. [<xref ref-type="bibr" rid="B4">4</xref>,<xref ref-type="bibr" rid="B23">23</xref>,<xref ref-type="bibr" rid="B38">38</xref>,<xref ref-type="bibr" rid="B39">39</xref>]. It originates from ruptured vasa vasorum in medial wall layers and results in an aortic wall infarct that may bring about a secondary tear, causing finally in some cases, a classic aortic dissection [<xref ref-type="bibr" rid="B23">23</xref>,<xref ref-type="bibr" rid="B24">24</xref>]. IMH should be affronted with attention; in fact, aortic IMH is considered as a precursor or a possible cause of a later dissection [<xref ref-type="bibr" rid="B6">6</xref>,<xref ref-type="bibr" rid="B6">6</xref>,<xref ref-type="bibr" rid="B20">20</xref>]. Whereas IMH resorption has been reported in only 10% of cases, never has resorption of aortic dissection been reported [<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B40">40</xref>,<xref ref-type="bibr" rid="B41">41</xref>]. Studies of Kaji S et al and Neri E et al in 1999 and then Kaji S et al again in 2002 have suggested that IMHs reflect a more benign condition in which aggressive medical therapy and serial imaging may allow watchful waiting and the avoidance of surgery in some patients [<xref ref-type="bibr" rid="B42">42</xref>-<xref ref-type="bibr" rid="B44">44</xref>]. In IRAD study which registered 1010 patients with acute aortic dissection, 58 (5.7%) of them had IMH [<xref ref-type="bibr" rid="B27">27</xref>]. They showed an association between increasing hospital mortality and the proximity of IMH to the aortic valve, regardless of any medical or surgical treatment [<xref ref-type="bibr" rid="B2">2</xref>,<xref ref-type="bibr" rid="B27">27</xref>]. According to the international bibliography, [<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B45">45</xref>,<xref ref-type="bibr" rid="B46">46</xref>], the IMH evolves to 1) resumption, 2) progression to classic aortic dissection, or 3) formation of an aneurysm within 30 days of hospital admission. A rate of 9 out of 12 deaths with IMH occurred in the ascending aorta, has been reported [<xref ref-type="bibr" rid="B2">2</xref>,<xref ref-type="bibr" rid="B27">27</xref>]. The presence of IMH in the ascending aorta is commonly considered as an independent factor of progression to aortic aneurysm formation, aortic rupture and/or dissection [<xref ref-type="bibr" rid="B45">45</xref>,<xref ref-type="bibr" rid="B46">46</xref>]. However, type A or proximal IMH is no longer related to early death when surgical intervention is performed [<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B45">45</xref>,<xref ref-type="bibr" rid="B46">46</xref>]. According to Neinaber et al [<xref ref-type="bibr" rid="B8">8</xref>], a closer look reveals that 75% of proximal IMH patients died or had surgical replacement by the time of follow up. Alternatively, IMH of the descending aorta (type B or distal), may be treated conservatively or through endovascular intervention as elective cases [<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B24">24</xref>,<xref ref-type="bibr" rid="B46">46</xref>,<xref ref-type="bibr" rid="B47">47</xref>]. According to a study [<xref ref-type="bibr" rid="B28">28</xref>] on morbidity and mortality for 168 patients with IMH, in 25% of ascending aortic IMH and in 13% of descending IMH led to aortic dissection, in 28% and 9% to aortic rupture, in 28% and 76% to stabilisation, respectively. In this study the 30-day mortality was 18% with surgical repair of proximal IMH, and 33% with surgery to distal IMH compared to 60% and 8% with medical treatment of type A and type B IMH, respectively [<xref ref-type="bibr" rid="B28">28</xref>]. Considering a 12% early mortality after surgery, and a 24% death rate with medical treatment, global experience from the International Registry of Aortic Dissection determined a tendency for a better outcome after surgery of proximal IMH [<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B46">46</xref>,<xref ref-type="bibr" rid="B47">47</xref>]. It seems that IMH is similar to aortic dissection or better, to chronic aortic dissection. According to another study, the high risk of "wait and see" in type A IMH, is 55% early mortality with conservative - medical treatment compared to 8% with surgical repair [<xref ref-type="bibr" rid="B48">48</xref>]. However, in 10 out of 22 patients (45%) with type A IMH underwent surgical repair and four cases after medical management developed cardiac tamponade [<xref ref-type="bibr" rid="B49">49</xref>]. In another report [<xref ref-type="bibr" rid="B47">47</xref>] tamponade was observed in two out of three patients with type A IMH surviving medical treatment. According to records,, age and the use of β-blockers constitute factors of determining the progression of the IMH. In a report, only 7% of IMH with late progression were treated with β-blockers compared to 49% of IMH patients without late progression patients [<xref ref-type="bibr" rid="B50">50</xref>]. In a study, predictor of late progression of IMH is the younger age (&lt;49 years) [<xref ref-type="bibr" rid="B8">8</xref>], and medication without β-blockers [<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B45">45</xref>]. However, analysis of IMH confirmed better long term outcome in patients treated with β-blockers [<xref ref-type="bibr" rid="B47">47</xref>]. β-blockers protect by reducing aortic wall stress and the systolic arterial blood pressure [<xref ref-type="bibr" rid="B28">28</xref>,<xref ref-type="bibr" rid="B50">50</xref>]. Several controversies are present in this issue. There are not fixed predictor factors for early or late progression of IMH. Large series are necessaries in this setting. The observation that older age (&gt; 55 years) at initial diagnosis of IMH has a better long term prognosis may be explained by more focal microscars along the aortic wall inherently limiting the longitudinal progression of IMH [<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B20">20</xref>,<xref ref-type="bibr" rid="B22">22</xref>]. In reality, the IMH is considered [<xref ref-type="bibr" rid="B3">3</xref>] a class 2 aortic dissection.</p>
+    </sec>
+    <sec>
+      <title>Medical or surgical management of IMH?</title>
+      <p>Initial medical treatment, endovascular surgery or classic, open surgery is the common treatment of IMH. In the algorithm proposed we can see the different therapeutic strategies used in the treatment of IMH. We should bear in mind that IMH as "acute aortic syndrome" is indicative of a dynamic process and imminent events, so we should place our attention on detailed diagnostic confirmation with subsequent treatment by either surgical repair or interventional stent-graft placement [<xref ref-type="bibr" rid="B45">45</xref>,<xref ref-type="bibr" rid="B51">51</xref>]. Persistent and/or recurrent pain despite aggressive medical treatment, or repetitive pleural effusion, is an important indicator of disease progression [<xref ref-type="bibr" rid="B51">51</xref>] and represents a blatant indication for surgical or interventional handling [<xref ref-type="bibr" rid="B43">43</xref>,<xref ref-type="bibr" rid="B49">49</xref>]. If pericardial tamponade is diagnosed, pericardiocentesis as an initial therapeutic step before surgery may be dangerous because it reduces intrapericardial pressure and therefore may cause recurrent pericardial bleeding and sudden death [<xref ref-type="bibr" rid="B49">49</xref>]. Similar to type A and B aortic dissection, surgery is advisory at patients with type-A (ascending aorta) IMH and initial medical therapy at patients with type-B (descending aorta) IMH [<xref ref-type="bibr" rid="B35">35</xref>,<xref ref-type="bibr" rid="B44">44</xref>]. β-blockers protect by reducing aortic wall stress and the systolic arterial blood pressure [<xref ref-type="bibr" rid="B50">50</xref>]. However, in type B IMH surgical intervention is not a preferable way of treatment. We can perform a surgery in case of persistent pain, dilated (more than 5 cm), descending aorta and in elective patients. Alternatively, stent-grafting could be a perfect treatment especially if co morbidities are present. According to records, we are convinced that for patients with type A IMH, the classic open intervention is the correct way of treatment. Axillary cannulation for the extracorporeal circulation connection is usually performed with optimal brain and visceral perfusion [<xref ref-type="bibr" rid="B35">35</xref>]. Nonetheless, most cardiologists, as well as cardiac surgeons stand share the opinion that acute IMH involving the ascending aorta should be managed surgically because of an unacceptably high mortality rate following this medical treatment [<xref ref-type="bibr" rid="B4">4</xref>,<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B8">8</xref>,<xref ref-type="bibr" rid="B23">23</xref>,<xref ref-type="bibr" rid="B24">24</xref>]. We take sides with this view as we have illustrated in our algorithm (figure <xref ref-type="fig" rid="F3">3</xref>). Unlike classic aortic dissection, IMH has no mechanisms of decompression by a re-entry tear [<xref ref-type="bibr" rid="B29">29</xref>,<xref ref-type="bibr" rid="B39">39</xref>,<xref ref-type="bibr" rid="B47">47</xref>,<xref ref-type="bibr" rid="B49">49</xref>]. According to the author's opinion, the ideal treatment for patients with IMH may be as the algorithm in the figure <xref ref-type="fig" rid="F3">3</xref>. We describe in this setting the ways of handling, considering the location, the symptoms and the aortic diameter.</p>
+      <fig position="float" id="F3">
+        <label>Figure 3</label>
+        <caption>
+          <p><bold>The possible ways of treatment of the intramural haematoma of the thoracic aorta taking in consideration its location, the clinical presentation and the aortic diameter</bold>.</p>
+        </caption>
+        <graphic xlink:href="1749-8090-4-54-3"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>IMH is a rare but potentially lethal disease of the aorta. Nevertheless, pathogenesis and risk factors should be examined, in detail. Clinical manifestations, diagnosis, and management of acute aortic syndrome should be codified for rapid and accurate treatment. IMH of the aorta is a potentially lethal disorder with frequent conclusion to aortic rupture, dissection or aneurysm. Short term prognosis is extremely serious in IMH involving the ascending aorta, and surgical repair improves the outcome. IMH of the descending aorta, especially when confined to a short segment or without dilatation has a better outcome. Endovascular treatment is an alternative way of treatment in individual cases with acceptable results. Long term prognosis, may be more beneficial from chronic effective β blockers regardless of surgical repair.</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>All authors: 1. have made substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data; 2. have been involved in drafting the manuscript or revisiting it critically for important intellectual content; 3. have given final approval of the version to be published.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="B1">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larson</surname>
+              <given-names>EW</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>WD</given-names>
+            </name>
+          </person-group>
+          <article-title>Risk factors for aortic dissection: a necropsy study of 161 cases</article-title>
+          <source>Am J Cardiol</source>
+          <year>1984</year>
+          <volume>53</volume>
+          <fpage>849</fpage>
+          <lpage>855</lpage>
+          <pub-id pub-id-type="pmid">6702637</pub-id>
+          <pub-id pub-id-type="doi">10.1016/0002-9149(84)90418-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reed</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Stemmermann</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Are aortic aneurysms caused by atherosclerosis?</article-title>
+          <source>Circulation</source>
+          <year>1992</year>
+          <volume>85</volume>
+          <fpage>205</fpage>
+          <lpage>211</lpage>
+          <pub-id pub-id-type="pmid">1728451</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erbel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Alfonso</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Boileau</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Dirsch</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Eber</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Haverich</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rakowski</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Struyven</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Radegran</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Sechtem</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zollikofer</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Internal reviewers: W. W. Klein, B. Mulder and L. A. Providencia</article-title>
+          <source>European Heart Journal</source>
+          <year>2001</year>
+          <volume>22</volume>
+          <fpage>1642</fpage>
+          <lpage>1681</lpage>
+          <pub-id pub-id-type="pmid">11511117</pub-id>
+          <pub-id pub-id-type="doi">10.1053/euhj.2001.2782</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vilacosta</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>San Roman</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Ferreiros</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Aragoncillo</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Méndez</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Castillo</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Rollán</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Batlle</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Peral</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Sánchez-Harguindey</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural history and serial morphology of aortic intramural hematoma: a novel variant of aortic dissection</article-title>
+          <source>Am Heart J</source>
+          <year>1997</year>
+          <volume>134</volume>
+          <fpage>495</fpage>
+          <lpage>507</lpage>
+          <pub-id pub-id-type="pmid">9327708</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0002-8703(97)70087-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coady</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Rizzo</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Elefteriades</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathologic variants of thoracic aortic dissections: penetrating atherosclerotic ulcers and intramural hematomas</article-title>
+          <source>Cardiol Clin</source>
+          <year>1999</year>
+          <volume>17</volume>
+          <fpage>637</fpage>
+          <lpage>657</lpage>
+          <pub-id pub-id-type="pmid">10589337</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0733-8651(05)70106-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kouchoukos</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Dougenis</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Surgery of the thoracic aorta</article-title>
+          <source>N Engl J Med</source>
+          <year>1997</year>
+          <volume>336</volume>
+          <fpage>1876</fpage>
+          <lpage>88</lpage>
+          <pub-id pub-id-type="pmid">9197217</pub-id>
+          <pub-id pub-id-type="doi">10.1056/NEJM199706263362606</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohr-Kahaly</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Erbel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kearney</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Puth</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Aortic intramural hemorrhage visualized by transesophageal echocardiography: findings and prognostic implications</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>1994</year>
+          <volume>23</volume>
+          <fpage>658</fpage>
+          <lpage>664</lpage>
+          <pub-id pub-id-type="pmid">8113549</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nienaber</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>von Kodolitsch</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Petersen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Loose</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Helmchen</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Haverich</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Spielmann</surname>
+              <given-names>RP</given-names>
+            </name>
+          </person-group>
+          <article-title>Intramural hemorrhage of the thoracic aorta: diagnostic and therapeutic implications</article-title>
+          <source>Circulation</source>
+          <year>1995</year>
+          <volume>92</volume>
+          <fpage>1465</fpage>
+          <lpage>1472</lpage>
+          <pub-id pub-id-type="pmid">7664428</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sütsch</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Jenni</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>von Segesser</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Turina</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Predictability of aortic dissection as a function of aortic diameter</article-title>
+          <source>Eur Heart J</source>
+          <year>1991</year>
+          <volume>12</volume>
+          <fpage>1247</fpage>
+          <lpage>1256</lpage>
+          <pub-id pub-id-type="pmid">1778188</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heistad</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Marcus</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of vasa vasorum in nourishment of the aorta</article-title>
+          <source>Blood Vessels</source>
+          <year>1979</year>
+          <volume>16</volume>
+          <fpage>225</fpage>
+          <lpage>238</lpage>
+          <pub-id pub-id-type="pmid">41607</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jeziorska</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Woolley</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <article-title>Neovascularization in early atherosclerotic lesions of human carotid arteries: its potential contribution to plaque development</article-title>
+          <source>Hum Pathol</source>
+          <year>1999</year>
+          <volume>30</volume>
+          <fpage>919</fpage>
+          <lpage>925</lpage>
+          <pub-id pub-id-type="pmid">10452504</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0046-8177(99)90245-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barger</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Beeuwkes</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lainey</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Silverman</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Hypothesis: vasa vasorum and neovascularization of human coronary arteries</article-title>
+          <source>N Engl J Med</source>
+          <year>1984</year>
+          <volume>310</volume>
+          <fpage>175</fpage>
+          <lpage>177</lpage>
+          <pub-id pub-id-type="pmid">6197652</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barger</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Beeuwkes</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Rupture of coronary vasa vasorum as a trigger of acute myocardial infarction</article-title>
+          <source>Am J Cardiol</source>
+          <year>1990</year>
+          <volume>66</volume>
+          <fpage>41G</fpage>
+          <lpage>43G</lpage>
+          <pub-id pub-id-type="pmid">2239713</pub-id>
+          <pub-id pub-id-type="doi">10.1016/0002-9149(90)90394-G</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milei</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Parodi</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Fernandez</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Alonso</surname>
+              <given-names>GF</given-names>
+            </name>
+            <name>
+              <surname>Barone</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Grana</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Matturri</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Carotid rupture and intraplaque hemorrhage: immunophenotype and role of cells involved</article-title>
+          <source>Am Heart J</source>
+          <year>1998</year>
+          <volume>136</volume>
+          <fpage>1096</fpage>
+          <lpage>1105</lpage>
+          <pub-id pub-id-type="pmid">9842026</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0002-8703(98)70169-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mofidi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Crotty</surname>
+              <given-names>TB</given-names>
+            </name>
+            <name>
+              <surname>McCarthy</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Sheehan</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Mehigan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Keaveny</surname>
+              <given-names>TV</given-names>
+            </name>
+          </person-group>
+          <article-title>Association between plaque instability, angiogenesis and symptomatic carotid occlusive disease</article-title>
+          <source>Br J Surg</source>
+          <year>2001</year>
+          <volume>88</volume>
+          <fpage>945</fpage>
+          <lpage>950</lpage>
+          <pub-id pub-id-type="pmid">11442525</pub-id>
+          <pub-id pub-id-type="doi">10.1046/j.0007-1323.2001.01823.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gore</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathogenesis of dissecting aneurysm of the aorta</article-title>
+          <source>Arch Pathol Lab Med</source>
+          <year>1952</year>
+          <volume>53</volume>
+          <fpage>142</fpage>
+          <lpage>153</lpage>
+        </citation>
+      </ref>
+      <ref id="B17">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohr-Kahaly</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Erbel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kearney</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Puth</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Aortic intramural hemorrhage visualized by transesophageal echocardiography: findings and prognostic implications</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>1994</year>
+          <volume>23</volume>
+          <fpage>658</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="pmid">8113549</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zotz</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Erbel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Noncommunicating intramural hematoma: an indication of developing aortic dissection?</article-title>
+          <source>J Am Soc Echocardiogr</source>
+          <year>1991</year>
+          <volume>4</volume>
+          <fpage>636</fpage>
+          <lpage>638</lpage>
+          <pub-id pub-id-type="pmid">1760188</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kazerooni</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Bree</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>Penetrating atherosclerotic ulcers of the descending thoracic aorta: evaluation with CT and distinction from aortic dissection</article-title>
+          <source>Radiology</source>
+          <year>1992</year>
+          <volume>183</volume>
+          <fpage>759</fpage>
+          <lpage>765</lpage>
+          <pub-id pub-id-type="pmid">1584933</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stefanadis</surname>
+              <given-names>CI</given-names>
+            </name>
+            <name>
+              <surname>Karayannacos</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Boudoulas</surname>
+              <given-names>HK</given-names>
+            </name>
+            <name>
+              <surname>Stratos</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Vlachopoulos</surname>
+              <given-names>CV</given-names>
+            </name>
+            <name>
+              <surname>Dontas</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Toutouzas</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <article-title>Medial necrosis and acute alterations in aortic distensibility following removal of the vasa vasorum of canine ascending aorta</article-title>
+          <source>Cardiovasc Res</source>
+          <year>1993</year>
+          <volume>27</volume>
+          <fpage>951</fpage>
+          <lpage>956</lpage>
+          <pub-id pub-id-type="pmid">8221784</pub-id>
+          <pub-id pub-id-type="doi">10.1093/cvr/27.6.951</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>von Kodolitsch</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Aydin</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Koschyk</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Loose</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Schalwat</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Karck</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cremer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Haverich</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Meinertz</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Nienaber</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Predictors of aneurysmal formation after surgical correction of aortic coarctation</article-title>
+          <source>J Am Coll Cardiol</source>
+          <year>2002</year>
+          <volume>39</volume>
+          <fpage>617</fpage>
+          <lpage>624</lpage>
+          <pub-id pub-id-type="pmid">11849860</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0735-1097(01)01784-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lesauskaite</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Tanganelli</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Sassi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Neri</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Diciolla</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ivanoviene</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Epistolato</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Lalinga</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Alessandrini</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Spina</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Smooth muscle cells of the media in the dilatative pathology of ascending thoracic aorta: morphology, immunoreactivity for osteopontin, matrix metalloproteinases, and their inhibitors</article-title>
+          <source>Hum Pathol</source>
+          <year>2001</year>
+          <volume>32</volume>
+          <fpage>1003</fpage>
+          <lpage>1011</lpage>
+          <pub-id pub-id-type="pmid">11567232</pub-id>
+          <pub-id pub-id-type="doi">10.1053/hupa.2001.27107</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O'Gara</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>DeSanctis</surname>
+              <given-names>RW</given-names>
+            </name>
+          </person-group>
+          <article-title>Acute aortic dissection and its variants: toward a common diagnostic and therapeutic approach</article-title>
+          <source>Circulation</source>
+          <year>1995</year>
+          <volume>92</volume>
+          <fpage>1376</fpage>
+          <lpage>1378</lpage>
+          <pub-id pub-id-type="pmid">7664413</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nienaber</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Sievers</surname>
+              <given-names>HH</given-names>
+            </name>
+          </person-group>
+          <article-title>Intramural hematoma in acute aortic syndrome:more than one variant of dissection?</article-title>
+          <source>Circulation</source>
+          <year>2002</year>
+          <volume>106</volume>
+          <fpage>284</fpage>
+          <lpage>285</lpage>
+          <pub-id pub-id-type="pmid">12119238</pub-id>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000023453.90533.82</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scotland</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Vallance</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ahluwalia</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Endothelin alters the reactivity of vasa vasorum: mechanisms andimplications for conduit vessel physiology and pathophysiology</article-title>
+          <source>British Journal of Pharmacology</source>
+          <year>1999</year>
+          <volume>128</volume>
+          <fpage>1229</fpage>
+          <lpage>1234</lpage>
+          <pub-id pub-id-type="pmid">10578136</pub-id>
+          <pub-id pub-id-type="doi">10.1038/sj.bjp.0702930</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heistad</surname>
+              <given-names>DD</given-names>
+            </name>
+            <name>
+              <surname>Marcus</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Law</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>Armstrong</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Ehrhardt</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Abboud</surname>
+              <given-names>FM</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of blood flow to the aortic media in dogs</article-title>
+          <source>J Clin Invest</source>
+          <year>1978</year>
+          <volume>62</volume>
+          <fpage>133</fpage>
+          <lpage>140</lpage>
+          <pub-id pub-id-type="pmid">659626</pub-id>
+          <pub-id pub-id-type="doi">10.1172/JCI109097</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evangelista</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mehta</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>O'Gara</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Fattori</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Cooper</surname>
+              <given-names>JV</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Oh</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Hutchison</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sechtem</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Isselbacher</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Nienaber</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Pape</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Eagle</surname>
+              <given-names>KA</given-names>
+            </name>
+          </person-group>
+          <article-title>Acute intramural hematoma of the aorta</article-title>
+          <source>A mystery in evolution</source>
+          <year>2005</year>
+          <volume>111</volume>
+          <fpage>1063</fpage>
+          <lpage>1070</lpage>
+        </citation>
+      </ref>
+      <ref id="B28">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ledbetter</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Stuk</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Kaufman</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Helical (spiral) CT in the evaluation of emergent thoracic aortic syndromes: Traumatic aortic rupture, aortic aneurysm, aortic dissection, intramural hematoma, and penetrating atherosclerotic ulcer</article-title>
+          <source>Radiol Clin North Am</source>
+          <year>1999</year>
+          <volume>37</volume>
+          <fpage>575</fpage>
+          <lpage>589</lpage>
+          <pub-id pub-id-type="pmid">10361547</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0033-8389(05)70112-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ganaha</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Sugimoto</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Do</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Minamiguchi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Saito</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Dake</surname>
+              <given-names>MD</given-names>
+            </name>
+          </person-group>
+          <article-title>The prognosis of aortic intramural hematoma with and without penetrating atherosclerotic ulcer: a clinical and radiological analysis</article-title>
+          <source>Circulation</source>
+          <year>2002</year>
+          <volume>106</volume>
+          <fpage>342</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">12119251</pub-id>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000022164.26075.5A</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohmi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tabayashi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Moizumi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Komatsu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sekino</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Goko</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Extremely rapid regression of aortic intramural hematoma</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>1999</year>
+          <volume>118</volume>
+          <fpage>968</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">10534711</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0022-5223(99)70075-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yoshino</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Udagawa</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Watanuki</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yano</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ide</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Sudo</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Prognosis of aortic intramural hemorrhage compared with classic aortic dissection</article-title>
+          <source>Am J Cardiol</source>
+          <year>2000</year>
+          <volume>85</volume>
+          <fpage>792</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="pmid">12000066</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0002-9149(99)00867-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harris</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Braverman</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Gutierrez</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name>
+              <surname>Barzilai</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Dávila-Román</surname>
+              <given-names>VG</given-names>
+            </name>
+          </person-group>
+          <article-title>Transesophageal echocardiographic and clinical features of aortic intramural hematoma</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>1997</year>
+          <fpage>619</fpage>
+          <lpage>626</lpage>
+          <pub-id pub-id-type="pmid">9338648</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kang</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>IS</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>YH</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical and echocardiographic outcomes of aortic intramural hemorrhage compared with acute aortic dissection</article-title>
+          <source>AM j Cardiol</source>
+          <year>1998</year>
+          <fpage>202</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="pmid">9591905</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0002-9149(97)00885-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yacoub</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Gehle</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Chandrasekaran</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Birks</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Child</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Radley-Smith</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Late results of a valve-preserving operation in patients with aneurysms of the ascending aorta and root</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>1998</year>
+          <volume>115</volume>
+          <fpage>1080</fpage>
+          <lpage>1090</lpage>
+          <pub-id pub-id-type="pmid">9605078</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0022-5223(98)70408-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siminelakis</surname>
+              <given-names>SN</given-names>
+            </name>
+            <name>
+              <surname>Baikoussis</surname>
+              <given-names>NG</given-names>
+            </name>
+            <name>
+              <surname>Papadopoulos</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Beis</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <article-title>Axillary Artery Cannulation for Cardiopulmonary Bypass during Surgery on the Ascending Aorta and Arch</article-title>
+          <source>J Card Surg</source>
+          <year>2009</year>
+          <volume>24</volume>
+          <fpage>301</fpage>
+          <lpage>304</lpage>
+          <pub-id pub-id-type="pmid">19302197</pub-id>
+          <pub-id pub-id-type="doi">10.1111/j.1540-8191.2008.00796.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maraj</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Rerkpattanapipat</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Jacobs</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Makornwattana</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kotler</surname>
+              <given-names>MN</given-names>
+            </name>
+          </person-group>
+          <article-title>Meta-analysis of 143 reported cases of aortic intramural hematoma</article-title>
+          <source>Am J Cardiol</source>
+          <year>2000</year>
+          <volume>86</volume>
+          <fpage>664</fpage>
+          <lpage>668</lpage>
+          <pub-id pub-id-type="pmid">10980220</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0002-9149(00)01049-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chao</surname>
+              <given-names>CP</given-names>
+            </name>
+            <name>
+              <surname>Walker</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Kalva</surname>
+              <given-names>SP</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural history and CT appearances of aortic intramural hematoma</article-title>
+          <source>Radiographics</source>
+          <year>2009</year>
+          <volume>29</volume>
+          <fpage>791</fpage>
+          <lpage>804</lpage>
+          <pub-id pub-id-type="pmid">19448116</pub-id>
+          <pub-id pub-id-type="doi">10.1148/rg.293085122</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moizumi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Komatsu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Motoyoshi</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Tabayashi</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical features and long-term outcome of type A and type B intramural hematoma of the aorta</article-title>
+          <source>J Thorac Cardiovasc Surg</source>
+          <year>2004</year>
+          <volume>127</volume>
+          <fpage>421</fpage>
+          <lpage>427</lpage>
+          <pub-id pub-id-type="pmid">14762350</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.jtcvs.2003.09.016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Matsuoka</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sakamoto</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Sueyoshi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Okimoto</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Matsunaga</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Penetrating atherosclerotic ulcer of the aorta: imaging features and disease concept</article-title>
+          <source>Radiographics</source>
+          <year>2000</year>
+          <volume>20</volume>
+          <fpage>995</fpage>
+          <lpage>1005</lpage>
+          <pub-id pub-id-type="pmid">10903689</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macura</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Szarf</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Fishman</surname>
+              <given-names>EK</given-names>
+            </name>
+            <name>
+              <surname>Bluemke</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of computed tomography and magnetic resonance imaging in assessment of acute aortic syndromes</article-title>
+          <source>Semin Ultrasound CT MR</source>
+          <year>2003</year>
+          <volume>24</volume>
+          <fpage>232</fpage>
+          <lpage>254</lpage>
+          <pub-id pub-id-type="pmid">12954006</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0887-2171(03)90014-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>von Kodolitsch</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Nienaber</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Intramural hemorrhage of the thoracic aorta: diagnosis, therapy and prognosis of 209 in vivo diagnosed cases [in German]</article-title>
+          <source>Z Kardiol</source>
+          <year>1998</year>
+          <volume>87</volume>
+          <fpage>797</fpage>
+          <lpage>807</lpage>
+          <pub-id pub-id-type="pmid">9857455</pub-id>
+          <pub-id pub-id-type="doi">10.1007/s003920050234</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>von Kodolitsch</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Csosz</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Koschyk</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Schalwat</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Loose</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Karck</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dieckmann</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Fattori</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Haverich</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Meinertz</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Nienaber</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Intramural hematoma of the aorta: predictors of progression to dissection and rupture</article-title>
+          <source>Circulation</source>
+          <year>2003</year>
+          <volume>107</volume>
+          <fpage>1158</fpage>
+          <lpage>1163</lpage>
+          <pub-id pub-id-type="pmid">12615795</pub-id>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000052628.77047.EA</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meszaros</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Morocz</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Szlavi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tornóci</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Nagy</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Szép</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology and clinicopathology of aortic dissection</article-title>
+          <source>Chest</source>
+          <year>2000</year>
+          <volume>117</volume>
+          <fpage>1271</fpage>
+          <lpage>1278</lpage>
+          <pub-id pub-id-type="pmid">10807810</pub-id>
+          <pub-id pub-id-type="doi">10.1378/chest.117.5.1271</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamada</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Tada</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Aortic dissection without intimal rupture: diagnosis with MR imaging and CT</article-title>
+          <source>Radiology</source>
+          <year>1988</year>
+          <volume>168</volume>
+          <fpage>347</fpage>
+          <lpage>352</lpage>
+          <pub-id pub-id-type="pmid">3393653</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaji</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Akasaka</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Horibata</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Nishigami</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Shono</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Katayama</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yamamuro</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Morioka</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Morita</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Tanemoto</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Honda</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term prognosis of patients with type a aortic intramural hematoma</article-title>
+          <source>Circulation</source>
+          <year>2002</year>
+          <volume>106</volume>
+          <fpage>I-248</fpage>
+          <lpage>I-252</lpage>
+          <pub-id pub-id-type="pmid">12354741</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Neri</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Capannini</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Carone</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Diciolla</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Sassi</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Evolution toward dissection of an intramural hematoma of the ascending aorta</article-title>
+          <source>Ann Thorac Surg</source>
+          <year>1999</year>
+          <volume>68</volume>
+          <fpage>1855</fpage>
+          <lpage>1856</lpage>
+          <pub-id pub-id-type="pmid">10585078</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0003-4975(99)01005-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaji</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Nishigami</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Akasaka</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hozumi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Takagi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kawamoto</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Okura</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shono</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Horibata</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Honda</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of progression or regression of type A aortic intramural hematoma by computed tomography</article-title>
+          <source>Circulation</source>
+          <year>1999</year>
+          <volume>100</volume>
+          <fpage>II-281</fpage>
+          <lpage>II-286</lpage>
+          <pub-id pub-id-type="pmid">10567317</pub-id>
+        </citation>
+      </ref>
+      <ref id="B48">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erbel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Oelert</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Puth</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mohr-Katoly</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hausmann</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Daniel</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Maffei</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Caruso</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Covino</surname>
+              <given-names>FE</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of medical and surgical therapy on aortic dissection evaluated by transesophageal echocardiography: implications for prognosis and therapy: the European Cooperative Study Group on Echocardiography</article-title>
+          <source>Circulation</source>
+          <year>1993</year>
+          <volume>87</volume>
+          <fpage>1604</fpage>
+          <lpage>1615</lpage>
+          <pub-id pub-id-type="pmid">8491016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nienaber</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Richartz</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Rehders</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ince</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Petzsch</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Aortic intramural haematoma: natural history and predictive factors for complications</article-title>
+          <source>Heart</source>
+          <year>2004</year>
+          <volume>90</volume>
+          <fpage>372</fpage>
+          <lpage>374</lpage>
+          <pub-id pub-id-type="pmid">15020504</pub-id>
+          <pub-id pub-id-type="doi">10.1136/hrt.2003.027615</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robbins</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>McManus</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Latter</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Moon</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Olinger</surname>
+              <given-names>GN</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <article-title>Management of patients with intramural hematoma of the thoracic aorta</article-title>
+          <source>Circulation</source>
+          <year>1993</year>
+          <volume>88</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+        </citation>
+      </ref>
+      <ref id="B51">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nishigami</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tsuchiya</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Shono</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Horibata</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Honda</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Disappearance of aortic intramural hematoma and its significance to the prognosis</article-title>
+          <source>Circulation</source>
+          <year>2000</year>
+          <volume>102</volume>
+          <comment>III-243-7</comment>
+          <pub-id pub-id-type="pmid">11082395</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:18Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2876149" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2876149</identifier><datestamp>2010-05-26</datestamp><setSpec>bmcmd</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Med Genet</journal-id>
+      <journal-title-group>
+        <journal-title>BMC Medical Genetics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1471-2350</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2876149</article-id>
+      <article-id pub-id-type="publisher-id">1471-2350-11-73</article-id>
+      <article-id pub-id-type="pmid">20465829</article-id>
+      <article-id pub-id-type="doi">10.1186/1471-2350-11-73</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Debate</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Is Lamarckian evolution relevant to medicine?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="A1">
+          <name>
+            <surname>Handel</surname>
+            <given-names>Adam E</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>ahandel@doctors.org.uk</email>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes" id="A2">
+          <name>
+            <surname>Ramagopalan</surname>
+            <given-names>Sreeram V</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <xref ref-type="aff" rid="I2">2</xref>
+          <email>sreeramr@well.ox.ac.uk</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Wellcome Trust Centre for Human Genetics, University of Oxford, Roosevelt Drive, Headington, Oxford, OX3 7BN, UK</aff>
+      <aff id="I2"><label>2</label>Department of Clinical Neurology, University of Oxford, The West Wing, John Radcliffe Hospital, Oxford, OX3 9DU, UK</aff>
+      <pub-date pub-type="collection">
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>5</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>11</volume>
+      <fpage>73</fpage>
+      <lpage>73</lpage>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>2</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>5</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright ©2010 Handel and Ramagopalan; licensee BioMed Central Ltd.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <copyright-holder>Handel and Ramagopalan; licensee BioMed Central Ltd.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="http://www.biomedcentral.com/1471-2350/11/73"/>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>200 years have now passed since Darwin was born and scientists around the world are celebrating this important anniversary of the birth of an evolutionary visionary. However, the theories of his colleague Lamarck are treated with considerably less acclaim. These theories centre on the tendency for complexity to increase in organisms over time and the direct transmission of phenotypic traits from parents to offspring.</p>
+        </sec>
+        <sec>
+          <title>Discussion</title>
+          <p>Lamarckian concepts, long thought of no relevance to modern evolutionary theory, are enjoying a quiet resurgence with the increasing complexity of epigenetic theories of inheritance. There is evidence that epigenetic alterations, including DNA methylation and histone modifications, are transmitted transgenerationally, thus providing a potential mechanism for environmental influences to be passed from parents to offspring: Lamarckian evolution. Furthermore, evidence is accumulating that epigenetics plays an important role in many common medical conditions.</p>
+        </sec>
+        <sec>
+          <title>Summary</title>
+          <p>Epigenetics allows the peaceful co-existence of Darwinian and Lamarckian evolution. Further efforts should be exerted on studying the mechanisms by which this occurs so that public health measures can be undertaken to reverse or prevent epigenetic changes important in disease susceptibility. Perhaps in 2059 we will be celebrating the anniversary of both Darwin <italic>and </italic>Lamarck.</p>
+        </sec>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>The 200<sup>th </sup>anniversary of the birth of Charles Robert Darwin FRS is rightly being celebrated across the world in 2009 [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B2">2</xref>]. Another event of interest in 1809, now largely forgotten, was the publication of Jean-Baptiste Pierre Antoine de Monet, Chevalier de la Marck's (Lamarck) <italic>philosophie zoologique ou exposition des considérations relatives à l'histoire naturelle des animaux </italic>[<xref ref-type="bibr" rid="B3">3</xref>]. Despite this work being the first formally published evolutionary theory, it garners little praise today. This was largely due to the widespread derision it received, most notably from Lamarck's colleague, Georges Cuvier [<xref ref-type="bibr" rid="B4">4</xref>]. Do Lamarck's ideas deserve to be forgotten? As nearly all current literature paints a disparaging view of Lamarck by referring to his supposition as to how giraffes acquired their characteristic morphology, it seems worthwhile to go back to review Lamarck's original texts. In this way we can assess the relevance of his thought on evolution to our current, ever expanding, knowledge of heredity though eyes unbiased by the modern, depreciatory view of his work.</p>
+      <p><italic>Philosophie zoologique </italic>was studied by Stephen Jay Gould [<xref ref-type="bibr" rid="B4">4</xref>] among others. Lamarck's evolutionary theory can essentially be summarised with two concepts. The first is that organisms gradually and progressively become more complex by a "prime cause" and the second is that this progression is influenced by external conditions: "the environment exercises a great influence over the activities of animals, and as a result of this influence the increased and sustained use or disuse of any organ are causes of modification of the organization and shape of animals" [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>]. This second concept leads to Lamarck's well known idea of acquired or soft inheritance: "the law of nature by which new individuals receive all that has been acquired in organization during the lifetime of their parents is so true, so striking...." [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>].</p>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>After two centuries is there any evidence to support Lamarck's concepts? A number of studies do actually point to the existence of acquired characteristics and sometimes their inheritance. In rats, for example, stressed mothers have less time to care for offspring through postnatal licking/grooming (LG) and arched-back nursing (ABN) [<xref ref-type="bibr" rid="B5">5</xref>]. Low levels of postnatal LG and ABN result in offspring being more apprehensive, in order to cope with the stressful environment they have been born into (e.g. the presence of predators) [<xref ref-type="bibr" rid="B5">5</xref>]. In contrast, the offspring of high LG and ABN mothers are less fearful [<xref ref-type="bibr" rid="B5">5</xref>]. Cross-fostering between high and low LG and ABN mothers produces offspring with a fear phenotype as determined by their adoptive mother [<xref ref-type="bibr" rid="B5">5</xref>]. The phenotypes persist into adulthood, and females display the same behaviour as their mothers, thus propagating the trait [<xref ref-type="bibr" rid="B5">5</xref>]. Artificial, but nevertheless illustrative, is a study of gestating female rats exposed to endocrine disruptors [<xref ref-type="bibr" rid="B6">6</xref>]. These induce decreased spermatogenic capacity and increased incidence of infertility in male offspring. The phenotype is transferred through the male germ line all the way to males in the F4 generation [<xref ref-type="bibr" rid="B6">6</xref>].</p>
+      <p>How are characteristics 'acquired'? Epigenetics appears to provide the mechanism. A term coined by Waddington referring to changes in phenotype caused by any means other than changes in the underlying DNA sequence [<xref ref-type="bibr" rid="B7">7</xref>], epigenetics is now more directly interpreted as DNA and chromatin alterations that regulate genomic functions. These include DNA methylation of CpG dinucleotides and a multitude of different histone modifications [<xref ref-type="bibr" rid="B8">8</xref>]. Nearly all cells in the human body have the same genotype, but cells display hugely different phenotypes and this to some extent arises from epigenetics. The rules governing the establishment of epigenetic marks are not yet fully understood, but the epigenome is dynamic and the environment exerts a key influence over this. Epigenetic marks are therefore a reflection of an individual's environmental exposures and as such change during the lifetime of a cell/tissue [<xref ref-type="bibr" rid="B9">9</xref>]. Thus, we are 'acquiring' changes to our epigenome all the time.</p>
+      <p>Indeed, there is evidence that the Lamarckian experimental paradigms described above are directly mediated by epigenetic mechanisms. The more moderate stress responses of high LG and ABN rats is the result of an increase in the number of glucocorticoid receptors (GRs) in the hippocampus (which may be likened to Lamarck's use/disuse hypothesis as it is a consequence of increased serotonergic tone in the hippocampus) [<xref ref-type="bibr" rid="B5">5</xref>]. High LG and ABN rats have demonstrably lower levels of DNA methylation in the GR gene promoter region in hippocampal tissue resulting in increased GR expression, and this appears to be maintained for life [<xref ref-type="bibr" rid="B5">5</xref>]. Methylation of the GR promoter was a specific effect of exposure to maternal nurturing (i.e. environment) as the cross-fostering experiments showed that the effect on the epigenome was the same as for the true biological offspring [<xref ref-type="bibr" rid="B5">5</xref>].</p>
+      <p>For these epigenetic marks to behave as a Lamarkian concept, they must be transmitted between different generations of organisms. It had generally been thought that the epigenetic state of the genome is cleared between generations but there is increasing evidence that transgenerational epigenetic inheritance (and inheritance of acquired traits) occurs. In the study of endocrine disruptors, increased DNA methylation was observed at a number of gene regions in sperm from the F1 male rats as compared to controls, and this hypermethylation was inherited in the F2 and F3 generations [<xref ref-type="bibr" rid="B6">6</xref>]. It is likely that transgenerational transmission of epigenetic alterations is mediated by small molecules of RNA called microRNA that are capable of inducing sequence specific changes in the epigenome, although this has not yet been shown to modify the structure of chromatin [<xref ref-type="bibr" rid="B10">10</xref>].</p>
+      <p>Therefore, there is at least some evidence to support the various parts of Lamarck's concept of acquired inheritance. The field of epigenetics is very much in its infancy and therefore more examples are likely to follow. But is soft inheritance relevant to medicine? The answer is very likely to be yes. A number of key observations have recently come to light. Firstly, methylation levels vary between individuals and secondly, monozygotic twins are more similar than dizygotic twins in terms of levels of methylation [<xref ref-type="bibr" rid="B9">9</xref>,<xref ref-type="bibr" rid="B11">11</xref>]. Thus complex traits are likely a result of genetic, epigenetic and environmental components and their interactions. The classical genetic conundrums of incomplete penetrance and variable expressivity may in part be explained by differences in epigenetics. DNA methylation has already been highlighted as being important in aetiology for many common complex diseases, including cancer and psychosis [<xref ref-type="bibr" rid="B12">12</xref>-<xref ref-type="bibr" rid="B14">14</xref>]. Indeed, methylation of the GR promoter region is seen in suicide victims who were abused as children [<xref ref-type="bibr" rid="B15">15</xref>]. While this implicates acquired changes, there are also examples of inheritance, the most convincing being the transmission of a cancer associated epimutation in the <italic>MLH </italic>gene from a mother to one of three sons [<xref ref-type="bibr" rid="B16">16</xref>]. Epidemiological studies have also provided evidence highly suggestive of acquired epigenetic transgenerational aetiology. Looking at three generational families, Pembrey and co-workers showed that a paternal grandfather's food supply was linked to the mortality risk of his grandsons, while a paternal grandmother's food supply was linked to the mortality risk of her granddaughters [<xref ref-type="bibr" rid="B17">17</xref>]. Epigenetics provides probable mechanisms for these effects [<xref ref-type="bibr" rid="B18">18</xref>-<xref ref-type="bibr" rid="B20">20</xref>]. Thus, in humans as well as in experimental animal models, there is evidence that epigenetics provides a potential Lamarckian mechanism of evolution.</p>
+    </sec>
+    <sec>
+      <title>Summary</title>
+      <p>As Dobzhansky observed "nothing in biology makes sense except in the context of evolution" [<xref ref-type="bibr" rid="B21">21</xref>]. It might be speculated that if nature could find a way to transmit ancestral environmental experience or stress to the benefit of the offspring she put it in play. While there may not be as yet many examples fitting Lamarck's theories perfectly, there is now enough evidence to concede that Lamarckian concepts have some merit. Epigenetics might actually be seen as unsurprising from an evolutionary aspect: one would expect intense selective pressure to be directed towards preserving any mechanism of maximising phenotypical variation and thus allows Darwinian evolution and Lamarckian theory (which Darwin accepted) [<xref ref-type="bibr" rid="B4">4</xref>] to co-exist peacefully. Indeed, a recent paper reporting an epigenetic model of evolutionary change has shown that methylation at CpG islands could optimise phenotypic variability and so lead to increased fitness [<xref ref-type="bibr" rid="B22">22</xref>]. Soft inheritance provides intriguing public health implications [<xref ref-type="bibr" rid="B23">23</xref>], as the fact that an individual's behaviours can affect the next two generations is rarely considered [<xref ref-type="bibr" rid="B24">24</xref>]. The implications to search for environmental factors especially in the ubiquitous case-control study is enormous. The most exciting part of epigenetics in modern medicine is the possibility of intervening at the junction between the genome and the environment, as unlike the DNA sequence, epigenetic changes are reversible. Research should now concentrate on revealing which conditions arise as a result of epigenetic changes and whether it is possible to intervene in this process to prevent disease or restore health. Perhaps in 2059, we will be celebrating 250 years of Darwin <italic>and </italic>Lamarck.</p>
+    </sec>
+    <sec>
+      <title>Abbreviations</title>
+      <p>LG: licking and grooming maternal behavior in rats; ABN: arched back nursing maternal behavior in rats; F1, F2, F3, F4: number of generations after original gestating female; GR: glucocorticoid receptor; CpG islands: directly linked cytosine and guanosine residues</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>AEH &amp; SVR conceived the idea and wrote the manuscript. Both authors approved and read the manuscript.</p>
+    </sec>
+    <sec>
+      <title>Pre-publication history</title>
+      <p>The pre-publication history for this paper can be accessed here:</p>
+      <p>
+        <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2350/11/73/prepub">http://www.biomedcentral.com/1471-2350/11/73/prepub</ext-link>
+      </p>
+    </sec>
+  </body>
+  <back>
+    <sec>
+      <title>Acknowledgements</title>
+      <p>The authors would like to thank colleagues at the University of Oxford for helpful discussion. SVR is a Goodger Scholar at the University of Oxford</p>
+    </sec>
+    <ref-list>
+      <ref id="B1">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Ayala</surname>
+            <given-names>FJ</given-names>
+          </name>
+          <name>
+            <surname>Avise</surname>
+            <given-names>JC</given-names>
+          </name>
+          <article-title>Darwin at 200</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2009</year>
+          <volume>106</volume>
+          <issue>8</issue>
+          <fpage>2475</fpage>
+          <lpage>2476</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0900798106</pub-id>
+          <pub-id pub-id-type="pmid">19211793</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal">
+          <collab>Darwin 200</collab>
+          <article-title>Beyond the origin</article-title>
+          <source>Nature</source>
+          <year>2008</year>
+          <volume>456</volume>
+          <issue>7220</issue>
+          <fpage>295</fpage>
+          <pub-id pub-id-type="doi">10.1038/456295a</pub-id>
+          <pub-id pub-id-type="pmid">19020590</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="book">
+          <collab>Lamarck JBPAdMd</collab>
+          <source>Philosophie zoologique: ou Exposition des considâerations relative áa l'histoire naturelle des animaux</source>
+          <year>1809</year>
+          <publisher-name>Paris: Dentu et L'Auteur</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="book">
+          <name>
+            <surname>Gould</surname>
+            <given-names>SJ</given-names>
+          </name>
+          <source>The structure of evolutionary theory</source>
+          <year>2002</year>
+          <publisher-name>Cambridge, Mass.; London: Belknap</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Weaver</surname>
+            <given-names>IC</given-names>
+          </name>
+          <name>
+            <surname>Cervoni</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Champagne</surname>
+            <given-names>FA</given-names>
+          </name>
+          <name>
+            <surname>D'Alessio</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Sharma</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Seckl</surname>
+            <given-names>JR</given-names>
+          </name>
+          <name>
+            <surname>Dymov</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Szyf</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Meaney</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <article-title>Epigenetic programming by maternal behavior</article-title>
+          <source>Nat Neurosci</source>
+          <year>2004</year>
+          <volume>7</volume>
+          <issue>8</issue>
+          <fpage>847</fpage>
+          <lpage>854</lpage>
+          <pub-id pub-id-type="doi">10.1038/nn1276</pub-id>
+          <pub-id pub-id-type="pmid">15220929</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Anway</surname>
+            <given-names>MD</given-names>
+          </name>
+          <name>
+            <surname>Cupp</surname>
+            <given-names>AS</given-names>
+          </name>
+          <name>
+            <surname>Uzumcu</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Skinner</surname>
+            <given-names>MK</given-names>
+          </name>
+          <article-title>Epigenetic transgenerational actions of endocrine disruptors and male fertility</article-title>
+          <source>Science</source>
+          <year>2005</year>
+          <volume>308</volume>
+          <issue>5727</issue>
+          <fpage>1466</fpage>
+          <lpage>1469</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1108190</pub-id>
+          <pub-id pub-id-type="pmid">15933200</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="book">
+          <name>
+            <surname>Waddington</surname>
+            <given-names>CH</given-names>
+          </name>
+          <source>The strategy of the genes: a discussion of some aspects of theoretical biology</source>
+          <year>1957</year>
+          <publisher-name>London: Allen &amp; Unwin</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Feinberg</surname>
+            <given-names>AP</given-names>
+          </name>
+          <article-title>Epigenetics at the epicenter of modern medicine</article-title>
+          <source>Jama</source>
+          <year>2008</year>
+          <volume>299</volume>
+          <issue>11</issue>
+          <fpage>1345</fpage>
+          <lpage>1350</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.299.11.1345</pub-id>
+          <pub-id pub-id-type="pmid">18349095</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Fraga</surname>
+            <given-names>MF</given-names>
+          </name>
+          <name>
+            <surname>Ballestar</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Paz</surname>
+            <given-names>MF</given-names>
+          </name>
+          <name>
+            <surname>Ropero</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Setien</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Ballestar</surname>
+            <given-names>ML</given-names>
+          </name>
+          <name>
+            <surname>Heine-Suner</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Cigudosa</surname>
+            <given-names>JC</given-names>
+          </name>
+          <name>
+            <surname>Urioste</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Benitez</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Epigenetic differences arise during the lifetime of monozygotic twins</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2005</year>
+          <volume>102</volume>
+          <issue>30</issue>
+          <fpage>10604</fpage>
+          <lpage>10609</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0500398102</pub-id>
+          <pub-id pub-id-type="pmid">16009939</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Wagner</surname>
+            <given-names>KD</given-names>
+          </name>
+          <name>
+            <surname>Wagner</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Ghanbarian</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Grandjean</surname>
+            <given-names>V</given-names>
+          </name>
+          <name>
+            <surname>Gounon</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Cuzin</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Rassoulzadegan</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>RNA induction and inheritance of epigenetic cardiac hypertrophy in the mouse</article-title>
+          <source>Dev Cell</source>
+          <year>2008</year>
+          <volume>14</volume>
+          <issue>6</issue>
+          <fpage>962</fpage>
+          <lpage>969</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.devcel.2008.03.009</pub-id>
+          <pub-id pub-id-type="pmid">18539123</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Kaminsky</surname>
+            <given-names>ZA</given-names>
+          </name>
+          <name>
+            <surname>Tang</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Wang</surname>
+            <given-names>SC</given-names>
+          </name>
+          <name>
+            <surname>Ptak</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Oh</surname>
+            <given-names>GH</given-names>
+          </name>
+          <name>
+            <surname>Wong</surname>
+            <given-names>AH</given-names>
+          </name>
+          <name>
+            <surname>Feldcamp</surname>
+            <given-names>LA</given-names>
+          </name>
+          <name>
+            <surname>Virtanen</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Halfvarson</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Tysk</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>DNA methylation profiles in monozygotic and dizygotic twins</article-title>
+          <source>Nat Genet</source>
+          <year>2009</year>
+          <volume>41</volume>
+          <issue>2</issue>
+          <fpage>240</fpage>
+          <lpage>245</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.286</pub-id>
+          <pub-id pub-id-type="pmid">19151718</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Feinberg</surname>
+            <given-names>AP</given-names>
+          </name>
+          <name>
+            <surname>Tycko</surname>
+            <given-names>B</given-names>
+          </name>
+          <article-title>The history of cancer epigenetics</article-title>
+          <source>Nat Rev Cancer</source>
+          <year>2004</year>
+          <volume>4</volume>
+          <issue>2</issue>
+          <fpage>143</fpage>
+          <lpage>153</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrc1279</pub-id>
+          <pub-id pub-id-type="pmid">14732866</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Mill</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Tang</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Kaminsky</surname>
+            <given-names>Z</given-names>
+          </name>
+          <name>
+            <surname>Khare</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Yazdanpanah</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bouchard</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Jia</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Assadzadeh</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Flanagan</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Schumacher</surname>
+            <given-names>A</given-names>
+          </name>
+          <article-title>Epigenomic profiling reveals DNA-methylation changes associated with major psychosis</article-title>
+          <source>Am J Hum Genet</source>
+          <year>2008</year>
+          <volume>82</volume>
+          <issue>3</issue>
+          <fpage>696</fpage>
+          <lpage>711</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ajhg.2008.01.008</pub-id>
+          <pub-id pub-id-type="pmid">18319075</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Handel</surname>
+            <given-names>AE</given-names>
+          </name>
+          <name>
+            <surname>Ebers</surname>
+            <given-names>GC</given-names>
+          </name>
+          <name>
+            <surname>Ramagopalan</surname>
+            <given-names>SV</given-names>
+          </name>
+          <article-title>Epigenetics: molecular mechanisms and implications for disease</article-title>
+          <source>Trends Mol Med</source>
+          <year>2009</year>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>7</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molmed.2009.11.003</pub-id>
+          <pub-id pub-id-type="pmid">20022812</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>McGowan</surname>
+            <given-names>PO</given-names>
+          </name>
+          <name>
+            <surname>Sasaki</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>D'Alessio</surname>
+            <given-names>AC</given-names>
+          </name>
+          <name>
+            <surname>Dymov</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Labonte</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Szyf</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Turecki</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Meaney</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <article-title>Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse</article-title>
+          <source>Nat Neurosci</source>
+          <year>2009</year>
+          <volume>12</volume>
+          <issue>3</issue>
+          <fpage>342</fpage>
+          <lpage>348</lpage>
+          <pub-id pub-id-type="doi">10.1038/nn.2270</pub-id>
+          <pub-id pub-id-type="pmid">19234457</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Hitchins</surname>
+            <given-names>MP</given-names>
+          </name>
+          <name>
+            <surname>Wong</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <name>
+            <surname>Suthers</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Suter</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Martin</surname>
+            <given-names>DI</given-names>
+          </name>
+          <name>
+            <surname>Hawkins</surname>
+            <given-names>NJ</given-names>
+          </name>
+          <name>
+            <surname>Ward</surname>
+            <given-names>RL</given-names>
+          </name>
+          <article-title>Inheritance of a cancer-associated MLH1 germ-line epimutation</article-title>
+          <source>N Engl J Med</source>
+          <year>2007</year>
+          <volume>356</volume>
+          <issue>7</issue>
+          <fpage>697</fpage>
+          <lpage>705</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa064522</pub-id>
+          <pub-id pub-id-type="pmid">17301300</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Pembrey</surname>
+            <given-names>ME</given-names>
+          </name>
+          <name>
+            <surname>Bygren</surname>
+            <given-names>LO</given-names>
+          </name>
+          <name>
+            <surname>Kaati</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Edvinsson</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Northstone</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Sjostrom</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Golding</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Sex-specific male-line transgenerational responses in humans</article-title>
+          <source>Eur J Hum Genet</source>
+          <year>2006</year>
+          <volume>14</volume>
+          <issue>2</issue>
+          <fpage>159</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.ejhg.5201538</pub-id>
+          <pub-id pub-id-type="pmid">16391557</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Tobi</surname>
+            <given-names>EW</given-names>
+          </name>
+          <name>
+            <surname>Lumey</surname>
+            <given-names>LH</given-names>
+          </name>
+          <name>
+            <surname>Talens</surname>
+            <given-names>RP</given-names>
+          </name>
+          <name>
+            <surname>Kremer</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Putter</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Stein</surname>
+            <given-names>AD</given-names>
+          </name>
+          <name>
+            <surname>Slagboom</surname>
+            <given-names>PE</given-names>
+          </name>
+          <name>
+            <surname>Heijmans</surname>
+            <given-names>BT</given-names>
+          </name>
+          <article-title>DNA methylation differences after exposure to prenatal famine are common and timing- and sex-specific</article-title>
+          <source>Hum Mol Genet</source>
+          <year>2009</year>
+          <volume>18</volume>
+          <issue>21</issue>
+          <fpage>4046</fpage>
+          <lpage>4053</lpage>
+          <pub-id pub-id-type="doi">10.1093/hmg/ddp353</pub-id>
+          <pub-id pub-id-type="pmid">19656776</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Skinner</surname>
+            <given-names>MK</given-names>
+          </name>
+          <name>
+            <surname>Manikkam</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Guerrero-Bosagna</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Epigenetic transgenerational actions of environmental factors in disease etiology</article-title>
+          <source>Trends Endocrinol Metab</source>
+          <year>2010</year>
+          <volume>21</volume>
+          <issue>4</issue>
+          <fpage>214</fpage>
+          <lpage>222</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tem.2009.12.007</pub-id>
+          <pub-id pub-id-type="pmid">20074974</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Nadeau</surname>
+            <given-names>JH</given-names>
+          </name>
+          <article-title>Transgenerational genetic effects on phenotypic variation and disease risk</article-title>
+          <source>Hum Mol Genet</source>
+          <year>2009</year>
+          <volume>18</volume>
+          <issue>R2</issue>
+          <fpage>R202</fpage>
+          <lpage>210</lpage>
+          <pub-id pub-id-type="doi">10.1093/hmg/ddp366</pub-id>
+          <pub-id pub-id-type="pmid">19808797</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Dobzhansky</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>Biology Molecular and Organismic</article-title>
+          <source>Am Zool</source>
+          <year>1964</year>
+          <volume>4</volume>
+          <fpage>443</fpage>
+          <lpage>452</lpage>
+          <pub-id pub-id-type="pmid">14223586</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Feinberg</surname>
+            <given-names>AP</given-names>
+          </name>
+          <name>
+            <surname>Irizarry</surname>
+            <given-names>RA</given-names>
+          </name>
+          <article-title>Stochastic epigenetic variation as a driving force of development evolutionary adaptation and disease</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2010</year>
+          <volume>107</volume>
+          <issue>Suppl 1</issue>
+          <fpage>1757</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0906183107</pub-id>
+          <pub-id pub-id-type="pmid">20080672</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Handel</surname>
+            <given-names>AE</given-names>
+          </name>
+          <name>
+            <surname>Ramagopalan</surname>
+            <given-names>SV</given-names>
+          </name>
+          <article-title>Public health implications of epigenetics</article-title>
+          <source>Genetics</source>
+          <year>2009</year>
+          <volume>182</volume>
+          <issue>4</issue>
+          <fpage>1397</fpage>
+          <lpage>1398</lpage>
+          <pub-id pub-id-type="doi">10.1534/genetics.109.106146</pub-id>
+          <pub-id pub-id-type="pmid">19564481</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal">
+          <name>
+            <surname>Gluckman</surname>
+            <given-names>PD</given-names>
+          </name>
+          <name>
+            <surname>Hanson</surname>
+            <given-names>MA</given-names>
+          </name>
+          <name>
+            <surname>Bateson</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Beedle</surname>
+            <given-names>AS</given-names>
+          </name>
+          <name>
+            <surname>Law</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Bhutta</surname>
+            <given-names>ZA</given-names>
+          </name>
+          <name>
+            <surname>Anokhin</surname>
+            <given-names>KV</given-names>
+          </name>
+          <name>
+            <surname>Bougneres</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Chandak</surname>
+            <given-names>GR</given-names>
+          </name>
+          <name>
+            <surname>Dasgupta</surname>
+            <given-names>P</given-names>
+          </name>
+          <article-title>Towards a new developmental synthesis: adaptive developmental plasticity and human disease</article-title>
+          <source>Lancet</source>
+          <year>2009</year>
+          <volume>373</volume>
+          <issue>9675</issue>
+          <fpage>1654</fpage>
+          <lpage>1657</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(09)60234-8</pub-id>
+          <pub-id pub-id-type="pmid">19427960</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

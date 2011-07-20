@@ -1,0 +1,2674 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:38Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2806018" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2806018</identifier><datestamp>2010-02-12</datestamp><setSpec>aging</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Aging (Albany NY)</journal-id>
+      <journal-id journal-id-type="publisher-id">ImpactJ</journal-id>
+      <journal-title-group>
+        <journal-title>Aging</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1945-4589</issn>
+      <publisher>
+        <publisher-name>Impact Journals LLC</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2806018</article-id>
+      <article-id pub-id-type="pmid">20157523</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Growth and aging: a common molecular mechanism</article-title>
+        <alt-title alt-title-type="running-head">Growth and aging</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Blagosklonny</surname>
+            <given-names>Mikhail V.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hall</surname>
+            <given-names>Michael N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><sup>1</sup>Roswell Park Cancer
+                    Institute, Buffalo, NY 14263, USA
+            </aff>
+      <aff id="A2"><sup>2</sup>Biozentrum,
+                    University of Basel, CH4056 Basel, Switzerland
+            </aff>
+      <author-notes>
+        <corresp id="cor1"><bold>Correspondence: </bold>Mikhail
+                        V. Blagosklonny, MD,PhD, Roswell Park Cancer Institute, Elm &amp; Carlton
+                        Streets, Buffalo, NY 14263, USA; Michael N. Hall, PhD, Biozentrum,
+                        University of Basel, CH4056 Basel, Switzerland <email>blagosklonny@oncotarget.com</email><email>m.hall@unibas.ch</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>4</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>4</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>4</issue>
+      <fpage>357</fpage>
+      <lpage>362</lpage>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>2</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>4</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright: ©2009 Blagosklonny et al.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+                        It is commonly assumed that growth and aging are somehow linked, but the
+                        nature of this link has been elusive.   Here we review the aging process as
+                        a continuation of TOR-driven growth. TOR is absolutely essential for
+                        developmental growth, but upon completion of development it causes aging
+                        and age-related diseases.  Thus, the nutrient-sensing and growth-promoting
+                        TOR signaling pathway may provide a molecular link between growth and aging
+                        that is universal from yeast to human.
+                </p>
+      </abstract>
+      <kwd-group>
+        <kwd>aging</kwd>
+        <kwd>growth</kwd>
+        <kwd>rapamycin</kwd>
+        <kwd>TOR</kwd>
+        <kwd>mitochondria</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1" sec-type="intro">
+      <title>Introduction</title>
+      <p>
+                    At first glance, growth and aging appear
+                        to be opposites.  Growth is energy-driven synthesis of macromolecules from
+                        simple nutrients, an increase of order and a decrease of entropy.  Aging is
+                        decay, a loss of order and a rise of entropy.  Seemingly, growth and aging are
+                        mutually exclusive.  Forever proliferating cells, such as legendary hydras, do
+                        not show signs of aging.  In contrast, when an organism ceases to grow, aging
+                        follows.  However, manipulations that decrease growth also decrease aging and
+                        prolong life span.  For example, calorie restriction (reduced nutrient intake)
+                        reduces growth and increases longevity in diverse species from yeast to mice. 
+                        Rapamycin, which inhibits growth in yeast, decelerates yeast aging.  Inactivation
+                        of the growth-promoting insulin/IGF-1 signaling pathway increases life span,
+                        from worms to mice.  Why do growth-inhibiting conditions slow down aging?  Are
+                        growth and aging mechanistically similar?  As
+                        we discuss here, growth and aging may not be opposites but rather a
+                        continuation of one another driven by the same molecular pathway.  Aging and
+                        growth may be linked in a way that growth produces aging.  In
+                        other words, excessive growth is a driving force for aging.  The molecular
+                        pathway that drives both growth and aging appears to be the evolutionarily
+                        conserved TOR (target of rapamycin) pathway.
+                    
+            </p>
+      <sec id="s1_1">
+        <title>The TOR pathway
+                        </title>
+        <p>TOR (Target Of Rapamycin), as its name indicates, was
+                            originally discovered, in yeast, as the target of the antifungal drug rapamycin. 
+                            Rapamycin is a natural secondary metabolite produced by soil bacteria to
+                            inhibit growth of fungal competitors.  Thus, it is a mirror image of penicillin
+                            that is produced by fungi to inhibit bacterial growth.  Remarkably, TOR is
+                            structurally and functionally conserved from yeast to human (including worms,
+                            flies, plants and mice) as an essential, central controller of cell growth [<xref ref-type="bibr" rid="R1">1</xref>].
+                            TOR in mammals (mTOR) controls cell growth and metabolism in response to
+                            nutrients (e.g., amino acids), growth factors (e.g., insulin, IGF-1, PDGF), and
+                            cellular energy status (ATP).  Nutrients are the dominant TOR input as high
+                            levels of amino acids can compensate for an absence of the other mTOR inputs
+                            but not vice versa [<xref ref-type="bibr" rid="R2">2</xref>], and only nutrients activate TOR in unicellular
+                            organisms.  The growth factor signaling pathway, grafted onto the more
+                            ancestral nutrient sensitive TOR pathway, co-evolved with multicellularity. 
+                            TOR activates cell growth by positively and negatively regulating several
+                            anabolic and catabolic processes, respectively, that collectively determine mass
+                            accumulation.  The anabolic processes include transcription, protein
+                            synthesis, ribosome biogenesis, nutrient transport, and mitochondrial
+                            metabolism.  Conversely, TOR negatively regulates catabolic processes such as
+                            mRNA degradation, ubiquitin-dependent proteolysis, and autophagy.  TOR is an
+                            atypical serine/threonine kinase that is found in two functionally and
+                            structurally distinct multiprotein complexes, TORC1 and TORC2 (mTORC1 and
+                            mTORC2 in mammals), each of which signals via a different set of effector
+                            pathways.   TORC1 is rapamycin sensitive whereas TORC2 is rapamycin
+                            insensitive.  The best-characterized phosphorylation substrates of mTOR are S6K
+                            and 4E-BP1 via which mTORC1 controls translation, and Akt/PKB via which mTORC2
+                            controls cell survival and other processes [<xref ref-type="bibr" rid="R3">3</xref>].  Like TOR itself, the two TOR
+                            complexes and the overall architecture of the TOR signaling network appear to
+                            be conserved from yeast to human [<xref ref-type="bibr" rid="R1">1</xref>,<xref ref-type="bibr" rid="R4">4</xref>].  TOR and many of the processes it
+                            controls have also been shown to play a role in aging (in addition to growth)
+                            in a wide variety of organisms, as described below.
+                        
+                </p>
+      </sec>
+      <sec id="s1_2">
+        <title>Aging in budding yeast
+                        </title>
+        <p>Budding yeast <italic>S. cerevisiae</italic> is a particularly
+                            useful model system to study aging because it can be used to study both
+                            replicative aging and chronological aging.  Replicative aging is measured by
+                            the number of daughter cells (divisions) a mother cell can produce. 
+                            Chronological aging, also referred to as postmitotic aging, is measured by the
+                            length of time a non-dividing cell can survive.  Inhibition of TORC1 signaling
+                            in yeast extends both replicative [<xref ref-type="bibr" rid="R5">5</xref>] and chronological [<xref ref-type="bibr" rid="R6">6</xref>] life span. Thus,
+                            TOR appears to promote aging regardless of physiological context (mitotic or
+                            post-mitotic cells).
+                        
+                </p>
+        <p>In yeast, the link between growth and
+                            aging has been known sinse the 1950's is particularly spectacular. Yeast cells
+                            grow larger as they grow older [<xref ref-type="bibr" rid="R7">7</xref>,<xref ref-type="bibr" rid="R8">8</xref>]<bold>. </bold>The yeast <italic>S. cerevisiae</italic>
+                            typically divides asymmetrically to give a large mother cell and a smaller
+                            daughter cell. As mother cells become old, they enlarge and produce daughter
+                            cells that are larger than daughters derived from young mother cells. Like
+                            large mothers, large daughter cells have shorter replicative life span [<xref ref-type="bibr" rid="R8">8</xref>].
+                        
+                </p>
+        <p>The use of unicellular yeast to study aging is
+                            revealing also because here the cell is the organism.  Therefore, it is a model
+                            for cell aging and organismal longevity.  As we discuss below, TOR also
+                            controls longevity in multicellular organisms.
+                        
+                </p>
+      </sec>
+      <sec id="s1_3">
+        <title>TOR and aging from worm to mammals 
+                        </title>
+        <p>Inhibition of TOR signaling enhances life span in
+                            worms, flies and possibly mammals.  The nematode <italic>C. elegans</italic> contains a
+                            constant number of post-mitotic cells and lives about twenty days. The
+                            first demonstration that TOR controls life span was by Vellai et al [<xref ref-type="bibr" rid="R9">9</xref>] who
+                            showed that knocking down TOR in  <italic>-C. elegans</italic> more than doubles this
+                            worm's normal life span. They examined specifically the role of TOR in aging
+                            based on the prior knowledge that both TOR and life span are regulated by
+                            nutrients and insulin.  Indeed, a large body of earlier, groundbreaking work
+                            showing that calorie restriction [<xref ref-type="bibr" rid="R10">10</xref>,<xref ref-type="bibr" rid="R11">11</xref>] or down regulation of insulin/IGF-1
+                            signaling [<xref ref-type="bibr" rid="R12">12</xref>,<xref ref-type="bibr" rid="R13">13</xref>] extends life span is consistent with the observation that
+                            down regulation of TOR also extends life span.  Interestingly, inhibition of
+                            TOR starting either during development or on the first day of adulthood gives
+                            comparable life span extension, suggesting that TOR controls longevity mainly,
+                            if not exclusively, during adulthood [<xref ref-type="bibr" rid="R9">9</xref>].  Jia et al. [<xref ref-type="bibr" rid="R14">14</xref>] subsequently
+                            demonstrated that worms deficient in raptor, a TORC1-specific subunit, also
+                            have an extended life span, indicating that TOR promotes aging via at least
+                            TORC1, if not via both TORCs.
+                        
+                </p>
+        <p> In <italic>Drosophila</italic>, TOR is required for growth
+                            during larval development, and for increases in cellular growth caused by
+                            growth factor signaling and nutrient availability [<xref ref-type="bibr" rid="R15">15</xref>]. Genetic inhibition of
+                            the <italic>Drosophila</italic> TOR pathway, either upstream or downstream of TOR,
+                            extends life span [<xref ref-type="bibr" rid="R16">16</xref>,<xref ref-type="bibr" rid="R17">17</xref>].  Furthermore, reducing the function of <italic>Drosophila</italic>
+                            TOR results in decreased lipid stores and glucose levels, and prevents
+                            metabolic syndrome [<xref ref-type="bibr" rid="R18">18</xref>].  The life span extension is observed upon down
+                            regulation of TOR signaling in the fat body [<xref ref-type="bibr" rid="R17">17</xref>], underscoring the importance
+                            of fat in aging [<xref ref-type="bibr" rid="R19">19</xref>-<xref ref-type="bibr" rid="R21">21</xref>,<xref ref-type="bibr" rid="R12">12</xref>]. Downregulating TOR signaling in the fat body not
+                            only extends the life of the fly, it also reduces the size of the entire
+                            organism [<xref ref-type="bibr" rid="R22">22</xref>], providing yet another link between growth and aging. The
+                            apparently central role of TOR signaling in the fly fat body in regulating life
+                            span may be recapitulated by mammalian TOR in adipose tissue.  In mice,
+                            decreased insulin/IGF-1 signaling in adipose tissue, and consequently less
+                            active downstream mTOR signaling, increases life span [<xref ref-type="bibr" rid="R23">23</xref>,<xref ref-type="bibr" rid="R20">20</xref>]. Furthermore,
+                            adult-onset growth hormone or IGF-1 deficiency increases life span in rodents
+                            [<xref ref-type="bibr" rid="R24">24</xref>].  Also, mice deficient for mTORC1 or the mTORC1 effector S6K are protected
+                            against age- and diet-induced obesity [<xref ref-type="bibr" rid="R25">25</xref>,<xref ref-type="bibr" rid="R26">26</xref>]. Rapamycin is currently being
+                            tested for its ability to extend lifespan in mice in the National Interventions
+                            Testing Program.
+                        
+                </p>
+        <p>Finally, calorie restriction, in which nutrient intake
+                            is restricted to 60-70% that of voluntary levels, increases life span in most
+                            species including mammals [<xref ref-type="bibr" rid="R10">10</xref>-<xref ref-type="bibr" rid="R12">12</xref>]. Although anti-aging mechanisms of CR are
+                            still disputed, one of the mechanisms is likely inactivation of the TOR
+                            pathway. Indeed, taking into account that i) inhibition of TOR extends life
+                            span and ii) nutrients activate TOR, the mechanism of how restriction of
+                            nutrients can increase life span seems apparent.
+                        
+                </p>
+      </sec>
+      <sec id="s1_4">
+        <title>Downstream of TOR</title>
+        <p>
+                        How does TOR promote aging in response to nutrients? 
+                            In other words, which of the many TORC1-controlled processes that are either up
+                            regulated or down regulated upon nutrient deprivation (TORC1 inactivation)
+                            leads to longer life?  Recent evidence suggests that TORC1 controls aging via
+                            several of its downstream processes, including autophagy, ribosome biogenesis
+                            and protein synthesis, transcription, and mitochondrial activity.  Indeed,
+                            there is a remarkable correlation between TOR-controlled processes and
+                            processes in aging.  It is also important to note that these processes
+                            constitute the normal program via which TOR controls cell growth, suggesting
+                            that TOR control of aging is an extension or continuation of its control of
+                            growth.
+                        
+                </p>
+        <p>TORC1 inhibits autophagy, a process of bulk
+                            degradation of proteins and organelles by lysosomes [<xref ref-type="bibr" rid="R27">27</xref>].  Autophagy is
+                            inhibited in aging and age-related diseases [<xref ref-type="bibr" rid="R28">28</xref>]. Restoration of autophagy
+                            depletes mitochondria with deleterious mtDNA mutations but spares their normal
+                            counterparts [<xref ref-type="bibr" rid="R29">29</xref>]. Furthermore,  autophagy is essential for life span extension
+                            at least in worms [<xref ref-type="bibr" rid="R30">30</xref>]. This suggests that TORC1 promotes aging in part via
+                            inhibition of autophagy.
+                        
+                </p>
+        <p> TORC1 activates ribosome biogenesis and protein
+                            synthesis. Recent studies show that inhibition of ribosome biogenesis and
+                            global protein synthesis extends life span [<xref ref-type="bibr" rid="R31">31</xref>-<xref ref-type="bibr" rid="R34">34</xref>].  Reducing the levels of
+                            ribosomal proteins and translation initiation factors extends life span in both
+                            yeast and worms.  Thus, this is consistent with the notion that TORC1 may
+                            promote aging via activation of ribosome biogenesis and protein synthesis.
+                        
+                </p>
+        <p>TORC1 in yeast negatively regulates the
+                            stress-activated transcription factors GIS1 and MSN2/4.  Both transcription
+                            factors are required for life span extension upon down regulation of TOR [<xref ref-type="bibr" rid="R35">35</xref>,<xref ref-type="bibr" rid="R36">36</xref>]. A longevity-related gene up regulated by MSN2/4 upon TOR inhibition is the
+                            nicotinamidase gene <italic>PCN1</italic>.  Interestingly, nicotinamidase converts
+                            nicotinamide to NAD<sup>+</sup> which in turn activates SIR2, suggesting that
+                            TOR and sirtuins are part of the same longevity pathway [<xref ref-type="bibr" rid="R35">35</xref>].  Furthermore, as
+                            discussed below, TOR negatively regulates mitochondrial gene expression to
+                            limit life span [<xref ref-type="bibr" rid="R37">37</xref>].
+                        
+                </p>
+        <p>TORC1 controls mitochondrial activity, but in
+                            different ways depending on the organism.  In yeast, TORC1 inhibits
+                            mitochondrial respiration whereas in mammals (at least in muscle) it stimulates
+                            respiration [<xref ref-type="bibr" rid="R37">37</xref>-<xref ref-type="bibr" rid="R42">42</xref>].  This divergence in regulation is probably related to the
+                            fact that glucose, a nutrient sensed by TORC1, triggers anaerobic fermentation
+                            in yeast.  A similar glucose-dependent shift in respiration does not occur in
+                            mammals.  Consistent with the above, increased mitochondrial respiration
+                            extends life span in yeast whereas in mammalian cells life span extension
+                            correlates with reduced respiration [<xref ref-type="bibr" rid="R37">37</xref>,<xref ref-type="bibr" rid="R39">39</xref>,<xref ref-type="bibr" rid="R43">43</xref>].  However, the role of
+                            mitochondria in life span extension remains elusive, particularly with the
+                            recent demonstration that TORC1 in mammalian adipose tissue, like in yeast,
+                            negatively controls respiration [<xref ref-type="bibr" rid="R26">26</xref>].
+                        
+                </p>
+        <p>Accumulation of aggregation-prone proteins is involved
+                            in neurodegeneration. TOR causes neurodegeneration in a <italic>Drosophila</italic>
+                            tauopathy model [<xref ref-type="bibr" rid="R44">44</xref>]. The TOR pathway is involved in Alzheimer's disease by
+                            increasing Tau protein synthesis [<xref ref-type="bibr" rid="R45">45</xref>].  Furthermore, rapamycin enhances
+                            clearance of pathologic proteins and thereby reduces their toxicity [<xref ref-type="bibr" rid="R46">46</xref>].
+                        
+                </p>
+        <p>As we discuss below, overactive TOR seems to be
+                            involved in the hypertrophic phenotype of aging mammalian cells, thus linking
+                            TOR mediated cell hypertrophy to organismal aging. In contrast, a replicative
+                            limit has never been shown to be important <italic>in vivo</italic> [<xref ref-type="bibr" rid="R47">47</xref>]. It is a
+                            hyperthropic, secretory phenotype of aging cells that can be linked to organismal
+                            aging [<xref ref-type="bibr" rid="R48">48</xref>-<xref ref-type="bibr" rid="R50">50</xref>].
+                        
+                </p>
+      </sec>
+      <sec id="s1_5">
+        <title>Hypertrophic phenotype of aging cells
+                        </title>
+        <p>If growth and aging are mechanistically linked, are
+                            older cells larger?  In yeast, old cells are large and cell size predicts
+                            replicative life span [<xref ref-type="bibr" rid="R51">51</xref>,<xref ref-type="bibr" rid="R52">52</xref>]. This also appears to be the case for senescent
+                            mammalian cells.  An increase in cell size is a hallmark of senescent
+                            fibroblasts [<xref ref-type="bibr" rid="R53">53</xref>]. Their cell volume is several fold greater compared with
+                            proliferating cells. Cell size is progressively increased in cell culture as
+                            cells progress toward senescence [<xref ref-type="bibr" rid="R54">54</xref>-<xref ref-type="bibr" rid="R56">56</xref>]. Furthermore, it was suggested 20
+                            years ago that cell size is a marker of cell senescence [<xref ref-type="bibr" rid="R54">54</xref>,<xref ref-type="bibr" rid="R57">57</xref>]. Ironically,
+                            TOR had not been discovered at that time and the significance of this
+                            phenomenological observation was unclear. The notion that TOR is involved in
+                            both growth and aging now provides a mechanistic explanation for an old
+                            observation.
+                        
+                </p>
+        <p>Cell growth is an increase in cell volume, or mass,
+                            due to metabolic activity including synthesis of macromolecules (RNA, protein,
+                            lipid) and organelles.  If a cell grows without division, it becomes hypertrophic. 
+                            In other words, when the cell cycle is blocked in the presence of
+                            growth-promoting signaling, then cells increase in size [<xref ref-type="bibr" rid="R56">56</xref>,<xref ref-type="bibr" rid="R58">58</xref>,<xref ref-type="bibr" rid="R59">59</xref>].
+                        
+                </p>
+        <p>Thus, cell growth is counterbalanced by cell division
+                            such that cells maintain a characteristic size.  The simplest way to cause both
+                            cell hypertrophy and cell senescence is to prevent cell division without
+                            inhibiting cell growth. Inhibition of mTOR with rapamycin decreases the
+                            hypertrophic cell phenotype caused by induction of the CDK inhibitor p21
+                            [<xref ref-type="bibr" rid="R58">58</xref>-<xref ref-type="bibr" rid="R60">60</xref>].
+                        
+                </p>
+        <p>All these observations suggest that mTOR signaling
+                            plays a role in aging of single cells.  How is this related to aging of
+                            multicellular organisms?  As discussed elsewhere [<xref ref-type="bibr" rid="R1">1</xref>,<xref ref-type="bibr" rid="R61">61</xref>], TOR-driven alterations
+                            can be linked to metazoan aging and, in particular, diseases of aging such as
+                            cancer, metabolic syndrome, atherosclerosis, hypertension and hypertrophic
+                            heart.
+                        
+                </p>
+      </sec>
+      <sec id="s1_6">
+        <title>Rapamycin in humans
+                        </title>
+        <p>Rapamycin is given to renal transplant patients
+                            everyday for several years to prevent organ rejection.  We view this as an
+                            unintentional clinical trial of a potentially anti-aging drug. First, in such
+                            patients, rapamycin unexpectedly turned out to prevent cancer [<xref ref-type="bibr" rid="R62">62</xref>-<xref ref-type="bibr" rid="R64">64</xref>] and even
+                            cured some types of pre-existing tumors [<xref ref-type="bibr" rid="R65">65</xref>,<xref ref-type="bibr" rid="R66">66</xref>]. Second, 2 years after
+                            transplantation, body-mass index was significantly lower in the rapamycin-based
+                            treatment arm compared to cyclosporine, indicating that rapamycin prevents obesity
+                            [<xref ref-type="bibr" rid="R67">67</xref>].
+                        
+                </p>
+        <p>Rapamycin is safe enough to be used in
+                            healthy volunteers to study its pharmacokinetics [<xref ref-type="bibr" rid="R68">68</xref>-<xref ref-type="bibr" rid="R70">70</xref>].  In healthy
+                            volunteers, a single dose was not associated with side effects. In 11 healthy
+                            men (29 years old, BMI 23 kg/m<sup>2</sup>), 6 mg of rapamycin decreased
+                            S6K phosphorylation, preventing insulin resistance caused by nutrients. Thus,
+                            the activity state of the mTOR pathway can modulate insulin sensitivity in
+                            humans and mTOR inhibitors prevent nutrient-induced insulin resistance [<xref ref-type="bibr" rid="R70">70</xref>].
+                        
+                </p>
+      </sec>
+      <sec id="s1_7">
+        <title>Why TOR? </title>
+        <p>Cell growth and division are the two most fundamental
+                            features of life. Using simple compounds and energy, living organisms build
+                            macromolecules according to their own plan, transforming non-self to self.  Not
+                            surprisingly, the growth-controlling TOR signaling pathway is conserved from
+                            yeast to human.  In unicellular organisms, it maximizes growth as long as
+                            nutrients are available.  However, life-promoting TOR signaling seems also to
+                            contain seeds of death.  Aging and its manifestations such as age-related
+                            diseases appear with excessive growth-promoting signaling, when actual growth
+                            is not longer possible. Aging is not programmed, of course, but is an aimless
+                            continuation of the same process that drives developmental growth. Since aging
+                            does not limit life span in the wild, switch-off of this ‘growth program'
+                            cannot evolve.  Growth should be robust and not be slowed down to avoid aging.
+                            Furthermore, the aging-growth program cannot be switched off by an accidental
+                            mutation, because such a mutation would be lethal or at least reduce fitness
+                            during development.  Yet, TOR can be inhibited pharmacologically.
+                        
+                </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>M.N.H. acknowledges support from the Swiss National
+                        Science Foundation and the Canton of Basel.
+                    
+            </p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="R1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Wullschleger</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Loewith</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Hall</surname>
+            <given-names>MN</given-names>
+          </name>
+          <article-title>TOR signaling in growth and metabolism</article-title>
+          <source>Cell</source>
+          <year>2006</year>
+          <volume>124</volume>
+          <fpage>471</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="pmid">16469695</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Avruch</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Hara</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Lin</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Liu</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Long</surname>
+            <given-names>X</given-names>
+          </name>
+          <name>
+            <surname>Ortiz-Vega</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Yonezawa</surname>
+            <given-names>K</given-names>
+          </name>
+          <article-title>Insulin and amino-acid regulation of mTOR signaling and kinase activity through the Rheb GTPase</article-title>
+          <source>Oncogene</source>
+          <year>2006</year>
+          <volume>25</volume>
+          <fpage>6361</fpage>
+          <lpage>6372</lpage>
+          <pub-id pub-id-type="pmid">17041622</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Manning</surname>
+            <given-names>BD</given-names>
+          </name>
+          <name>
+            <surname>Cantley</surname>
+            <given-names>LC</given-names>
+          </name>
+          <article-title>AKT/PKB signaling: navigating downstream</article-title>
+          <source>Cell</source>
+          <year>2007</year>
+          <volume>129</volume>
+          <fpage>1261</fpage>
+          <lpage>1274</lpage>
+          <pub-id pub-id-type="pmid">17604717</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Powers</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>TOR signaling and S6 kinase 1: Yeast catches up</article-title>
+          <source>Cell Metab</source>
+          <year>2007</year>
+          <volume>6</volume>
+          <fpage>1</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="pmid">17618850</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Kaeberlein</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Powers</surname>
+            <given-names>RW</given-names>
+          </name>
+          <name>
+            <surname>Steffen</surname>
+            <given-names>KK</given-names>
+          </name>
+          <name>
+            <surname>Westman</surname>
+            <given-names>EA</given-names>
+          </name>
+          <name>
+            <surname>Hu</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Dang</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Kerr</surname>
+            <given-names>EO</given-names>
+          </name>
+          <name>
+            <surname>Kirkland</surname>
+            <given-names>KT</given-names>
+          </name>
+          <name>
+            <surname>Fields</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Kennedy</surname>
+            <given-names>BK</given-names>
+          </name>
+          <article-title>Regulation of yeast replicative life span by TOR and Sch9 in response to nutrients</article-title>
+          <source>Science</source>
+          <year>2005</year>
+          <volume>310</volume>
+          <fpage>1193</fpage>
+          <lpage>1196</lpage>
+          <pub-id pub-id-type="pmid">16293764</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Powers</surname>
+            <given-names>RW</given-names>
+          </name>
+          <name>
+            <surname>Kaeberlein</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Caldwell</surname>
+            <given-names>SD</given-names>
+          </name>
+          <name>
+            <surname>Kennedy</surname>
+            <given-names>BK</given-names>
+          </name>
+          <name>
+            <surname>Fields</surname>
+            <given-names>S</given-names>
+          </name>
+          <article-title>Extension of chronological life span in yeast by decreased TOR pathway signaling</article-title>
+          <source>Genes Dev</source>
+          <year>2006</year>
+          <volume>20</volume>
+          <fpage>174</fpage>
+          <lpage>184</lpage>
+          <pub-id pub-id-type="pmid">16418483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Austriaco</surname>
+            <given-names>NRJ</given-names>
+          </name>
+          <article-title>Review: to bud until death: the genetics of ageing in the yeast, Saccharomyces</article-title>
+          <source>Yeast</source>
+          <year>1996</year>
+          <volume>12</volume>
+          <fpage>623</fpage>
+          <lpage>630</lpage>
+          <pub-id pub-id-type="pmid">8810036</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Kennedy</surname>
+            <given-names>BK</given-names>
+          </name>
+          <name>
+            <surname>Austriaco</surname>
+            <given-names>NRJ</given-names>
+          </name>
+          <name>
+            <surname>Guarente</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Daughter cells of Saccharomyces cerevisiae from old mothers display a reduced life span</article-title>
+          <source>J Cell Biol</source>
+          <year>1994</year>
+          <volume>127</volume>
+          <fpage>1985</fpage>
+          <lpage>1993</lpage>
+          <pub-id pub-id-type="pmid">7806576</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Vellai</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Takacs-Vellai</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Kovacs</surname>
+            <given-names>AL</given-names>
+          </name>
+          <name>
+            <surname>Orosz</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Muller</surname>
+            <given-names>F</given-names>
+          </name>
+          <article-title>Genetics: influence of TOR kinase on lifespan in C. elegans</article-title>
+          <source>Nature</source>
+          <year>2003</year>
+          <volume>426</volume>
+          <fpage>620</fpage>
+          <pub-id pub-id-type="pmid">14668850</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Bordone</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Guarente</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Calorie restriction, SIRT1 and metabolism: understanding longevity</article-title>
+          <source>Nat Rev Mol Cell Biol</source>
+          <year>2005</year>
+          <volume>6</volume>
+          <fpage>298</fpage>
+          <lpage>305</lpage>
+          <pub-id pub-id-type="pmid">15768047</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Guarente</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Picard</surname>
+            <given-names>F</given-names>
+          </name>
+          <article-title>Calorie restriction - the SIR2 connection</article-title>
+          <source>Cell</source>
+          <year>2005</year>
+          <volume>120</volume>
+          <fpage>473</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="pmid">15734680</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Kenyon</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>The plasticity of aging: insights from long-lived mutants</article-title>
+          <source>Cell</source>
+          <year>2005</year>
+          <volume>120</volume>
+          <fpage>449</fpage>
+          <lpage>460</lpage>
+          <pub-id pub-id-type="pmid">15734678</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Kimura</surname>
+            <given-names>KD</given-names>
+          </name>
+          <name>
+            <surname>Tissenbaum</surname>
+            <given-names>HA</given-names>
+          </name>
+          <name>
+            <surname>Liu</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Ruvkun</surname>
+            <given-names>G</given-names>
+          </name>
+          <article-title>daf-2, an insulin receptor-like gene that regulates longevity and diapause in Caenorhabditis elegans</article-title>
+          <source>Science</source>
+          <year>1997</year>
+          <volume>277</volume>
+          <fpage>942</fpage>
+          <lpage>946</lpage>
+          <pub-id pub-id-type="pmid">9252323</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Jia</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Chen</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Riddle</surname>
+            <given-names>DL</given-names>
+          </name>
+          <article-title>The TOR pathway interacts with the insulin signaling pathway to regulate C. elegans larval development, metabolism and life span</article-title>
+          <source>Development</source>
+          <year>2004</year>
+          <volume>131</volume>
+          <fpage>3897</fpage>
+          <lpage>3906</lpage>
+          <pub-id pub-id-type="pmid">15253933</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Stallock</surname>
+            <given-names>JP</given-names>
+          </name>
+          <name>
+            <surname>Ng</surname>
+            <given-names>JC</given-names>
+          </name>
+          <name>
+            <surname>Reinhard</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Neufeld</surname>
+            <given-names>TP</given-names>
+          </name>
+          <article-title>Regulation of cellular growth by the Drosophila target of rapamycin dTOR</article-title>
+          <source>Genes Dev</source>
+          <year>2000</year>
+          <volume>14</volume>
+          <fpage>2712</fpage>
+          <lpage>2724</lpage>
+          <pub-id pub-id-type="pmid">11069888</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Tatar</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Kopelman</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Epstein</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Tu</surname>
+            <given-names>MP</given-names>
+          </name>
+          <name>
+            <surname>Yin</surname>
+            <given-names>CM</given-names>
+          </name>
+          <name>
+            <surname>Garofalo</surname>
+            <given-names>RS</given-names>
+          </name>
+          <article-title>A mutant Drosophila insulin receptor homolog that extends life-span and impairs neuroendocrine function</article-title>
+          <source>Science</source>
+          <year>2001</year>
+          <volume>292</volume>
+          <fpage>107</fpage>
+          <lpage>110</lpage>
+          <pub-id pub-id-type="pmid">11292875</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Kapahi</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Zid</surname>
+            <given-names>BM</given-names>
+          </name>
+          <name>
+            <surname>Harper</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Koslover</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Sapin</surname>
+            <given-names>V</given-names>
+          </name>
+          <name>
+            <surname>Benzer</surname>
+            <given-names>S</given-names>
+          </name>
+          <article-title>Regulation of lifespan in Drosophila by modulation of genes in the TOR signaling pathway</article-title>
+          <source>Curr Biol</source>
+          <year>2004</year>
+          <volume>14</volume>
+          <fpage>885</fpage>
+          <lpage>890</lpage>
+          <pub-id pub-id-type="pmid">15186745</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Luong</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Davies</surname>
+            <given-names>CR</given-names>
+          </name>
+          <name>
+            <surname>Wessells</surname>
+            <given-names>RJ</given-names>
+          </name>
+          <name>
+            <surname>Graham</surname>
+            <given-names>SM</given-names>
+          </name>
+          <name>
+            <surname>King</surname>
+            <given-names>MT</given-names>
+          </name>
+          <name>
+            <surname>Veech</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Bodmer</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Oldham</surname>
+            <given-names>SM</given-names>
+          </name>
+          <article-title>Activated FOXO-mediated insulin resistance is blocked by reduction of TOR activity</article-title>
+          <source>Cell Metab</source>
+          <year>2006</year>
+          <volume>4</volume>
+          <fpage>133</fpage>
+          <lpage>142</lpage>
+          <pub-id pub-id-type="pmid">16890541</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Pinkston</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Garigan</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Hansen</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Kenyon</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Mutations that increase the life span of C. elegans inhibit tumor growth</article-title>
+          <source>Science</source>
+          <year>2006</year>
+          <volume>313</volume>
+          <fpage>971</fpage>
+          <lpage>975</lpage>
+          <pub-id pub-id-type="pmid">16917064</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Blüher</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Kahn</surname>
+            <given-names>BB</given-names>
+          </name>
+          <name>
+            <surname>Kahn</surname>
+            <given-names>CR</given-names>
+          </name>
+          <article-title>Extended longevity in mice lacking the insulin receptor in adipose tissue</article-title>
+          <source>Science</source>
+          <year>2003</year>
+          <volume>299</volume>
+          <fpage>572</fpage>
+          <lpage>574</lpage>
+          <pub-id pub-id-type="pmid">12543978</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Guarente</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Kenyon</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Genetic pathways that regulate ageing in model organisms</article-title>
+          <source>Nature</source>
+          <year>2000</year>
+          <volume>408</volume>
+          <fpage>255</fpage>
+          <lpage>262</lpage>
+          <pub-id pub-id-type="pmid">11089983</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Colombani</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Raisin</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Pantalacci</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Radimerski</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Montagne</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Léopold</surname>
+            <given-names>P</given-names>
+          </name>
+          <article-title>A nutrient sensor mechanism controls Drosophila growth</article-title>
+          <source>Cell</source>
+          <year>2003</year>
+          <volume>114</volume>
+          <fpage>739</fpage>
+          <lpage>749</lpage>
+          <pub-id pub-id-type="pmid">14505573</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Bartke</surname>
+            <given-names>A</given-names>
+          </name>
+          <article-title>Long-lived Klotho mice: new insights into the roles of IGF-1 and insulin in aging</article-title>
+          <source>Trends Endocrinol Metab</source>
+          <year>2006</year>
+          <volume>17</volume>
+          <fpage>33</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="pmid">16458526</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Sonntag</surname>
+            <given-names>WE</given-names>
+          </name>
+          <name>
+            <surname>Carter</surname>
+            <given-names>CS</given-names>
+          </name>
+          <name>
+            <surname>Ikeno</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Ekenstedt</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Carlson</surname>
+            <given-names>CS</given-names>
+          </name>
+          <name>
+            <surname>Loeser</surname>
+            <given-names>RF</given-names>
+          </name>
+          <name>
+            <surname>Chakrabarty</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Lee</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Bennett</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Ingram</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Moore</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Ramsey</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Adult-onset growth hormone and insulin-like growth factor I deficiency reduces neoplastic disease, modifies age-related pathology, and increases life span</article-title>
+          <source>Endocrinology</source>
+          <year>2005</year>
+          <volume>146</volume>
+          <fpage>2920</fpage>
+          <lpage>2932</lpage>
+          <pub-id pub-id-type="pmid">15790724</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Um</surname>
+            <given-names>SH</given-names>
+          </name>
+          <name>
+            <surname>Frigerio</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Watanabe</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Picard</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Joaquin</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Sticker</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Fumagalli</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Allegrini</surname>
+            <given-names>PR</given-names>
+          </name>
+          <name>
+            <surname>Kozma</surname>
+            <given-names>SC</given-names>
+          </name>
+          <name>
+            <surname>Auwerx</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Thomas</surname>
+            <given-names>G</given-names>
+          </name>
+          <article-title>Absence of S6K1 protects against age- and diet-induced obesity while enhancing insulin sensitivity</article-title>
+          <source>Nature</source>
+          <year>2004</year>
+          <volume>431</volume>
+          <fpage>200</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="pmid">15306821</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Polak</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Cybulski</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Feige</surname>
+            <given-names>JN</given-names>
+          </name>
+          <name>
+            <surname>Auwerx</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Rüegg</surname>
+            <given-names>MA</given-names>
+          </name>
+          <name>
+            <surname>Hall</surname>
+            <given-names>MN</given-names>
+          </name>
+          <article-title>Adipose-specific knockout of raptor results in lean mice with enhanced mitochondrial respiration</article-title>
+          <source>Cell Metab</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <fpage>399</fpage>
+          <lpage>410</lpage>
+          <pub-id pub-id-type="pmid">19046571</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Klionsky</surname>
+            <given-names>DJ</given-names>
+          </name>
+          <article-title>Autophagy: from phenomenology to molecular understanding in less than a decade</article-title>
+          <source>Nat Rev Mol Cell Biol</source>
+          <year>2007</year>
+          <volume>8</volume>
+          <fpage>931</fpage>
+          <lpage>937</lpage>
+          <pub-id pub-id-type="pmid">17712358</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Rubinsztein</surname>
+            <given-names>DC</given-names>
+          </name>
+          <article-title>The roles of intracellular protein-degradation pathways in neurodegeneration</article-title>
+          <source>Nature</source>
+          <year>2006</year>
+          <volume>443</volume>
+          <fpage>780</fpage>
+          <lpage>786</lpage>
+          <pub-id pub-id-type="pmid">17051204</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Gu</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Wang</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Cohen</surname>
+            <given-names>A</given-names>
+          </name>
+          <article-title>Effect of IGF-1 on the balance between autophagy of dysfunctional mitochondria and apopto-sis</article-title>
+          <source>FEBS Lett</source>
+          <year>2004</year>
+          <volume>577</volume>
+          <fpage>357</fpage>
+          <lpage>360</lpage>
+          <pub-id pub-id-type="pmid">15556609</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Melendez</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Talloczy</surname>
+            <given-names>Z</given-names>
+          </name>
+          <name>
+            <surname>Seaman</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Eskelinen</surname>
+            <given-names>EL</given-names>
+          </name>
+          <name>
+            <surname>Hall</surname>
+            <given-names>DH</given-names>
+          </name>
+          <name>
+            <surname>Levine</surname>
+            <given-names>B</given-names>
+          </name>
+          <article-title>Autophagy genes are essential for dauer development and life-span extension in C. elegans</article-title>
+          <source>Science</source>
+          <year>2003</year>
+          <volume>301</volume>
+          <fpage>1387</fpage>
+          <lpage>1391</lpage>
+          <pub-id pub-id-type="pmid">12958363</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Syntichaki</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Troulinaki</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Tavernarakis</surname>
+            <given-names>N</given-names>
+          </name>
+          <article-title>eIF4E function in somatic cells modulates ageing in Caenorhabditis elegans</article-title>
+          <source>Nature</source>
+          <year>2007</year>
+          <volume>445</volume>
+          <fpage>922</fpage>
+          <lpage>926</lpage>
+          <pub-id pub-id-type="pmid">17277769</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Pan</surname>
+            <given-names>KZ</given-names>
+          </name>
+          <name>
+            <surname>Palter</surname>
+            <given-names>JE</given-names>
+          </name>
+          <name>
+            <surname>Rogers</surname>
+            <given-names>AN</given-names>
+          </name>
+          <name>
+            <surname>Olsen</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Chen</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Lithgow</surname>
+            <given-names>GJ</given-names>
+          </name>
+          <name>
+            <surname>Kapahi</surname>
+            <given-names>P</given-names>
+          </name>
+          <article-title>Inhibition of mRNA translation extends lifespan in Caenorhabditis elegans</article-title>
+          <source>Aging Cell</source>
+          <year>2007</year>
+          <volume>6</volume>
+          <fpage>111</fpage>
+          <lpage>119</lpage>
+          <pub-id pub-id-type="pmid">17266680</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Hansen</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Taubert</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Crawford</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Libina</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Lee</surname>
+            <given-names>SJ</given-names>
+          </name>
+          <name>
+            <surname>Kenyon</surname>
+            <given-names>C</given-names>
+          </name>
+          <article-title>Lifespan extension by conditions that inhibit translation in Caenorhabditis elegans</article-title>
+          <source>Aging Cell</source>
+          <year>2007</year>
+          <volume>6</volume>
+          <fpage>95</fpage>
+          <lpage>110</lpage>
+          <pub-id pub-id-type="pmid">17266679</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Steffen</surname>
+            <given-names>KK</given-names>
+          </name>
+          <name>
+            <surname>MacKay</surname>
+            <given-names>VL</given-names>
+          </name>
+          <name>
+            <surname>Kerr</surname>
+            <given-names>EO</given-names>
+          </name>
+          <name>
+            <surname>Tsuchiya</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Hu</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Fox</surname>
+            <given-names>LA</given-names>
+          </name>
+          <name>
+            <surname>Dang</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Johnston</surname>
+            <given-names>ED</given-names>
+          </name>
+          <name>
+            <surname>Oakes</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Tchao</surname>
+            <given-names>BN</given-names>
+          </name>
+          <name>
+            <surname>Pak</surname>
+            <given-names>DN</given-names>
+          </name>
+          <name>
+            <surname>Fields</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Kennedy</surname>
+            <given-names>BK</given-names>
+          </name>
+          <name>
+            <surname>Kaeberlein</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Yeast life span extension by depletion of 60s ribosomal subunits is mediated by Gcn4</article-title>
+          <source>Cell</source>
+          <year>2008</year>
+          <volume>133</volume>
+          <fpage>292</fpage>
+          <lpage>302</lpage>
+          <pub-id pub-id-type="pmid">18423200</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Medvedik</surname>
+            <given-names>O</given-names>
+          </name>
+          <name>
+            <surname>Lamming</surname>
+            <given-names>DW</given-names>
+          </name>
+          <name>
+            <surname>Kim</surname>
+            <given-names>KD</given-names>
+          </name>
+          <name>
+            <surname>Sinclair</surname>
+            <given-names>DA</given-names>
+          </name>
+          <article-title>MSN2 and MSN4 Link Calorie Restriction and TOR to Sirtuin-Mediated Lifespan Extension in Saccharomyces cerevisiae</article-title>
+          <source>PLoS Biol</source>
+          <year>2007</year>
+          <volume>5</volume>
+          <fpage>e261</fpage>
+          <pub-id pub-id-type="pmid">17914901</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Wei</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Fabrizio</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Hu</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Ge</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Cheng</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Li</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Longo</surname>
+            <given-names>VD</given-names>
+          </name>
+          <article-title>Life span extension by calorie restriction depends on Rim15 and transcription factors downstream of Ras/PKA, Tor, and Sch9</article-title>
+          <source>PLoS Genet</source>
+          <year>2008</year>
+          <volume>4</volume>
+          <fpage>e13</fpage>
+          <pub-id pub-id-type="pmid">18225956</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Bonawitz</surname>
+            <given-names>ND</given-names>
+          </name>
+          <name>
+            <surname>Chatenay-Lapointe</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Pan</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Shadel</surname>
+            <given-names>GS</given-names>
+          </name>
+          <article-title>Reduced TOR signaling extends chronological life span via increased respiration and upregulation of mitochondrial gene expression</article-title>
+          <source>Cell Metab</source>
+          <year>2007</year>
+          <volume>5</volume>
+          <fpage>265</fpage>
+          <lpage>277</lpage>
+          <pub-id pub-id-type="pmid">17403371</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Schieke</surname>
+            <given-names>SM</given-names>
+          </name>
+          <name>
+            <surname>Finkel</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>TOR and aging: less is more</article-title>
+          <source>Cell Metab</source>
+          <year>2007</year>
+          <volume>5</volume>
+          <fpage>233</fpage>
+          <lpage>235</lpage>
+          <pub-id pub-id-type="pmid">17403368</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Schieke</surname>
+            <given-names>SM</given-names>
+          </name>
+          <name>
+            <surname>Phillips</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>McCoy</surname>
+            <given-names>JPJ</given-names>
+          </name>
+          <name>
+            <surname>Aponte</surname>
+            <given-names>AM</given-names>
+          </name>
+          <name>
+            <surname>Shen</surname>
+            <given-names>RF</given-names>
+          </name>
+          <name>
+            <surname>Balaban</surname>
+            <given-names>RS</given-names>
+          </name>
+          <name>
+            <surname>Finkel</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>The mammalian target of rapamycin (mTOR) pathway regulates mitochondrial oxygen consumption and oxidative capacity</article-title>
+          <source>J Biol Chem</source>
+          <year>2006</year>
+          <volume>281</volume>
+          <fpage>27643</fpage>
+          <lpage>27652</lpage>
+          <pub-id pub-id-type="pmid">16847060</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Cunningham</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Rodgers</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Arlow</surname>
+            <given-names>DH</given-names>
+          </name>
+          <name>
+            <surname>Vazquez</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Mootha</surname>
+            <given-names>VK</given-names>
+          </name>
+          <name>
+            <surname>Puigserver</surname>
+            <given-names>P</given-names>
+          </name>
+          <article-title>mTOR controls mitochondrial oxidative function through a YY1-PGC-1alpha transcriptional complex</article-title>
+          <source>Nature</source>
+          <year>2007</year>
+          <volume>450</volume>
+          <fpage>736</fpage>
+          <lpage>740</lpage>
+          <pub-id pub-id-type="pmid">18046414</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R41">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Bentzinger</surname>
+            <given-names>CF</given-names>
+          </name>
+          <name>
+            <surname>Romanino</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Cloëtta</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Lin</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Mascarenhas</surname>
+            <given-names>JB</given-names>
+          </name>
+          <name>
+            <surname>Oliveri</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Xia</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Casanova</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Costa</surname>
+            <given-names>CF</given-names>
+          </name>
+          <name>
+            <surname>Brink</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Zorzato</surname>
+            <given-names>F</given-names>
+          </name>
+          <name>
+            <surname>Hall</surname>
+            <given-names>MN</given-names>
+          </name>
+          <name>
+            <surname>Rüegg</surname>
+            <given-names>MA</given-names>
+          </name>
+          <article-title>Skeletal muscle-specific ablation of raptor, but not of rictor, causes metabolic changes and results in muscle dystrophy</article-title>
+          <source>Cell Metab</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <fpage>411</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="pmid">19046572</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R42">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Pan</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Shadel</surname>
+            <given-names>GS</given-names>
+          </name>
+          <article-title>Extension of chronological life span by reduced TOR signaling requires down-regulation of Sch9p and involves increased mitochondrial OXPHOS complex density</article-title>
+          <source>Aging</source>
+          <year>2009</year>
+          <volume>1</volume>
+          <fpage>131</fpage>
+          <lpage>145</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R43">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Lin</surname>
+            <given-names>SJ</given-names>
+          </name>
+          <name>
+            <surname>Kaeberlein</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Andalis</surname>
+            <given-names>AA</given-names>
+          </name>
+          <name>
+            <surname>Sturtz</surname>
+            <given-names>LA</given-names>
+          </name>
+          <name>
+            <surname>Defossez</surname>
+            <given-names>PA</given-names>
+          </name>
+          <name>
+            <surname>Culotta</surname>
+            <given-names>VC</given-names>
+          </name>
+          <name>
+            <surname>Fink</surname>
+            <given-names>GR</given-names>
+          </name>
+          <name>
+            <surname>Guarente</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>Calorie restriction extends Saccharomyces cerevisiae lifespan by increasing respiration</article-title>
+          <source>Nature</source>
+          <year>2002</year>
+          <volume>418</volume>
+          <fpage>344</fpage>
+          <lpage>348</lpage>
+          <pub-id pub-id-type="pmid">12124627</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R44">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Khurana</surname>
+            <given-names>V</given-names>
+          </name>
+          <name>
+            <surname>Lu</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Steinhilb</surname>
+            <given-names>ML</given-names>
+          </name>
+          <name>
+            <surname>Oldham</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Shulman</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Feany</surname>
+            <given-names>MB</given-names>
+          </name>
+          <article-title>TOR-mediated cell-cycle activation causes neurodegeneration in a Drosophila tauopathy model</article-title>
+          <source>Curr Biol</source>
+          <year>2006</year>
+          <volume>16</volume>
+          <fpage>230</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="pmid">16461276</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R45">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>An</surname>
+            <given-names>WL</given-names>
+          </name>
+          <name>
+            <surname>Cowburn</surname>
+            <given-names>RF</given-names>
+          </name>
+          <name>
+            <surname>Li</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Braak</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Alafuzoff</surname>
+            <given-names>I</given-names>
+          </name>
+          <name>
+            <surname>Iqbal</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Iqbal</surname>
+            <given-names>IG</given-names>
+          </name>
+          <name>
+            <surname>Winblad</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Pei</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <article-title>Up-regulation of phosphorylated/activated p70 S6 kinase and its relationship to neurofibrillary pathology in Alzheimer's disease</article-title>
+          <source>Am J Pathol</source>
+          <year>2003</year>
+          <volume>163</volume>
+          <fpage>591</fpage>
+          <lpage>607</lpage>
+          <pub-id pub-id-type="pmid">12875979</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R46">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Berger</surname>
+            <given-names>Z</given-names>
+          </name>
+          <name>
+            <surname>Ravikumar</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Menzies</surname>
+            <given-names>FM</given-names>
+          </name>
+          <name>
+            <surname>Oroz</surname>
+            <given-names>LG</given-names>
+          </name>
+          <name>
+            <surname>Underwood</surname>
+            <given-names>BR</given-names>
+          </name>
+          <name>
+            <surname>Pangalos</surname>
+            <given-names>MN</given-names>
+          </name>
+          <name>
+            <surname>Schmitt</surname>
+            <given-names>I</given-names>
+          </name>
+          <name>
+            <surname>Wullner</surname>
+            <given-names>U</given-names>
+          </name>
+          <name>
+            <surname>Evert</surname>
+            <given-names>BO</given-names>
+          </name>
+          <name>
+            <surname>O'Kane</surname>
+            <given-names>CJ</given-names>
+          </name>
+          <name>
+            <surname>Rubinsztein</surname>
+            <given-names>DC</given-names>
+          </name>
+          <article-title>Rapamycin alleviates toxicity of different aggregate-prone proteins</article-title>
+          <source>Hum Mol Genet</source>
+          <year>2006</year>
+          <volume>15</volume>
+          <fpage>433</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="pmid">16368705</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R47">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Rubin</surname>
+            <given-names>H</given-names>
+          </name>
+          <article-title>The disparity between human cell senescence in vitro and lifelong replication in vivo</article-title>
+          <source>Nat Biotechnol</source>
+          <year>2002</year>
+          <volume>20</volume>
+          <fpage>675</fpage>
+          <lpage>681</lpage>
+          <pub-id pub-id-type="pmid">12089551</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R48">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Campisi</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>The role of cellular senescence in skin aging</article-title>
+          <source>J Investig Dermatol Symp Proc</source>
+          <year>1998</year>
+          <volume>3</volume>
+          <fpage>1</fpage>
+          <lpage>5</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R49">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Patil</surname>
+            <given-names>CK</given-names>
+          </name>
+          <name>
+            <surname>Mian</surname>
+            <given-names>IS</given-names>
+          </name>
+          <name>
+            <surname>Campisi</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>The thorny path linking cellular senescence to organismal aging</article-title>
+          <source>Mech Ageing Dev</source>
+          <year>2005</year>
+          <volume>126</volume>
+          <fpage>1040</fpage>
+          <lpage>1045</lpage>
+          <pub-id pub-id-type="pmid">16153470</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R50">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Blagosklonny</surname>
+            <given-names>MV</given-names>
+          </name>
+          <article-title>Aging and immortality: quasi-programmed senescence and its pharmacologic inhibition</article-title>
+          <source>Cell Cycle</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>2087</fpage>
+          <lpage>2102</lpage>
+          <pub-id pub-id-type="pmid">17012837</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R51">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Zadrag</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Kwolek-Mirek</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Bartosz</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Bilinski</surname>
+            <given-names>T</given-names>
+          </name>
+          <article-title>Relationship between the replicative age and cell volume in Saccharomyces cerevisiae</article-title>
+          <source>Acta Biochim Pol</source>
+          <year>2006</year>
+          <volume>53(4)</volume>
+          <fpage>747</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="pmid">17106513</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R52">
+        <label>52</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Bilinski</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Bartosz</surname>
+            <given-names>G</given-names>
+          </name>
+          <article-title>Hypothesis: Cell volume limits cell divisions</article-title>
+          <source>Acta Biochim Pol</source>
+          <year>2006</year>
+          <volume>53(4)</volume>
+          <fpage>833</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="pmid">17106512</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R53">
+        <label>53</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Hayflick</surname>
+            <given-names>L</given-names>
+          </name>
+          <article-title>The limited in vitro lifetime of human diploid cell strains</article-title>
+          <source>Exp Cell Res</source>
+          <year>1965</year>
+          <volume>37</volume>
+          <fpage>614</fpage>
+          <lpage>636</lpage>
+          <pub-id pub-id-type="pmid">14315085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R54">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Angello</surname>
+            <given-names>JC</given-names>
+          </name>
+          <name>
+            <surname>Pendergrass</surname>
+            <given-names>WR</given-names>
+          </name>
+          <name>
+            <surname>Norwood</surname>
+            <given-names>TH</given-names>
+          </name>
+          <name>
+            <surname>Prothero</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Proliferative potential of human fibroblasts: an inverse dependence on cell size</article-title>
+          <source>J Cell Physiol</source>
+          <year>1987</year>
+          <volume>132</volume>
+          <fpage>125</fpage>
+          <lpage>130</lpage>
+          <pub-id pub-id-type="pmid">3597549</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R55">
+        <label>55</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Sherwood</surname>
+            <given-names>SW</given-names>
+          </name>
+          <name>
+            <surname>Rush</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Ellsworth</surname>
+            <given-names>JL</given-names>
+          </name>
+          <name>
+            <surname>Schimke</surname>
+            <given-names>RT</given-names>
+          </name>
+          <article-title>Defining cellular senescence in IMR-90 cells: a flow cytometric analysis</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>1988</year>
+          <volume>85</volume>
+          <fpage>9086</fpage>
+          <lpage>9090</lpage>
+          <pub-id pub-id-type="pmid">3194411</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R56">
+        <label>56</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Echave</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Conlon</surname>
+            <given-names>IJ</given-names>
+          </name>
+          <name>
+            <surname>Lloyd</surname>
+            <given-names>AC</given-names>
+          </name>
+          <article-title>Cell size regulation in mammalian cells</article-title>
+          <source>Cell Cycle</source>
+          <year>2007</year>
+          <volume>6</volume>
+          <fpage>218</fpage>
+          <lpage>224</lpage>
+          <pub-id pub-id-type="pmid">17245129</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R57">
+        <label>57</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Pendergrass</surname>
+            <given-names>W</given-names>
+          </name>
+          <name>
+            <surname>Angello</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Norwood</surname>
+            <given-names>TH</given-names>
+          </name>
+          <article-title>The relationship between cell size, the activity of DNA polymerase alpha and proliferative activity in human diploid fibroblast-like cell cultures</article-title>
+          <source>Exp Gerontol</source>
+          <year>1989</year>
+          <volume>24</volume>
+          <fpage>383</fpage>
+          <lpage>393</lpage>
+          <pub-id pub-id-type="pmid">2632279</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R58">
+        <label>58</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Demidenko</surname>
+            <given-names>ZN</given-names>
+          </name>
+          <name>
+            <surname>Blagosklonny</surname>
+            <given-names>MV</given-names>
+          </name>
+          <article-title>Growth stimulation leads to cellular senescence when the cell cycle is blocked</article-title>
+          <source>Cell Cycle</source>
+          <year>2008</year>
+          <volume>7</volume>
+          <fpage>3355</fpage>
+          <lpage>3361</lpage>
+          <pub-id pub-id-type="pmid">18948731</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R59">
+        <label>59</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Demidenko</surname>
+            <given-names>ZN</given-names>
+          </name>
+          <name>
+            <surname>Blagosklonny</surname>
+            <given-names>MV</given-names>
+          </name>
+          <article-title>Preservation of proliferative potential versus reversal of cellular hypertrophy as a measure of aging-suppression</article-title>
+          <source>Aging</source>
+          <year>2009</year>
+          <fpage>1</fpage>
+        </element-citation>
+      </ref>
+      <ref id="R60">
+        <label>60</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Demidenko</surname>
+            <given-names>ZN</given-names>
+          </name>
+          <name>
+            <surname>Zubova</surname>
+            <given-names>SG</given-names>
+          </name>
+          <name>
+            <surname>Bukreeva</surname>
+            <given-names>EI</given-names>
+          </name>
+          <name>
+            <surname>Pospelov</surname>
+            <given-names>VA</given-names>
+          </name>
+          <name>
+            <surname>Pospelova</surname>
+            <given-names>TV</given-names>
+          </name>
+          <name>
+            <surname>Blagosklonny</surname>
+            <given-names>MV</given-names>
+          </name>
+          <article-title>Rapamycin decelerates cellular senescence</article-title>
+          <source>Cell Cycle</source>
+          <year>2009</year>
+          <volume>8</volume>
+          <fpage>1888</fpage>
+          <lpage>1895</lpage>
+          <pub-id pub-id-type="pmid">19471117</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R61">
+        <label>61</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Blagosklonny</surname>
+            <given-names>MV</given-names>
+          </name>
+          <article-title>Validation of anti-aging drugs by treating age-related diseases</article-title>
+          <source>Aging</source>
+          <year>2009</year>
+          <volume>1</volume>
+          <fpage>281</fpage>
+          <lpage>288</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R62">
+        <label>62</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Kauffman</surname>
+            <given-names>HM</given-names>
+          </name>
+          <name>
+            <surname>Cherikh</surname>
+            <given-names>WS</given-names>
+          </name>
+          <name>
+            <surname>Cheng</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Hanto</surname>
+            <given-names>DW</given-names>
+          </name>
+          <name>
+            <surname>Kahan</surname>
+            <given-names>BD</given-names>
+          </name>
+          <article-title>Maintenance immunosuppression with target-of-rapamycin inhibitors is associated with a reduced incidence of de novo malignancies</article-title>
+          <source>Transplantation</source>
+          <year>2005</year>
+          <volume>80</volume>
+          <fpage>883</fpage>
+          <lpage>889</lpage>
+          <pub-id pub-id-type="pmid">16249734</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R63">
+        <label>63</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Yakupoglu</surname>
+            <given-names>YK</given-names>
+          </name>
+          <name>
+            <surname>Buell</surname>
+            <given-names>JF</given-names>
+          </name>
+          <name>
+            <surname>Woodle</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Kahan</surname>
+            <given-names>BD</given-names>
+          </name>
+          <article-title>Individualization of Immunosuppressive Therapy. III. Sirolimus Associated With a Reduced Incidence of Malignancy</article-title>
+          <source>Transplant Proc</source>
+          <year>2006</year>
+          <volume>38</volume>
+          <fpage>358</fpage>
+          <lpage>361</lpage>
+          <pub-id pub-id-type="pmid">16549120</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R64">
+        <label>64</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Campistol</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Eris</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Oberbauer</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Friend</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Hutchison</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Morales</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Claesson</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Stallone</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Russ</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Rostaing</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Kreis</surname>
+            <given-names>H</given-names>
+          </name>
+          <name>
+            <surname>Burke</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Brault</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Scarola</surname>
+            <given-names>JA</given-names>
+          </name>
+          <name>
+            <surname>Neylan</surname>
+            <given-names>JF</given-names>
+          </name>
+          <article-title>Sirolimus Therapy after Early Cyclosporine Withdrawal Reduces the Risk for Cancer in Adult Renal Transplantation</article-title>
+          <source>J Am Soc Nephrol</source>
+          <year>2006</year>
+          <volume>17</volume>
+          <fpage>581</fpage>
+          <lpage>589</lpage>
+          <pub-id pub-id-type="pmid">16434506</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R65">
+        <label>65</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Stallone</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Schena</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Infante</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Di Paolo</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Loverre</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Maggio</surname>
+            <given-names>G</given-names>
+          </name>
+          <name>
+            <surname>Ranieri</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Gesualdo</surname>
+            <given-names>L</given-names>
+          </name>
+          <name>
+            <surname>Schena</surname>
+            <given-names>FP</given-names>
+          </name>
+          <name>
+            <surname>Grandaliano</surname>
+            <given-names>G</given-names>
+          </name>
+          <article-title>Sirolimus for Kaposi's sarcoma in renal-transplant recipients</article-title>
+          <source>N Engl J Med</source>
+          <year>2005</year>
+          <volume>352</volume>
+          <fpage>1317</fpage>
+          <lpage>1323</lpage>
+          <pub-id pub-id-type="pmid">15800227</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R66">
+        <label>66</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Pascual</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Fernández</surname>
+            <given-names>AM</given-names>
+          </name>
+          <name>
+            <surname>Marcén</surname>
+            <given-names>R</given-names>
+          </name>
+          <name>
+            <surname>Ortuño</surname>
+            <given-names>J</given-names>
+          </name>
+          <article-title>Conversion to everolimus in a patient with arterial hypertension and recurrent cutaneous neoplasia - a case report</article-title>
+          <source>Nephrol Dial Transplant</source>
+          <year>2006</year>
+          <volume>21</volume>
+          <fpage>iii38</fpage>
+          <lpage>iii41</lpage>
+          <pub-id pub-id-type="pmid">16815857</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R67">
+        <label>67</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Rovira</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Marcelo</surname>
+            <given-names>Arellano E</given-names>
+          </name>
+          <name>
+            <surname>Burke</surname>
+            <given-names>JT</given-names>
+          </name>
+          <name>
+            <surname>Brault</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Moya-Rull</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Banón-Maneus</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Ramírez-Bajo</surname>
+            <given-names>MJ</given-names>
+          </name>
+          <name>
+            <surname>Gutiérrez-Dalmau</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Revuelta</surname>
+            <given-names>I</given-names>
+          </name>
+          <name>
+            <surname>Quintana</surname>
+            <given-names>LF</given-names>
+          </name>
+          <name>
+            <surname>Campistol</surname>
+            <given-names>JM</given-names>
+          </name>
+          <name>
+            <surname>Diekmann</surname>
+            <given-names>F</given-names>
+          </name>
+          <article-title>Effect of mTOR inhibitor on body weight: from an experimental rat model to human transplant patients</article-title>
+          <source>Transpl Int</source>
+          <year>2008</year>
+          <volume>21</volume>
+          <fpage>992</fpage>
+          <lpage>998</lpage>
+          <pub-id pub-id-type="pmid">18657090</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R68">
+        <label>68</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Leelahavanichkul</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Areepium</surname>
+            <given-names>N</given-names>
+          </name>
+          <name>
+            <surname>Vadcharavivad</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Praditpornsilpa</surname>
+            <given-names>K</given-names>
+          </name>
+          <name>
+            <surname>Avihingsanon</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Karnjanabuchmd</surname>
+            <given-names>T</given-names>
+          </name>
+          <name>
+            <surname>Eiam-Ong</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Tungsanga</surname>
+            <given-names>K</given-names>
+          </name>
+          <article-title>Pharmacokinetics of sirolimus in Thai healthy volunteers</article-title>
+          <source>J Med Assoc Thai</source>
+          <year>2005</year>
+          <volume>88</volume>
+          <fpage>S157</fpage>
+          <lpage>162</lpage>
+          <pub-id pub-id-type="pmid">16623021</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R69">
+        <label>69</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Leung</surname>
+            <given-names>LY</given-names>
+          </name>
+          <name>
+            <surname>Lim</surname>
+            <given-names>HK</given-names>
+          </name>
+          <name>
+            <surname>Abell</surname>
+            <given-names>MW</given-names>
+          </name>
+          <name>
+            <surname>Zimmerman</surname>
+            <given-names>JJ</given-names>
+          </name>
+          <article-title>Pharmacokinetics and Metabolic Disposition of Sirolimus in Healthy Male Volunteers After a Single Oral Dose</article-title>
+          <source>Ther Drug Monit</source>
+          <year>2006</year>
+          <volume>28</volume>
+          <fpage>51</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="pmid">16418694</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R70">
+        <label>70</label>
+        <element-citation publication-type="journal">
+          <name>
+            <surname>Krebs</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Brunmair</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Brehm</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Artwohl</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Szendroedi</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Nowotny</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Roth</surname>
+            <given-names>E</given-names>
+          </name>
+          <name>
+            <surname>Fürnsinn</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Promintzer</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Anderwald</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Bischof</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Roden</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>The Mammalian target of rapamycin pathway regulates nutrient-sensitive glucose uptake in man</article-title>
+          <source>Diabetes</source>
+          <year>2007</year>
+          <volume>56</volume>
+          <fpage>1600</fpage>
+          <lpage>1607</lpage>
+          <pub-id pub-id-type="pmid">17329620</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors declare no conflict of interests.
+                        
+                </p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

@@ -1,0 +1,3149 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:29:51Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2790610" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2790610</identifier><datestamp>2009-12-30</datestamp><setSpec>plospath</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="discussion">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Pathog</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plospath</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Pathogens</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-7366</issn>
+      <issn pub-type="epub">1553-7374</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2790610</article-id>
+      <article-id pub-id-type="pmid">20041212</article-id>
+      <article-id pub-id-type="publisher-id">09-PLPA-OP-1269R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.ppat.1000693</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Opinion</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Ecology/Environmental Microbiology</subject>
+          <subject>Microbiology/Cellular Microbiology and Pathogenesis</subject>
+          <subject>Microbiology/Plant-Biotic Interactions</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Expanding the Paradigms of Plant Pathogen Life History and Evolution of Parasitic Fitness beyond Agricultural Boundaries</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Morris</surname>
+            <given-names>Cindy E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bardin</surname>
+            <given-names>Marc</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kinkel</surname>
+            <given-names>Linda L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Moury</surname>
+            <given-names>Benoit</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nicot</surname>
+            <given-names>Philippe C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sands</surname>
+            <given-names>David C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>INRA, Unité de Pathologie Végétale UR407, Montfavet, France</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Department of Plant Sciences and Plant Pathology, Montana State University, Bozeman, Montana, United States of America</addr-line>
+      </aff>
+      <aff id="aff3">
+        <label>3</label>
+        <addr-line>Department of Plant Pathology, University of Minnesota, St. Paul, Minnesota, United States of America</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Rall</surname>
+            <given-names>Glenn F.</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">The Fox Chase Cancer Center, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>cindy.morris@avignon.inra.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>12</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>12</issue>
+      <elocation-id>e1000693</elocation-id>
+      <permissions>
+        <copyright-statement>Morris et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <counts>
+        <page-count count="7"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>How do pathogens, whether they parasitize plants or animals, acquire virulence to new hosts and resistance to the arms we deploy to control disease? The significance of these questions for microbiology and for society at large can be illustrated by the recent worldwide efforts to track and limit the emergence of human transmissible strains of swine and avian influenza virus and of multidrug-resistant lines of human pathogenic bacteria, and to restrain the spread of Ug99, a strain of stem rust of wheat. Recent research in medical epidemiology has elucidated the impact of pathogen ecology in environmental reservoirs on the evolution of novel or enhanced pathogen virulence. In contrast, the evolution of virulence in plant pathogens has been investigated from a predominantly agro-centric perspective, and has focused overwhelmingly on evolutionary forces related to interactions with the primary plant host. Here, we argue that current concepts from the field of medical epidemiology regarding mechanisms that lead to acquisition of novel virulence, biocide resistance, and enhanced pathogenic fitness can serve as an important foundation for novel hypotheses about the evolution of plant pathogens. We present numerous examples of virulence traits in plant pathogenic microorganisms that also have a function in their survival and growth in nonagricultural and nonplant habitats. Based on this evidence, we make an appeal to expand concepts of the life history of plant pathogens and the drivers of pathogen evolution beyond the current agro-centric perspective.</p>
+    </sec>
+    <sec id="s2">
+      <title>Paradigms of Evolution of Virulence in Human “Environmental Pathogens”</title>
+      <p>The classification of diseases in terms of their epidemiology is a useful starting point for a comparison of plant and human pathogens <xref ref-type="bibr" rid="ppat.1000693-Hublek1">[1]</xref>. In medical epidemiology, anthroponoses are diseases transmitted among humans that have no other known reservoirs for multiplication. Typhoid fever, smallpox, and certain venereal diseases are examples. Zoonoses, such as rabies, lyme disease, severe acute respiratory syndrome (SARS), and avian and swine influenzas, are transmitted to humans from living animals. Sapronoses are diseases transmitted to humans from environmental reservoirs where the pathogen thrives saprophytically. These habitats include soil, water, and decaying plant and animal matter. Examples include Legionnaire's disease, cholera, aspergillosis, and the emerging epidemics of melioidosis (<italic>Burkholderia pseudomallei</italic>). Human pathogens with saprophytic phases or residing in environmental reservoirs are also referred to as “environmental pathogens” <xref ref-type="bibr" rid="ppat.1000693-Cangelosi1">[2]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Yildiz1">[6]</xref>.</p>
+      <p>Studies of virulence factors of human pathogens in environmental reservoirs have begun to reveal the importance of alternate hosts, of dual-use virulence factors, and in general of how environmental habitats can select for traits that confer enhanced fitness as human pathogens. For example, interactions with microbial eukaryotes seem to have led to the acquisition of traits useful for pathogenicity to mammalian cells. Numerous environmental pathogens, including <italic>Cryptococcus neoformans</italic>, <italic>Legionella</italic> spp., <italic>Chlamydophila pneumoniae</italic>, <italic>Mycobacterium avium</italic>, <italic>Listeria monocytogenes</italic>, <italic>Pseudomonas aeruginosa</italic>, and <italic>Francisella tularensis</italic>, might have acquired virulence traits via their resistance to predation by amoebae. This resistance, associated with the ability to grow inside the amoebae—which are essentially alternate hosts—has likely led to the selection of traits conferring survival in macrophages <xref ref-type="bibr" rid="ppat.1000693-Greub1">[7]</xref>. Resistance to macrophages involves the capacity of the bacteria to resist or debilitate the macrophage's phagosomes and to multiply in the cytoplasm. Many of the traits essential for virulence to humans likewise seem to play roles in adaption to the environments where the organisms are saprophytes (<xref ref-type="table" rid="ppat-1000693-t001">Table 1</xref>). These traits have dual roles in environmental and parasitic fitness and are thus referred to as “dual-use traits”. Melanins, siderophores, and the capacity to form biofilms are among the frequently cited examples. <italic>C. neoformans</italic> provides one of the richest examples of dual-use traits. This fungus, frequently found in soils that contain high levels of bird guano and in association with certain plants, causes meningoencephalitis. A nonexhaustive list of its dual-use traits includes capsule formation and production of melanin, laccase, phospholipase, proteases, and ureases <xref ref-type="bibr" rid="ppat.1000693-Casadevall2">[8]</xref>. In the environment these traits contribute to survival and in human hosts they contribute to the capacity of <italic>C. neoformans</italic> to avoid host resistance mechanisms and to attack host tissue. Microbial efflux pumps have also evolved dual uses. These transport systems are used for managing toxic compounds in the environment of the microorganism and can have a broad spectra of activity leading to multidrug resistance among environmental microorganisms <xref ref-type="bibr" rid="ppat.1000693-Martinez1">[9]</xref>. Human activities resulting in the disposal of a wide range of chemical products into the environment, including household cleaners that contain the broad spectrum antimicrobial triclosan, may be inadvertently exacerbating the abundance of multidrug-resistant bacteria <xref ref-type="bibr" rid="ppat.1000693-Sanchez1">[10]</xref>.</p>
+      <table-wrap id="ppat-1000693-t001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000693.t001</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Examples of putative dual-use traits related to pathogenic and environmental fitness of human pathogens.</title>
+        </caption>
+        <alternatives>
+          <graphic id="ppat-1000693-t001-1" xlink:href="ppat.1000693.t001"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Organism</td>
+                <td align="left" rowspan="1" colspan="1">Trait or Gene</td>
+                <td align="left" rowspan="1" colspan="1">Role in Pathogenic Fitness</td>
+                <td align="left" rowspan="1" colspan="1">Role in Environmental Fitness</td>
+                <td align="left" rowspan="1" colspan="1">Reference</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Vibrio cholera</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Toxin co-regulated pilus</td>
+                <td align="left" rowspan="1" colspan="1">Virulence factor in humans</td>
+                <td align="left" rowspan="1" colspan="1">Biofilm formation on chitin</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Pruzzo1">[59]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Reguera1">[60]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Legionella pneumophila</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Eukaryotic-like proteins that mimic cellular functions of eukaryotic proteins; type II and type IV secretion systems, surface proteins involved in attachment, secreted effectors</td>
+                <td align="left" rowspan="1" colspan="1">Virulence factors in macrophages</td>
+                <td align="left" rowspan="1" colspan="1">Parasitism and multiplication in protozoa</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-AlbertWeissenberger1">[61]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Burkholderia cenocepacia</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Quorum-sensing regulatory system</td>
+                <td align="left" rowspan="1" colspan="1">Regulation of virulence factors implicated in “cepacia syndrome”</td>
+                <td align="left" rowspan="1" colspan="1">Regulation of factors involved in nematode killing</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Huber1">[62]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Yersinia pestis</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Extracellular polysaccharide production linked to the action of heme storage gene (<italic>hms</italic>) products</td>
+                <td align="left" rowspan="1" colspan="1">Transmission to the human host and protection from the action of leukocytes</td>
+                <td align="left" rowspan="1" colspan="1">Colonization of flea esophagus via biofilm formation</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Jarrett1">[63]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Cryptococcus neoformans, Alternaria fumigatus</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Melanins</td>
+                <td align="left" rowspan="1" colspan="1">Protects microbial cells against phagocytosis</td>
+                <td align="left" rowspan="1" colspan="1">Protection against oxidation</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Liu1">[24]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Alternaria flavus, Histoplasma capsulatum, Aspergillus fumigatus, A. nidulans</italic> and numerous bacteria</td>
+                <td align="left" rowspan="1" colspan="1">Siderophores</td>
+                <td align="left" rowspan="1" colspan="1">Virulence factor in humans</td>
+                <td align="left" rowspan="1" colspan="1">Sequestering iron in the environment</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Hwang1">[21]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Schrettl1">[23]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Pseudomonas aeruginosa</italic> and <italic>Stenotrophomonas maltophilia</italic></td>
+                <td align="left" rowspan="1" colspan="1">Efflux pumps</td>
+                <td align="left" rowspan="1" colspan="1">Intrinsic multidrug resistance</td>
+                <td align="left" rowspan="1" colspan="1">Exclusion of lipophilic toxic compounds from cells</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Sanchez1">[10]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Alonso1">[64]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Nikaido1">[65]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Acinetobacter baummannii</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Efflux pumps, genetic promiscuity, exopolysaccharides and biofilm formation, siderophore-like compounds</td>
+                <td align="left" rowspan="1" colspan="1">Multidrug resistance, attachement, stimulation of host inflammation, virulence factor in humans</td>
+                <td align="left" rowspan="1" colspan="1">Exclusion of toxic compounds from cells, resistance to desiccation, sequestering of iron</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Peleg1">[66]</xref>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>Virulence of environmental pathogens has been described as a set of cards, or a diverse set of attributes acquired as a function of the life history of a pathogen and its adaptation to different environments <xref ref-type="bibr" rid="ppat.1000693-Casadevall1">[3]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Casadevall2">[8]</xref>. It is becoming increasingly clear that evolutionary forces outside the context of human–pathogen interactions are responsible for the acquisition and maintenance of some virulence factors <xref ref-type="bibr" rid="ppat.1000693-Pallen1">[11]</xref>. Genomics and phylogenetics are revealing the evolutionary link between, for example, commensal strains of <italic>Escherichia coli</italic> and modern pathogens such as enterohaemorrhagic strains of this species (such as O157). The mechanisms proposed to explain how these commensals have become pathogens are grounded in their ecology and life histories, culminating in the notion of ecological evolution (“eco-evo”) <xref ref-type="bibr" rid="ppat.1000693-Pallen1">[11]</xref>. The eco-evo approach to understanding the emergence of pathogens gives credence, from the perspective of genomics, to evolutionary and adaptive scenarios that are surmised from a thorough understanding of the ecology and life history of pathogens.</p>
+    </sec>
+    <sec id="s3">
+      <title>Links between Plant Pathogenicity, Adaptation to Biotic and Chemical Stress, and Key Vital Functions</title>
+      <p>At present, epidemiological classifications of plant diseases are based on the interaction of the pathogen and the host (biotrophic or necrotrophic, obligate or facultative), on the number of cycles of propagule production (mono- and polycyclic diseases), on the importance of latency in symptom expression, and on the role of vectors, but there is no formalized equivalent of “sapronoses”. Nevertheless, numerous plant pathogens are present in diverse nonagricultural habitats or survive saprophytically in agricultural contexts. These include a range of bacteria, fungi, and stable viruses (a nonexhaustive list of examples is presented in <xref ref-type="table" rid="ppat-1000693-t002">Table 2</xref>). A striking characteristic of many of the virulence factors of these plant pathogens is that they are linked to—or are in themselves—traits critical to adaptation to the nonplant environment, as will be illustrated below. This provides a compelling reason to adopt a holistic view of the life history and evolution of plant pathogens, to move beyond the traditional borders of agriculture and the presumed “primary” plant host. Adaptation to biotic and abiotic stresses, within or outside of agricultural habitats, likely plays as important a role in the evolution of parasitic fitness of plant pathogens as it does for human pathogens.</p>
+      <table-wrap id="ppat-1000693-t002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000693.t002</object-id>
+        <label>Table 2</label>
+        <caption>
+          <title>Examples of plant pathogens reported to thrive in nonagricultural habitats or to survive saprophytically in agricultural contexts in the absence of host plants.</title>
+        </caption>
+        <alternatives>
+          <graphic id="ppat-1000693-t002-2" xlink:href="ppat.1000693.t002"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Species</td>
+                <td align="left" rowspan="1" colspan="1">Nonagricultural Habitats or Substrates Where Microbe Has Been Detected</td>
+                <td align="left" rowspan="1" colspan="1">Putative Factors Conducive to Survival</td>
+                <td align="left" rowspan="1" colspan="1">References</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td colspan="4" align="left" rowspan="1">
+                  <bold>Bacteria</bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Burkholderia cepacea</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Ubiquitous in soils and waters and associated habitats</td>
+                <td align="left" rowspan="1" colspan="1">Unusually large genome harboring genes for a multitude of traits related to ecological fitness including the capacity to use a large spectrum of carbon sources</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Parke1">[67]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Dickyea</italic> spp. including <italic>D. chrysanthemi</italic> and <italic>Pectobacterium carotovorum</italic> (formerly <italic>Erwinia chrysanthemi and E. carotovora</italic>)</td>
+                <td align="left" rowspan="1" colspan="1">Oceanic aerosols, soils, alpine rivers, and other surface water, snow</td>
+                <td align="left" rowspan="1" colspan="1">Capacity of pectolytic bacteria to obtain nutrients from rotting plant material and to use a wide range of carbon sources; cell surface properties than foster condensation of water vapor; growth and survival as a facultative anaerobe</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Cother1">[68]</xref>–<xref ref-type="bibr" rid="ppat.1000693-McCarterZorner1">[71]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Pantoea agglomerans</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Fecal matter, soil, surface waters</td>
+                <td align="left" rowspan="1" colspan="1">This bacterium is generally an opportunistic plant pathogen that is normally a fit saprophyte</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Cruz1">[72]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Manulis1">[73]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Pseudomonas syringae</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Clouds, snow rain, epilithic biofilms, wild alpine plants (substrates linked to the water cycle)</td>
+                <td align="left" rowspan="1" colspan="1">Biofilm formation; production of toxins and siderophores; survival of freezing</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Morris1">[74]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Morris2">[75]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Rhodococcus fascians</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Soil, ice, polar seawater, lesions on animals, rinds of cheese</td>
+                <td align="left" rowspan="1" colspan="1">Sexual promiscuity favoring acquisition of diverse plasmid-borne traits; capacity to shift metabolic pathways as a function of food base</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Larkin1">[76]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Vereecke1">[78]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Streptomyces</italic> spp.</td>
+                <td align="left" rowspan="1" colspan="1">Ubiquitous in soil and water</td>
+                <td align="left" rowspan="1" colspan="1">Production of a diverse array of degradative enzymes critical to saprophytic lifestyle; capacity to produce a wide range of antibiotics important in species interactions; resistant to many antibiotics</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Loria1">[29]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="4" align="left" rowspan="1">
+                  <bold>Fungi</bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Alternaria</italic> spp.</td>
+                <td align="left" rowspan="1" colspan="1">Most <italic>Alternaria</italic> species are common saprophytes; found in soil or decaying plant tissues and atmospheric aerosols</td>
+                <td align="left" rowspan="1" colspan="1">Derive energy as a result of cellulytic activity. Production of toxic secondary metabolites. Production of melanin protecting against environmental stress or unfavorable conditions (extreme temperatures, UV radiation and compounds secreted by microbial antagonists).</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-FrohlichNowoisky1">[79]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Thomma1">[80]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Aspergillus</italic> spp.</td>
+                <td align="left" rowspan="1" colspan="1">Marine and terrestrial habitats, soil; associated with insects, humans, and other animals</td>
+                <td align="left" rowspan="1" colspan="1">Production of toxins including aflatoxins; production of siderophores and degradative enzymes (pectinases, proteases)</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Azmi1">[81]</xref>–<xref ref-type="bibr" rid="ppat.1000693-St.Leger1">[84]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Cladosporium</italic> spp.</td>
+                <td align="left" rowspan="1" colspan="1">Soil; atmospheric aerosols</td>
+                <td align="left" rowspan="1" colspan="1">Carbohydrate-binding protein modules (LysM effectors). No other suppositions found in the literature.</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-deJonge1">[18]</xref>,<xref ref-type="bibr" rid="ppat.1000693-FrohlichNowoisky1">[79]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Azmi1">[81]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Keller1">[83]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Fusarium</italic> spp.</td>
+                <td align="left" rowspan="1" colspan="1">Soil; extreme saline soil habitats; marine and fluvial habitats</td>
+                <td align="left" rowspan="1" colspan="1">Production of defense-related metabolites (antibiotics, trichotecenes, mycotoxins…) and of siderophores; vigor in competitive use of foods, ability to colonize a wide range of substrates</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Azmi1">[81]</xref>, <xref ref-type="bibr" rid="ppat.1000693-Keller1">[83]</xref>, <xref ref-type="bibr" rid="ppat.1000693-Baker1">[85]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Vesonder1">[89]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+                  <italic>Leptosphaeria maculans</italic>
+                </td>
+                <td align="left" rowspan="1" colspan="1">Can survive as a saprobe for many years on debris</td>
+                <td align="left" rowspan="1" colspan="1">Maintains numerous genes required for saprophytic life (for nutrient acquisition, competition with soil microflora), necrotrophic parasitism via toxins and degradative enzymes</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Rouxel1">[90]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Mucorales: Mucor</italic> spp., <italic>Rhizopus</italic> spp.</td>
+                <td align="left" rowspan="1" colspan="1">Soil and a variety of organic substrates; marine habitats including insect cadavers</td>
+                <td align="left" rowspan="1" colspan="1">Production of siderophores (by <italic>Rhizopus</italic>)</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Azmi1">[81]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Keller1">[83]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Sun1">[91]</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Pythium</italic> spp. (nonobligate parasitic oomycetes)</td>
+                <td align="left" rowspan="1" colspan="1">Soil and water</td>
+                <td align="left" rowspan="1" colspan="1">No suppositions found in the literature</td>
+                <td align="left" rowspan="1" colspan="1">
+                  <xref ref-type="bibr" rid="ppat.1000693-Nechwatal1">[92]</xref>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"><italic>Penicillium</italic> spp.</td>
+                <td align="left" rowspan="1" colspan="1">Soil, sediment-rich subglacial ice; atmospheric aerosols</td>
+                <td align="left" rowspan="1" colspan="1">Production of toxins and siderophores</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-FrohlichNowoisky1">[79]</xref>, <xref ref-type="bibr" rid="ppat.1000693-Azmi1">[81]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Keller1">[83]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Sonjak1">[93]</xref></td>
+              </tr>
+              <tr>
+                <td colspan="4" align="left" rowspan="1">
+                  <bold>Viruses</bold>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Tomato mosaic virus</td>
+                <td align="left" rowspan="1" colspan="1">Clouds, glacial ice, soil of pristine forests</td>
+                <td align="left" rowspan="1" colspan="1">Overall stability of tobamoviruses</td>
+                <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000693-Castello1">[94]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Fillhart1">[96]</xref></td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>As illustrated above, traits that confer fitness in response to biotic and abiotic environmental stress can have dual-use as virulence factors in human pathogens. Toxins and toxin transport systems (including efflux pumps, in particular) are among the common adaptations for antagonizing and defending against the co-inhabitants of a habitat. In plant pathogens, the transport systems for toxins and antimicrobials can have broad spectrum activity, leading to resistance to agricultural fungicides and also contributing to virulence <xref ref-type="bibr" rid="ppat.1000693-DelSorbo1">[12]</xref>. Genes coding for wide spectrum efflux pumps are present in the chromosomes of all living organisms <xref ref-type="bibr" rid="ppat.1000693-Martinez1">[9]</xref>. The efflux pump BcAtrB of <italic>Botrytis cinerea</italic> confers resistance to antimicrobials produced by soil and plant microflora (2,4-diacetylphloroglucinol and phenazine antibiotics) <xref ref-type="bibr" rid="ppat.1000693-Schoonbeek1">[13]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Schouten1">[14]</xref> and also to the fungicide fenpiclonil and the plant defensive phytoalexin resveratrol <xref ref-type="bibr" rid="ppat.1000693-Schoonbeek2">[15]</xref>. The transporter ABC1 from <italic>Magnaporthe grisea</italic> protects the fungus against azole fungicides and the rice phytoalexin sakuranetin <xref ref-type="bibr" rid="ppat.1000693-DelSorbo1">[12]</xref>. Numerous plant pathogenic bacteria, including <italic>Erwinia amylovora</italic>, <italic>Dickeya</italic> spp. (formerly the multiple biovars of <italic>E. chrysanthemi</italic>), and <italic>Agrobacterium tumefaciens</italic>, also produce efflux pumps that are involved in their resistance to plant antimicrobials (reviewed by Martinez et al. <xref ref-type="bibr" rid="ppat.1000693-Martinez1">[9]</xref>). Toxins themselves can have a broad spectrum of action. For example, mycotoxins, well known for their human and animal toxicity, have broad spectrum activity and are thought to have evolved as a defense against predators (nematodes) and antagonists (other microorganisms) <xref ref-type="bibr" rid="ppat.1000693-Etzel1">[16]</xref>. One family of these, the trichothecenes, contributes significantly to the virulence of many <italic>Gibberella</italic> (<italic>Fusarium</italic>) species <xref ref-type="bibr" rid="ppat.1000693-Idnurum1">[17]</xref>.</p>
+      <p>Adaptation to biotic stress also implicates systems for the detection or inhibition of arms of aggression used by co-inhabitants. Recent work on fungi suggests that systems to detect enzymes that degrade fungal cell walls are also deployed as virulence factors. Lysin motifs (LysMs) are carbohydrate-binding protein modules that have been found in mammalian and plant pathogenic fungi as well as in saprophytes <xref ref-type="bibr" rid="ppat.1000693-deJonge1">[18]</xref>. Bolton et al. <xref ref-type="bibr" rid="ppat.1000693-Bolton1">[19]</xref> demonstrated that the LysM protein Ecp6 acts as a virulence factor in the plant pathogenic fungus <italic>Cladosporium fulvum</italic>. As virulence factors they may suppress host defenses by sequestrating chitin oligosaccharides that are known to act as elicitors of plant defense responses <xref ref-type="bibr" rid="ppat.1000693-Bolton1">[19]</xref> and also as activators of host immune responses in mammals <xref ref-type="bibr" rid="ppat.1000693-DaSilva1">[20]</xref>. de Jonge and Thomma <xref ref-type="bibr" rid="ppat.1000693-deJonge1">[18]</xref> suggest that these proteins may also have a role in the protection of saprophytic fungi against chitinase-secreting competitor microbes or mycoparasites.</p>
+      <p>Protection against abiotic stress can involve molecules that have also become virulence factors. Siderophores <xref ref-type="bibr" rid="ppat.1000693-Hwang1">[21]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Schrettl1">[23]</xref> and various pigments including melanins <xref ref-type="bibr" rid="ppat.1000693-Liu1">[24]</xref> are virulence factors in some human pathogens. Siderophores contribute to resistance to oxidative stress and sequestering iron when it is rare in the environment. In the plant pathogens <italic>Alternaria brassicicola</italic>, <italic>Cochliobolus</italic> spp., <italic>Fusarium graminearum</italic> <xref ref-type="bibr" rid="ppat.1000693-Lee1">[25]</xref>, and <italic>M. grisea</italic> <xref ref-type="bibr" rid="ppat.1000693-Hof1">[26]</xref>, siderophores or their precursors are virulence factors. Melanins offer protection from extreme temperatures, UV radiation, and antimicrobials. In the plant pathogens <italic>M. grisea</italic> and <italic>Colletotrichum</italic> spp., melanins are also virulence factors via their essential role in the formation of tissue-penetration structures such as appressoria <xref ref-type="bibr" rid="ppat.1000693-Idnurum1">[17]</xref>. In many cases, toxins and siderophores are produced by nonribosomal peptide synthase or polyketide synthase pathways. These pathways, widely distributed in the microbial world, are highly adaptable and have given rise to a wide range of compounds with a plethora of activities, including many of pharmaceutical importance <xref ref-type="bibr" rid="ppat.1000693-Rausch1">[27]</xref>. HC-toxin of <italic>Cochliobilus carbonum</italic>, victorin in <italic>C. victoriae</italic>, and T-toxin in <italic>C. heterostrophus</italic> are products of these pathways <xref ref-type="bibr" rid="ppat.1000693-Berbee1">[28]</xref>. The key virulence factor of <italic>Streptomyces</italic> spp., thaxtomin <xref ref-type="bibr" rid="ppat.1000693-Loria1">[29]</xref>, and the multitude of host-specific and nonspecific toxins in <italic>Pseudomonas syringae</italic> pathovars <xref ref-type="bibr" rid="ppat.1000693-Bender1">[30]</xref> are also produced by these pathways.</p>
+      <p>The capacity to detect changes in conditions of the abiotic environment has also become part of the virulence factors of some plant pathogens. For example, to detect changes in environmental conditions, organisms exploit two-component histidine kinase complexes. These are key elements of the machinery for signal sensing, allowing bacteria, yeasts, fungi, and plants to adapt to changing environments. In the plant pathogen <italic>B. cinerea</italic>, one of its multiple histidine kinases, BOS1, not only mediates osmosensitivity and resistance to fungicides, but is also essential for formation of macroconidia and expression of virulence <xref ref-type="bibr" rid="ppat.1000693-Viaud1">[31]</xref>.</p>
+      <p>Recognition and understanding of the full complexity of the life history of plant pathogens will enhance our capacity to evaluate the diversity and intensity of environmental stresses that microorganisms face and will contribute novel hypotheses concerning the role of environmental stresses in the evolution of pathogenicity. Stress is considered to play an important role in adaptive evolution in general, in particular via its effect on mutation rates <xref ref-type="bibr" rid="ppat.1000693-Bjedov1">[32]</xref>. For certain fungi and bacteria, including plant pathogens, stress increases the activity of transposable elements <xref ref-type="bibr" rid="ppat.1000693-Ikeda1">[33]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Mes1">[35]</xref> and induces the SOS response and other systems involved in the modification or repair of DNA <xref ref-type="bibr" rid="ppat.1000693-Bjedov1">[32]</xref>. Mutations can target the ensemble of the microbial genome. However, it has been suggested that adaptation of bacteria to multiple stresses can lead, in particular, to the acquisition of virulence factors and to the emergence of pathogenic variants <xref ref-type="bibr" rid="ppat.1000693-Arnold1">[36]</xref>.</p>
+      <p>Adaptation to specific habitats—which involves adapting to a particular ensemble of biotic and abiotic parameters—could also influence the evolution of parasitic fitness. Available examples focus on soil-borne and rhizosphere microorganisms. The rhizosphere is a dynamic soup whose chemistry changes as plants grow, die, and degrade. Chemicals in the rhizosphere are food substrates and means of communication, antagonism, and collaboration among microorganisms, among plants, and between plants and microorganisms. To decompose dead plant material and recycle carbon, microorganisms have developed a range of cell wall–degrading enzymes, without which our planet would be quite encumbered by the accumulation of tissue from dead plants. Pectolytic, cellulolytic, and lignolytic enzymes are also well-known pathogenicity factors <xref ref-type="bibr" rid="ppat.1000693-Annis1">[37]</xref>–<xref ref-type="bibr" rid="ppat.1000693-Reignault1">[39]</xref>. To hone the efficiency of these enzymes <italic>in planta</italic>, pectinolytic fungi are adept at modulating the surrounding pH. <italic>Alternaria</italic>, <italic>Penicillium</italic>, <italic>Fusarium</italic> spp., and <italic>Sclerotinia sclerotiorum</italic> also exploit these pH changes to enhance the action of these enzymes as virulence factors <xref ref-type="bibr" rid="ppat.1000693-Prusky1">[40]</xref>. <italic>Streptomyces</italic> spp. are considered quintessential soil inhabitants. Their ability to degrade biopolymers, including cellulose and chitin, contributes greatly to nutrient cycling, and their vast array of antimicrobials contributes to survival and microbial communication in soil <xref ref-type="bibr" rid="ppat.1000693-Loria1">[29]</xref>. Some <italic>Streptomyces</italic> species are pathogenic to root crops and to potatoes in particular. A recently discovered virulence factor in <italic>Streptomyces</italic>, a saponinase homologue <xref ref-type="bibr" rid="ppat.1000693-Loria1">[29]</xref>, may be the result of adaptation to the rhizosphere. Saponins are plant glycosides that contribute to resistance against fungi and insect herbivores. Bacteria, and especially Gram-positive bacteria, can also be sensitive. Saponins are also exuded from the roots of some plant species where they have allelopathic as well as antimicrobial activity <xref ref-type="bibr" rid="ppat.1000693-Bais1">[41]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Oleszek1">[42]</xref>.</p>
+      <p>Key vital functions, housekeeping functions, and basic life cycle processes should also be considered for their potential to give rise to pathogenicity factors. Traits fundamental to fitness and survival in general can confer or enhance pathogenic fitness. In plant pathogenic bacteria these include flagella, motility, lipo- and exo- polysaccharides, O-antigens, fimbriae, mechanisms for iron acquisition and for quorum sensing, toxin production, cell wall–degrading enzymes, and resistance to oxidative stress <xref ref-type="bibr" rid="ppat.1000693-Toth1">[43]</xref>. Motility, for example, is essential to dispersal and for attaining new resources. In <italic>Ralstonia solanacearum</italic> it is also essential for early stages of plant invasion and colonization during pathogenesis <xref ref-type="bibr" rid="ppat.1000693-TansKersten1">[44]</xref>. In the fungus <italic>Aschochyta rabiei</italic>, kinesins that are essential for polarized growth and transport of organelles are suspected to be a virulence factor <xref ref-type="bibr" rid="ppat.1000693-White1">[45]</xref>. An F-box protein of <italic>Giberrella zeae</italic> has been reported to be involved in sexual reproduction and in pathogenicity <xref ref-type="bibr" rid="ppat.1000693-Han1">[46]</xref>. The enzymes that allow fungi to detoxify compounds resulting from plant defense mechanisms are probably also simply means of acquiring nutrients <xref ref-type="bibr" rid="ppat.1000693-Divon1">[47]</xref>. For example, detoxification of tomatine in tomatoes by <italic>Septoria lycopercici</italic> and by <italic>Fusarium oxysporum</italic> f. sp. <italic>lycopersici</italic> is achieved by the deployment of glycosyl hydrolases by these fungi; <italic>Gaeumannomyces graminis</italic> detoxifies avenacins in oats via a beta-glucosidase <xref ref-type="bibr" rid="ppat.1000693-Berbee1">[28]</xref>. Another example of adaptation of basic cellular functions into pathogenicity factors concerns elicitins. Elicitins are part of one of the most highly conserved protein families in the <italic>Phytophthora</italic> genus and are widespread throughout <italic>Phytophthora</italic> species. Elicitins of <italic>P. infestans</italic> induce hypersensitivity in plants. Recent work from Jiang and colleagues <xref ref-type="bibr" rid="ppat.1000693-Jiang1">[48]</xref> suggests that a primary function of elicitins is the acquisition of sterols from the environment.</p>
+    </sec>
+    <sec id="s4">
+      <title>Toward New Paradigms about the Evolution of Plant Pathogenicity: The Roles of Dual-Use Traits and Exaptation</title>
+      <p>How can we make sense of the processes that have led to the wide variety of pathogenicity factors in plant pathogens and that continue to drive the evolution of pathogens? Bacterial plant pathogens are particularly illustrative of the differences in suites of secretion systems <xref ref-type="bibr" rid="ppat.1000693-Toth1">[43]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Bell1">[49]</xref>,<xref ref-type="bibr" rid="ppat.1000693-daSilva1">[50]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Thieme1">[51]</xref> and of effectors <xref ref-type="bibr" rid="ppat.1000693-daSilva1">[50]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Thieme1">[51]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Lindeberg1">[52]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Rohmer1">[53]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Kamoun1">[54]</xref>,<xref ref-type="bibr" rid="ppat.1000693-Setubal1">[55]</xref> among members of different genera, species, or strains of the same species that attack plants. Effectors are proteins secreted by plant pathogens that modulate plant defense reactions, thereby enabling the pathogen to colonize the plant tissues. It is tempting to wonder if the effectors and secretion systems have critical roles in fitness elsewhere other than in association with the host plant. The examples listed above that describe traits that play roles in both environmental fitness and virulence to plants provide a compelling incentive to expand our paradigms concerning the forces that drive evolution of plant pathogenicity. The evolutionary forces that have been described to date for plant pathogens <xref ref-type="bibr" rid="ppat.1000693-McDonald1">[56]</xref> need to be extended beyond the current agro-centric paradigm.</p>
+      <p>To expand this paradigm we propose that the life cycles and life histories of plant pathogens be reconsidered. Studies of pathogen ecology, evolution, and life history should include the full range of habitats and reservoirs these organisms can inhabit. This in turn will permit testing a range of novel hypotheses about the role of ecological contexts—other than direct interaction with host plants—as forces of evolution. In <xref ref-type="table" rid="ppat-1000693-t003">Table 3</xref> we propose some such hypotheses. For example, rates of mutation and of transposition of insertion sequences or of transposable elements including phages might be different when a microorganism inhabits nonagricultural habitats (biofilms, lake water, or inert surfaces exposed to UV, for example) than when it colonizes plants. The consequences of these mutations for pathogenicity might in turn be markedly different than for fitness in nonagricultural habitats. Likewise, the formation of spores or aggregates that can be released into the air and their survival over long distances might be highly influenced by the nature of the reservoir that the pathogen colonizes, resulting in direct effects of habitat on gene flow. Furthermore, the biotic and abiotic stresses endured in nonagricultural habitats might exert positive selection for adaptive survival traits that have dual-use as virulence factors as illustrated in the examples above. These questions are clearly pertinent for pathogens that are not obligate biotrophs. However, the complexity of the biotic and abiotic environment perceived by obligate biotrophs during colonization of plants (powdery mildews on leaf surfaces inhabited by other microorganisms, for example) or during their dissemination (survival in air or in association with vectors) are also likely to exert selection independent of that due to the host plant genotype per se. These are only some of the ways in which environmental parameters other than the host plant are expected to have a marked influence on the diversification of plant pathogens.</p>
+      <table-wrap id="ppat-1000693-t003" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.ppat.1000693.t003</object-id>
+        <label>Table 3</label>
+        <caption>
+          <title>Novel hypotheses to be tested concerning the impact of substrates other than host plants on the evolutionary potential of plant pathogens.</title>
+        </caption>
+        <alternatives>
+          <graphic id="ppat-1000693-t003-3" xlink:href="ppat.1000693.t003"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Evolutionary Force<xref ref-type="table-fn" rid="nt101">a</xref></td>
+                <td align="left" rowspan="1" colspan="1">Novel Hypothesis Arising from Expanded Paradigms about the Evolution of Plant Pathogenicity Concerning:</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Mutation</td>
+                <td align="left" rowspan="1" colspan="1"><bold><italic>Modifications of the genome</italic></bold>.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">Relative to its association with cultivated plant hosts, association of the pathogen with a given nonagricultural substrate leads to:</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"> • a significantly greater overall mutation rate.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"> • a greater rate of transposition of insertion sequences or of transposable elements.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"> • more frequent mutations or transpositions that target genes involved in pathogenicity.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"> • a higher probability of acquisition of alien nucleic acids.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1"> • genetic exchange with more phylogenetically diverse microbes.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Genetic drift</td>
+                <td align="left" rowspan="1" colspan="1"><bold><italic>Effective population size</italic></bold>.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">The effective sub-population size of a pathogen associated with a given nonagricultural (or nonplant) substrate is significantly different from that for sub-populations from cultivated host plants. This could lead to genetic and/or phenotypic differentiation of sub-populations based on substrate of origin.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Gene flow</td>
+                <td align="left" rowspan="1" colspan="1"><bold><italic>Dissemination</italic></bold>.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">The habitats occupied by the plant pathogen influence the mode(s) of dissemination, thereby influencing the distance of dissemination and the spatial and temporal scales of gene flow.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Mode of reproduction (recombination)</td>
+                <td align="left" rowspan="1" colspan="1"><bold><italic>Genetic recombination</italic></bold>.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">The frequency of recombination (via sexual cycle or other means) varies among strains of plant pathogens as a function of the habitat or substrate.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Selection</td>
+                <td align="left" rowspan="1" colspan="1"><bold><italic>Selective pressures and impact on fitness</italic></bold>.</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">Strains of pathogens adapted to a broad range of habitats have the greatest parasitic fitness.</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="nt101">
+            <label>a</label>
+            <p>The evolutionary forces listed here are those that have been considered for plant pathogens in agricultural contexts <xref ref-type="bibr" rid="ppat.1000693-McDonald1">[56]</xref>. These hypotheses concern pathogens with a marked saprophytic phase or for which nonagricultural or nonplant substrates can be a notable reservoir for survival. Reservoirs can include irrigation water, natural waterways and bodies of water, biological vectors (animals, fungi, etc.), abiotic vectors (aerosols, clouds, precipitation), wild plants and weeds, soil, and physical structures in agricultural systems (greenhouse materials, tubing, plastics).</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>If nonagricultural environments can foster the evolution of traits that contribute to pathogen virulence, other scenarios are also probable where i) crop plants foster the emergence of traits antagonistic to survival outside of agricultural contexts ii) or nonagricultural environments foster the emergence of traits that are detrimental to pathogen virulence in crops. Understanding the prevalence and significance of alternative habitats to pathogen life history is crucial to determining the broad costs of virulence for pathogen fitness. The cost of virulence in terms of fitness in association with plants has been explored extensively for several obligate parasites such as rusts and powdery mildews. Work by Thrall and Burdon <xref ref-type="bibr" rid="ppat.1000693-Thrall1">[57]</xref> has shown clear fitness tradeoffs between pathogen aggressiveness (capacity to induce intense disease symptoms) and dissemination (via intense spore production). For nonobligate pathogens we do not know the cost of fitness outside of agricultural habitats. The interplay between evolutionary forces and habitat has not been explored for plant pathogens and might be a key feature in the emergence of certain diseases.</p>
+      <p>By expanding our paradigms concerning pathogen life history and the selective forces that drive plant pathogen evolution, we will enhance our understanding of how pathogens survive in the absence of hosts, how and where new pathotypes are likely to emerge, and the significance of natural habitats to agricultural epidemics. Insights will come from fundamental research to identify the mechanisms that drive the evolution of pathogenic traits and to explore the ecological significance of pathogenic traits to microbial fitness apart from the plant host. Distinguishing the role of adaptation <italic>sensu stricto</italic> in the emergence of plant pathogenicity relative to that of exaptation <xref ref-type="bibr" rid="ppat.1000693-Gould1">[58]</xref>, the useful cooptation of phenotypes that have arisen under natural selection due to forces unrelated to interaction with the primary host plant, will yield critical insight into how plant pathogens evolve independently of agricultural practices. A more complete understanding of the forces that drive plant pathogen evolution will be critical to enhancing and diversifying sustainable disease control strategies, and will improve prediction of the conditions that support the emergence of novel pathogens.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank the three anonymous reviewers for their constructive comments and for the suggestion of additional materials to incorporate into the text. We also thank Dr. Melodie Putnam (Oregon State University, United States of America) for useful discussions about the ecology of bacterial plant pathogens.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="ppat.1000693-Hublek1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hubálek</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Emerging human infectious diseases: anthroponoses, zoonoses and sapronoses.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>9</volume>
+          <fpage>403</fpage>
+          <lpage>404</lpage>
+          <pub-id pub-id-type="pmid">12643844</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Cangelosi1">
+        <label>2</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cangelosi</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Freitag</surname>
+              <given-names>NE</given-names>
+            </name>
+            <name>
+              <surname>Buckley</surname>
+              <given-names>MR</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>From outside to inside: environmental microorganisms as human pathogens. A report from the American Academy of Microbiology. Washington (D.C.): American Academy of Microbiology.</article-title>
+          <size units="page"/>
+          <comment>Available: <ext-link ext-link-type="uri" xlink:href="http://academy.asm.org/images/stories/documents/fromoutsidetoinsidecolor.pdf">http://academy.asm.org/images/stories/documents/fromoutsidetoinsidecolor.pdf</ext-link>. Accessed 29 November 2009</comment>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Casadevall1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Casadevall</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pirofski</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Accidental virulence, cryptic pathogenesis, Martians, lost hosts, and the pathogenicity of environmental microbes.</article-title>
+          <source>Eukaryotic Cell</source>
+          <volume>6</volume>
+          <fpage>2169</fpage>
+          <lpage>2174</lpage>
+          <pub-id pub-id-type="pmid">17951515</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-HallStoodley1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hall-Stoodley</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Stoodley</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Biofilm formation and dispersal and the transmission of human pathogens.</article-title>
+          <source>Trends Microbiol</source>
+          <volume>13</volume>
+          <fpage>7</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="pmid">15639625</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Reedy1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reedy</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Bastidas</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Heitman</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The virulence of human pathogenic fungi: notes from the south of France.</article-title>
+          <source>Cell Host Microbe</source>
+          <volume>2</volume>
+          <fpage>77</fpage>
+          <lpage>83</lpage>
+          <pub-id pub-id-type="pmid">18005722</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Yildiz1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yildiz</surname>
+              <given-names>FH</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Processes controlling the transmission of bacterial pathogens in the environment.</article-title>
+          <source>Res Microbiol</source>
+          <volume>158</volume>
+          <fpage>195</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="pmid">17350808</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Greub1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greub</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Raoult</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Microorganisms resistant to free-living amoebae.</article-title>
+          <source>Clin Microbiol Rev</source>
+          <volume>17</volume>
+          <fpage>413</fpage>
+          <lpage>433</lpage>
+          <pub-id pub-id-type="pmid">15084508</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Casadevall2">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Casadevall</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Steenbergen</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Nosanchuk</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>‘Ready made’ virulence and ‘dual use’ virulence factors in pathogenic environmental fungi—the <italic>Cryptococcus neoformans</italic> paradigm.</article-title>
+          <source>Curr Opin Microbiol</source>
+          <volume>6</volume>
+          <fpage>332</fpage>
+          <lpage>337</lpage>
+          <pub-id pub-id-type="pmid">12941400</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Martinez1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martinez</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Sánchez</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Martínez-Solano</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hernandez</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Garmendia</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Functional role of bacterial multidrug efflux pumps in microbial natural ecosystems.</article-title>
+          <source>FEMS Microbial Rev</source>
+          <volume>33</volume>
+          <fpage>430</fpage>
+          <lpage>449</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Sanchez1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanchez</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Moreno</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Martinez</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>The biocide triclosan selects <italic>Stenotrophomonas maltophilia</italic> mutants that overproduce the SmeDEF multidrug efflux pump.</article-title>
+          <source>Antimicrob Agents Chemother</source>
+          <volume>2</volume>
+          <fpage>781</fpage>
+          <lpage>782</lpage>
+          <pub-id pub-id-type="pmid">15673767</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Pallen1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pallen</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Wren</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Bacterial pathogenomics.</article-title>
+          <source>Nature</source>
+          <volume>449</volume>
+          <fpage>835</fpage>
+          <lpage>842</lpage>
+          <pub-id pub-id-type="pmid">17943120</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-DelSorbo1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Del Sorbo</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Schoonbeek</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>De Waard</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Fungal transporters involved in efflux of natural toxic compounds and fungicides.</article-title>
+          <source>Fungal Genet Biol</source>
+          <volume>30</volume>
+          <fpage>1</fpage>
+          <lpage>15</lpage>
+          <pub-id pub-id-type="pmid">10955904</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Schoonbeek1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schoonbeek</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Raaijmakers</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>De Waard</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Fungal ABC transporters and microbial interactions in natural environments.</article-title>
+          <source>Mol Plant Microbe Interact</source>
+          <volume>15</volume>
+          <fpage>1165</fpage>
+          <lpage>1172</lpage>
+          <pub-id pub-id-type="pmid">12423022</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Schouten1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schouten</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Maksimova</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Cuesta-Arenas</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>van den Berg</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Raaijmakers</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Involvement of the ABC transporter BcAtrB and the laccase BcLCC2 in defence of Botrytic cinerea against the broad-spectrum antibiotic 2,4-diacetylphloroglucinol.</article-title>
+          <source>Environ Microbiol</source>
+          <volume>10</volume>
+          <fpage>1145</fpage>
+          <lpage>1157</lpage>
+          <pub-id pub-id-type="pmid">18218030</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Schoonbeek2">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schoonbeek</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Del Sorbo</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>De Waard</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>The ABC transporter BcatrB affects the sensitivity of <italic>Botrytis cinerea</italic> to the phytoalexin resveratol and the fungicide fenpiclonil.</article-title>
+          <source>Mol Plant Microbe Interact</source>
+          <volume>14</volume>
+          <fpage>562</fpage>
+          <lpage>571</lpage>
+          <pub-id pub-id-type="pmid">11310744</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Etzel1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Etzel</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Mycotoxins.</article-title>
+          <source>JAMA</source>
+          <volume>287</volume>
+          <fpage>425</fpage>
+          <lpage>427</lpage>
+          <pub-id pub-id-type="pmid">11798344</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Idnurum1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Idnurum</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Howlett</surname>
+              <given-names>BJ</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Pathogenicity genes of phytopathogenic fungi.</article-title>
+          <source>Mol Plant Pathol</source>
+          <volume>2</volume>
+          <fpage>241</fpage>
+          <lpage>255</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-deJonge1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Jonge</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Thomma</surname>
+              <given-names>BPHJ</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Fungal LysM effectors: extinguishers of host immunity?</article-title>
+          <source>Trends Microbiol</source>
+          <volume>17</volume>
+          <fpage>151</fpage>
+          <lpage>157</lpage>
+          <pub-id pub-id-type="pmid">19299132</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Bolton1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolton</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>van Esse</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Vossen</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>de Jonge</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Stergiopoulos</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The novel <italic>Cladosporium fulvum</italic> lysin motif effector Ecp6 is a virulence factor with orthologues in other fungal species.</article-title>
+          <source>Mol Microbiol</source>
+          <volume>69</volume>
+          <fpage>119</fpage>
+          <lpage>136</lpage>
+          <pub-id pub-id-type="pmid">18452583</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-DaSilva1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Da Silva</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Hartl</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Elias</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>TLR-2 and IL-17A in chitin-induced macrophage activation and acute inflammation.</article-title>
+          <source>J Immunol</source>
+          <volume>181</volume>
+          <fpage>4279</fpage>
+          <lpage>4286</lpage>
+          <pub-id pub-id-type="pmid">18768886</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Hwang1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hwang</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Mayfield</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Rine</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sil</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Histoplasma requires SID1, a member of an iron-regulated siderophore gene cluster, for host colonization.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4</volume>
+          <fpage>e1000044</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/1000010.1001371/journal.ppat.1000044">1000010.1001371/journal.ppat.1000044</ext-link></comment>
+          <pub-id pub-id-type="pmid">18404210</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Ratledge1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ratledge</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Dover</surname>
+              <given-names>LG</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Iron metabolism in pathogenic bacteria.</article-title>
+          <source>Annu Rev Microbiol</source>
+          <volume>54</volume>
+          <fpage>881</fpage>
+          <lpage>941</lpage>
+          <pub-id pub-id-type="pmid">11018148</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Schrettl1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schrettl</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bignell</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kragl</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sabiha</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Loss</surname>
+              <given-names>O</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Distinct roles for intra- and extracellular siderophores during <italic>Aspergillus fumigatus</italic> infection.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>3</volume>
+          <fpage>e128</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.0030128">10.1371/journal.ppat.0030128</ext-link></comment>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Liu1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>GY</given-names>
+            </name>
+            <name>
+              <surname>Nizet</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Color me bad: microbial pigments as virulence factors.</article-title>
+          <source>Trends Microbiol</source>
+          <volume>17</volume>
+          <fpage>406</fpage>
+          <lpage>413</lpage>
+          <pub-id pub-id-type="pmid">19726196</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Lee1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>BN</given-names>
+            </name>
+            <name>
+              <surname>Kroken</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Chou</surname>
+              <given-names>DYT</given-names>
+            </name>
+            <name>
+              <surname>Robbertse</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Yoder</surname>
+              <given-names>OC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Functional analysis of all nonribosomal peptide synthetases in <italic>Cochliobolus heterostrophus</italic> reveals a factor, NPS6, involved in virulence and resistance to oxidative stress.</article-title>
+          <source>Eukaryot Cell</source>
+          <volume>4</volume>
+          <fpage>545</fpage>
+          <lpage>555</lpage>
+          <pub-id pub-id-type="pmid">15755917</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Hof1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hof</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Eisfeld</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Welzel</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Antelo</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Foster</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Ferricrocin synthesis in <italic>Magnaporthe grisea</italic> and its role in pathogenicity in rice.</article-title>
+          <source>Molec Plant Pathol</source>
+          <volume>8</volume>
+          <fpage>163</fpage>
+          <lpage>172</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Rausch1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rausch</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Hoof</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Wohlleben</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Huson</surname>
+              <given-names>DH</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Phylogenetic analysis of condensation domains in NRPS sheds light on their functional evolution.</article-title>
+          <source>BMC Evol Biol</source>
+          <volume>7</volume>
+          <fpage>78</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2148-1187-1178">10.1186/1471-2148-1187-1178</ext-link></comment>
+          <pub-id pub-id-type="pmid">17506888</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Berbee1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berbee</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>The phylogeny of plant and animal pathogens in the Ascomycota.</article-title>
+          <source>Physiol Mol Plant Pathol</source>
+          <volume>59</volume>
+          <fpage>165</fpage>
+          <lpage>187</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Loria1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Loria</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kers</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Joshi</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Evolution of plant pathogenicity in <italic>Streptomyces</italic>.</article-title>
+          <source>Annu Rev Phytopathol</source>
+          <volume>44</volume>
+          <fpage>469</fpage>
+          <lpage>487</lpage>
+          <pub-id pub-id-type="pmid">16719719</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Bender1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Alarcon-Chaidez</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title><italic>Pseudomonas syringae</italic> phytotoxins: Mode of action, regulation and biosynthesis by peptide and polyketide synthetases.</article-title>
+          <source>Microbiol Molec Biol Rev</source>
+          <volume>63</volume>
+          <fpage>266</fpage>
+          <lpage>292</lpage>
+          <pub-id pub-id-type="pmid">10357851</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Viaud1">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Viaud</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fillinger</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Polepalli</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Le Pêcheur</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>A class III histidine kinase acts as a novel virulence factor in <italic>Botrytis cinerea</italic>.</article-title>
+          <source>Mol Plant Microbe Interact</source>
+          <volume>9</volume>
+          <fpage>1042</fpage>
+          <lpage>1050</lpage>
+          <pub-id pub-id-type="pmid">16941908</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Bjedov1">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bjedov</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Tenaillon</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Gérard</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Souza</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Denamur</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Stress-induced mutagenisis in bacteria.</article-title>
+          <source>Science</source>
+          <volume>300</volume>
+          <fpage>1404</fpage>
+          <lpage>1409</lpage>
+          <pub-id pub-id-type="pmid">12775833</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Ikeda1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ikeda</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nakayashiki</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Takagi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tosa</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Mayama</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Heat shock, copper sulfate and oxidative stress activate the retrotransposon MAGGY resident in the plant pathogenic fungus <italic>Magnaporthe grisea</italic>.</article-title>
+          <source>Mol Genet Genomics</source>
+          <volume>266</volume>
+          <fpage>318</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="pmid">11683275</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Ilves1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ilves</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hõrak</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Teras</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kivisaar</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>IHF is the limiting host factor in transposition of <italic>Pseudomonas putida</italic> transposon Tn4652 in stationary phase.</article-title>
+          <source>Mol Microbiol</source>
+          <volume>51</volume>
+          <fpage>1773</fpage>
+          <lpage>1785</lpage>
+          <pub-id pub-id-type="pmid">15009901</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Mes1">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mes</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Haring</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Cornelissen</surname>
+              <given-names>BJC</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Foxy: an active family of short interspersed nuclear elements from <italic>Fusarium oxysporum</italic>.</article-title>
+          <source>Mol Gen Genet</source>
+          <volume>263</volume>
+          <fpage>271</fpage>
+          <lpage>280</lpage>
+          <pub-id pub-id-type="pmid">10778745</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Arnold1">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arnold</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Waterfield</surname>
+              <given-names>NR</given-names>
+            </name>
+            <name>
+              <surname>Mansfield</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Evolution of microbial virulence: the benefits of stress.</article-title>
+          <source>Trends Genet</source>
+          <volume>23</volume>
+          <fpage>293</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="pmid">17434232</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Annis1">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Annis</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Goodwin</surname>
+              <given-names>PH</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Mini review: recent advances in the molecular genetics of plant cell wall-degrading enzymes produced by plant pathogenic fungi.</article-title>
+          <source>Europ J Plant Pathol</source>
+          <volume>103</volume>
+          <fpage>1</fpage>
+          <lpage>14</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Collmer1">
+        <label>38</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collmer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bauer</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>SY</given-names>
+            </name>
+            <name>
+              <surname>Lindeberg</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kelemu</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1990</year>
+          <article-title>Pectic enzyme production and bacterial plant pathogenicity.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Hennecke</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Verma</surname>
+              <given-names>DPS</given-names>
+            </name>
+          </person-group>
+          <source>Advances in molecular genetics of plant-microbe interactions</source>
+          <publisher-name>Kluwer Academic Publishers</publisher-name>
+          <fpage>65</fpage>
+          <lpage>72</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Reignault1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reignault</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Valette-Collet</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Boccara</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The importance of fungal pectinolytic enzymes in plant invasion, host adaptability and symptom type.</article-title>
+          <source>Eur J Plant Pathol</source>
+          <volume>120</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Prusky1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prusky</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Yakoby</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Pathogenic fungi: leading or led by ambient pH?</article-title>
+          <source>Mol Plant Pathol</source>
+          <volume>5</volume>
+          <fpage>509</fpage>
+          <lpage>516</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Bais1">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bais</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Weir</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Perry</surname>
+              <given-names>LT</given-names>
+            </name>
+            <name>
+              <surname>Gilroy</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vivanco</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>The role of root exudates in rhizosphere interactions with plants and other organisms.</article-title>
+          <source>Annu Rev Plant Biol</source>
+          <volume>57</volume>
+          <fpage>233</fpage>
+          <lpage>266</lpage>
+          <pub-id pub-id-type="pmid">16669762</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Oleszek1">
+        <label>42</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oleszek</surname>
+              <given-names>WA</given-names>
+            </name>
+            <name>
+              <surname>Hoagland</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Zablotwicz</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Ecological significance of plant saponins.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Inderjit</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Foy</surname>
+              <given-names>CL</given-names>
+            </name>
+          </person-group>
+          <source>Principles and practices in plant ecology: allelochemical interactions</source>
+          <publisher-loc>Baton Rouge</publisher-loc>
+          <publisher-name>CRC Press</publisher-name>
+          <fpage>451</fpage>
+          <lpage>465</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Toth1">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toth</surname>
+              <given-names>IK</given-names>
+            </name>
+            <name>
+              <surname>Pritchard</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Birch</surname>
+              <given-names>PRJ</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Comparative genomics reveals what makes an enterobacterial plant pathogen.</article-title>
+          <source>Annu Rev Phytopathol</source>
+          <volume>44</volume>
+          <fpage>305</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="pmid">16704357</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-TansKersten1">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tans-Kersten</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title><italic>Ralstonia solanacearum</italic> needs motility for invasive virulence on tomato.</article-title>
+          <source>J Bacteriol</source>
+          <volume>183</volume>
+          <fpage>3597</fpage>
+          <lpage>3605</lpage>
+          <pub-id pub-id-type="pmid">11371523</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-White1">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Towards identifying pathogenic determinants of the chickpea pathogen <italic>Ascochyta rabiei</italic>.</article-title>
+          <source>Eur J Plant Pathol</source>
+          <volume>119</volume>
+          <fpage>3</fpage>
+          <lpage>12</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Han1">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>YK</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Yun</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>YW</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>A novel F-box protein involved in sexual development and pathogenesis in Gibberella zeae.</article-title>
+          <source>Molec Microbiol</source>
+          <volume>63</volume>
+          <fpage>768</fpage>
+          <lpage>779</lpage>
+          <pub-id pub-id-type="pmid">17302802</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Divon1">
+        <label>47</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Divon</surname>
+              <given-names>HH</given-names>
+            </name>
+            <name>
+              <surname>Fluhr</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Nutrition acquisition strategies during fungal infection of plants.</article-title>
+          <source>FEMS Microbial Lett</source>
+          <volume>266</volume>
+          <fpage>65</fpage>
+          <lpage>74</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Jiang1">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>RHY</given-names>
+            </name>
+            <name>
+              <surname>Tyler</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Whisson</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Hardham</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Govers</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Ancient origin of elicitin gene clusters in <italic>Phytophthora</italic> genomes.</article-title>
+          <source>Molec Biol Evol</source>
+          <volume>23</volume>
+          <fpage>338</fpage>
+          <lpage>351</lpage>
+          <pub-id pub-id-type="pmid">16237208</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Bell1">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bell</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Sebaihia</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pritchard</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Holden</surname>
+              <given-names>MTG</given-names>
+            </name>
+            <name>
+              <surname>Hyman</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Genome sequence of the enterobacterial phytopathogen <italic>Erwinia carotovora</italic> subsp. <italic>atroseptica</italic> and characterization of virulence factors.</article-title>
+          <volume>101</volume>
+          <fpage>11105</fpage>
+          <lpage>11110</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-daSilva1">
+        <label>50</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>da Silva</surname>
+              <given-names>ACR</given-names>
+            </name>
+            <name>
+              <surname>Ferro</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Reinach</surname>
+              <given-names>FC</given-names>
+            </name>
+            <name>
+              <surname>Farah</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Furlan</surname>
+              <given-names>LR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Comparison of the genomes of two <italic>Xanthomonas</italic> pathogens with differing host specificities.</article-title>
+          <source>Nature</source>
+          <volume>417</volume>
+          <fpage>459</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="pmid">12024217</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Thieme1">
+        <label>51</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thieme</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Koebnik</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bekel</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Boch</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Insights into genome plasticity and pathogenicity of the plant pathogenic bacterium <italic>Xanthomonas campestris</italic> pv. <italic>vesicatoria</italic> revealed by the complete genome sequence.</article-title>
+          <source>J Bacteriol</source>
+          <volume>187</volume>
+          <fpage>7254</fpage>
+          <lpage>7266</lpage>
+          <pub-id pub-id-type="pmid">16237009</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Lindeberg1">
+        <label>52</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindeberg</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Collmer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Schneider</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Roadmap to new virulence determinants in <italic>Pseudomonas syringae</italic>: insights from comparative genomics and genome organization.</article-title>
+          <source>Mol Plant Microbe Interact</source>
+          <volume>21</volume>
+          <fpage>685</fpage>
+          <lpage>700</lpage>
+          <pub-id pub-id-type="pmid">18624633</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Rohmer1">
+        <label>53</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rohmer</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Guttman</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Dangl</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Diverse evolutionary mechanisms shape the type III effector virulence factor repertoire in the plant pathogen <italic>Pseudomonas syringae</italic>.</article-title>
+          <source>Genetics</source>
+          <volume>167</volume>
+          <fpage>1341</fpage>
+          <lpage>1360</lpage>
+          <pub-id pub-id-type="pmid">15280247</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Kamoun1">
+        <label>54</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamoun</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Groovy times: filamentous pathogen effectors revealed.</article-title>
+          <source>Curr Opinion Plant Biol</source>
+          <volume>10</volume>
+          <fpage>358</fpage>
+          <lpage>365</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Setubal1">
+        <label>55</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Setubal</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Moreira</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>da Silva</surname>
+              <given-names>ACR</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Bacterial phytopathogens and genome science.</article-title>
+          <source>Curr Opinion Microbiol</source>
+          <volume>8</volume>
+          <fpage>595</fpage>
+          <lpage>600</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-McDonald1">
+        <label>56</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McDonald</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Linde</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>The population genetics of plant pathogens and breeding strategies for durable resistance.</article-title>
+          <source>Euphytica</source>
+          <volume>124</volume>
+          <fpage>163</fpage>
+          <lpage>180</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Thrall1">
+        <label>57</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thrall</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Burdon</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Evolution of virulence in a plant host-pathogen metapopulation.</article-title>
+          <source>Science</source>
+          <volume>299</volume>
+          <fpage>1735</fpage>
+          <lpage>1737</lpage>
+          <pub-id pub-id-type="pmid">12637745</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Gould1">
+        <label>58</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gould</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Vrba</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <year>1982</year>
+          <article-title>Exaptation - A missing term in the science of form.</article-title>
+          <source>Paleobiology</source>
+          <volume>8</volume>
+          <fpage>4</fpage>
+          <lpage>14</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Pruzzo1">
+        <label>59</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pruzzo</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Vezzulli</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Colwell</surname>
+              <given-names>RR</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Global impact of Vibrio cholerea interactions with chitin.</article-title>
+          <source>Environ Microbiol</source>
+          <volume>10</volume>
+          <fpage>1400</fpage>
+          <lpage>1410</lpage>
+          <pub-id pub-id-type="pmid">18312392</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Reguera1">
+        <label>60</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reguera</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kolter</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Virulence and the environment: a novel role for <italic>Vibrio cholera</italic> toxin-coregulated pili in biofilm formation on chitin.</article-title>
+          <source>J Bacteriol</source>
+          <volume>187</volume>
+          <fpage>3551</fpage>
+          <lpage>3555</lpage>
+          <pub-id pub-id-type="pmid">15866944</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-AlbertWeissenberger1">
+        <label>61</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Albert-Weissenberger</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cazalet</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Buchrieser</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Legionella pneimophila - a human pathogen that co-evolved with fresh water protozoa.</article-title>
+          <source>Cell Mol Life Sci</source>
+          <volume>84</volume>
+          <fpage>432</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="pmid">17192810</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Huber1">
+        <label>62</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huber</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Feldmann</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Köthe</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vandamme</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Wopperer</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Identification of a novel virulence factor in <italic>Burkholderia cenocepacia</italic> H111 required for efficient slow killing of <italic>Caenorhabditis elegans</italic>.</article-title>
+          <source>Infect Immun</source>
+          <volume>72</volume>
+          <fpage>7220</fpage>
+          <lpage>7230</lpage>
+          <pub-id pub-id-type="pmid">15557647</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Jarrett1">
+        <label>63</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarrett</surname>
+              <given-names>CO</given-names>
+            </name>
+            <name>
+              <surname>Deak</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Isherwood</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Oyston</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>ER</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>Transmission of Yersinia pestis from an infectious biofilm in the flea vector.</article-title>
+          <source>Journal of Infectious Diseases</source>
+          <volume>190</volume>
+          <fpage>283</fpage>
+          <lpage>292</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Alonso1">
+        <label>64</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alonso</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Cloning and characterization of SmeDEF, a novel multidrug efflux pump from <italic>Stenotrophomonas maltophilia</italic>.</article-title>
+          <source>Antimicrob Agents Chemother</source>
+          <volume>44</volume>
+          <fpage>3079</fpage>
+          <lpage>3086</lpage>
+          <pub-id pub-id-type="pmid">11036026</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Nikaido1">
+        <label>65</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nikaido</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <year>1996</year>
+          <article-title>Multidrug efflux pumps of Gram-negative bacteria.</article-title>
+          <source>J Bacteriol</source>
+          <volume>178</volume>
+          <fpage>5853</fpage>
+          <lpage>5859</lpage>
+          <pub-id pub-id-type="pmid">8830678</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Peleg1">
+        <label>66</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peleg</surname>
+              <given-names>AY</given-names>
+            </name>
+            <name>
+              <surname>Seifert</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Paterson</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title><italic>Acinetobacter baumannii</italic>: Emergence of a successful pathogen.</article-title>
+          <source>Clin Microbiol Rev</source>
+          <volume>21</volume>
+          <fpage>538</fpage>
+          <lpage>582</lpage>
+          <pub-id pub-id-type="pmid">18625687</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Parke1">
+        <label>67</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parke</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Gurian-Sherman</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Diversity of the <italic>Burkholderia cepacia</italic> complex and implications for risk assessment of biological control strains.</article-title>
+          <source>Annu Rev Phytopathol</source>
+          <volume>39</volume>
+          <fpage>225</fpage>
+          <lpage>258</lpage>
+          <pub-id pub-id-type="pmid">11701865</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Cother1">
+        <label>68</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cother</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Gilbert</surname>
+              <given-names>RL</given-names>
+            </name>
+          </person-group>
+          <year>1990</year>
+          <article-title>Presence of <italic>Erwinia chrysanthem</italic>i in two major river systems and their alpine sources in Australia.</article-title>
+          <source>J Appl Bacteriol</source>
+          <volume>69</volume>
+          <fpage>729</fpage>
+          <lpage>738</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Franc1">
+        <label>69</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franc</surname>
+              <given-names>GD</given-names>
+            </name>
+          </person-group>
+          <year>1988</year>
+          <source>Long distance transport of <italic>Erwinia carotovora</italic> in the atmosphere and surface water [PhD dissertation]</source>
+          <publisher-loc>Fort Collins</publisher-loc>
+          <publisher-name>Colorado State University</publisher-name>
+          <size units="page"/>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Harrison1">
+        <label>70</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harrison</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Franc</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Maddox</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Michaud</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>McCarter-Zorner</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <year>1987</year>
+          <article-title>Presence of <italic>Erwinia carotovora</italic> in surface water in North America.</article-title>
+          <source>J Appl Bacteriol</source>
+          <volume>62</volume>
+          <fpage>565</fpage>
+          <lpage>570</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-McCarterZorner1">
+        <label>71</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCarter-Zorner</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Franc</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Harrison</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Michaud</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Quinn</surname>
+              <given-names>CE</given-names>
+            </name>
+          </person-group>
+          <year>1984</year>
+          <article-title>Soft rot Erwinia bacteria in surface and underground waters in southen Scotland and in Colorado, United-States.</article-title>
+          <source>J Appl Bacteriol</source>
+          <volume>57</volume>
+          <fpage>95</fpage>
+          <lpage>105</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Cruz1">
+        <label>72</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cruz</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Cazacu</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title><italic>Pantoea agglomerans</italic>, a plant pathogen causing human disease.</article-title>
+          <source>J Clin Microbiol</source>
+          <volume>45</volume>
+          <fpage>1989</fpage>
+          <lpage>1992</lpage>
+          <pub-id pub-id-type="pmid">17442803</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Manulis1">
+        <label>73</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manulis</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Barash</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Pantoea agglomerans pvs. gypsophilae and betae, recently evolved pathogens?</article-title>
+          <source>Mol Plant Pathol</source>
+          <volume>4</volume>
+          <fpage>307</fpage>
+          <lpage>314</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Morris1">
+        <label>74</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morris</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Kinkel</surname>
+              <given-names>LL</given-names>
+            </name>
+            <name>
+              <surname>Kun</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Prior</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Sands</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>A surprising niche for the plant pathogen <italic>Pseudomonas syringae</italic>.</article-title>
+          <source>Infection, Genetics and Evolution</source>
+          <volume>7</volume>
+          <fpage>84</fpage>
+          <lpage>92</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Morris2">
+        <label>75</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morris</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Sands</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Vinatzer</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Glaux</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Guilbaud</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>The life history of the plant pathogen <italic>Pseudomonas syringae</italic> is linked to the water cycle.</article-title>
+          <source>ISME Journal</source>
+          <volume>2</volume>
+          <fpage>321</fpage>
+          <lpage>334</lpage>
+          <pub-id pub-id-type="pmid">18185595</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Larkin1">
+        <label>76</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larkin</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>DeMot</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kulakov</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Nagy</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Applied aspects of <italic>Rhodococcus</italic> genetics.</article-title>
+          <source>Antonie van Leeuwenhoek</source>
+          <volume>74</volume>
+          <fpage>133</fpage>
+          <lpage>153</lpage>
+          <pub-id pub-id-type="pmid">10068796</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Putnam1">
+        <label>77</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Putnam</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title><italic>Rhodococcus fascians</italic> in herbaceous perennials.</article-title>
+          <source>Plant Dis</source>
+          <volume>91</volume>
+          <fpage>1064</fpage>
+          <lpage>1076</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Vereecke1">
+        <label>78</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vereecke</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Cornelis</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Temmerman</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Holsters</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Goethals</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Versatile persistence pathways for pathogens of animals and plants.</article-title>
+          <source>Trends Microbiol</source>
+          <volume>10</volume>
+          <fpage>485</fpage>
+          <lpage>488</lpage>
+          <pub-id pub-id-type="pmid">12419605</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-FrohlichNowoisky1">
+        <label>79</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frohlich-Nowoisky</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pickersgill</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Despres</surname>
+              <given-names>VR</given-names>
+            </name>
+            <name>
+              <surname>Pöschl</surname>
+              <given-names>U</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>High diversity of fungi in air particulate matter.</article-title>
+          <source>Proc Nat Acad Sci</source>
+          <volume>106</volume>
+          <fpage>12814</fpage>
+          <lpage>12819</lpage>
+          <pub-id pub-id-type="pmid">19617562</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Thomma1">
+        <label>80</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thomma</surname>
+              <given-names>BPHJ</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title><italic>Alternaria</italic> spp.: from general saprophyte to specific parasite.</article-title>
+          <source>Molec Plant Pathol</source>
+          <volume>4</volume>
+          <fpage>225</fpage>
+          <lpage>236</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Azmi1">
+        <label>81</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Azmi</surname>
+              <given-names>OR</given-names>
+            </name>
+            <name>
+              <surname>Seppelt</surname>
+              <given-names>RD</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>The broad-scale distribution of microfungi in the Windmill Islands region, continental Antarctica.</article-title>
+          <source>Polar Biol</source>
+          <volume>19</volume>
+          <fpage>92</fpage>
+          <lpage>100</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Baakza1">
+        <label>82</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baakza</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vala</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Dave</surname>
+              <given-names>BP</given-names>
+            </name>
+            <name>
+              <surname>Dube</surname>
+              <given-names>HC</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>A comparative study of siderophore production by fungi from marine and terrestrial habitats.</article-title>
+          <source>J Exp Mar Biol Ecol</source>
+          <volume>311</volume>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Keller1">
+        <label>83</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keller</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bidochka</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Habitat and temporal differences among soil microfungal assemblages in Ontario.</article-title>
+          <source>Can J Bot</source>
+          <volume>76</volume>
+          <fpage>1798</fpage>
+          <lpage>1805</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-St.Leger1">
+        <label>84</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>St. Leger</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Screen</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Shams-Pirzadeh</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Lack of host specialization in <italic>Aspergillus flavus</italic>.</article-title>
+          <source>Appl Environ Microbiol</source>
+          <volume>66</volume>
+          <fpage>320</fpage>
+          <lpage>324</lpage>
+          <pub-id pub-id-type="pmid">10618242</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Baker1">
+        <label>85</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baker</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>1981</year>
+          <article-title>Ecology of the fungus, Fusarium: competition.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Toussoun</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <source>Fusarium, diseases, biology, and taxonomy</source>
+          <publisher-loc>University Park</publisher-loc>
+          <publisher-name>The Pennsylvania State University Press</publisher-name>
+          <fpage>245</fpage>
+          <lpage>249</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Burgess1">
+        <label>86</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burgess</surname>
+              <given-names>LW</given-names>
+            </name>
+          </person-group>
+          <year>1981</year>
+          <article-title>General ecology of the fusaria.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Toussoun</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <source>Fusarium, diseases, biology, and taxonomy</source>
+          <publisher-loc>University Park</publisher-loc>
+          <publisher-name>The Pennsylvania State University Press</publisher-name>
+          <fpage>225</fpage>
+          <lpage>235</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Mandeel1">
+        <label>87</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mandeel</surname>
+              <given-names>QA</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Biodiversity of the genus Fusarium in saline soil habitats.</article-title>
+          <source>J Basic Microbiol</source>
+          <volume>46</volume>
+          <fpage>480</fpage>
+          <lpage>494</lpage>
+          <pub-id pub-id-type="pmid">17139613</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-PalmeroLlamas1">
+        <label>88</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Palmero Llamas</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>de Cara Gonzalez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Iglesias Gonzalez</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ruíz Lopez</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tello Marquina</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Effects of water potential on spore germination and viability of <italic>Fusarium</italic> species.</article-title>
+          <source>J Ind Microbiol Biotechnol</source>
+          <volume>35</volume>
+          <fpage>1411</fpage>
+          <lpage>1418</lpage>
+          <pub-id pub-id-type="pmid">18712540</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Vesonder1">
+        <label>89</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vesonder</surname>
+              <given-names>RF</given-names>
+            </name>
+            <name>
+              <surname>Hesseltine</surname>
+              <given-names>CW</given-names>
+            </name>
+          </person-group>
+          <year>1981</year>
+          <article-title>Metabolites of Fusarium.</article-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Toussoun</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <source>Fusarium, diseases, biology, and taxonomy</source>
+          <publisher-loc>University Park</publisher-loc>
+          <publisher-name>The Pennsylvania State University Press</publisher-name>
+          <fpage>350</fpage>
+          <lpage>364</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Rouxel1">
+        <label>90</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rouxel</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Balesdent</surname>
+              <given-names>MH</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>The stem canker (blackleg) fungus, <italic>Leptosphaeria maculans</italic>, enters the genomic era.</article-title>
+          <source>Mol Plant Pathol</source>
+          <volume>6</volume>
+          <fpage>225</fpage>
+          <lpage>241</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Sun1">
+        <label>91</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>BD</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>HY</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>XZ</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Insect-associated fungi in soils of field crops and orchards.</article-title>
+          <source>Crop Protect</source>
+          <volume>27</volume>
+          <fpage>1421</fpage>
+          <lpage>1426</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Nechwatal1">
+        <label>92</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nechwatal</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wielgoss</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mendgen</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Diversity, host, and habitat specificity of oomycete communities in declining reed stands (<italic>Phragmites australis</italic>) of a large freshwater lake.</article-title>
+          <source>Mycol Res</source>
+          <volume>112</volume>
+          <fpage>689</fpage>
+          <lpage>696</lpage>
+          <pub-id pub-id-type="pmid">18455383</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Sonjak1">
+        <label>93</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sonjak</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Frisvad</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Gunde-Cimerman</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title><italic>Penicillium</italic> mycobiota in Arctic subglacial ice.</article-title>
+          <source>Microbial Ecol</source>
+          <volume>52</volume>
+          <fpage>207</fpage>
+          <lpage>216</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Castello1">
+        <label>94</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castello</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Lakshman</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Tavantzis</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Rogers</surname>
+              <given-names>SO</given-names>
+            </name>
+            <name>
+              <surname>Bachand</surname>
+              <given-names>GD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1995</year>
+          <article-title>Detection of infectious tomato mosaic tobamovirus in fog and clouds.</article-title>
+          <source>Phytopathology</source>
+          <volume>85</volume>
+          <fpage>1409</fpage>
+          <lpage>1412</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Castello2">
+        <label>95</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castello</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Rogers</surname>
+              <given-names>SO</given-names>
+            </name>
+            <name>
+              <surname>Starmer</surname>
+              <given-names>WT</given-names>
+            </name>
+            <name>
+              <surname>Catrianis</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1999</year>
+          <article-title>Detection of tomato mosaic tobamovirus RNA in ancient glacial ice.</article-title>
+          <source>Polar Biol</source>
+          <volume>22</volume>
+          <fpage>207</fpage>
+          <lpage>212</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000693-Fillhart1">
+        <label>96</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fillhart</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Bachand</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Castello</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Detection of infectious tobamovirus in forest soils.</article-title>
+          <source>Appl Environ Microbiol</source>
+          <volume>64</volume>
+          <fpage>1430</fpage>
+          <lpage>1435</lpage>
+          <pub-id pub-id-type="pmid">16349545</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>We acknowledge the USDA Microbial Observatories grant 2006-35319-17445 for support to LLK and support from INRA's Department “Santé des Plantes et Environnement” to CEM, MB and PCN. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

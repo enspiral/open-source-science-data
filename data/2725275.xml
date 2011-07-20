@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:31:31Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2725275" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2725275</identifier><datestamp>2009-08-13</datestamp><setSpec>emboj</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="other">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">EMBO J</journal-id>
+      <journal-title>The EMBO Journal</journal-title>
+      <issn pub-type="ppub">0261-4189</issn>
+      <issn pub-type="epub">1460-2075</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2725275</article-id>
+      <article-id pub-id-type="pii">emboj2009222</article-id>
+      <article-id pub-id-type="doi">10.1038/emboj.2009.222</article-id>
+      <article-id pub-id-type="pmid">19661919</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>EMBO Member's Review</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Neandertal genome and ancient DNA authenticity</article-title>
+        <alt-title alt-title-type="short">The Neandertal genome and ancient DNA authenticity</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Green</surname>
+            <given-names>Richard E</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Briggs</surname>
+            <given-names>Adrian W</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Krause</surname>
+            <given-names>Johannes</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Prüfer</surname>
+            <given-names>Kay</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Burbano</surname>
+            <given-names>Hernán A</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Siebauer</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lachmann</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pääbo</surname>
+            <given-names>Svante</given-names>
+          </name>
+          <xref ref-type="aff" rid="O1">1</xref>
+          <xref ref-type="corresp" rid="c1">a</xref>
+        </contrib>
+        <aff id="O1"><label>1</label>Max-Planck Institute for Evolutionary Anthropology, Leipzig, Germany</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="c1"><label>a</label>MPI for Evolutionary Anthropology, MPI, Deutscher Platz 6, D-04103 Leipzig, Germany. Tel.: +49 341 3550 501; Fax: +49 341 3550 550; E-mail: <email>paabo@eva.mpg.de</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>2</day>
+        <month>09</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>06</day>
+        <month>08</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>28</volume>
+      <issue>17</issue>
+      <fpage>2494</fpage>
+      <lpage>2502</lpage>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>06</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>07</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <copyright-statement>Copyright © 2009, European Molecular Biology Organization</copyright-statement>
+      <copyright-year>2009</copyright-year>
+      <permissions>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0">
+          <p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits distribution, and reproduction in any medium, provided the original author and source are credited. This license does not permit commercial exploitation or the creation of derivative works without specific permission.</p>
+          <!--author-paid-->
+        </license>
+      </permissions>
+      <abstract>
+        <p>Recent advances in high-thoughput DNA sequencing have made genome-scale analyses of genomes of extinct organisms possible. With these new opportunities come new difficulties in assessing the authenticity of the DNA sequences retrieved. We discuss how these difficulties can be addressed, particularly with regard to analyses of the Neandertal genome. We argue that only direct assays of DNA sequence positions in which Neandertals differ from all contemporary humans can serve as a reliable means to estimate human contamination. Indirect measures, such as the extent of DNA fragmentation, nucleotide misincorporations, or comparison of derived allele frequencies in different fragment size classes, are unreliable. Fortunately, interim approaches based on mtDNA differences between Neandertals and current humans, detection of male contamination through Y chromosomal sequences, and repeated sequencing from the same fossil to detect autosomal contamination allow initial large-scale sequencing of Neandertal genomes. This will result in the discovery of fixed differences in the nuclear genome between Neandertals and current humans that can serve as future direct assays for contamination. For analyses of other fossil hominins, which may become possible in the future, we suggest a similar ‘boot-strap' approach in which interim approaches are applied until sufficient data for more definitive direct assays are acquired.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>ancient DNA</kwd>
+        <kwd>DNA contamination</kwd>
+        <kwd>evolution</kwd>
+        <kwd>genome</kwd>
+        <kwd>Neandertal</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="9"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec disp-level="1">
+      <title>Ancient DNA and authenticity</title>
+      <p>The presence of DNA in ancient remains was initially shown by staining of DNA in histological samples of Egyptian mummies (<xref ref-type="bibr" rid="b30">Pääbo, 1984</xref>) and by extraction and cloning in bacterial plasmids of DNA from the extinct quagga and mummies (<xref ref-type="bibr" rid="b13">Higuchi <italic>et al</italic>, 1984</xref>; <xref ref-type="bibr" rid="b31">Pääbo, 1985</xref>). However, it was only the advent of the polymerase chain reaction (PCR) (<xref ref-type="bibr" rid="b25">Mullis and Faloona, 1987</xref>) that made it possible to reproduce results. Through PCR it became possible to ensure that the sequence determined did not contain errors (<xref ref-type="bibr" rid="b35">Pääbo and Wilson, 1988</xref>) and that the DNA sequences determined were indeed derived from the organism under study. Early results included the determination of DNA sequences from extinct mammals such as marsupial wolves (<xref ref-type="bibr" rid="b40">Thomas <italic>et al</italic>, 1989</xref>), moas (<xref ref-type="bibr" rid="b6">Cooper <italic>et al</italic>, 1992</xref>), and mammoths (<xref ref-type="bibr" rid="b12">Hagelberg <italic>et al</italic>, 1994</xref>; <xref ref-type="bibr" rid="b17">Höss <italic>et al</italic>, 1994</xref>; <xref ref-type="bibr" rid="b18">Krause <italic>et al</italic>, 2006</xref>) allowing resolution of the phylogenetic relationships between these extinct organisms and extant species.</p>
+      <p>Along with these successes came the realization that the ability of the PCR to amplify few or even single template molecules meant that when ancient specimens contain little or no endogenous DNA, the DNA amplified could be partially or wholly derived from exogenous DNA contaminating a specimen and be mistaken for endogenous DNA (<xref ref-type="bibr" rid="b33">Pääbo <italic>et al</italic>, 1989</xref>). For example, reports of dinosaur DNA sequences (<xref ref-type="bibr" rid="b42">Woodward <italic>et al</italic>, 1994</xref>) proved to be derived from human DNA contaminating the fossil or performed experiments (<xref ref-type="bibr" rid="b44">Zischler <italic>et al</italic>, 1995</xref>). These and other similar experiences served as cautionary tales for the growing field. As a remedy, ‘criteria of authenticity' for the study of ancient DNA were suggested (<xref ref-type="bibr" rid="b33">Pääbo <italic>et al</italic>, 1989</xref>) and the community converged on a set of laboratory practices to prevent contamination that have developed over time (<xref ref-type="bibr" rid="b7">Cooper and Poinar, 2000</xref>; <xref ref-type="bibr" rid="b16">Hofreiter <italic>et al</italic>, 2001b</xref>; <xref ref-type="bibr" rid="b34">Pääbo <italic>et al</italic>, 2004</xref>). They include, for example, strict spatial separation of ancient DNA extraction from other experiments and UV irradiation and bleach treatment of extraction areas to minimize the extent of contamination. Often, the ancient DNA extraction facilities fulfill clean room requirements in that they operate under positive pressure using filtered air, require personnel to wear sterile clothing and face shields, and to work in laminar flow hoods. The criteria for authenticity include independent replication of results within a laboratory and in many cases, such as when particularly noteworthy or surprising results are obtained, in an independent second laboratory. Such practices have generally served the field well.</p>
+      <p>In the case of hominins, that is modern humans and their close relatives such as Cro-Magnons, Neandertals, and <italic>Homo floresiensis</italic> (<xref ref-type="bibr" rid="b5">Brown <italic>et al</italic>, 2004</xref>), the issue of authenticity is particularly acute because they can be expected to be identical to current humans for much or almost all of their genome. For example, although morphologically distinct, Neandertals were so closely related to people living today that most Neandertal DNA fragments retrieved from a fossil are expected to carry no sequence differences to the corresponding human sequences (<xref ref-type="bibr" rid="b32">Pääbo, 1999</xref>). As human DNA is a very common contaminant in fossils and laboratory experiments, this makes it particularly challenging to ascertain the authenticity of Neandertal DNA sequences. Indeed, for Cro-Magnons and other modern humans, the problems are so severe that over the past 15 years we have been pessimistic over the prospects of ever reliably determining such DNA sequences (<xref ref-type="bibr" rid="b34">Pääbo <italic>et al</italic>, 2004</xref>). For Neandertals, the situation is more tractable because their mitochondrial (mt) genome proved to be different from that of any modern human studied to date (<xref ref-type="bibr" rid="b20">Krings <italic>et al</italic>, 1997</xref>), making it possible to determine Neandertal mtDNA sequences confidently.</p>
+      <p>Recently, high-throughput sequencing techniques have become available that allow large numbers of DNA sequences to be determined (<xref ref-type="bibr" rid="b23">Margulies <italic>et al</italic>, 2005</xref>; <xref ref-type="bibr" rid="b1">Bentley <italic>et al</italic>, 2008</xref>). They rely on the construction of sequencing libraries by the ligation of DNA adapters to the ends of DNA molecules in a sample. These adapters then serve as priming sites both for amplification and for sequencing, which occur either on beads or on a solid surface in which each bead or cluster on a surface represents an amplified copy of a single original template molecule.</p>
+      <p>Currently, the most common application of these techniques in ancient DNA research is direct shot-gun sequencing of random DNA fragments extracted from a fossil (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>; <xref ref-type="bibr" rid="b36">Poinar <italic>et al</italic>, 2006</xref>; <xref ref-type="bibr" rid="b39">Stiller <italic>et al</italic>, 2006</xref>; <xref ref-type="bibr" rid="b24">Miller <italic>et al</italic>, 2008</xref>). The advent of the high-throughput approach to ancient DNA analyses makes it important to revisit the criteria of authenticity. For example, reproduction of results in the same or different laboratories as a prerequisite for publication is not practicable for large-scale DNA sequencing of random molecules because of constraints on time, costs, and sample materials. Nonetheless, there are means to control and assess the extent of contamination. Here, we discuss the measures taken to control contamination in the initial sequencing efforts aimed at showing the feasibility of sequencing the Neandertal genome. We describe technical improvements incorporated into the ongoing genome sequencing effort, and use published and unpublished Neandertal DNA sequence data to describe means of assessing contamination that we are convinced will allow the reliable determination of a useful Neandertal genome sequence.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>MtDNA as an inroad to the Neandertal genome</title>
+      <p>The mitochondrial genome is only 1/200 000 the size of the nuclear genome, occurs in many copies per cell, is maternally inherited without recombination, and has been extensively used in PCR-based studies of ancient DNA, including Neandertals. These studies have shown that Neandertal mtDNAs fall outside the variation found among extant humans (<xref ref-type="bibr" rid="b20">Krings <italic>et al</italic>, 1997</xref>, <xref ref-type="bibr" rid="b19">2000</xref>; <xref ref-type="bibr" rid="b28">Ovchinnikov <italic>et al</italic>, 2000</xref>; <xref ref-type="bibr" rid="b38">Serre <italic>et al</italic>, 2004</xref>; <xref ref-type="bibr" rid="b27">Orlando <italic>et al</italic>, 2006</xref>). Thus, there are substitutions seen in all or most Neandertal mtDNAs but not in current humans, and others seen in all or most current human mtDNAs but not in Neandertals. By PCR amplification of mtDNA regions containing such diagnostic positions and subsequent cloning and sequencing of multiple independent clones from the PCR products, such substitutions can be used to estimate the relative amounts of Neandertal versus human mtDNA in a Neandertal fossil extract (<xref ref-type="fig" rid="f1">Figure 1</xref>). The level of contamination observed at diagnostic positions is thus assumed to represent the contamination level across the mitochondrial genome, allowing authenticity to be determined even for DNA fragments from regions in which no fixed differences between Neandertals and current humans occur. Thus, for the initial work addressing the feasibility of large-scale Neandertal sequencing, extracts of Neandertal bones were prepared under clean room conditions and analysed for contamination by amplification of mtDNA regions containing diagnostic positions. The extent of mtDNA contamination was estimated to be below 1% for two extracts from a ∼38 000-year-old Neandertal bone from Vindija Cave, Croatia (<xref ref-type="bibr" rid="b38">Serre <italic>et al</italic>, 2004</xref>). These were then sent to other laboratories to be directly sequenced by high-throughput technologies (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>) or cloned in plasmid vectors and subjected to sequencing (<xref ref-type="bibr" rid="b26">Noonan <italic>et al</italic>, 2006</xref>).</p>
+      <p>However, analysis of contamination in DNA extracts cannot show contamination in subsequent laboratory steps, for example, in library construction and sequencing. A particular concern is that libraries from Neandertal DNA extracts contain at most a few percent of Neandertal DNA whereas the rest stems from microbes that have colonized bones after the death of the Neandertal. Therefore, contamination of a Neandertal library with even tiny quantities of a library that contains 100% human DNA will greatly affect the results. For the ongoing genome sequencing effort, novel sequencing adapters were therefore designed and used for library construction (<xref ref-type="bibr" rid="b3">Briggs <italic>et al</italic>, 2007</xref>) that contain a unique four-nucleotide tag (TGAC) at their 3′-ends. Thus, each sequence determined from a Neandertal library should start with these four bases. Indeed, subsequent work in our laboratory has shown that carry-over of low amounts of library molecules from one sequencing run to the next can occur, making the use of such tags particularly important. A further advantage of constructing sequencing libraries using project-specific tags is that this provides a ‘snapshot' of the molecules that are present in the extract at the time of library construction. Thus, estimates of contamination and other parameters can be determined once and applied to the library as it is being used for further sequencing or other experiments.</p>
+      <p>Unfortunately, because of logistical constraints associated with the locations of the emerging technologies, it was necessary during the initial exploratory work to take scrupulously prepared DNA extracts from our clean room and use them to construct libraries in laboratories elsewhere. Subsequently, once a Neandertal genome sequencing effort based on direct sequencing of DNA extracts was initiated, the construction of tagged libraries for high-throughput sequencing was established in the clean room environment in our laboratory (<xref ref-type="bibr" rid="b3">Briggs <italic>et al</italic>, 2007</xref>). Indeed, work by <xref ref-type="bibr" rid="b41">Wall and Kim (2007</xref>) confirmed the need to perform library construction under clean room conditions using tagged library adapters. They showed that the DNA sequences from the two extracts that were prepared in our clean room and shown to carry similar and low mtDNA levels of contamination before being sent to other laboratories, showed evidence of contamination by current human DNA in at least one (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>) of the two data sets.</p>
+      <p>Once a tagged sequencing library is constructed, the next step is to estimate the level of contamination in the library. One way is to perform sequencing and identify DNA fragments indicative of contamination. The first, most obvious means of directly assessing contamination is by examining mtDNA sequences. However, until recently only about 600 bp of the Neandertal mtDNA were known, yielding only a small number of sites that could distinguish Neandertal mtDNA from current human mtDNA. Consequently, few DNA fragments among random sequence reads were informative with respect to contamination estimates. The later determination of the 16 565 nt that make up the complete mtDNA from this Neandertal individual (<xref ref-type="bibr" rid="b11">Green <italic>et al</italic>, 2008</xref>) dramatically increased the number of informative positions to 133. Using these positions, it is possible to identify enough informative fragments in data sets of reasonable size to estimate levels of mtDNA contamination. <xref ref-type="table" rid="t1">Table I</xref> shows estimates of contamination using these 133 sites from several Neandertal libraries as well as estimates directly from the extracts from which they were prepared. The corresponding extract and library estimates are generally in agreement. However, there is one notable exception: in the library constructed without the tagged adapters outside our clean room facility in 2006 (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>), 8 of 75 fragments carrying one or more of the 133 informative positions indicate current human contamination, giving an estimate of 11% contamination (CI 4.7–20%). This confirms that contamination was introduced into this dataset as suggested (<xref ref-type="bibr" rid="b41">Wall and Kim, 2007</xref>), presumably during library construction outside the clean room.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Nuclear DNA contamination estimates</title>
+      <p>A limitation inherent to extrapolation of mtDNA contamination estimates to the nuclear genome is that the ratio of mtDNA to nuclear DNA may differ among different tissues as well as between different bones (<xref ref-type="bibr" rid="b37">Schwarz <italic>et al</italic>, 2009</xref>). Thus, although analysis of mtDNA sequences yields reliable estimates of the extent of contamination of the mtDNA, the level of nuclear DNA contamination can be under- or over-estimated if the contaminating DNA source contains less or more mtDNA, respectively, than the endogenous DNA. For example, as we have pointed out (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>), if a contaminating source of DNA in the proof-of-principle data set contained low amounts of mtDNA relative to the endogenous bone DNA, the level of contamination can be higher than indicated by the mtDNA assay alone. In fact, though 375 nuclear DNA fragments were seen for each mtDNA fragment seen in the proof-of-principle data set, a subsequently produced bar-coded library from the same extract generated in our clean room has yielded 222 nuclear DNA fragments for each mtDNA fragment (<xref ref-type="table" rid="t1">Table I</xref>). If one takes the entire excess of nuclear fragments to represent contamination, that is, assumes that the contamination was exclusively of mtDNA-free nuclear DNA, this yields an estimate of contamination of 41% in that proof-of-principle data. Although this estimate relies on several tenuous assumptions it serves to show the limitation of extrapolating mtDNA contamination estimates to the nuclear genome.</p>
+      <p>To achieve reliable nuclear DNA sequences from Neandertals, it is therefore necessary to develop direct nuclear estimates of contamination similar to those for mtDNA. This will become possible once large amounts of DNA sequences from the Neandertal nuclear genome become available because fixed differences between Neandertals and current humans will then be identifiable. On the road to this goal, however, other interim approaches are needed.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Y chromosomal contamination estimates</title>
+      <p>One such interim approach is available for bones derived from female Neandertals. As females contain no Y chromosome, any Y chromosome sequence from such a bone must be from contaminating DNA derived from a male individual. By comparing the number of such sequences to the total number of sequences that map elsewhere in the genome, it is possible to estimate the levels of male contamination in female bones. However, because the Y chromosome has many regions that are identical or highly similar to those on the X chromosome, it is imperative to avoid misidentifying sequences from the X chromosome as being derived from the Y chromosome. To this end, we have identified regions of Y-unique sequence, totaling 98 kilobases, each of which has ⩾10% sequence difference to all sequences in the human genome outside of the Y chromosome.</p>
+      <p>Fortunately, the three Neandertal bones used for the bulk of the sequencing of the Neandertal genome derive from females and so this approach can be applied to the shotgun data currently being generated. For one of these bones (Vi33.16), 21 671 548 fragments have currently been identified as being derived from a hominin genome. Of these, two align to these Y-unique regions whereas 380 would be expected if the DNA derived from a male individual. This yields an estimate of 0.5% (CI 0.1–1.9%) for male human contamination. Thus, these bones seem to have levels of nuclear contamination as low as those suggested by the mtDNA assays.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>X chromosomal contamination estimates</title>
+      <p>Assays that allow the detection of female contamination are obviously also desirable. In the case of male Neandertal bones, one such strategy has been suggested. As males are haploid for the X chromosome, heterozygosity should not be observed in overlapping X chromosomal DNA fragments from male DNA samples. In cases in which different alleles are observed, at least one allele must derive from a contaminant. Although this strategy is conceptually attractive, there are several limitations in practice. First, sequencing errors caused by nucleotide misincorporations, common in ancient DNA, or machine error, will appear as a heterozygous position and can be mistaken for contamination. Second, many contaminant molecules will not harbour a sequence difference between Neandertals and humans and thus evade detection. Third, in cases of mismapping of sequences, paralogous regions that have genuine sequence differences may be mistaken for contamination. This approach is therefore unlikely to yield realistic estimates of contamination.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Autosomal contamination estimates</title>
+      <p>The most direct approach to detect modern human contamination would be to identify autosomal sequence positions in which all Neandertals differ from all or almost all current humans. However, because for so much of their nuclear genome Neandertals share the variation still present in modern humans (<xref ref-type="bibr" rid="b32">Pääbo, 1999</xref>), such positions will be rare. Extensive sequence information from several Neandertals will therefore be required before a set of such positions is found.</p>
+      <p>One interim solution is to use a two-stage approach for any particular Neandertal fossil under study. In the first stage, a targeted capture method such as PEC (<xref ref-type="bibr" rid="b2">Briggs <italic>et al</italic>, 2009</xref>) can be used to isolate one or more genomic region of putative Neandertal DNA from sequencing libraries. In these regions, some positions will show a human–chimpanzee difference in which outgroup comparison shows that a substitution occurred on the human lineage after the human–chimpanzee split 5–7 million years ago. At a proportion of these positions the Neandertal will carry the ancestral, ape-like state. These positions can be then genotyped in population samples of humans from around the world to identify the subset of these positions in which all or almost all humans are derived. This final subset represents positions in which this particular Neandertal differs from all or almost all extant humans. Then, in a second stage, these human–Neandertal diagnostic positions can be used to generate estimates of nuclear DNA contamination in sequencing of other, independent libraries from the same Neandertal individual.</p>
+      <p>A limitation of this approach is that it requires libraries of relatively high genome coverage so that a reasonable number of informative positions can be identified in the first set of experiments, at sufficiently high coverage to be confident that the Neandertal is homozygous, and then independently retrieved in the second set of experiments. It also requires that a large amount of sequencing be performed before estimates can be generated. However, in conjunction with mtDNA and Y chromosomal estimates this approach is currently in our opinion the best way to arrive at realistic estimates of contamination in Neandertal genome sequence data. Eventually, once a first Neandertal genome sequence is available and information from further Neandertals accumulates, a set of positions in which fixed differences between Neandertals and current humans exist will be identified. These will then serve as future direct estimators of contamination, as is now possible for the Neandertal mitochondrial genome.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Indirect estimates of contamination</title>
+      <p>In contrast to the approaches above that rely on direct observation of DNA sequences that are indicative of contamination in Neandertal libraries, other approaches have been suggested that use global characteristics of large-scale datasets and compare them to what can be expected for ancient DNA. For example, fragmentation is a universal feature of ancient DNA (<xref ref-type="bibr" rid="b29">Pääbo, 1989</xref>). Therefore, <italic>bona fide</italic> ancient DNA sequences will generally be short. Likewise, nucleotide misincorporations resulting from deamination of cytosine residues result in many C to T and G to A substitutions in ancient DNA (<xref ref-type="bibr" rid="b15">Hofreiter <italic>et al</italic>, 2001a</xref>; <xref ref-type="bibr" rid="b3">Briggs <italic>et al</italic>, 2007</xref>; <xref ref-type="bibr" rid="b4">Brotherton <italic>et al</italic>, 2007</xref>). These approaches have the benefit of allowing contamination levels to be estimated from relatively small sets of random sequences. However, many pitfalls that are briefly discussed below make them unreliable as estimators of contamination.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Estimates based on fragment size</title>
+      <p>Variability in the distribution of fragment lengths in different fossils and even within extracts from a single fossil make the extent of DNA fragmentation a less attractive option for estimating contamination. For example, the fraction of endogenous mtDNA fragments that are above 80 bp in length is ∼11% in a Neandertal from El Sidron in Spain, ∼27% in a Neandertal from Vindija in Croatia, and ∼37% in a Neandertal from Feldhofer in Germany (<xref ref-type="fig" rid="f2">Figure 2</xref>) (<xref ref-type="bibr" rid="b2">Briggs <italic>et al</italic>, 2009</xref>). Furthermore, this method is only reliable if the contaminating DNA is not fragmented to an extent similar to that of the endogenous ancient DNA. This is not always the case. For example, in DNA extracts of the El Sidron Neandertal, mtDNA fragments retrieved that are known to be contamination because they carry nucleotide substitutions typical of current humans are as short as the endogenous Neandertal mtDNA; in the Vindija Neandertal some contaminating fragments are longer whereas others are short; and even in the Feldhofer Neandertal, in which the contaminating mtDNA fragments are clearly on average longer than the endogenous ones, the two types of molecules overlap in size (<xref ref-type="fig" rid="f2">Figure 2</xref>) (<xref ref-type="bibr" rid="b2">Briggs <italic>et al</italic>, 2009</xref>). Thus, fragment length <italic>per se</italic> is not a reliable estimator of contamination.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Fragment size and divergence to humans</title>
+      <p>One promising approach is to analyse fragment length in conjunction with other features of the DNA fragments. <xref ref-type="bibr" rid="b41">Wall and Kim (2007</xref>) showed that in one of the data sets published in 2006 (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>) longer sequences were less diverged from the human reference genome sequence and more often carried the derived allele at positions in which current humans are polymorphic than did shorter sequences. As these are features expected for contaminating human DNA, they suggested that longer sequences were enriched for current human DNA in these data.</p>
+      <p>However, random DNA fragments sequenced from the extract of a Neandertal bone must first be identified as being of hominin rather than bacterial origin before they can be analysed. This step relies on recognizing sequence similarity between Neandertal sequences and either the human or chimpanzee genomes. This is difficult for short fragment, especially if they carry nucleotide misincorporations and sequencing errors, and as a consequence the estimates of the human–Neandertal divergence can be biased upwards for short fragments. To illustrate this, we analysed a data set of 3700 million base pairs determined from a Neandertal fossil on the Roche FLX platform in sequence bins of increasing length (<xref ref-type="fig" rid="f3">Figure 3</xref>). For each length bin, we analysed the divergence using fragments identified using the same score cut-off for uniqueness in the human and chimpanzee genomes as was used in earlier analyses (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>; <xref ref-type="bibr" rid="b26">Noonan <italic>et al</italic>, 2006</xref>; <xref ref-type="bibr" rid="b41">Wall and Kim, 2007</xref>) as well as a more stringent cut-off. Strikingly, the divergence estimates for the fragments greater than 80 nucleotides in length is only minimally affected by increasing the stringency whereas the discrepancy becomes progressively larger for the shorter fragments. Thus, fragments of length 30–40 nucleotides identified with the lower, less strict cut-off score diverge on average 14.0% back in the past along the lineage to the human–chimpanzee common ancestor whereas the fragments with the higher, stricter cut-off diverge 12.5% back. This indicates that for shorter fragments the higher proportion of sequences that are mapped incorrectly inflate the apparent divergence between the human and Neandertal genomes.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Fragment size and derived alleles</title>
+      <p>At positions in the genome in which current humans exhibit a single nucleotide polymorphism, the Neandertal will either carry the ancestral allele seen in apes, or the derived allele caused by a mutation in the past. If longer fragments carry derived alleles more frequently than short fragments, this may suggest that the longer fragments are relatively more contaminated with modern human DNA fragments. However, this may also be because of the fact that shorter sequences are more frequently mapped incorrectly to genome sequences. To explore this, we first aligned Neandertal sequences to the human genome and determined the observed fraction of derived alleles that they carry. We then cut them in half <italic>in silico</italic> and again aligned them to the human genome and determined the fraction of derived alleles. Although Neandertal sequences of length 60–78 nt carry the human derived alleles in 17.1% of cases, when the same sequences are artificially reduced to a length of 30–39 nt, they carry the derived alleles in 15.1% of cases (<xref ref-type="fig" rid="f4">Figure 4B</xref>), similar to what is seen in sequences that are already this short (<xref ref-type="fig" rid="f4">Figure 4A</xref>). That this is indeed an artefact caused by how sequences of different lengths are aligned to the human genome is supported by the observation that the segments of the human reference genome to which the sequences are aligned reduce their fraction of derived alleles from 25.7 to 22.7% when the Neandertal sequences are shorter (<xref ref-type="fig" rid="f4">Figure 4B</xref>).</p>
+      <p>The cause of this phenomenon is that if a Neandertal DNA sequence and reference human genome carry non-matching alleles there is a reduced ability to recognize the Neandertal sequence as being of hominin origin. This effect is stronger for shorter sequences. As derived alleles are of lower frequency than ancestral alleles both in humans and Neandertals, and even lower in Neandertals than in humans, sequences with mismatches represent cases in which the Neandertal is derived relatively more often than sequences in which no mismatches are seen. For example, if Neandertals carry derived alleles at 17% of polymorphic sites and humans at 35% of such sites, then the Neandertal will carry derived alleles at ∼28% polymorphic positions in which there are mismatches between the human and Neandertal genomes at only 10% of positions in which the two genomes match each other. Thus, short DNA fragments will appear to carry derived alleles in Neandertals more rarely than long fragments because short fragments are more often lost in the analysis. This will result in an overestimate of contamination rates as calculated by <xref ref-type="bibr" rid="b41">Wall and Kim (2007</xref>).</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Nucleotide misincorporations</title>
+      <p>C to T and G to A nucleotide misincorporations are a feature often seen in ancient DNA (<xref ref-type="bibr" rid="b15">Hofreiter <italic>et al</italic>, 2001a</xref>) and such misincorporations are more frequent at the 5′- and 3′-ends of molecules, respectively (<xref ref-type="bibr" rid="b3">Briggs <italic>et al</italic>, 2007</xref>; <xref ref-type="bibr" rid="b4">Brotherton <italic>et al</italic>, 2007</xref>). This could in principle provide a means of establishing that DNA is ancient. Unfortunately, this approach is limited in three ways. First, most <italic>bona fide</italic> ancient DNA sequences contain no nucleotide misincorporations. Second, contaminating sequences do occasionally contain nucleotide misincorporations (<xref ref-type="bibr" rid="b22">Malmström <italic>et al</italic>, 2005</xref>; <xref ref-type="bibr" rid="b11">Green <italic>et al</italic>, 2008</xref>). Third, although the extent of deamination-induced nucleotide misincorporations seems to be correlated positively with the extent of fragmentation of the DNA, both of these features vary substantially between Neandertal specimens (<xref ref-type="bibr" rid="b2">Briggs <italic>et al</italic>, 2009</xref>). Indeed, in many cases, contaminating DNA may be both degraded (such as in skin fragments in dust particles) and deaminated (for example, when it has been deposited in or on a fossil or in chemical reagents for a long time). Therefore, similar to fragment size, nucleotide misincorporations are at best a quantitative rather then a qualitative difference between endogenous and contaminating DNA that can not easily be used to estimate contamination, at least on a fragment-by-fragment basis (but see Conclusions and prospects, below).</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Conclusions and prospects</title>
+      <p>When ancient DNA is studied by high-throughput sequencing rather than PCR, the laboratory procedures that have been developed for ancient DNA extraction and contamination prevention over the past 20 years are still of utmost importance. These procedures need to be adhered to up to the point of the construction of libraries using adapters carrying unique tags. Only after such tagged adapters have been added is it safe for libraries to leave clean room facilities for other manipulations and sequencing. Significantly, all potential sources of contamination, starting with the bone itself, through DNA extraction and adaptor ligation can then be considered together in a single ‘snapshot' of the contamination of a library. Thus, all later assays of contamination of the same library can be assigned to the same contamination estimate and thereby add to its precision.</p>
+      <p>Methods that allow specific sequences of interest to be retrieved from such tagged libraries (<xref ref-type="bibr" rid="b14">Hodges <italic>et al</italic>, 2007</xref>; <xref ref-type="bibr" rid="b2">Briggs <italic>et al</italic>, 2009</xref>; <xref ref-type="bibr" rid="b9">Gnirke <italic>et al</italic>, 2009</xref>) make it possible to quickly analyse many sequences of interest from such libraries. Criteria of authenticity that are currently successfully applied to PCR-based studies of ancient DNA, such as reproduction of results from an independent extraction from the same bone, will then be useful just as they have been hitherto in PCR-based studies. In contrast, these criteria are not easily applicable to high-throughput shot-gun sequencing of entire ancient genomes. This is a particular problem for the Neandertal genome but applies also to other ancient genomes, such as mammoths (<xref ref-type="bibr" rid="b24">Miller <italic>et al</italic>, 2008</xref>), because all mammals including humans share conserved DNA sequence elements that may confuse results.</p>
+      <p>For sequencing ancient genomes we suggest a two-phase approach, much as was done for the Neandertal mitochondrial genome, in which initial work identified differences to current human mtDNAs and such differences were later applied to directly estimate contamination. For the first phase of genome sequencing, several direct contamination estimates, where each in itself is less than comprehensive, will be applied in concert. For the Neandertal genome, this includes the determination of mtDNA contamination, the detection of male contamination in bones of females, and capture methods that allow positions diagnostic of contamination in one particular individual to be identified and subsequently used in other libraries from the same individual. Eventually, once a Neandertal genome sequence is determined to high coverage, capture approaches can be applied to other Neandertals to identify enough positions that are fixed among Neandertals and differ from current humans. At that point such positions can be used to estimate contamination in Neandertal libraries even before they are subjected to other analyses. However, even then, some possible technical concerns need to be addressed. For example, because the sequences retrieved from ancient bones tend to be rich in the nucleotides G and C (<xref ref-type="bibr" rid="b11">Green <italic>et al</italic>, 2008</xref>), it needs to be determined to what extent such preservation biases are equally representative of endogenous and contaminating DNA, and thus whether a ‘correction factor' might be required when extrapolating contamination estimates derived from high-coverage diagnostic positions to the entire genome.</p>
+      <p>In contrast to the direct estimates that we describe and advocate above, indirect measures based on the extent of fragmentation or modification of the DNA are at best supportive in nature. Particularly, comparisons of features between longer and shorter DNA fragments suffer from the fact that shorter fragments are more difficult to identify and correctly align to genome sequences of extant species.</p>
+      <p>One interesting question is whether it will be possible to estimate contamination in analyses of early hominins other than Neandertals, such as other archaic human forms or early modern humans. Conceivably, this may be possible by ‘boot-strapping' oneself from the mtDNA to the nuclear DNA much as is done for the Neandertal genome. If extracts from a specimen can be identified for which deep high-throughput sequencing of mtDNA shows that a single mtDNA genome is present with minimal or absent indication of any additional mtDNA, this shows that the DNA preparation derives from a single individual. This individual is either the ancient individual from which the samples stems or a single recent human contaminating the specimen or extract. In this situation, fragmentation and nucleotide misincorporations may have a helpful role. Although individual ancient DNA fragments cannot be reliably distinguished from modern contaminants based on these features, the knowledge that all sequences in a dataset derive from a single individual will allow the overall fragmentation and misincorporation patterns to be analysed. If it can be shown that these patterns fall in a range typical of ancient, minimally contaminated specimens, and outside the range seen in contaminating DNA from specimens found and curated under conditions similar to the specimen being studied, then the DNA sequences are likely to be ancient. The mitochondrial and nuclear DNA sequences thus determined can then serve as an inroad to targeted studies of other, less well preserved specimens of the same hominin group. We are thus hopeful that it may become possible to sequence not only the Neandertal genome to high coverage, but also to study genomes of other ancient human forms provided that uncontaminated specimens that allow very deep sequencing can be found.</p>
+    </sec>
+    <sec disp-level="1" sec-type="materials|methods">
+      <title>Materials and methods</title>
+      <sec disp-level="2">
+        <title>MtDNA contamination assay</title>
+        <p>Before library production, DNA extracts were analysed for contamination using primers that amplify Neandertal as well as modern human mitochondrial control region sequences. The products were cloned and over 100 individual clones sequenced for each experiment. Such results are shown in <xref ref-type="table" rid="t1">Table I</xref>. To assay mtDNA contamination in the shotgun sequencing reads we score all positions in which the recently determined Neandertal mtDNA sequence differs from more than 99% of 311 humans (<xref ref-type="bibr" rid="b11">Green <italic>et al</italic>, 2008</xref>). Positions in which the fragment sequenced carries T or A residues and the human or Neandertal mtDNAs C or G residues, respectively, are excluded from the analyses because these may be caused by deaminated C residues in the extracted DNA (<xref ref-type="bibr" rid="b15">Hofreiter <italic>et al</italic>, 2001a</xref>). In addition, any positions in which the human and Neandertal mtDNAs differ by an insertion in which two or more of the same base exist in one of the species are excluded because homopolymer length is difficult to score by 454 sequencing.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Orthology and alignments</title>
+        <p>To identify orthologous sequences in the three genomes, each DNA sequence that had a best match to a single region of the human genome by megablast (<xref ref-type="bibr" rid="b43">Zhang <italic>et al</italic>, 2000</xref>) (bit-score difference of 1 or 5) was similarly compared in the chimpanzee genome. If it had a unique best match also in the chimpanzee by the same criteria, then these two alignment positions were used if they are reciprocally orthologous in the human–chimpanzee whole genome alignments (UCSC hg18vsPanTro2 and panTro2vsHg18). This removed about 25% of the sequences initially identified as Neandertal.</p>
+        <p>To align the DNA sequences from the three genomes, we refrained from progressive alignment approaches (for example, <italic>clustalw</italic>) because divergence estimates were found to be very sensitive to alignment order. Instead, we implemented a three-dimensional dynamic programming alignment (<xref ref-type="bibr" rid="b21">Lipman <italic>et al</italic>, 1989</xref>; <xref ref-type="bibr" rid="b8">Durbin <italic>et al</italic>, 1998</xref>) that simultaneously maximizes the similarity between Neandertal, human, and chimpanzee sequences. Finally, 5.2% of the remaining sequences that represent possible chimaeras or contain large numbers of insertions and deletions were removed.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Neandertal DNA divergence</title>
+        <p>To estimate the average divergence between Neandertal and human DNA sequences, we use alignment positions in which the human and chimpanzee genomes differ. Assuming equal evolutionary rates on the human and chimpanzee lineages, we then determine the fraction of substitutions on the human lineage in which the Neandertal shares the human state versus the chimpanzee state (<xref ref-type="bibr" rid="b10">Green <italic>et al</italic>, 2006</xref>), restricting the analysis to positions in which the human base differs from the chimpanzee base by a transversion because of the increased rate of C to T and G to A transitions seen in ancient DNA.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We are indebted to Jim Mullikin for suggesting the analysis of Neandertal sequences shortened in size <italic>in silico</italic>; to Christine Verna for the mandible picture in <xref ref-type="fig" rid="f1">Figure 1</xref>; to Udo Stenzel for technical assistance; to the ancient DNA groups in Leipzig and the Neandertal Genome Analysis Consortium for their enthusiasm and input; to Linda Vigilant and Adam Willkins for input on the manuscript; and to the Presidential Innovation Fund of the Max Planck Society for making the Neandertal Genome Project possible.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors declare that they have no conflict of interest.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="b1">
+        <citation citation-type="journal"><name><surname>Bentley</surname><given-names>DR</given-names></name>, <name><surname>Balasubramanian</surname><given-names>S</given-names></name>, <name><surname>Swerdlow</surname><given-names>HP</given-names></name>, <name><surname>Smith</surname><given-names>GP</given-names></name>, <name><surname>Milton</surname><given-names>J</given-names></name>, <name><surname>Brown</surname><given-names>CG</given-names></name>, <name><surname>Hall</surname><given-names>KP</given-names></name>, <name><surname>Evers</surname><given-names>DJ</given-names></name>, <name><surname>Barnes</surname><given-names>CL</given-names></name>, <name><surname>Bignell</surname><given-names>HR</given-names></name>, <name><surname>Boutell</surname><given-names>JM</given-names></name>, <name><surname>Bryant</surname><given-names>J</given-names></name>, <name><surname>Carter</surname><given-names>RJ</given-names></name>, <name><surname>Keira Cheetham</surname><given-names>R</given-names></name>, <name><surname>Cox</surname><given-names>AJ</given-names></name>, <name><surname>Ellis</surname><given-names>DJ</given-names></name>, <name><surname>Flatbush</surname><given-names>MR</given-names></name>, <name><surname>Gormley</surname><given-names>NA</given-names></name>, <name><surname>Humphray</surname><given-names>SJ</given-names></name>, <name><surname>Irving</surname><given-names>LJ</given-names></name> <etal/> (<year>2008</year>) <article-title>Accurate whole human genome sequencing using reversible terminator chemistry</article-title>. <source>Nature</source> <volume>456</volume>: <fpage>53</fpage>–<lpage>59</lpage><pub-id pub-id-type="pmid">18987734</pub-id></citation>
+      </ref>
+      <ref id="b2">
+        <citation citation-type="journal"><name><surname>Briggs</surname><given-names>AW</given-names></name>, <name><surname>Good</surname><given-names>JM</given-names></name>, <name><surname>Green</surname><given-names>RE</given-names></name>, <name><surname>Krause</surname><given-names>J</given-names></name>, <name><surname>Maricic</surname><given-names>T</given-names></name>, <name><surname>Stenzel</surname><given-names>U</given-names></name>, <name><surname>Lalueza-Fox</surname><given-names>C</given-names></name>, <name><surname>Pavao</surname><given-names>R</given-names></name>, <name><surname>Brajkovic</surname><given-names>D</given-names></name>, <name><surname>Kucan</surname><given-names>Z</given-names></name>, <name><surname>Gusic</surname><given-names>I</given-names></name>, <name><surname>Schmitz</surname><given-names>RW</given-names></name>, <name><surname>Doronichev</surname><given-names>VB</given-names></name>, <name><surname>Golovanova</surname><given-names>LV</given-names></name>, <name><surname>de la Resilla</surname><given-names>M</given-names></name>, <name><surname>Fortea</surname><given-names>J</given-names></name>, <name><surname>Rosas</surname><given-names>A</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2009</year>) <article-title>Targeted retrieval and analysis of five Neandertal mtDNA genomes</article-title>. <source>Science</source> <volume>325</volume>: <fpage>318</fpage>–<lpage>321</lpage><pub-id pub-id-type="pmid">19608918</pub-id></citation>
+      </ref>
+      <ref id="b3">
+        <citation citation-type="journal"><name><surname>Briggs</surname><given-names>AW</given-names></name>, <name><surname>Stenzel</surname><given-names>U</given-names></name>, <name><surname>Johnson</surname><given-names>PL</given-names></name>, <name><surname>Green</surname><given-names>RE</given-names></name>, <name><surname>Kelso</surname><given-names>J</given-names></name>, <name><surname>Prufer</surname><given-names>K</given-names></name>, <name><surname>Meyer</surname><given-names>M</given-names></name>, <name><surname>Krause</surname><given-names>J</given-names></name>, <name><surname>Ronan</surname><given-names>MT</given-names></name>, <name><surname>Lachmann</surname><given-names>M</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2007</year>) <article-title>Patterns of damage in genomic DNA sequences from a Neandertal</article-title>. <source>Proc Natl Acad Sci USA</source> <volume>104</volume>: <fpage>14616</fpage>–<lpage>14621</lpage><pub-id pub-id-type="pmid">17715061</pub-id></citation>
+      </ref>
+      <ref id="b4">
+        <citation citation-type="journal"><name><surname>Brotherton</surname><given-names>P</given-names></name>, <name><surname>Endicott</surname><given-names>P</given-names></name>, <name><surname>Sanchez</surname><given-names>JJ</given-names></name>, <name><surname>Beaumont</surname><given-names>M</given-names></name>, <name><surname>Barnett</surname><given-names>R</given-names></name>, <name><surname>Austin</surname><given-names>J</given-names></name>, <name><surname>Cooper</surname><given-names>A</given-names></name> (<year>2007</year>) <article-title>Novel high-resolution characterization of ancient DNA reveals C &gt; U-type base modification events as the sole cause of post mortem miscoding lesions</article-title>. <source>Nucleic Acids Res</source> <volume>35</volume>: <fpage>5717</fpage>–<lpage>5728</lpage><pub-id pub-id-type="pmid">17715147</pub-id></citation>
+      </ref>
+      <ref id="b5">
+        <citation citation-type="journal"><name><surname>Brown</surname><given-names>P</given-names></name>, <name><surname>Sutikna</surname><given-names>T</given-names></name>, <name><surname>Morwood</surname><given-names>MJ</given-names></name>, <name><surname>Soejono</surname><given-names>RP</given-names></name>, <name><surname>Jatmiko</surname></name>, <name><surname>Saptomo</surname><given-names>EW</given-names></name>, <name><surname>Due</surname><given-names>RA</given-names></name> (<year>2004</year>) <article-title>A new small-bodied hominin from the Late Pleistocene of Flores, Indonesia</article-title>. <source>Nature</source> <volume>431</volume>: <fpage>1055</fpage>–<lpage>1061</lpage><pub-id pub-id-type="pmid">15514638</pub-id></citation>
+      </ref>
+      <ref id="b6">
+        <citation citation-type="journal"><name><surname>Cooper</surname><given-names>A</given-names></name>, <name><surname>Mourer-Chauvire</surname><given-names>C</given-names></name>, <name><surname>Chambers</surname><given-names>GK</given-names></name>, <name><surname>von Haeseler</surname><given-names>A</given-names></name>, <name><surname>Wilson</surname><given-names>AC</given-names></name>, <name><surname>Paabo</surname><given-names>S</given-names></name> (<year>1992</year>) <article-title>Independent origins of New Zealand moas and kiwis</article-title>. <source>Proc Natl Acad Sci USA</source> <volume>89</volume>: <fpage>8741</fpage>–<lpage>8744</lpage><pub-id pub-id-type="pmid">1528888</pub-id></citation>
+      </ref>
+      <ref id="b7">
+        <citation citation-type="journal"><name><surname>Cooper</surname><given-names>A</given-names></name>, <name><surname>Poinar</surname><given-names>HN</given-names></name> (<year>2000</year>) <article-title>Ancient DNA: do it right or not at all</article-title>. <source>Science</source> <volume>289</volume>: <fpage>1139</fpage><pub-id pub-id-type="pmid">10970224</pub-id></citation>
+      </ref>
+      <ref id="b8">
+        <citation citation-type="journal"><name><surname>Durbin</surname><given-names>R</given-names></name>, <name><surname>Eddy</surname><given-names>S</given-names></name>, <name><surname>Krogh</surname><given-names>A</given-names></name>, <name><surname>Mitchison</surname><given-names>G</given-names></name> (<year>1998</year>) <source>Biological Sequence Analysis</source>. Cambridge: Cambridge University Press</citation>
+      </ref>
+      <ref id="b9">
+        <citation citation-type="journal"><name><surname>Gnirke</surname><given-names>A</given-names></name>, <name><surname>Melnikov</surname><given-names>A</given-names></name>, <name><surname>Maguire</surname><given-names>J</given-names></name>, <name><surname>Rogov</surname><given-names>P</given-names></name>, <name><surname>LeProust</surname><given-names>EM</given-names></name>, <name><surname>Brockman</surname><given-names>W</given-names></name>, <name><surname>Fennell</surname><given-names>T</given-names></name>, <name><surname>Giannoukos</surname><given-names>G</given-names></name>, <name><surname>Fisher</surname><given-names>S</given-names></name>, <name><surname>Russ</surname><given-names>C</given-names></name>, <name><surname>Gabriel</surname><given-names>S</given-names></name>, <name><surname>Jaffe</surname><given-names>DB</given-names></name>, <name><surname>Lander</surname><given-names>ES</given-names></name>, <name><surname>Nusbaum</surname><given-names>C</given-names></name> (<year>2009</year>) <article-title>Solution hybrid selection with ultra-long oligonucleotides for massively parallel targeted sequencing</article-title>. <source>Nat Biotechnol</source> <volume>27</volume>: <fpage>182</fpage>–<lpage>189</lpage><pub-id pub-id-type="pmid">19182786</pub-id></citation>
+      </ref>
+      <ref id="b10">
+        <citation citation-type="journal"><name><surname>Green</surname><given-names>RE</given-names></name>, <name><surname>Krause</surname><given-names>J</given-names></name>, <name><surname>Ptak</surname><given-names>SE</given-names></name>, <name><surname>Briggs</surname><given-names>AW</given-names></name>, <name><surname>Ronan</surname><given-names>MT</given-names></name>, <name><surname>Simons</surname><given-names>JF</given-names></name>, <name><surname>Du</surname><given-names>L</given-names></name>, <name><surname>Egholm</surname><given-names>M</given-names></name>, <name><surname>Rothberg</surname><given-names>JM</given-names></name>, <name><surname>Paunovic</surname><given-names>M</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2006</year>) <article-title>Analysis of one million base pairs of Neanderthal DNA</article-title>. <source>Nature</source> <volume>444</volume>: <fpage>330</fpage>–<lpage>336</lpage><pub-id pub-id-type="pmid">17108958</pub-id></citation>
+      </ref>
+      <ref id="b11">
+        <citation citation-type="journal"><name><surname>Green</surname><given-names>RE</given-names></name>, <name><surname>Malaspinas</surname><given-names>AS</given-names></name>, <name><surname>Krause</surname><given-names>J</given-names></name>, <name><surname>Briggs</surname><given-names>AW</given-names></name>, <name><surname>Johnson</surname><given-names>PL</given-names></name>, <name><surname>Uhler</surname><given-names>C</given-names></name>, <name><surname>Meyer</surname><given-names>M</given-names></name>, <name><surname>Good</surname><given-names>JM</given-names></name>, <name><surname>Maricic</surname><given-names>T</given-names></name>, <name><surname>Stenzel</surname><given-names>U</given-names></name>, <name><surname>Prufer</surname><given-names>K</given-names></name>, <name><surname>Siebauer</surname><given-names>M</given-names></name>, <name><surname>Burbano</surname><given-names>HA</given-names></name>, <name><surname>Ronan</surname><given-names>M</given-names></name>, <name><surname>Rothberg</surname><given-names>JM</given-names></name>, <name><surname>Egholm</surname><given-names>M</given-names></name>, <name><surname>Rudan</surname><given-names>P</given-names></name>, <name><surname>Brajkovic</surname><given-names>D</given-names></name>, <name><surname>Kucan</surname><given-names>Z</given-names></name>, <name><surname>Gusic</surname><given-names>I</given-names></name> <etal/> (<year>2008</year>) <article-title>A complete Neandertal mitochondrial genome sequence determined by high-throughput sequencing</article-title>. <source>Cell</source> <volume>134</volume>: <fpage>416</fpage>–<lpage>426</lpage><pub-id pub-id-type="pmid">18692465</pub-id></citation>
+      </ref>
+      <ref id="b12">
+        <citation citation-type="journal"><name><surname>Hagelberg</surname><given-names>E</given-names></name>, <name><surname>Thomas</surname><given-names>MG</given-names></name>, <name><surname>Cook</surname><given-names>CE</given-names><suffix>Jr</suffix></name>, <name><surname>Sher</surname><given-names>AV</given-names></name>, <name><surname>Baryshnikov</surname><given-names>GF</given-names></name>, <name><surname>Lister</surname><given-names>AM</given-names></name> (<year>1994</year>) <article-title>DNA from ancient mammoth bones</article-title>. <source>Nature</source> <volume>370</volume>: <fpage>333</fpage>–<lpage>334</lpage><pub-id pub-id-type="pmid">8047136</pub-id></citation>
+      </ref>
+      <ref id="b13">
+        <citation citation-type="journal"><name><surname>Higuchi</surname><given-names>R</given-names></name>, <name><surname>Bowman</surname><given-names>B</given-names></name>, <name><surname>Freiberger</surname><given-names>M</given-names></name>, <name><surname>Ryder</surname><given-names>OA</given-names></name>, <name><surname>Wilson</surname><given-names>AC</given-names></name> (<year>1984</year>) <article-title>DNA sequences from the quagga, an extinct member of the horse family</article-title>. <source>Nature</source> <volume>312</volume>: <fpage>282</fpage>–<lpage>284</lpage><pub-id pub-id-type="pmid">6504142</pub-id></citation>
+      </ref>
+      <ref id="b14">
+        <citation citation-type="journal"><name><surname>Hodges</surname><given-names>E</given-names></name>, <name><surname>Xuan</surname><given-names>Z</given-names></name>, <name><surname>Balija</surname><given-names>V</given-names></name>, <name><surname>Kramer</surname><given-names>M</given-names></name>, <name><surname>Molla</surname><given-names>MN</given-names></name>, <name><surname>Smith</surname><given-names>SW</given-names></name>, <name><surname>Middle</surname><given-names>CM</given-names></name>, <name><surname>Rodesch</surname><given-names>MJ</given-names></name>, <name><surname>Albert</surname><given-names>TJ</given-names></name>, <name><surname>Hannon</surname><given-names>GJ</given-names></name>, <name><surname>McCombie</surname><given-names>WR</given-names></name> (<year>2007</year>) <article-title>Genome-wide <italic>in situ</italic> exon capture for selective resequencing</article-title>. <source>Nat Genet</source> <volume>39</volume>: <fpage>1522</fpage>–<lpage>1527</lpage><pub-id pub-id-type="pmid">17982454</pub-id></citation>
+      </ref>
+      <ref id="b15">
+        <citation citation-type="journal"><name><surname>Hofreiter</surname><given-names>M</given-names></name>, <name><surname>Jaenicke</surname><given-names>V</given-names></name>, <name><surname>Serre</surname><given-names>D</given-names></name>, <name><surname>Haeseler Av</surname><given-names>A</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2001a</year>) <article-title>DNA sequences from multiple amplifications reveal artifacts induced by cytosine deamination in ancient DNA</article-title>. <source>Nucleic Acids Res</source> <volume>29</volume>: <fpage>4793</fpage>–<lpage>4799</lpage><pub-id pub-id-type="pmid">11726688</pub-id></citation>
+      </ref>
+      <ref id="b16">
+        <citation citation-type="journal"><name><surname>Hofreiter</surname><given-names>M</given-names></name>, <name><surname>Serre</surname><given-names>D</given-names></name>, <name><surname>Poinar</surname><given-names>HN</given-names></name>, <name><surname>Kuch</surname><given-names>M</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2001b</year>) <article-title>Ancient DNA</article-title>. <source>Nat Rev Genet</source> <volume>2</volume>: <fpage>353</fpage>–<lpage>359</lpage><pub-id pub-id-type="pmid">11331901</pub-id></citation>
+      </ref>
+      <ref id="b17">
+        <citation citation-type="journal"><name><surname>Höss</surname><given-names>M</given-names></name>, <name><surname>Paabo</surname><given-names>S</given-names></name>, <name><surname>Vereshchagin</surname><given-names>NK</given-names></name> (<year>1994</year>) <article-title>Mammoth DNA sequences</article-title>. <source>Nature</source> <volume>370</volume>: <fpage>333</fpage></citation>
+      </ref>
+      <ref id="b18">
+        <citation citation-type="journal"><name><surname>Krause</surname><given-names>J</given-names></name>, <name><surname>Dear</surname><given-names>PH</given-names></name>, <name><surname>Pollack</surname><given-names>JL</given-names></name>, <name><surname>Slatkin</surname><given-names>M</given-names></name>, <name><surname>Spriggs</surname><given-names>H</given-names></name>, <name><surname>Barnes</surname><given-names>I</given-names></name>, <name><surname>Lister</surname><given-names>AM</given-names></name>, <name><surname>Ebersberger</surname><given-names>I</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name>, <name><surname>Hofreiter</surname><given-names>M</given-names></name> (<year>2006</year>) <article-title>Multiplex amplification of the mammoth mitochondrial genome and the evolution of Elephantidae</article-title>. <source>Nature</source> <volume>439</volume>: <fpage>724</fpage>–<lpage>727</lpage><pub-id pub-id-type="pmid">16362058</pub-id></citation>
+      </ref>
+      <ref id="b19">
+        <citation citation-type="journal"><name><surname>Krings</surname><given-names>M</given-names></name>, <name><surname>Capelli</surname><given-names>C</given-names></name>, <name><surname>Tschentscher</surname><given-names>F</given-names></name>, <name><surname>Geisert</surname><given-names>H</given-names></name>, <name><surname>Meyer</surname><given-names>S</given-names></name>, <name><surname>von Haeseler</surname><given-names>A</given-names></name>, <name><surname>Grossschmidt</surname><given-names>K</given-names></name>, <name><surname>Possnert</surname><given-names>G</given-names></name>, <name><surname>Paunovic</surname><given-names>M</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2000</year>) <article-title>A view of Neandertal genetic diversity</article-title>. <source>Nat Genet</source> <volume>26</volume>: <fpage>144</fpage>–<lpage>146</lpage><pub-id pub-id-type="pmid">11017066</pub-id></citation>
+      </ref>
+      <ref id="b20">
+        <citation citation-type="journal"><name><surname>Krings</surname><given-names>M</given-names></name>, <name><surname>Stone</surname><given-names>A</given-names></name>, <name><surname>Schmitz</surname><given-names>RW</given-names></name>, <name><surname>Krainitzki</surname><given-names>H</given-names></name>, <name><surname>Stoneking</surname><given-names>M</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>1997</year>) <article-title>Neandertal DNA sequences and the origin of modern humans</article-title>. <source>Cell</source> <volume>90</volume>: <fpage>19</fpage>–<lpage>30</lpage><pub-id pub-id-type="pmid">9230299</pub-id></citation>
+      </ref>
+      <ref id="b21">
+        <citation citation-type="journal"><name><surname>Lipman</surname><given-names>DJ</given-names></name>, <name><surname>Altschul</surname><given-names>SF</given-names></name>, <name><surname>Kececioglu</surname><given-names>JD</given-names></name> (<year>1989</year>) <article-title>A tool for multiple sequence alignment</article-title>. <source>Proc Natl Acad Sci USA</source> <volume>86</volume>: <fpage>4412</fpage>–<lpage>4415</lpage><pub-id pub-id-type="pmid">2734293</pub-id></citation>
+      </ref>
+      <ref id="b22">
+        <citation citation-type="journal"><name><surname>Malmström</surname><given-names>H</given-names></name>, <name><surname>Stora</surname><given-names>J</given-names></name>, <name><surname>Dalen</surname><given-names>L</given-names></name>, <name><surname>Holmlund</surname><given-names>G</given-names></name>, <name><surname>Götherstrom</surname><given-names>A</given-names></name> (<year>2005</year>) <article-title>Extensive human DNA contamination in extracts from ancient dog bones and teeth</article-title>. <source>Mol Biol Evol</source> <volume>22</volume>: <fpage>2040</fpage>–<lpage>2047</lpage><pub-id pub-id-type="pmid">15958782</pub-id></citation>
+      </ref>
+      <ref id="b23">
+        <citation citation-type="journal"><name><surname>Margulies</surname><given-names>M</given-names></name>, <name><surname>Egholm</surname><given-names>M</given-names></name>, <name><surname>Altman</surname><given-names>WE</given-names></name>, <name><surname>Attiya</surname><given-names>S</given-names></name>, <name><surname>Bader</surname><given-names>JS</given-names></name>, <name><surname>Bemben</surname><given-names>LA</given-names></name>, <name><surname>Berka</surname><given-names>J</given-names></name>, <name><surname>Braverman</surname><given-names>MS</given-names></name>, <name><surname>Chen</surname><given-names>YJ</given-names></name>, <name><surname>Chen</surname><given-names>Z</given-names></name>, <name><surname>Dewell</surname><given-names>SB</given-names></name>, <name><surname>Du</surname><given-names>L</given-names></name>, <name><surname>Fierro</surname><given-names>JM</given-names></name>, <name><surname>Gomes</surname><given-names>XV</given-names></name>, <name><surname>Godwin</surname><given-names>BC</given-names></name>, <name><surname>He</surname><given-names>W</given-names></name>, <name><surname>Helgesen</surname><given-names>S</given-names></name>, <name><surname>Ho</surname><given-names>CH</given-names></name>, <name><surname>Irzyk</surname><given-names>GP</given-names></name>, <name><surname>Jando</surname><given-names>SC</given-names></name> <etal/> (<year>2005</year>) <article-title>Genome sequencing in microfabricated high-density picolitre reactors</article-title>. <source>Nature</source> <volume>437</volume>: <fpage>376</fpage>–<lpage>380</lpage><pub-id pub-id-type="pmid">16056220</pub-id></citation>
+      </ref>
+      <ref id="b24">
+        <citation citation-type="journal"><name><surname>Miller</surname><given-names>W</given-names></name>, <name><surname>Drautz</surname><given-names>DI</given-names></name>, <name><surname>Ratan</surname><given-names>A</given-names></name>, <name><surname>Pusey</surname><given-names>B</given-names></name>, <name><surname>Qi</surname><given-names>J</given-names></name>, <name><surname>Lesk</surname><given-names>AM</given-names></name>, <name><surname>Tomsho</surname><given-names>LP</given-names></name>, <name><surname>Packard</surname><given-names>MD</given-names></name>, <name><surname>Zhao</surname><given-names>F</given-names></name>, <name><surname>Sher</surname><given-names>A</given-names></name>, <name><surname>Tikhonov</surname><given-names>A</given-names></name>, <name><surname>Raney</surname><given-names>B</given-names></name>, <name><surname>Patterson</surname><given-names>N</given-names></name>, <name><surname>Lindblad-Toh</surname><given-names>K</given-names></name>, <name><surname>Lander</surname><given-names>ES</given-names></name>, <name><surname>Knight</surname><given-names>JR</given-names></name>, <name><surname>Irzyk</surname><given-names>GP</given-names></name>, <name><surname>Fredrikson</surname><given-names>KM</given-names></name>, <name><surname>Harkins</surname><given-names>TT</given-names></name>, <name><surname>Sheridan</surname><given-names>S</given-names></name> <etal/> (<year>2008</year>) <article-title>Sequencing the nuclear genome of the extinct woolly mammoth</article-title>. <source>Nature</source> <volume>456</volume>: <fpage>387</fpage>–<lpage>390</lpage><pub-id pub-id-type="pmid">19020620</pub-id></citation>
+      </ref>
+      <ref id="b25">
+        <citation citation-type="journal"><name><surname>Mullis</surname><given-names>KB</given-names></name>, <name><surname>Faloona</surname><given-names>FA</given-names></name> (<year>1987</year>) <article-title>Specific synthesis of DNA <italic>in vitro</italic> via a polymerase-catalyzed chain reaction</article-title>. <source>Methods Enzymol</source> <volume>155</volume>: <fpage>335</fpage>–<lpage>350</lpage><pub-id pub-id-type="pmid">3431465</pub-id></citation>
+      </ref>
+      <ref id="b26">
+        <citation citation-type="journal"><name><surname>Noonan</surname><given-names>JP</given-names></name>, <name><surname>Coop</surname><given-names>G</given-names></name>, <name><surname>Kudaravalli</surname><given-names>S</given-names></name>, <name><surname>Smith</surname><given-names>D</given-names></name>, <name><surname>Krause</surname><given-names>J</given-names></name>, <name><surname>Alessi</surname><given-names>J</given-names></name>, <name><surname>Chen</surname><given-names>F</given-names></name>, <name><surname>Platt</surname><given-names>D</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name>, <name><surname>Pritchard</surname><given-names>JK</given-names></name>, <name><surname>Rubin</surname><given-names>EM</given-names></name> (<year>2006</year>) <article-title>Sequencing and analysis of Neanderthal genomic DNA</article-title>. <source>Science</source> <volume>314</volume>: <fpage>1113</fpage>–<lpage>1118</lpage><pub-id pub-id-type="pmid">17110569</pub-id></citation>
+      </ref>
+      <ref id="b27">
+        <citation citation-type="journal"><name><surname>Orlando</surname><given-names>L</given-names></name>, <name><surname>Darlu</surname><given-names>P</given-names></name>, <name><surname>Toussaint</surname><given-names>M</given-names></name>, <name><surname>Bonjean</surname><given-names>D</given-names></name>, <name><surname>Otte</surname><given-names>M</given-names></name>, <name><surname>Hänni</surname><given-names>C</given-names></name> (<year>2006</year>) <article-title>Revisiting Neandertal diversity with a 100 000 year old mtDNA sequence</article-title>. <source>Curr Biol</source> <volume>16</volume>: <fpage>R400</fpage>–<lpage>R402</lpage><pub-id pub-id-type="pmid">16753548</pub-id></citation>
+      </ref>
+      <ref id="b28">
+        <citation citation-type="journal"><name><surname>Ovchinnikov</surname><given-names>IV</given-names></name>, <name><surname>Götherstrom</surname><given-names>A</given-names></name>, <name><surname>Romanova</surname><given-names>GP</given-names></name>, <name><surname>Kharitonov</surname><given-names>VM</given-names></name>, <name><surname>Liden</surname><given-names>K</given-names></name>, <name><surname>Goodwin</surname><given-names>W</given-names></name> (<year>2000</year>) <article-title>Molecular analysis of Neanderthal DNA from the northern Caucasus</article-title>. <source>Nature</source> <volume>404</volume>: <fpage>490</fpage>–<lpage>493</lpage><pub-id pub-id-type="pmid">10761915</pub-id></citation>
+      </ref>
+      <ref id="b29">
+        <citation citation-type="journal"><name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>1989</year>) <article-title>Ancient DNA: extraction, characterization, molecular cloning, and enzymatic amplification</article-title>. <source>Proc Natl Acad Sci USA</source> <volume>86</volume>: <fpage>1939</fpage>–<lpage>1943</lpage><pub-id pub-id-type="pmid">2928314</pub-id></citation>
+      </ref>
+      <ref id="b30">
+        <citation citation-type="journal"><name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>1984</year>) <article-title>Über den Nachweis von DNA in altägyptischen Mumien</article-title>. <source>Das Altertum</source> <volume>30</volume>: <fpage>213</fpage>–<lpage>218</lpage></citation>
+      </ref>
+      <ref id="b31">
+        <citation citation-type="journal"><name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>1985</year>) <article-title>Molecular cloning of ancient Egyptian mummy DNA</article-title>. <source>Nature</source> <volume>314</volume>: <fpage>644</fpage>–<lpage>645</lpage><pub-id pub-id-type="pmid">3990798</pub-id></citation>
+      </ref>
+      <ref id="b32">
+        <citation citation-type="journal"><name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>1999</year>) <article-title>Human evolution</article-title>. <source>Trends Cell Biol</source> <volume>9</volume>: <fpage>M13</fpage>–<lpage>M16</lpage><pub-id pub-id-type="pmid">10611673</pub-id></citation>
+      </ref>
+      <ref id="b33">
+        <citation citation-type="journal"><name><surname>Pääbo</surname><given-names>S</given-names></name>, <name><surname>Higuchi</surname><given-names>RG</given-names></name>, <name><surname>Wilson</surname><given-names>AC</given-names></name> (<year>1989</year>) <article-title>Ancient DNA and the polymerase chain reaction. The emerging field of molecular archaeology</article-title>. <source>J Biol Chem</source> <volume>264</volume>: <fpage>9709</fpage>–<lpage>9712</lpage><pub-id pub-id-type="pmid">2656708</pub-id></citation>
+      </ref>
+      <ref id="b34">
+        <citation citation-type="journal"><name><surname>Pääbo</surname><given-names>S</given-names></name>, <name><surname>Poinar</surname><given-names>H</given-names></name>, <name><surname>Serre</surname><given-names>D</given-names></name>, <name><surname>Jaenicke-Despres</surname><given-names>V</given-names></name>, <name><surname>Hebler</surname><given-names>J</given-names></name>, <name><surname>Rohland</surname><given-names>N</given-names></name>, <name><surname>Kuch</surname><given-names>M</given-names></name>, <name><surname>Krause</surname><given-names>J</given-names></name>, <name><surname>Vigilant</surname><given-names>L</given-names></name>, <name><surname>Hofreiter</surname><given-names>M</given-names></name> (<year>2004</year>) <article-title>Genetic analyses from ancient DNA</article-title>. <source>Annu Rev Genet</source> <volume>38</volume>: <fpage>645</fpage>–<lpage>679</lpage><pub-id pub-id-type="pmid">15568989</pub-id></citation>
+      </ref>
+      <ref id="b35">
+        <citation citation-type="journal"><name><surname>Pääbo</surname><given-names>S</given-names></name>, <name><surname>Wilson</surname><given-names>AC</given-names></name> (<year>1988</year>) <article-title>Polymerase chain reaction reveals cloning artefacts</article-title>. <source>Nature</source> <volume>334</volume>: <fpage>387</fpage>–<lpage>388</lpage></citation>
+      </ref>
+      <ref id="b36">
+        <citation citation-type="journal"><name><surname>Poinar</surname><given-names>HN</given-names></name>, <name><surname>Schwarz</surname><given-names>C</given-names></name>, <name><surname>Qi</surname><given-names>J</given-names></name>, <name><surname>Shapiro</surname><given-names>B</given-names></name>, <name><surname>Macphee</surname><given-names>RD</given-names></name>, <name><surname>Buigues</surname><given-names>B</given-names></name>, <name><surname>Tikhonov</surname><given-names>A</given-names></name>, <name><surname>Huson</surname><given-names>DH</given-names></name>, <name><surname>Tomsho</surname><given-names>LP</given-names></name>, <name><surname>Auch</surname><given-names>A</given-names></name>, <name><surname>Rampp</surname><given-names>M</given-names></name>, <name><surname>Miller</surname><given-names>W</given-names></name>, <name><surname>Schuster</surname><given-names>SC</given-names></name> (<year>2006</year>) <article-title>Metagenomics to paleogenomics: large-scale sequencing of mammoth DNA</article-title>. <source>Science</source> <volume>311</volume>: <fpage>392</fpage>–<lpage>394</lpage><pub-id pub-id-type="pmid">16368896</pub-id></citation>
+      </ref>
+      <ref id="b37">
+        <citation citation-type="journal"><name><surname>Schwarz</surname><given-names>C</given-names></name>, <name><surname>Debruyne</surname><given-names>R</given-names></name>, <name><surname>Kuch</surname><given-names>M</given-names></name>, <name><surname>McNally</surname><given-names>E</given-names></name>, <name><surname>Schwarcz</surname><given-names>H</given-names></name>, <name><surname>Aubrey</surname><given-names>AD</given-names></name>, <name><surname>Bada</surname><given-names>J</given-names></name>, <name><surname>Poinar</surname><given-names>H</given-names></name> (<year>2009</year>) <article-title>New insights from old bones: DNA preservation and degradation in permafrost preserved mammoth remains</article-title>. <source>Nucleic Acids Res</source> <volume>37</volume>: <fpage>3215</fpage>–<lpage>3229</lpage><pub-id pub-id-type="pmid">19321502</pub-id></citation>
+      </ref>
+      <ref id="b38">
+        <citation citation-type="journal"><name><surname>Serre</surname><given-names>D</given-names></name>, <name><surname>Langaney</surname><given-names>A</given-names></name>, <name><surname>Chech</surname><given-names>M</given-names></name>, <name><surname>Teschler-Nicola</surname><given-names>M</given-names></name>, <name><surname>Paunovic</surname><given-names>M</given-names></name>, <name><surname>Mennecier</surname><given-names>P</given-names></name>, <name><surname>Hofreiter</surname><given-names>M</given-names></name>, <name><surname>Possnert</surname><given-names>G</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2004</year>) <article-title>No evidence of Neandertal mtDNA contribution to early modern humans</article-title>. <source>PLoS Biol</source> <volume>2</volume>: <fpage>E57</fpage><pub-id pub-id-type="pmid">15024415</pub-id></citation>
+      </ref>
+      <ref id="b39">
+        <citation citation-type="journal"><name><surname>Stiller</surname><given-names>M</given-names></name>, <name><surname>Green</surname><given-names>RE</given-names></name>, <name><surname>Ronan</surname><given-names>M</given-names></name>, <name><surname>Simons</surname><given-names>JF</given-names></name>, <name><surname>Du</surname><given-names>L</given-names></name>, <name><surname>He</surname><given-names>W</given-names></name>, <name><surname>Egholm</surname><given-names>M</given-names></name>, <name><surname>Rothberg</surname><given-names>JM</given-names></name>, <name><surname>Keates</surname><given-names>SG</given-names></name>, <name><surname>Ovodov</surname><given-names>ND</given-names></name>, <name><surname>Antipina</surname><given-names>EE</given-names></name>, <name><surname>Baryshnikov</surname><given-names>GF</given-names></name>, <name><surname>Kuzmin</surname><given-names>YV</given-names></name>, <name><surname>Vasilevski</surname><given-names>AA</given-names></name>, <name><surname>Wuenschell</surname><given-names>GE</given-names></name>, <name><surname>Termini</surname><given-names>J</given-names></name>, <name><surname>Hofreiter</surname><given-names>M</given-names></name>, <name><surname>Jaenicke-Despres</surname><given-names>V</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>2006</year>) <article-title>Patterns of nucleotide misincorporations during enzymatic amplification and direct large-scale sequencing of ancient DNA</article-title>. <source>Proc Natl Acad Sci USA</source> <volume>103</volume>: <fpage>13578</fpage>–<lpage>13584</lpage><pub-id pub-id-type="pmid">16938852</pub-id></citation>
+      </ref>
+      <ref id="b40">
+        <citation citation-type="journal"><name><surname>Thomas</surname><given-names>RH</given-names></name>, <name><surname>Schaffner</surname><given-names>W</given-names></name>, <name><surname>Wilson</surname><given-names>AC</given-names></name>, <name><surname>Pääbo</surname><given-names>S</given-names></name> (<year>1989</year>) <article-title>DNA phylogeny of the extinct marsupial wolf</article-title>. <source>Nature</source> <volume>340</volume>: <fpage>465</fpage>–<lpage>467</lpage><pub-id pub-id-type="pmid">2755507</pub-id></citation>
+      </ref>
+      <ref id="b41">
+        <citation citation-type="journal"><name><surname>Wall</surname><given-names>JD</given-names></name>, <name><surname>Kim</surname><given-names>SK</given-names></name> (<year>2007</year>) <article-title>Inconsistencies in Neanderthal genomic DNA sequences</article-title>. <source>PLoS Genet</source> <volume>3</volume>: <fpage>1862</fpage>–<lpage>1866</lpage><pub-id pub-id-type="pmid">17937503</pub-id></citation>
+      </ref>
+      <ref id="b42">
+        <citation citation-type="journal"><name><surname>Woodward</surname><given-names>SR</given-names></name>, <name><surname>Weyand</surname><given-names>NJ</given-names></name>, <name><surname>Bunnell</surname><given-names>M</given-names></name> (<year>1994</year>) <article-title>DNA sequence from Cretaceous period bone fragments</article-title>. <source>Science</source> <volume>266</volume>: <fpage>1229</fpage>–<lpage>1232</lpage><pub-id pub-id-type="pmid">7973705</pub-id></citation>
+      </ref>
+      <ref id="b43">
+        <citation citation-type="journal"><name><surname>Zhang</surname><given-names>Z</given-names></name>, <name><surname>Schwartz</surname><given-names>S</given-names></name>, <name><surname>Wagner</surname><given-names>L</given-names></name>, <name><surname>Miller</surname><given-names>W</given-names></name> (<year>2000</year>) <article-title>A greedy algorithm for aligning DNA sequences</article-title>. <source>J Comput Biol</source> <volume>7</volume>: <fpage>203</fpage>–<lpage>214</lpage><pub-id pub-id-type="pmid">10890397</pub-id></citation>
+      </ref>
+      <ref id="b44">
+        <citation citation-type="journal"><name><surname>Zischler</surname><given-names>H</given-names></name>, <name><surname>Hoss</surname><given-names>M</given-names></name>, <name><surname>Handt</surname><given-names>O</given-names></name>, <name><surname>von Haeseler</surname><given-names>A</given-names></name>, <name><surname>van der Kuyl</surname><given-names>AC</given-names></name>, <name><surname>Goudsmit</surname><given-names>J</given-names></name>, <name><surname>Pääbo</surname><given-names>S.</given-names></name> (<year>1995</year>) <article-title>Detecting dinosaur DNA</article-title>. <source>Science</source> <volume>268</volume>: <fpage>1192</fpage>–<lpage>1193</lpage><pub-id pub-id-type="pmid">7605504</pub-id></citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-wrap>
+    <fig id="f1">
+      <label>Figure 1</label>
+      <caption>
+        <p>Estimates of human mtDNA contamination in Neandertal extracts. DNA extracts of Neandertal bones contain a large excess of microbial DNA (brown), at most a few percent of Neandertal DNA (blue) and generally variable amounts of contaminating DNA from current humans (red). Traditionally, contamination has been assayed through PCR directly from DNA extract from fossil bone (left lower panel). Accumulation of large numbers of reads from high-throughput sequencing allows a direct estimate of mtDNA contamination in the sequencing library (right lower panel). Once human/Neandertal diagnostic nuclear genome positions are learned, this strategy can be extended to nuclear DNA sequences.</p>
+      </caption>
+      <graphic xlink:href="emboj2009222f1"/>
+    </fig>
+    <fig id="f2">
+      <label>Figure 2</label>
+      <caption>
+        <p>Lengths of Neandertal and human mtDNA fragments. Distributions of mtDNA fragments carrying Neandertal diagnostic positions are shown in blue for three Neandertal fossils. Each red dot represents a single contaminating human mtDNA fragment of the indicated length (data from <xref ref-type="bibr" rid="b2">Briggs <italic>et al</italic>, 2009</xref>).</p>
+      </caption>
+      <graphic xlink:href="emboj2009222f2"/>
+    </fig>
+    <fig id="f3">
+      <label>Figure 3</label>
+      <caption>
+        <p>Neandertal/human divergence estimated from sequences of increasing length and score filtering. (<bold>A</bold>) Sequences in each length bin were used to calculate human/Neandertal divergence, given as the percentage of the human lineage back to the human/chimpanzee common ancestor in which the Neandertal sequences diverged. Sequences were filtered for uniqueness in the human and chimpanzee genomes by comparing the best alignment score to the second best score. In red are sequences whose best alignments are at least 1-bit better than the second best, in green with a difference of 5 bits or more. Bars show the 95% confidence interval from 1000 bootstrap replicates of the sequences in each bin. (<bold>B</bold>) Percentage of the sequences in each bin removed when increasing the alignment score filter from 1 to 5 bits. Shorter sequences are more likely to be removed by stricter filtering as they carry less information to place them uniquely in the human and chimpanzee genomes.</p>
+      </caption>
+      <graphic xlink:href="emboj2009222f3"/>
+    </fig>
+    <fig id="f4">
+      <label>Figure 4</label>
+      <caption>
+        <p>Fraction of human polymorphic positions carrying derived alleles in Neandertal and human DNA sequences. (<bold>A</bold>) Neandertal sequences of increasing length that overlap human polymorphic positions were assessed for having the derived or ancestral (chimpanzee-like) allele. Blue points are for Neandertal data, red points for the corresponding sequences in the human reference genome (hg18). (<bold>B</bold>) Sequences of length 60–78 nucleotides were split in half and re-analysed (‘30–39'). Derived alleles are preferentially lost when fragments size is reduced.</p>
+      </caption>
+      <graphic xlink:href="emboj2009222f4"/>
+    </fig>
+    <table-wrap position="float" id="t1">
+      <label>Table 1</label>
+      <caption>
+        <p>MtDNA contamination and mtDNA to nuclear DNA ratios in some DNA extracts and sequencing libraries used to study the Neandertal genome</p>
+      </caption>
+      <table frame="hsides" rules="groups" border="1" width="85%">
+        <colgroup>
+          <col align="left"/>
+          <col align="char" char="."/>
+          <col align="char" char="."/>
+          <col align="char" char="("/>
+          <col align="center"/>
+          <col align="char" char="."/>
+          <col align="char" char="."/>
+          <col align="char" char="("/>
+          <col align="char" char="."/>
+        </colgroup>
+        <thead valign="bottom">
+          <tr>
+            <th align="left" valign="top" charoff="50">Extract</th>
+            <th align="char" valign="top" char="." charoff="50">N</th>
+            <th align="char" valign="top" char="." charoff="50">H</th>
+            <th align="char" valign="top" char="(" charoff="50">Extract cont.</th>
+            <th align="center" valign="top" charoff="50">Library</th>
+            <th align="char" valign="top" char="." charoff="50">N</th>
+            <th align="char" valign="top" char="." charoff="50">H</th>
+            <th align="char" valign="top" char="(" charoff="50">Library cont.</th>
+            <th align="char" valign="top" char="." charoff="50">Nuclear-mtDNA ratio</th>
+          </tr>
+        </thead>
+        <tbody valign="top">
+          <tr>
+            <td align="left" valign="top" charoff="50">A</td>
+            <td align="char" valign="top" char="." charoff="50">111</td>
+            <td align="char" valign="top" char="." charoff="50">1</td>
+            <td align="char" valign="top" char="(" charoff="50">0.8% (0.0–4.9%)</td>
+            <td align="center" valign="top" charoff="50">A.1</td>
+            <td align="char" valign="top" char="." charoff="50">67</td>
+            <td align="char" valign="top" char="." charoff="50">8</td>
+            <td align="char" valign="top" char="(" charoff="50">10.7% (4.7–19.9%)</td>
+            <td align="char" valign="top" char="." charoff="50">375</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+            <td align="char" valign="top" char="(" charoff="50"> </td>
+            <td align="center" valign="top" charoff="50">A.2</td>
+            <td align="char" valign="top" char="." charoff="50">4</td>
+            <td align="char" valign="top" char="." charoff="50">0</td>
+            <td align="char" valign="top" char="(" charoff="50">0% (0.0–60.2%)</td>
+            <td align="char" valign="top" char="." charoff="50">222</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">B</td>
+            <td align="char" valign="top" char="." charoff="50">103</td>
+            <td align="char" valign="top" char="." charoff="50">0</td>
+            <td align="char" valign="top" char="(" charoff="50">0.0% (0.0–3.5%)</td>
+            <td align="center" valign="top" charoff="50">BC.1</td>
+            <td align="char" valign="top" char="." charoff="50">22</td>
+            <td align="char" valign="top" char="." charoff="50">0</td>
+            <td align="char" valign="top" char="(" charoff="50">0.0% (0.0–15.4%)</td>
+            <td align="char" valign="top" char="." charoff="50">186</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">C</td>
+            <td align="char" valign="top" char="." charoff="50">112</td>
+            <td align="char" valign="top" char="." charoff="50">0</td>
+            <td align="char" valign="top" char="(" charoff="50">0.0% (0.0–3.2%)</td>
+            <td align="center" valign="top" charoff="50">BC.2</td>
+            <td align="char" valign="top" char="." charoff="50">1822</td>
+            <td align="char" valign="top" char="." charoff="50">7</td>
+            <td align="char" valign="top" char="(" charoff="50">0.4% (0.2–0.8%)</td>
+            <td align="char" valign="top" char="." charoff="50">157</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">D</td>
+            <td align="char" valign="top" char="." charoff="50">152</td>
+            <td align="char" valign="top" char="." charoff="50">8</td>
+            <td align="char" valign="top" char="(" charoff="50">5.0% (2.2–9.6%)</td>
+            <td align="center" valign="top" charoff="50">DEF.1</td>
+            <td align="char" valign="top" char="." charoff="50">30</td>
+            <td align="char" valign="top" char="." charoff="50">1</td>
+            <td align="char" valign="top" char="(" charoff="50">3.2% (0.1–16.7%)</td>
+            <td align="char" valign="top" char="." charoff="50">419</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">E</td>
+            <td align="char" valign="top" char="." charoff="50">100</td>
+            <td align="char" valign="top" char="." charoff="50">1</td>
+            <td align="char" valign="top" char="(" charoff="50">1.0% (0.0–5.4%)</td>
+            <td align="center" valign="top" charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+            <td align="char" valign="top" char="(" charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">F</td>
+            <td align="char" valign="top" char="." charoff="50">174</td>
+            <td align="char" valign="top" char="." charoff="50">8</td>
+            <td align="char" valign="top" char="(" charoff="50">4.4% (1.9–8.5%)</td>
+            <td align="center" valign="top" charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+            <td align="char" valign="top" char="(" charoff="50"> </td>
+            <td align="char" valign="top" char="." charoff="50"> </td>
+          </tr>
+          <tr>
+            <td colspan="9" align="left" valign="top" charoff="50">Six extracts of Neandertal bone Vindija Vi33.16 (A–F) were prepared and analysed with respect to mtDNA contamination using PCR. N and H refer to Neandertal- and current human-like clones of mtDNA amplification products, respectively. These extracts were used to construct libraries used for sequencing. Library A.1 was constructed outside the clean room facility using standard 454 sequencing adapters and is published in <xref ref-type="bibr" rid="b10">Green <italic>et al</italic> (2006)</xref>. The other libraries were constructed in the clean room using tagged adapters. Library designations refer to the extracts used to construct them. N and H refer to Neandertal- and current human-like mtDNA fragments, respectively. For each library the mtDNA to nuclear DNA ratios are given. For contamination estimates, 95% confidence intervals are given in parentheses.</td>
+          </tr>
+        </tbody>
+      </table>
+      <graphic alternate-form-of="t1" xlink:href="emboj2009222t1"/>
+    </table-wrap>
+  </floats-wrap>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

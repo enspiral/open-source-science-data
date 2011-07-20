@@ -1,0 +1,1838 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:22Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2777377" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2777377</identifier><datestamp>2009-12-03</datestamp><setSpec>plospath</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="discussion">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Pathog</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plospath</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Pathogens</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-7366</issn>
+      <issn pub-type="epub">1553-7374</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2777377</article-id>
+      <article-id pub-id-type="pmid">19956667</article-id>
+      <article-id pub-id-type="publisher-id">09-PLPA-OP-0309R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.ppat.1000481</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Opinion</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Biochemistry/Biomacromolecule-Ligand Interactions</subject>
+          <subject>Biochemistry/Molecular Evolution</subject>
+          <subject>Biochemistry/Protein Folding</subject>
+          <subject>Biochemistry/Structural Genomics</subject>
+          <subject>Biophysics/Biomacromolecule-Ligand Interactions</subject>
+          <subject>Immunology/Antigen Processing and Recognition</subject>
+          <subject>Virology/Host Invasion and Cell Entry</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Immunoglobulin Superfamily Virus Receptors and the Evolution of Adaptive Immunity</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dermody</surname>
+            <given-names>Terence S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kirchner</surname>
+            <given-names>Eva</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guglielmi</surname>
+            <given-names>Kristen M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stehle</surname>
+            <given-names>Thilo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Department of Pediatrics, Vanderbilt University School of Medicine, Nashville, Tennessee, United States of America</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Department of Microbiology and Immunology, Vanderbilt University School of Medicine, Nashville, Tennessee, United States of America</addr-line>
+      </aff>
+      <aff id="aff3">
+        <label>3</label>
+        <addr-line>Elizabeth B. Lamb Center for Pediatric Research, Vanderbilt University School of Medicine, Nashville, Tennessee, United States of America</addr-line>
+      </aff>
+      <aff id="aff4">
+        <label>4</label>
+        <addr-line>Interfaculty Institute for Biochemistry, University of Tuebingen, Tuebingen, Germany</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Manchester</surname>
+            <given-names>Marianne</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">The Scripps Research Institute, United States of America</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>terry.dermody@vanderbilt.edu</email> (TSD); <email>thilo.stehle@uni-tuebingen.de</email> (TS)</corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>11</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>11</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>11</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>11</issue>
+      <elocation-id>e1000481</elocation-id>
+      <permissions>
+        <copyright-statement>Dermody et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <counts>
+        <page-count count="4"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <p>Obligate intracellular pathogens depend on cell-surface molecules to attach and enter into host cells. Pathogen receptors may be highly specialized proteins, such as complement receptors or neurotransmitter receptors, or more ubiquitous components of cell membranes, such as integrins or sialic acid–containing oligosaccharides. The immunoglobulin superfamily (IgSF) of molecules contains several members that are expressed at the cell surface, bind diverse ligands, and contribute to a variety of cellular activities, including adhesion and immune responses. Many viruses have usurped the adhesive properties of IgSF proteins to mediate attachment (<xref ref-type="table" rid="ppat-1000481-t001">Table 1</xref>). Strategies used by viruses to engage IgSF receptors provide clues to general mechanisms by which IgSF proteins bind different types of ligands, including antigens.</p>
+    <table-wrap id="ppat-1000481-t001" position="float">
+      <object-id pub-id-type="doi">10.1371/journal.ppat.1000481.t001</object-id>
+      <label>Table 1</label>
+      <caption>
+        <title>IgSF Receptors Used by Selected Viruses.</title>
+      </caption>
+      <alternatives>
+        <graphic id="ppat-1000481-t001-1" xlink:href="ppat.1000481.t001"/>
+        <table frame="hsides" rules="groups">
+          <colgroup span="1">
+            <col align="left" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Virus</td>
+              <td align="left" rowspan="1" colspan="1">Receptor</td>
+              <td align="left" rowspan="1" colspan="1">Number of Immunoglobulin Domains</td>
+              <td align="left" rowspan="1" colspan="1">References</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Adenovirus</td>
+              <td align="left" rowspan="1" colspan="1">Coxsackievirus and adenovirus receptor (CAR)</td>
+              <td align="left" rowspan="1" colspan="1">2</td>
+              <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000481-Bergelson1">[31]</xref>,<xref ref-type="bibr" rid="ppat.1000481-Tomko1">[32]</xref></td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Coronavirus</td>
+              <td align="left" rowspan="1" colspan="1">Carcinoembryonic antigen glycoprotein family (CEACAM)</td>
+              <td align="left" rowspan="1" colspan="1">4</td>
+              <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000481-Williams1">[33]</xref>–<xref ref-type="bibr" rid="ppat.1000481-Dveksler2">[35]</xref></td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Coxsackievirus B</td>
+              <td align="left" rowspan="1" colspan="1">Coxsackievirus and adenovirus receptor (CAR)</td>
+              <td align="left" rowspan="1" colspan="1">2</td>
+              <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000481-Bergelson1">[31]</xref>,<xref ref-type="bibr" rid="ppat.1000481-Tomko1">[32]</xref></td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Herpes simplex virus</td>
+              <td align="left" rowspan="1" colspan="1">Nectin-1 (PRR1/HveC)</td>
+              <td align="left" rowspan="1" colspan="1">3</td>
+              <td align="left" rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="ppat.1000481-Geraghty1">[36]</xref>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1">Nectin-2 (PRR2/HveB)</td>
+              <td align="left" rowspan="1" colspan="1">3</td>
+              <td align="left" rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="ppat.1000481-Warner1">[37]</xref>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Human immunodeficiency virus</td>
+              <td align="left" rowspan="1" colspan="1">CD4</td>
+              <td align="left" rowspan="1" colspan="1">4</td>
+              <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000481-Dalgleish1">[38]</xref>,<xref ref-type="bibr" rid="ppat.1000481-Maddon1">[39]</xref></td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Measles virus</td>
+              <td align="left" rowspan="1" colspan="1">Signaling lymphocyte-activation molecule (SLAM)</td>
+              <td align="left" rowspan="1" colspan="1">2</td>
+              <td align="left" rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="ppat.1000481-Tatsuo1">[40]</xref>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Poliovirus</td>
+              <td align="left" rowspan="1" colspan="1">Poliovirus receptor (PVR, CD155)</td>
+              <td align="left" rowspan="1" colspan="1">3</td>
+              <td align="left" rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="ppat.1000481-Mendelsohn1">[41]</xref>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Rabies virus</td>
+              <td align="left" rowspan="1" colspan="1">Neural cell adhesion molecule (NCAM-1, CD56)</td>
+              <td align="left" rowspan="1" colspan="1">5</td>
+              <td align="left" rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="ppat.1000481-Thoulouze1">[42]</xref>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Reovirus</td>
+              <td align="left" rowspan="1" colspan="1">Junctional adhesion molecule-A (JAM-A)</td>
+              <td align="left" rowspan="1" colspan="1">2</td>
+              <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000481-Prota1">[28]</xref>,<xref ref-type="bibr" rid="ppat.1000481-Barton1">[43]</xref></td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Rhinovirus</td>
+              <td align="left" rowspan="1" colspan="1">Intercellular adhesion molecule-1 (ICAM-1)</td>
+              <td align="left" rowspan="1" colspan="1">5</td>
+              <td align="left" rowspan="1" colspan="1"><xref ref-type="bibr" rid="ppat.1000481-Greve1">[44]</xref>–<xref ref-type="bibr" rid="ppat.1000481-Tomassini1">[46]</xref></td>
+            </tr>
+          </tbody>
+        </table>
+      </alternatives>
+    </table-wrap>
+    <p>Members of the IgSF have diverged in sequence and function. However, all contain domains with the characteristic immunoglobulin fold, which is defined by two opposing antiparallel β-sheets connected in a unique manner <xref ref-type="bibr" rid="ppat.1000481-Bork1">[1]</xref>,<xref ref-type="bibr" rid="ppat.1000481-Harpaz1">[2]</xref>. The core of the immunoglobulin fold is formed by four β-strands (B, C, E, and F) augmented with three to five additional β-strands (A, C′, C″, D, and G) to yield several distinct subtypes <xref ref-type="bibr" rid="ppat.1000481-Bork1">[1]</xref>,<xref ref-type="bibr" rid="ppat.1000481-Harpaz1">[2]</xref>. Most common are the V-set and C-set immunoglobulin domains, which are named according to their occurrence in the variable and constant regions of immunoglobulins, respectively. A third type, the I-set, is an intermediate structure between the V- and C-sets found frequently in cell-surface receptors. Immunoglobulin domains rarely occur in isolation but typically form concatenated chains, often with a V-set or I-set domain at the N-terminus.</p>
+    <p>Biochemical and structural analyses of interactions between viruses and their cognate IgSF receptors reveal several striking similarities. First, in cases in which structural information about virus–receptor complexes is available, the viral attachment proteins exclusively bind to the most membrane-distal, N-terminal domain (D1) of the IgSF receptors <xref ref-type="bibr" rid="ppat.1000481-Bella1">[3]</xref>–<xref ref-type="bibr" rid="ppat.1000481-Zhang1">[10]</xref>. While structural information about complex formation is lacking for the IgSF receptors carcinoembryonic antigen-related cell adhesion molecule, nectin-1, nectin-2, and signaling lymphocyte-activation molecule (SLAM), biochemical studies also implicate their respective D1 domains in virus binding <xref ref-type="bibr" rid="ppat.1000481-Dveksler1">[11]</xref>–<xref ref-type="bibr" rid="ppat.1000481-Kwon1">[14]</xref>. Second, virus-contacting residues lie towards the upper “tip” of the IgSF D1 domain. Third, the viral receptor-binding region engages the CC′FG β-sheet of the IgSF receptor D1 domain. Fourth and finally, almost all of the receptor domains interacting with viruses belong to the V-type IgSF fold. The single exception, the D1 domain of ICAM-1, belongs to the I-set type, which is structurally similar to the V-set domain.</p>
+    <p>Although the database of viral proteins in complex with IgSF receptors is still quite small, interactions of viruses with their receptors parallel the recognition mode of immunoglobulins, which also recognize their cognate antigens via residues at the tip of their N-terminal, V-set domains. The case of the receptor-binding head domain of reovirus attachment protein σ1 in complex with the D1 domain of its receptor, junctional adhesion molecule-A (JAM-A) <xref ref-type="bibr" rid="ppat.1000481-Kirchner1">[9]</xref>, serves to illustrate this point (<xref ref-type="fig" rid="ppat-1000481-g001">Figure 1A</xref>). The JAM-A homodimer strikingly resembles the dimer formed by the V-set domains of the light and heavy chains of immunoglobulins. In both structures, the two V-set domains face each other with similar orientations. Moreover, residues in the receptor required for virus attachment reside in β-strands and intervening loops that juxtapose the complementarity determining regions (CDRs) of antibody molecules. Thus, residues known to interact with ligands map to corresponding regions near the tip and one side of the V-set domains. These similarities extend beyond reovirus receptor JAM-A. Other IgSF virus receptors, such as the coxsackievirus and adenovirus receptor (CAR) <xref ref-type="bibr" rid="ppat.1000481-Bewley1">[5]</xref> and HIV receptor CD4 <xref ref-type="bibr" rid="ppat.1000481-Kwong1">[4]</xref>, also recognize their viral ligands via residues that partially overlap with the CDR region of immunoglobulins (<xref ref-type="fig" rid="ppat-1000481-g001">Figure 1B–F</xref>). CAR forms a homodimer via its D1 domain that is very similar to the JAM-A homodimer <xref ref-type="bibr" rid="ppat.1000481-Stehle1">[15]</xref>. CD4 also forms homodimers, albeit via its D4 domain <xref ref-type="bibr" rid="ppat.1000481-Wu1">[16]</xref>.</p>
+    <fig id="ppat-1000481-g001" position="float">
+      <object-id pub-id-type="doi">10.1371/journal.ppat.1000481.g001</object-id>
+      <label>Figure 1</label>
+      <caption>
+        <title>Contact areas in Fab and virus receptors.</title>
+        <p>(A) Ribbon drawing of mFab 231 (left) (<xref ref-type="bibr" rid="ppat.1000481-Harris1">[27]</xref>; 1IGT) and the extracellular domains of hJAM-A (right) (<xref ref-type="bibr" rid="ppat.1000481-Prota1">[28]</xref>; 1NBQ). Variable (V) and constant (C) domains of heavy (H) and light (L) chains and D1 and D2 domains of JAM-A are labeled. (B) Ribbon drawing of the variable domain of the light chain (V<sub>L</sub>) of the mFab shown in (A). CDRs are colored green. (C–E) Ribbon drawings of the complexed D1 domains of (C) CD4 (<xref ref-type="bibr" rid="ppat.1000481-Kwong1">[4]</xref>; 1GC1), (D) hJAM-A (<xref ref-type="bibr" rid="ppat.1000481-Kirchner1">[9]</xref>; 3EOY), and (E) CAR (<xref ref-type="bibr" rid="ppat.1000481-Bewley1">[5]</xref>; 1KAC). Residues contacting the virus proteins with a distance cutoff of 4 Å are colored green. (F) Structural alignment of mFab 231 V<sub>L</sub> (<xref ref-type="bibr" rid="ppat.1000481-Harris1">[27]</xref>; 1IGT), CD4 D1 (<xref ref-type="bibr" rid="ppat.1000481-Wu2">[29]</xref>; 1CDJ), hJAM-A D1 (<xref ref-type="bibr" rid="ppat.1000481-Prota1">[28]</xref>; 1NBQ), and CAR D1 (<xref ref-type="bibr" rid="ppat.1000481-vanRaaij1">[30]</xref>; 1EAJ) performed using MODELLER (program Web site: <ext-link ext-link-type="uri" xlink:href="http://salilab.org/modeller/">http://salilab.org/modeller/</ext-link>). β-strands are indicated, and conserved residues are highlighted in grey. mFab 231 V<sub>L</sub> CDRs and residues in CD4, hJAM-A, and CAR that contact the viral attachment proteins gp120, σ1, and fiber, respectively, with a distance cutoff of 4 Å, are highlighted in green.</p>
+      </caption>
+      <graphic xlink:href="ppat.1000481.g001"/>
+    </fig>
+    <p>The immunoglobulin fold predates the evolution of vertebrates. Genomes of invertebrate organisms encode numerous molecules that belong to two families with homologs in vertebrates: the JAM/cortical thymocyte marker of <italic>Xenopus</italic> (CTX) family and the nectin family <xref ref-type="bibr" rid="ppat.1000481-DuPasquier1">[17]</xref>. Vertebrate counterparts of these genes are found in discrete blocks, and many are now diversified to encode molecules that function in adaptive immunity, including CD3 and SLAM <xref ref-type="bibr" rid="ppat.1000481-DuPasquier1">[17]</xref>. Invertebrates do not encode recombination-activating genes (RAGs) and generally display only limited antigen-specific immunity. Therefore, the core structural element of adaptive immunity, the immunoglobulin fold, evolved prior to a mechanism to generate a highly diversified antigen-specific repertoire.</p>
+    <p>Similarities in mechanisms of ligand engagement by IgSF pathogen receptors and immunoglobulins, coupled with the evolution of the immunoglobulin fold prior to the existence of the vertebrate adaptive immune system, suggest the possibility that primitive members of the JAM/CTX and nectin families evolved to become soluble adaptive immune mediators in modern vertebrates. One attractive hypothesis is that soluble forms of pathogen receptors served as precursors to molecules of the adaptive immune system. Soluble receptors would neutralize viral infection by competing with surface-expressed versions of the receptor for binding sites on the virus. In modern vertebrates, some viruses manipulate surface-expressed and soluble forms of their receptors to maximize the efficiency of infection. For example, human rhinovirus upregulates membrane-bound ICAM-1, while diminishing expression of the soluble form of the receptor to increase target cell infectivity <xref ref-type="bibr" rid="ppat.1000481-Whiteman1">[18]</xref>. Expression of a soluble pathogen receptor followed by duplication within the primitive genome and acquisition of mutations that permitted recognition of additional pathogens could confer a strong selective advantage. Upon introduction of RAGs into the vertebrate genome, such a gene family would have been primed to express molecules akin to present-day immunoglobulins. Alternatively, membrane-anchored forms of IgSF molecules that arose in primitive invertebrates may have been maintained in the genome due to their cell-adhesion functions, followed by the serendipitous introduction of mechanisms for the secretion and generation of diversity. In this scenario, pathogens may have contributed to the evolution of the modern adaptive immune system at much later evolutionary times.</p>
+    <p>Is there evidence that favors either of these potential evolutionary mechanisms? In addition to similarities in their ligand-binding strategies, many of the closest structural homologs of JAM-A are immunoglobulins, which raises the possibility that immunoglobulins are more closely related to JAM-A than to other IgSF molecules. A search for structural homologs of the JAM-A D1 domain using the Dali algorithm <xref ref-type="bibr" rid="ppat.1000481-Holm1">[19]</xref> provides support for this hypothesis. The closest structural homologs of the JAM-A D1 domain are immunoglobulin domains, with the highest Dali Z-score of 14.6 for an IgAκ variable domain (PDB code 2FBJ) (<xref ref-type="table" rid="ppat-1000481-t002">Table 2</xref>). Other IgSF proteins with similarity to JAM-A D1 have significantly lower Z-scores. The Z-scores correlate well with root mean square deviations for superpositions of JAM-A D1 with immunoglobulins, which also are lower (i.e., more similar) than the corresponding values for superpositions of JAM-A D1 with other IgSF proteins. This homology search can be extended to CAR, neural cell adhesion molecule, and nectin-like molecule 1, which result in Z-scores that are generally higher for the superposition of their D1 domains with immunoglobulins than with other cell adhesion molecules. In urochordates (<italic>Ciona</italic>) and cephalochordates (<italic>Branchiostoma</italic>), evolutionarily close relatives of the vertebrates, there are homologs of JAM/CTX and nectin IgSF molecules with features of membrane receptors. <italic>Ciona</italic> encodes only a single JAM/CTX-like molecule and two nectin-like molecules <xref ref-type="bibr" rid="ppat.1000481-DuPasquier2">[20]</xref>. In humans, these molecules are all part of a single linkage group involved in immune function <xref ref-type="bibr" rid="ppat.1000481-DuPasquier1">[17]</xref>,<xref ref-type="bibr" rid="ppat.1000481-DuPasquier2">[20]</xref>. Taken together, these results suggest that relatively few JAM/CTX and nectin family IgSF molecules were maintained in invertebrates, and the expansion and duplication resulting in the evolution of immunoglobulins may have occurred after the introduction of these molecules into the vertebrate genome.</p>
+    <table-wrap id="ppat-1000481-t002" position="float">
+      <object-id pub-id-type="doi">10.1371/journal.ppat.1000481.t002</object-id>
+      <label>Table 2</label>
+      <caption>
+        <title>Dali Search for JAM-A D1 Structural Homologs.</title>
+      </caption>
+      <alternatives>
+        <graphic id="ppat-1000481-t002-2" xlink:href="ppat.1000481.t002"/>
+        <table frame="hsides" rules="groups">
+          <colgroup span="1">
+            <col align="left" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Hit Number</td>
+              <td align="left" rowspan="1" colspan="1">Z-score<xref ref-type="table-fn" rid="nt101">a</xref></td>
+              <td align="left" rowspan="1" colspan="1">r.m.s.d. (Å)<xref ref-type="table-fn" rid="nt102">b</xref></td>
+              <td align="left" rowspan="1" colspan="1">Percent Identical</td>
+              <td align="left" rowspan="1" colspan="1">Protein</td>
+              <td align="left" rowspan="1" colspan="1">PDB Code-Chain</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">1–9</td>
+              <td align="left" rowspan="1" colspan="1">24.1–20.3</td>
+              <td align="left" rowspan="1" colspan="1">0.0–0.7</td>
+              <td align="left" rowspan="1" colspan="1">100–65</td>
+              <td align="left" rowspan="1" colspan="1">hJAM-A and mJAM-A</td>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">10</td>
+              <td align="left" rowspan="1" colspan="1">14.6</td>
+              <td align="left" rowspan="1" colspan="1">1.8</td>
+              <td align="left" rowspan="1" colspan="1">16</td>
+              <td align="left" rowspan="1" colspan="1">IgA Fab J539 light chain</td>
+              <td align="left" rowspan="1" colspan="1">2FBJ-L</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">264</td>
+              <td align="left" rowspan="1" colspan="1">13.0</td>
+              <td align="left" rowspan="1" colspan="1">2.4</td>
+              <td align="left" rowspan="1" colspan="1">17</td>
+              <td align="left" rowspan="1" colspan="1">VCBP3</td>
+              <td align="left" rowspan="1" colspan="1">2FBO-J</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">543</td>
+              <td align="left" rowspan="1" colspan="1">11.7</td>
+              <td align="left" rowspan="1" colspan="1">2.3</td>
+              <td align="left" rowspan="1" colspan="1">22</td>
+              <td align="left" rowspan="1" colspan="1">Dscam</td>
+              <td align="left" rowspan="1" colspan="1">2V5R-A</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">572</td>
+              <td align="left" rowspan="1" colspan="1">10.5</td>
+              <td align="left" rowspan="1" colspan="1">2.1</td>
+              <td align="left" rowspan="1" colspan="1">19</td>
+              <td align="left" rowspan="1" colspan="1">NCAM</td>
+              <td align="left" rowspan="1" colspan="1">1IE5-A</td>
+            </tr>
+          </tbody>
+        </table>
+      </alternatives>
+      <table-wrap-foot>
+        <fn id="nt101">
+          <label>a</label>
+          <p>A Z-score above ([number of residues/10]–4) is considered significant.</p>
+        </fn>
+        <fn id="nt102">
+          <label>b</label>
+          <p>r.m.s.d., root mean square deviation.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <p>There also is evidence of expansion of IgSF molecules in invertebrates. For example, like many immunoglobulins, chitin-binding protein (CBP) of <italic>Branchiostoma</italic> is a close structural homolog of JAM-A (<xref ref-type="table" rid="ppat-1000481-t002">Table 2</xref>). Variable region-containing (V) CBPs contain a V-type immunoglobulin domain with extensive sequence diversity in the N-terminal region <xref ref-type="bibr" rid="ppat.1000481-Cannon1">[21]</xref>,<xref ref-type="bibr" rid="ppat.1000481-HernandezPrada1">[22]</xref>. This diversity is thought to result from high haplotype variation, including variable copy number, polymorphisms, and potential for alternative splicing <xref ref-type="bibr" rid="ppat.1000481-Dishaw1">[23]</xref>. Another of the closest structural homologs of JAM-A is Down syndrome cell adhesion molecule (Dscam), an IgSF member of the more evolutionarily distant invertebrate <italic>Drosophila</italic> (<xref ref-type="table" rid="ppat-1000481-t002">Table 2</xref>). Dscam is an immune mediator found in clusters of variable exons flanked by constant exons <xref ref-type="bibr" rid="ppat.1000481-Meijers1">[24]</xref>,<xref ref-type="bibr" rid="ppat.1000481-Schmucker1">[25]</xref>. Thousands of different Dscam molecules can be generated via alternative splicing, a mechanism that is highly conserved across insect orders <xref ref-type="bibr" rid="ppat.1000481-Watson1">[26]</xref>. Secreted isoforms of Dscam circulating in insect hemolymph contribute to phagocytic uptake of bacteria. While the structural similarities between JAM-A and VCBP or Dscam may not indicate a direct evolutionary relationship, it is clear that diversification and secretion of soluble forms of IgSF molecules can occur in invertebrates and raise the possibility that pathogens have had selective influence on the diversification and secretion of these molecules. Thus, IgSF proteins that served as precursors to soluble adaptive immune effectors may have diversified both prior to and following their introduction into the vertebrate genome. A more thorough examination of IgSF members in invertebrates may clarify mechanisms that led to the evolution of modern adaptive immune mediators and the role of JAM/CTX family molecules in this evolutionary process.</p>
+    <p>The evolution of JAM family members prior to the biochemical means to efficiently and extensively diversify antigen receptor genes, along with the structural similarities in the binding surfaces of virus receptors and immunoglobulins, provides strong support for the contention that viruses and perhaps other pathogens that engage IgSF receptors contributed to the selection of humoral mediators of adaptive immunity. These observations provide a new framework for understanding how pathogen–host interplay during a prolonged period of evolutionary struggle may have led to the development of antigen-specific immune responses in vertebrates.</p>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Jim Chappell and the <italic>PLoS Pathogens</italic> reviewers for insightful suggestions and critique of the manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="ppat.1000481-Bork1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bork</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Holm</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Sander</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>1994</year>
+          <article-title>The immunoglobulin fold: structural classification, sequence patterns and common core.</article-title>
+          <source>J Mol Biol</source>
+          <volume>242</volume>
+          <fpage>309</fpage>
+          <lpage>320</lpage>
+          <pub-id pub-id-type="pmid">7932691</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Harpaz1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harpaz</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chothia</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>1994</year>
+          <article-title>Many of the immunoglobulin superfamily domains in cell adhesion molecules and surface receptors belong to a new structural set which is close to that containing variable domains.</article-title>
+          <source>J Mol Biol</source>
+          <volume>238</volume>
+          <fpage>528</fpage>
+          <lpage>539</lpage>
+          <pub-id pub-id-type="pmid">8176743</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Bella1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bella</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kolatkar</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Marlor</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Greve</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Rossmann</surname>
+              <given-names>MG</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>The structure of the two amino-terminal domains of human ICAM-1 suggests how it functions as a rhinovirus receptor and as an LFA-1 integrin ligand.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>95</volume>
+          <fpage>4140</fpage>
+          <lpage>4145</lpage>
+          <pub-id pub-id-type="pmid">9539703</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Kwong1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kwong</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Wyatt</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sweet</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Sodroski</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Structure of an HIV gp120 envelope glycoprotein in complex with the CD4 receptor and a neutralizing antibody.</article-title>
+          <source>Nature</source>
+          <volume>393</volume>
+          <fpage>648</fpage>
+          <lpage>659</lpage>
+          <pub-id pub-id-type="pmid">9641677</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Bewley1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bewley</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Springer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>YB</given-names>
+            </name>
+            <name>
+              <surname>Freimuth</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Flanagan</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Structural analysis of the mechanism of adenovirus binding to its human cellular receptor, CAR.</article-title>
+          <source>Science</source>
+          <volume>286</volume>
+          <fpage>1579</fpage>
+          <lpage>1583</lpage>
+          <pub-id pub-id-type="pmid">10567268</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Belnap1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belnap</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>McDermott</surname>
+              <given-names>BM</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Filman</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Trus</surname>
+              <given-names>BL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Three-dimensional structure of poliovirus receptor bound to poliovirus.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>97</volume>
+          <fpage>73</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="pmid">10618373</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-He1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chipman</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Howitt</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bator</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Whitt</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Interaction of coxsackievirus B3 with the full length coxsackievirus-adenovirus receptor.</article-title>
+          <source>Nat Struct Biol</source>
+          <volume>8</volume>
+          <fpage>874</fpage>
+          <lpage>878</lpage>
+          <pub-id pub-id-type="pmid">11573093</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Xiao1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xiao</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Bator</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Bowman</surname>
+              <given-names>VD</given-names>
+            </name>
+            <name>
+              <surname>Rieder</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Interaction of coxsackievirus A21 with its cellular receptor, ICAM-1.</article-title>
+          <source>J Virol</source>
+          <volume>75</volume>
+          <fpage>2444</fpage>
+          <lpage>2451</lpage>
+          <pub-id pub-id-type="pmid">11160747</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Kirchner1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirchner</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Guglielmi</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Strauss</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Dermody</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Stehle</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Structure of reovirus σ1 in complex with its receptor junctional adhesion molecule-A.</article-title>
+          <source>PLoS Pathog</source>
+          <volume>4</volume>
+          <fpage>e1000235</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.ppat.1000235">10.1371/journal.ppat.1000235</ext-link></comment>
+          <pub-id pub-id-type="pmid">19079583</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Zhang1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Morais</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Bator</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Bowman</surname>
+              <given-names>VD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Crystal structure of CD155 and electron microscopic studies of its complexes with polioviruses.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>105</volume>
+          <fpage>18284</fpage>
+          <lpage>18289</lpage>
+          <pub-id pub-id-type="pmid">19011098</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Dveksler1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dveksler</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Pensiero</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Dieffenbach</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Cardellichio</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Basile</surname>
+              <given-names>AA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1993</year>
+          <article-title>Mouse hepatitis virus strain A59 and blocking antireceptor monoclonal antibody bind to the N-terminal domain of cellular receptor.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>90</volume>
+          <fpage>17116</fpage>
+          <lpage>17120</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Krummenacher1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krummenacher</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rux</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Whitbeck</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Ponce-de-Leon</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lou</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1999</year>
+          <article-title>The first immunoglobulin-like domain of HveC is sufficient to bind herpes simplex virus gD with full affinity, while the third domain is involved in oligomerization of HveC.</article-title>
+          <source>J Virol</source>
+          <volume>73</volume>
+          <fpage>8127</fpage>
+          <lpage>8137</lpage>
+          <pub-id pub-id-type="pmid">10482562</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Ono1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ono</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Tatsuo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Minagawa</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yanagi</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>V domain of human SLAM (CDw150) is essential for its function as a measles virus receptor.</article-title>
+          <source>J Virol</source>
+          <volume>75</volume>
+          <fpage>1594</fpage>
+          <lpage>1600</lpage>
+          <pub-id pub-id-type="pmid">11160657</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Kwon1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kwon</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Baek</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Felmet</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Burton</surname>
+              <given-names>EA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Soluble V domain of Nectin-1/HveC enables entry of herpes simplex virus type 1 (HSV-1) into HSV-resistant cells by binding to viral glycoprotein D.</article-title>
+          <source>J Virol</source>
+          <volume>80</volume>
+          <fpage>138</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="pmid">16352538</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Stehle1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stehle</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Dermody</surname>
+              <given-names>TS</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Structural similarities in the cellular receptors used by adenovirus and reovirus.</article-title>
+          <source>Viral Immunol</source>
+          <volume>17</volume>
+          <fpage>129</fpage>
+          <lpage>143</lpage>
+          <pub-id pub-id-type="pmid">15279694</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Wu1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kwong</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Hendrickson</surname>
+              <given-names>WA</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Dimeric association and segmental variability in the structure of human CD4.</article-title>
+          <source>Nature</source>
+          <volume>387</volume>
+          <fpage>527</fpage>
+          <lpage>530</lpage>
+          <pub-id pub-id-type="pmid">9168119</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-DuPasquier1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Du Pasquier</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zucchetti</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>De Santis</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Immunoglobulin superfamily receptors in protochordates: before RAG time.</article-title>
+          <source>Immunol Rev</source>
+          <volume>198</volume>
+          <fpage>233</fpage>
+          <lpage>248</lpage>
+          <pub-id pub-id-type="pmid">15199966</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Whiteman1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whiteman</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Bianco</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Knight</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Spiteri</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Human rhinovirus selectively modulates membranous and soluble forms of its intercellular adhesion molecule-1 (ICAM-1) receptor to promote epithelial cell infectivity.</article-title>
+          <source>J Biol Chem</source>
+          <volume>278</volume>
+          <fpage>11954</fpage>
+          <lpage>11961</lpage>
+          <pub-id pub-id-type="pmid">12551926</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Holm1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holm</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kaariainen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rosenstrom</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schenkel</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Searching protein structure databases with DaliLite v.3.</article-title>
+          <source>Bioinformatics</source>
+          <volume>24</volume>
+          <fpage>2780</fpage>
+          <lpage>2781</lpage>
+          <pub-id pub-id-type="pmid">18818215</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-DuPasquier2">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Du Pasquier</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Speculations on the origin of the vertebrate immune system.</article-title>
+          <source>Immunol Lett</source>
+          <volume>92</volume>
+          <fpage>3</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">15081520</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Cannon1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cannon</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Haire</surname>
+              <given-names>RN</given-names>
+            </name>
+            <name>
+              <surname>Litman</surname>
+              <given-names>GW</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Identification of diversified genes that contain immunoglobulin-like variable regions in a protochordate.</article-title>
+          <source>Nat Immunol</source>
+          <volume>3</volume>
+          <fpage>1200</fpage>
+          <lpage>1207</lpage>
+          <pub-id pub-id-type="pmid">12415263</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-HernandezPrada1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hernandez Prada</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Haire</surname>
+              <given-names>RN</given-names>
+            </name>
+            <name>
+              <surname>Allaire</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jakoncic</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Stojanoff</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Ancient evolutionary origin of diversified variable regions demonstrated by crystal structures of an immune-type receptor in amphioxus.</article-title>
+          <source>Nat Immunol</source>
+          <volume>7</volume>
+          <fpage>875</fpage>
+          <lpage>882</lpage>
+          <pub-id pub-id-type="pmid">16799561</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Dishaw1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dishaw</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Gwatney</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Cannon</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Haire</surname>
+              <given-names>RN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Genomic complexity of the variable region-containing chitin-binding proteins in amphioxus.</article-title>
+          <source>BMC Genet</source>
+          <volume>9</volume>
+          <fpage>78</fpage>
+          <pub-id pub-id-type="pmid">19046437</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Meijers1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meijers</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Puettmann-Holgado</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Skiniotis</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Walz</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Structural basis of Dscam isoform specificity.</article-title>
+          <source>Nature</source>
+          <volume>449</volume>
+          <fpage>487</fpage>
+          <lpage>491</lpage>
+          <pub-id pub-id-type="pmid">17721508</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Schmucker1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmucker</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Clemens</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Shu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Worby</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2000</year>
+          <article-title>Drosophila Dscam is an axon guidance receptor exhibiting extraordinary molecular diversity.</article-title>
+          <source>Cell</source>
+          <volume>101</volume>
+          <fpage>671</fpage>
+          <lpage>684</lpage>
+          <pub-id pub-id-type="pmid">10892653</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Watson1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Watson</surname>
+              <given-names>FL</given-names>
+            </name>
+            <name>
+              <surname>Puttmann-Holgado</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Lamar</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Extensive diversity of Ig-superfamily proteins in the immune system of insects.</article-title>
+          <source>Science</source>
+          <volume>309</volume>
+          <fpage>1874</fpage>
+          <lpage>1878</lpage>
+          <pub-id pub-id-type="pmid">16109846</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Harris1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harris</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Larson</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Hasel</surname>
+              <given-names>KW</given-names>
+            </name>
+            <name>
+              <surname>McPherson</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Refined structure of an intact IgG2a monoclonal antibody.</article-title>
+          <source>Biochemistry</source>
+          <volume>36</volume>
+          <fpage>1581</fpage>
+          <lpage>1597</lpage>
+          <pub-id pub-id-type="pmid">9048542</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Prota1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prota</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Schelling</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Forrest</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>TR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2003</year>
+          <article-title>Crystal structure of human junctional adhesion molecule 1: implications for reovirus binding.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>100</volume>
+          <fpage>5366</fpage>
+          <lpage>5371</lpage>
+          <pub-id pub-id-type="pmid">12697893</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Wu2">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Myszka</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Tendian</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Brouillette</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Sweet</surname>
+              <given-names>RW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1996</year>
+          <article-title>Kinetic and structural analysis of mutant CD4 receptors that are defective in HIV gp120 binding.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>93</volume>
+          <fpage>15030</fpage>
+          <lpage>15035</lpage>
+          <pub-id pub-id-type="pmid">8986758</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-vanRaaij1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Raaij</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Chouin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>van der Zandt</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bergelson</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Cusack</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Dimeric structure of the coxsackievirus and adenovirus receptor D1 domain at 1.7 Å resolution.</article-title>
+          <source>Structure</source>
+          <volume>8</volume>
+          <fpage>1147</fpage>
+          <lpage>1155</lpage>
+          <pub-id pub-id-type="pmid">11080637</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Bergelson1">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bergelson</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Cunningham</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Droguett</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kurt-Jones</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Krithivas</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1997</year>
+          <article-title>Isolation of a common receptor for Coxsackie B viruses and adenoviruses 2 and 5.</article-title>
+          <source>Science</source>
+          <volume>275</volume>
+          <fpage>1320</fpage>
+          <lpage>1323</lpage>
+          <pub-id pub-id-type="pmid">9036860</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Tomko1">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomko</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Philipson</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>HCAR and MCAR: the human and mouse cellular receptors for subgroup C adenoviruses and group B coxsackieviruses.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>94</volume>
+          <fpage>3352</fpage>
+          <lpage>3356</lpage>
+          <pub-id pub-id-type="pmid">9096397</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Williams1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>RK</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>KV</given-names>
+            </name>
+          </person-group>
+          <year>1991</year>
+          <article-title>Receptor for mouse hepatitis virus is a member of the carcinoembryonic antigen family of glycoproteins.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>88</volume>
+          <fpage>5533</fpage>
+          <lpage>5536</lpage>
+          <pub-id pub-id-type="pmid">1648219</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Yokomori1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yokomori</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>MM</given-names>
+            </name>
+          </person-group>
+          <year>1992</year>
+          <article-title>Mouse hepatitis virus utilizes two carcinoembryonic antigens as alternative receptors.</article-title>
+          <source>J Virol</source>
+          <volume>66</volume>
+          <fpage>6194</fpage>
+          <lpage>6199</lpage>
+          <pub-id pub-id-type="pmid">1326665</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Dveksler2">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dveksler</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Diffenbach</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Cardellichio</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>McCuaig</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Pensiero</surname>
+              <given-names>MN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1993</year>
+          <article-title>Several members of the mouse carcinoembryonic antigen-related glycoprotein family are functional receptors for the coronavirus mouse hepatitis virus-A59.</article-title>
+          <source>J Virol</source>
+          <volume>67</volume>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">8380065</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Geraghty1">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Geraghty</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Krummenacher</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Eisenberg</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>PG</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Entry of alphaherpesviruses mediated by poliovirus receptor-related protein 1 and poliovirus receptor.</article-title>
+          <source>Science</source>
+          <volume>280</volume>
+          <fpage>1618</fpage>
+          <lpage>1620</lpage>
+          <pub-id pub-id-type="pmid">9616127</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Warner1">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Warner</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Geraghty</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Martinez</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Montgomery</surname>
+              <given-names>RI</given-names>
+            </name>
+            <name>
+              <surname>Whitbeck</surname>
+              <given-names>JC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>A cell surface protein with herpesvirus entry activity (HveB) confers susceptibility to infection by mutants of herpes simplex virus type 1, herpes simplex virus type 2, and pseudorabies virus.</article-title>
+          <source>Virology</source>
+          <volume>246</volume>
+          <fpage>179</fpage>
+          <lpage>189</lpage>
+          <pub-id pub-id-type="pmid">9657005</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Dalgleish1">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dalgleish</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Beverley</surname>
+              <given-names>PCL</given-names>
+            </name>
+            <name>
+              <surname>Clapham</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Crawford</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Greaves</surname>
+              <given-names>MF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1984</year>
+          <article-title>The CD4 (T4) antigen is an essential component of the receptor for the AIDS retrovirus.</article-title>
+          <source>Nature</source>
+          <volume>312</volume>
+          <fpage>763</fpage>
+          <lpage>767</lpage>
+          <pub-id pub-id-type="pmid">6096719</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Maddon1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maddon</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Dalgleish</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>McDougal</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Clapham</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Weiss</surname>
+              <given-names>RA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1986</year>
+          <article-title>The T4 gene encodes the AIDS virus receptor and is expressed in the immune system and the brain.</article-title>
+          <source>Cell</source>
+          <volume>47</volume>
+          <fpage>333</fpage>
+          <lpage>348</lpage>
+          <pub-id pub-id-type="pmid">3094962</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Tatsuo1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tatsuo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ono</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Yanagi</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>SLAM (CDw150) is a cellular receptor for measles virus.</article-title>
+          <source>Nature</source>
+          <volume>406</volume>
+          <fpage>893</fpage>
+          <lpage>897</lpage>
+          <pub-id pub-id-type="pmid">10972291</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Mendelsohn1">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mendelsohn</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Wimmer</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Racaniello</surname>
+              <given-names>VR</given-names>
+            </name>
+          </person-group>
+          <year>1989</year>
+          <article-title>Cellular receptor for poliovirus: molecular cloning, nucleotide sequence, and expression of a new member of the immunoglobulin superfamily.</article-title>
+          <source>Cell</source>
+          <volume>56</volume>
+          <fpage>855</fpage>
+          <lpage>865</lpage>
+          <pub-id pub-id-type="pmid">2538245</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Thoulouze1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thoulouze</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Lafage</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Schachner</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hartmann</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Cremer</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>The neural cell adhesion molecule is a receptor for rabies virus.</article-title>
+          <source>J Virol</source>
+          <volume>72</volume>
+          <fpage>7181</fpage>
+          <lpage>7190</lpage>
+          <pub-id pub-id-type="pmid">9696812</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Barton1">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barton</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Forrest</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Connolly</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Chappell</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Junction adhesion molecule is a receptor for reovirus.</article-title>
+          <source>Cell</source>
+          <volume>104</volume>
+          <fpage>441</fpage>
+          <lpage>451</lpage>
+          <pub-id pub-id-type="pmid">11239401</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Greve1">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greve</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Forte</surname>
+              <given-names>CP</given-names>
+            </name>
+            <name>
+              <surname>Yost</surname>
+              <given-names>SC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1989</year>
+          <article-title>The major human rhinovirus receptor is ICAM-1.</article-title>
+          <source>Cell</source>
+          <volume>56</volume>
+          <fpage>839</fpage>
+          <lpage>847</lpage>
+          <pub-id pub-id-type="pmid">2538243</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Staunton1">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Staunton</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Merluzzi</surname>
+              <given-names>VJ</given-names>
+            </name>
+            <name>
+              <surname>Rothlein</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Barton</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Marlin</surname>
+              <given-names>SD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1989</year>
+          <article-title>A cell adhesion molecule, ICAM-1, is the major surface receptor for rhinoviruses.</article-title>
+          <source>Cell</source>
+          <volume>56</volume>
+          <fpage>849</fpage>
+          <lpage>853</lpage>
+          <pub-id pub-id-type="pmid">2538244</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="ppat.1000481-Tomassini1">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomassini</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Graham</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>DeWitt</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Lineberger</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Rodkiey</surname>
+              <given-names>JA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1989</year>
+          <article-title>cDNA cloning reveals that the major group rhinovirus receptor on HeLa cells is intercellular adhesion molecule 1.</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>86</volume>
+          <fpage>4907</fpage>
+          <lpage>4911</lpage>
+          <pub-id pub-id-type="pmid">2544880</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>This work was supported by Public Health Service awards T32 GM08554 (K.M.G.), R37 AI38296 (T.S.D.), and R01 GM67853/AI76983 (T.S.D. and T.S.), and the Elizabeth B. Lamb Center for Pediatric Research. The funders did not participate in the preparation, review, or approval of the manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

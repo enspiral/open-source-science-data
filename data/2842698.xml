@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:09Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2842698" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2842698</identifier><datestamp>2010-03-23</datestamp><setSpec>transb</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Philos Trans R Soc Lond B Biol Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">RSTB</journal-id>
+      <journal-id journal-id-type="hwp">royptb</journal-id>
+      <journal-title-group>
+        <journal-title>Philosophical Transactions of the Royal Society B: Biological Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0962-8436</issn>
+      <issn pub-type="epub">1471-2970</issn>
+      <publisher>
+        <publisher-name>The Royal Society</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2842698</article-id>
+      <article-id pub-id-type="pmid">20008388</article-id>
+      <article-id pub-id-type="doi">10.1098/rstb.2009.0150</article-id>
+      <article-id pub-id-type="publisher-id">rstb20090150</article-id>
+      <article-categories>
+        <subj-group subj-group-type="hwp-journal-coll">
+          <subject>1001</subject>
+          <subject>70</subject>
+          <subject>60</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Fluctuating selection: the perpetual renewal of adaptation in variable environments</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bell</surname>
+            <given-names>Graham</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff><addr-line>Department of Biology</addr-line>, <institution>McGill University</institution>, <addr-line>1205 Avenue Docteur Penfield, Montreal, Quebec H3A 1B1</addr-line>, <country>Canada</country></aff>
+      <author-notes>
+        <corresp id="cor1">
+          <label>*</label>
+          <email>graham.bell@mcgill.ca</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>12</day>
+        <month>1</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>12</day>
+        <month>1</month>
+        <year>2010</year>
+      </pub-date>
+      <!-- PMC Release delay is 0 months and 0 days and was based on the
+							<pub-date pub-type="ppub"/>. -->
+      <volume>365</volume>
+      <issue>1537</issue>
+      <issue-title>Theme Issue 'Personal perspectives in the life sciences for the Royal Society's 350th anniversary' compiled and edited by Georgina Mace</issue-title>
+      <fpage>87</fpage>
+      <lpage>97</lpage>
+      <permissions>
+        <copyright-statement>© 2010 The Royal Society</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:type="simple" xlink:href="rstb20090150.pdf"/>
+      <abstract>
+        <p>Darwin insisted that evolutionary change occurs very slowly over long periods of time, and this gradualist view was accepted by his supporters and incorporated into the infinitesimal model of quantitative genetics developed by R. A. Fisher and others. It dominated the first century of evolutionary biology, but has been challenged in more recent years both by field surveys demonstrating strong selection in natural populations and by quantitative trait loci and genomic studies, indicating that adaptation is often attributable to mutations in a few genes. The prevalence of strong selection seems inconsistent, however, with the high heritability often observed in natural populations, and with the claim that the amount of morphological change in contemporary and fossil lineages is independent of elapsed time. I argue that these discrepancies are resolved by realistic accounts of environmental and evolutionary changes. First, the physical and biotic environment varies on all time-scales, leading to an indefinite increase in environmental variance over time. Secondly, the intensity and direction of natural selection are also likely to fluctuate over time, leading to an indefinite increase in phenotypic variance in any given evolving lineage. Finally, detailed long-term studies of selection in natural populations demonstrate that selection often changes in direction. I conclude that the traditional gradualist scheme of weak selection acting on polygenic variation should be supplemented by the view that adaptation is often based on oligogenic variation exposed to commonplace, strong, fluctuating natural selection.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>natural selection</kwd>
+        <kwd>fluctuating selection</kwd>
+        <kwd>selection coefficient</kwd>
+        <kwd>environmental variation</kwd>
+        <kwd>infinitesimal model</kwd>
+        <kwd>oligogenic model</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <label>1.</label>
+      <title>The tradition of gradualism</title>
+      <p>The central problem of evolutionary biology is to explain how adaptation to particular environmental conditions evolves through natural selection. For almost the whole history of the field, the prevailing view has been that selection is weak and can be effective only when it acts over very long periods of time.<disp-quote><p>That natural selection always acts with extreme slowness I fully admit.</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C23">Darwin 1859</xref>, p. 121)</attrib></disp-quote><disp-quote><p>Thus we come to the conclusion that Darwin was right in regarding transformation as taking place by minute steps, which, if useful, are augmented in the course of innumerable generations …</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C75">Weismann 1909</xref>, p. 24)</attrib></disp-quote><disp-quote><p>It must never be forgotten that a very slight advantage will in the course of generations come to predominate.</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C38">Haldane &amp; Huxley 1927</xref>, p. 222)</attrib></disp-quote><disp-quote><p>… the extreme slowness of the change revealed whenever we trace evolution in action.</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C77">Wells <italic>et al.</italic> 1934</xref>, p. 207)</attrib></disp-quote><disp-quote><p>For ordinary natural selection involving a simple dominant with a selective advantage of 1 in 1000 … it will take nearly 5000 generations to increase the proportion of the dominant from 1 to 50% …</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C44">Huxley 1942</xref>, p. 57)</attrib></disp-quote><disp-quote><p>Such calculations are extremely rough, but they suggest the remarkably small magnitude of the selective ‘forces’ which are at work if natural selection is largely responsible for evolution, and the extreme difficulty of detecting them in action.</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C37">Haldane 1949</xref>, p. 56)</attrib></disp-quote><disp-quote><p>These estimates of the cost of evolution lead to the conclusion that evolutionary change is normally an exceedingly slow process.</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C55">Mayr 1966</xref>, p. 259)</attrib></disp-quote></p>
+      <p>There were few dissentient voices. A remarkable early example was A. R. Wallace, the acolyte of Darwin:<disp-quote><p>Mr Darwin was rather inclined to exaggerate the necessary slowness of the action of natural selection; but with the knowledge we now possess of the great amount and range of individual variation, there seems no difficulty in an amount of change, quite equivalent to that which usually distinguishes allied species, sometimes taking place in less than a century, should any rapid change in conditions necessitate an equally rapid adaptation.</p><attrib>(<xref ref-type="bibr" rid="RSTB20090150C73">Wallace 1889</xref>, p. 125)</attrib></disp-quote></p>
+      <p>His was a lone voice. The insistence of Darwin, and his successors, on the prevalence of weak selection operating over long periods of time dominated evolutionary biology for over a century, and inflicted two serious wounds on the development of the field. The first was that attempts to observe natural selection in action would be futile because of the extreme slowness of change. The second was that experiments were out of the question, as no appreciable change could occur within the lifetime of the experimenter. There were brilliant early efforts in both fieldwork (<xref ref-type="bibr" rid="RSTB20090150C76">Weldon 1901</xref>) and experimentation (<xref ref-type="bibr" rid="RSTB20090150C22">Dallinger 1887</xref>), but they led nowhere. Field studies were taken over by ecology and laboratory experiments by transmission genetics. Evolution itself became a system of interpretation, almost philosophical in character, operating at the margins of the new disciplines, and promising more than it could perform. A book published to mark the centenary of the publication of the theory of natural selection (<xref ref-type="bibr" rid="RSTB20090150C78">Barnett 1958</xref>) included chapters on animal breeding, classification, the fossil record, embryology and so forth, but includes no treatment of natural selection in the field or in the laboratory.</p>
+      <p>This extreme gradualism was codified by <xref ref-type="bibr" rid="RSTB20090150C30">Fisher (1930)</xref> and others as the infinitesimal model of population genetics. Quantitative characters are taken to be governed by an effectively infinite number of loci bearing alleles of infinitesimal effect. Consequently, character state can be modified by selection with no appreciable change in gene frequencies. This is a convenient calculating device that enables a mathematical theory of quantitative genetics to be built on normal distribution theory (<xref ref-type="bibr" rid="RSTB20090150C79">Bulmer 1985</xref>, ch. 9). It is not a realistic description of real populations, of course, but it is usually taken to be approximately correct, insofar as the state of a quantitative character is usually governed by a large number of loci each of small effect. Hence, most evolutionary change within a lineage will involve the successive substitution of alleles of small effect. The common-sense justification for this is that any substantial alteration of character state in a well-adapted population is almost certain to be deleterious, whereas very small alterations will often be beneficial (<xref ref-type="bibr" rid="RSTB20090150C30">Fisher 1930</xref>, ch. 2). The gradual modification of characters in fossil time-series is attributed to stabilizing selection (acting against extreme phenotypes) around an optimal value that changes slowly over time so as to generate very weak but consistent directional selection. In this way, the mathematical theory of population genetics that was developed during the twentieth century formalized and reinforced the gradualist foundation laid down in the nineteenth century.</p>
+    </sec>
+    <sec id="s2">
+      <label>2.</label>
+      <title>The oligogenic model</title>
+      <p>The renaissance of evolutionary biology as an empirical and experimental science began in the 1950s, from a variety of sources. They included the Oxford school of ecological genetics, and especially the careful fieldwork of Cain and his colleagues (<xref ref-type="bibr" rid="RSTB20090150C80">Cain &amp; Shepherd 1954</xref>), the analysis of chromosome polymorphism in <italic>Drosophila</italic> by Dobzhansky and colleagues (<xref ref-type="bibr" rid="RSTB20090150C24">Dobzhansky 1948</xref>) and the artificial selection experiments on <italic>Drosophila</italic> at Leeds and Edinburgh (<xref ref-type="bibr" rid="RSTB20090150C14">Clayton &amp; Robertson 1957</xref>). By the mid-1980s, the number of field studies had become large enough for <xref ref-type="bibr" rid="RSTB20090150C81">Endler (1986)</xref> to review the field and conclude that directional selection in natural populations was commonplace and often strong. At about the same time, the emphasis of field research programmes was shifting from measuring the frequencies of discrete morphs to estimating the relationship between the state of continuous characters and fitness components. When this field became mature enough to be reviewed, the results reinforced the conclusions based on polymorphism (<xref ref-type="bibr" rid="RSTB20090150C40">Hendry &amp; Kinnison 1999</xref>; <xref ref-type="bibr" rid="RSTB20090150C49">Kingsolver <italic>et al</italic>. 2001</xref>). Moreover, laboratory selection experiments had demonstrated that selection of comparable magnitude to that reported in many field studies was capable of driving mean character state far beyond the limit of variation expressed by the ancestral population within a few dozen generations (<xref ref-type="bibr" rid="RSTB20090150C5">Barton &amp; Keightley 2002</xref>). There are some reasons to believe that published studies tend to overestimate the average strength of selection: for example, research is more likely to be directed towards situations where selection is more likely to occur, such as newly available habitats and disturbed sites, and positive results may be more likely to be written up and published. Most studies also measure only a single component of fitness, rather than the overall relative rate of increase (<xref ref-type="bibr" rid="RSTB20090150C42">Hereford <italic>et al</italic>. 2004</xref>). Nevertheless, the field has shifted decisively from supposing that selection coefficients are almost always a fraction of 1 per cent, to recognizing that selection coefficients of 10 per cent are not unusual.</p>
+      <p>In recent years, we have also learned more about the genetic basis of adaptation. Theoretical work has established that the order in which beneficial alleles are substituted depends on their effects, because alleles of small effect, even though more numerous, are very likely to be lost by drift soon after their appearance. Hence, the bulk of adaptation to new conditions may be attributable to a few mutations of large effect (<xref ref-type="bibr" rid="RSTB20090150C61">Orr 2003</xref>). This has been confirmed by experimental studies demonstrating that the first beneficial mutations to be fixed have large effects on fitness (<xref ref-type="bibr" rid="RSTB20090150C4">Barrett <italic>et al</italic>. 2006</xref>) and that adaptation to new conditions typically involves large initial increments in fitness (<xref ref-type="bibr" rid="RSTB20090150C27">Dykhuizen &amp; Hartl 1981</xref>; <xref ref-type="bibr" rid="RSTB20090150C58">Notley-McRobb &amp; Ferenci 1999</xref>; <xref ref-type="bibr" rid="RSTB20090150C43">Holder &amp; Bull 2001</xref>). The genetic analysis of quantitative characters has shown that a few loci may contribute a large fraction of the genetic variance (<xref ref-type="bibr" rid="RSTB20090150C47">Kearsey &amp; Farquhar 1998</xref>). This conclusion has been disputed because limited studies are capable of detecting only major genes, whereas more extensive surveys often detect a large number of genes of smaller effect (<xref ref-type="bibr" rid="RSTB20090150C10">Bost <italic>et al</italic>. 2001</xref>). It may well be that quantitative characters are often affected by hundreds or thousands of loci. Regardless of the number of loci that may affect a character, however, the important result from an evolutionary standpoint is that beneficial alleles of large effect exist, and these are most likely to be those that are primarily responsible for adaptation. They may be initially absent from the population, and arise by mutation at rate <italic>u</italic>; or they may already be present, held in mutation-selection equilibrium at a frequency directly proportional to <italic>u</italic>. The oligogenic model applies equally to selection acting on standing genetic variation, and to selection acting on novel mutations, as the source of adaptation.</p>
+      <p>For example, the evolution of crop plants through artificial selection has hinged on mutations in a few major genes, such as those involved in modifying the structure of the maize plant and the maize cob (<xref ref-type="bibr" rid="RSTB20090150C25">Doebley 2004</xref>). In more natural situations, classic examples of evolutionary change, such as beak shape and size in Darwin's finches (<xref ref-type="bibr" rid="RSTB20090150C1">Abzhanov <italic>et al</italic>. 2004</xref>) and body armour and spines in sticklebacks (<xref ref-type="bibr" rid="RSTB20090150C18">Colosimo <italic>et al</italic>. 2005</xref>), are also based largely on mutations of large effect in one or two genes. Even differences between newly diverged species may often involve changes in very few genes (<xref ref-type="bibr" rid="RSTB20090150C60">Orr 2001</xref>).</p>
+      <p>For these reasons, the infinitesimal model has been supplemented, and to some extent replaced, during the past decade by an oligogenic model of adaptation. Rapid adaptation is often driven by strong selection acting on oligogenic variation. I have surveyed the evidence for this in greater detail elsewhere (<xref ref-type="bibr" rid="RSTB20090150C6">Bell 2008</xref>). There will be many examples, no doubt, where characters evolve slowly over long periods of time through weak selection acting on alleles at many loci. There is no longer any compelling reason to suppose that this is the normal course of adaptation, however, and a great deal of empirical evidence to suspect that it is not. At the same time, however, there are two serious obstacles to accepting the oligogenic model as a general account of adaptation.</p>
+      <p>In the first place, estimates of heritability in natural populations are often high, with an average of about 0.5 (<xref ref-type="bibr" rid="RSTB20090150C74">Weigensberg &amp; Roff 1996</xref>). This seems difficult to reconcile with the conclusion that selection is commonplace and often strong. Even fitness components, which should be exceptionally responsive to selection, usually display quite high levels of genetic variance. This might be consistent with the oligogenic model if relative fitness varies in space, between the different habitats occupied by a species. Strong divergent selection may then protect genetic variance, provided that dispersal is not too high, that habitats do not vary much in productivity and that the number of individuals maintained within each habitat is fixed.</p>
+      <p>Secondly, estimated rates of evolution fall in proportion to the length of time over which they are estimated. The rate of evolution <italic>R</italic> (in Darwins) is related to elapsed time <italic>t</italic> as <italic>R</italic> = <italic>at</italic><sup><italic>z</italic></sup>, with <italic>z</italic> ≈ −1, for times of up to 10<sup>7</sup> generations (<xref ref-type="bibr" rid="RSTB20090150C33">Gingerich 1983</xref>). This is in a sense attributable to the negative autocorrelation of rate and time, such that if the absolute difference between final and initial character states is independent of the elapsed time (<italic>r</italic><sup>2</sup> = 0), the rate is strongly correlated (<italic>r</italic><sup>2</sup> ≈ 0.5), with the slope of the log–log regression being <italic>z</italic> ≈ −1. Hence, the Gingerich rule implies that the corresponding power law for the absolute difference in character state has <italic>z</italic><sub>D</sub> ≈ 0 (<xref ref-type="bibr" rid="RSTB20090150C29">Estes &amp; Arnold 2007</xref>, fig. 4B). <xref ref-type="bibr" rid="RSTB20090150C50">Kinnison &amp; Hendry (2001)</xref> and <xref ref-type="bibr" rid="RSTB20090150C41">Hendry <italic>et al</italic>. (2008)</xref> confirmed this result for examples of recent evolution over periods of 10–300 generations, while <xref ref-type="bibr" rid="RSTB20090150C9">Bone &amp; Farres (2001)</xref> reported similar results for plants. This implies that the amount of evolutionary change (absolute difference in mean character state between two points in time) is independent of the time over which it is measured, or nearly so. The rates of selection characteristic of contemporary populations do not extend into past times, but are consistently diluted so as to maintain more or less the same average amount of change. This remarkable observation seems to confirm that stabilizing selection around a very slowly moving optimum governs long-term evolutionary change. <xref ref-type="bibr" rid="RSTB20090150C29">Estes &amp; Arnold (2007)</xref> evaluated several different kinds of model and found that the best fit to the Gingerich rule occurred with a displaced-optimum model, in which conditions remain constant for long periods of time, but occasionally and abruptly change. Spatial variation in selection pressure does not provide a convincing alternative: if selection varies in space, the relative productivity of habitats must remain almost the same over long periods of time. Hence, the oligogenic model, with variable selection, appears to require the same unrealistic level of environmental stability as the infinitesimal model.</p>
+      <p>The only way in which the oligogenic model can be made consistent with high levels of heritability and long-term stasis is to show that selection fluctuates strongly over time, often changing in direction. This could retard the loss of genetic variation, with minimal long-term directional change. It is a radical departure from traditional accounts of adaptation, however, that must satisfy at least three onerous conditions. First, it must be based on an empirically verified theory of environmental change. Secondly, it must be consistent with the Gingerich rule that rates of evolution vary inversely with elapsed time. Thirdly, it must be supported by estimates of selection coefficients, or other parameters such as selection differentials or intensities directly related to selection coefficients, in contemporary populations. In the rest of this article, I shall investigate these three conditions.</p>
+    </sec>
+    <sec id="s3">
+      <label>3.</label>
+      <title>A multi-scale theory of the environment</title>
+      <p>Natural time-series very commonly have the property that the contribution <italic>C</italic> made by a category of events is inversely proportional to its frequency <italic>f</italic>, such that <italic>C</italic>(<italic>f</italic>) = <italic>f</italic><sup>−<italic>γ</italic></sup> with 0 &lt; <italic><italic>γ</italic></italic> &lt; 2 (<xref ref-type="bibr" rid="RSTB20090150C70">Steele 1985</xref>; <xref ref-type="bibr" rid="RSTB20090150C39">Halley 1996</xref>). The two extreme cases are white noise, which has <italic><italic>γ</italic></italic> = 0, and a random walk, or Brownian motion, which has <italic><italic>γ</italic></italic> = 2. Most situations will be intermediate, with <italic><italic>γ</italic></italic> ≈ 1 (a reddened spectrum, or ‘pink noise’, from the optical analogy). Suppose that the frequency <italic>f</italic><sub>M</sub> of the category of events of average magnitude <italic>M</italic> declines exponentially with increasing <italic>M</italic> as <italic>f</italic><sub>M</sub> = <italic>f</italic><sub>0</sub> exp(−<italic><italic>γ</italic>M</italic>), where <italic><italic>γ</italic></italic> now expresses how rapidly the frequency of events falls off with the severity of their effects, while <italic>f</italic><sub>0</sub> represents the shortest interval recognized in a survey. The average magnitude of events that occur with frequency <italic>f</italic><sub>M</sub> is then <italic>M</italic> = −(1/<italic><italic>γ</italic></italic>) ln(<italic>f</italic><sub>M</sub>/<italic>f</italic><sub>0</sub>). We can use this result to calculate the state of the environment at any particular time as the sum of the effects of events that happened in the past, on all time-scales. The fundamental property of this multi-scale model of the environment is most simply depicted from the environmental variance associated with the lapse of time between <italic>t</italic><sub>1</sub> and <italic>t</italic><sub>2</sub>, which is Var(<italic>E</italic>) = ½(<italic>x</italic><sub>1</sub> − <italic>x</italic><sub>2</sub>)<sup>2</sup>, where <italic>x</italic><sub><italic>t</italic></sub> is the value of an environmental factor at time <italic>t</italic>. This environmental variance increases approximately with the logarithm of the length of the time-series, or with elapsed time <italic>T</italic>, Var(<italic>E</italic>) = <italic>aT</italic><sup><italic>z</italic></sup>. The spectral and power-law approaches are equivalent, with <italic>z</italic> = 0 corresponding to white noise, and <italic>z</italic> = 1 corresponding to Brownian motion. Both formulations imply that variance will continue to increase indefinitely with the length of the time-series, albeit at a decreasing rate.</p>
+      <p>Physical variation often follows a power law very closely. For example, <xref ref-type="bibr" rid="RSTB20090150C51">Koscielny-Bunde <italic>et al</italic>. (1998)</xref> analysed deviations of daily maximum temperature from their seasonal average values, estimated with very voluminous and exact data taken at weather stations around the world over a period of more than a century. They found that plots of ln variance on ln elapsed time are almost perfectly linear with <italic><italic>γ</italic></italic> = 0.7 (<italic>z</italic> = 0.35), which they suggest constitutes a ‘universal persistence law’. <xref ref-type="bibr" rid="RSTB20090150C71">Vasseur &amp; Yodzis (2004)</xref> reviewed datasets for several climatic variables and found the overall average for about 100 historical surveys of mean, maximum and minimum temperature to be about <italic><italic>γ</italic></italic> = 0.7, with precipitation and other factors having lower values. <xref ref-type="bibr" rid="RSTB20090150C62">Pelletier (1997)</xref> found <italic><italic>γ</italic></italic> ≈ 0.5 (<italic>z</italic> = 0.25) from ice-core samples for elapsed times between one month and 2000 years, with some evidence of larger values for longer and shorter time periods.</p>
+      <p>This environmental variability could drive changes in the growth and abundance of populations. <xref ref-type="bibr" rid="RSTB20090150C63">Pimm &amp; Redfearn (1988)</xref> showed that ln abundance <italic>N</italic> of animals also follows a power law. As the ln variance of ln <italic>N</italic> is equivalent to ln [<italic>N</italic>(<italic>t</italic> + 1)/<italic>N</italic>(<italic>t</italic>)], this implies that the variance of realized growth rate increases indefinitely over time. <xref ref-type="bibr" rid="RSTB20090150C45">Inchausti &amp; Halley (2002)</xref> used the extensive records held in the Global Population Dynamics Database to obtain a median value of <italic>z</italic> = 0.36 across more than 500 long-term datasets. The distribution of <italic>z</italic> showed a mode at small values of 0–0.3 and declined in a roughly exponential manner for larger values. The distribution of <italic><italic>γ</italic></italic> was roughly symmetrical around a mean of 1.0 (<italic>z</italic> = 0.5).</p>
+      <p>Species may continually fluctuate in abundance through inherent dynamic processes, through forcing by the physical environment or through Red Queen interactions with other species. In any case, fluctuations in the abundance of competitors, parasites and hosts, and predators and prey will in turn impose selection on a target population. This selection may be intense. Many of the classic accounts of selection in natural populations, such as <italic>Cepaea</italic>, <italic>Gasterosteus</italic> and <italic>Geospiza</italic>, discussed below, involve biotic interactions, often modulated by physical factors. Many genes that have a strong genomic signature of strong directional selection govern host–pathogen interactions (<xref ref-type="bibr" rid="RSTB20090150C28">Endo <italic>et al</italic>. 1996</xref>).</p>
+    </sec>
+    <sec id="s4">
+      <label>4.</label>
+      <title>Adaptation in multi-scale environments</title>
+      <p>In brief, the physical and biotic conditions of growth vary on all time-scales, with rarer events of greater magnitude making a progressively smaller contribution to the overall variance. Because the environment changes on all time-scales, allele frequencies will also show trends on all scales of calendar time. At the shortest scales, there is strong fluctuating selection that can cause appreciable shifts in allele frequency within a generation, or a few generations. Longer term changes in conditions will create fluctuating selection over longer periods, which if the period is long enough will be perceived as a directional trend. Long-term evolution is usually depicted in two alternative ways: either as a gradual change driven by chronic weak selection or as an abrupt change following a long interval of stasis. I am presenting here a third interpretation that seems to me more consistent with observations of natural selection in open populations: selection is generally rather strong and fluctuates on all time-scales such that abrupt changes can occur over short periods of time and gradual directional change occurs over long periods of time. This process is brought to a halt when the species becomes extinct, at which point it expresses directional change corresponding to the long-term environmental change on the time-scale of its longevity. This is not a new theory: for example, <xref ref-type="bibr" rid="RSTB20090150C69">Stanley &amp; Yang (1987)</xref> found that morphological characters in fossil series of bivalves fluctuated strongly over time with little directional trend, which they attributed to ‘zigzag selection’. However, it has not yet become established as the usual mode of evolution at all time-scales, although <xref ref-type="bibr" rid="RSTB20090150C53">Leroi (2000)</xref> takes a very similar view in arguing that the scale independence of adaptive change constitutes a basic evolutionary principle.</p>
+      <p>This process can be modelled by coupling a multi-scale model of environmental change with an evolutionary model. In the environmental model, any particular category of event occurs at intervals of some given number of years, and during this interval the event continues to have the same effect on conditions of growth. More extreme events occur at longer intervals. An event in the category of events that occur every year will be an exponential random variable with some small average value; an event in the category that occur every 2 years will likewise be exponentially distributed but with somewhat greater average, and so forth. The current state of the environment is then the sum of the effects of events in all categories. Its absolute value is largely determined by rare events of a large magnitude, whereas its variation from year to year is usually attributable to smaller and more frequent kinds of events. Conditions will thereby change on all time-scales, and will fluctuate around an overall trend, no matter what period of time is chosen for a survey. This generates an increase in environmental variance over time that continues indefinitely.</p>
+      <p>The evolutionary model simulates a population of <italic>N</italic> diploid individuals bearing a given number of loci affecting a quantitative character, to which the environmental variation <italic><italic>σ</italic></italic><sup>2</sup><sub>E</sub> also contributes. New genetic variation is contributed by mutation to the average effect at each locus at rate <italic>u</italic> per locus per replication. The current state of the environment defines the optimal character state, with the fitness of an individual determined by the distance of its phenotype from the optimum, using a Gaussian function of width <italic><italic>ω</italic></italic><sup>2</sup>. Individuals produce offspring in proportion to their fitness. The evolving population will then track the changing environment, always lagging somewhat behind. Its dynamics will be governed mainly by the mutation supply rate, the heritability and the strength of selection, which depend on <italic>N</italic>, <italic>u</italic>, <italic><italic>σ</italic></italic><sup>2</sup><sub>E</sub> and <italic><italic>ω</italic></italic><sup>2</sup>. Any result may be obtained, including extinction, but biologically reasonable parameter values will satisfy the following criteria:
+<list list-type="roman-lower"><list-item><p>the mutation supply rate <italic>Nu</italic> &lt; 1 per generation (if we are interested primarily in large multicellular organisms),</p></list-item><list-item><p>the average distance between the population mean and the optimum should be about 1 phenotypic standard deviation (<xref ref-type="bibr" rid="RSTB20090150C29">Estes &amp; Arnold 2007</xref>, fig. 8; <xref ref-type="bibr" rid="RSTB20090150C6">Bell 2008</xref>, p. 164),</p></list-item><list-item><p>the coefficient of variation should be between 0.05 and 0.2 (for morphological characters) (<xref ref-type="bibr" rid="RSTB20090150C67">Simpson <italic>et al</italic>. 1960</xref>; <xref ref-type="bibr" rid="RSTB20090150C56">Mouse Phenome Project 2008</xref>),</p></list-item><list-item><p>the width of the fitness function <italic><italic>ω</italic></italic><sup>2</sup> ≃ 10–40 (<xref ref-type="bibr" rid="RSTB20090150C29">Estes &amp; Arnold 2007</xref>, p. 236),</p></list-item><list-item><p>the average heritability should not be far from 0.5 (<xref ref-type="bibr" rid="RSTB20090150C74">Weigensberg &amp; Roff 1996</xref>),</p></list-item><list-item><p>the exponent <italic>z</italic> of the power law relating environmental variance to elapsed time should not be far from 0.5 (<xref ref-type="bibr" rid="RSTB20090150C71">Vasseur &amp; Yodzis 2004</xref>), and</p></list-item><list-item><p>and mean fitness should be adequate to perpetuate the population at all times.</p></list-item></list>These together ensure that the simulation is biologically realistic.</p>
+      <p>An example of a simulation that meets these criteria is shown in <xref ref-type="fig" rid="RSTB20090150F1">figure 1</xref>, which shows the pattern of environmental change at different time-scales and the response of the mean character state. I have not yet attempted an extensive exploration of how parameter values affect outcomes, but simulations following the restrictions listed above have always produced qualitatively similar results consistent with the conclusions drawn here. We can now ask how the amount of evolutionary change corresponds with observed values by computing the exponent <italic>z</italic><sub>P</sub> of the power law for the increase in phenotypic variance through time. The corresponding power law for the absolute difference in character values has <italic>z</italic><sub>D</sub> = <italic>z</italic><sub>P</sub>/2. The environment itself, and hence the optimal character state, follows a power law with exponent <italic>z</italic><sub>E</sub>, which will vary by chance among simulations between about 0.2 and 0.7. If the population were able to track the changing environment precisely, through intense selection and high mutation supply rate, the mean phenotype would always correspond with the optimum, so that <italic>z</italic><sub>P</sub> = <italic>z</italic><sub>E</sub>. In practice, the population always lags behind the fluctuating optimum because selection can act only by modifying the genotypic distribution of the previous generation. The consequence of this lag is that genetic change is always more coarse-grained than environmental change, so that <italic>z</italic><sub>P</sub> &gt; <italic>z</italic><sub>E</sub>. As <italic>z</italic><sub>E</sub> is substantial, this implies that <italic>z</italic><sub>D</sub> will also be substantial, and in practice usually exceeds 0.2. The multi-scale model thus predicts that the amount of evolutionary change will steadily increase with elapsed time, which seems inconsistent with the very extensive data that support <italic>z</italic><sub>D</sub> ≈ 0.</p>
+      <fig id="RSTB20090150F1" position="float">
+        <label>Figure 1.</label>
+        <caption>
+          <p>Simulated evolution in a multi-scale environment. Character state is governed by alleles with additive effects at 10 loci. Mutation creates a new allele with an exponentially distributed random effect with mean 1: the mutation rate is 0.001 per locus per generation. Environmental variation adds a random normal deviate to the character state of each zygote with mean 0 and variance <italic><italic>σ</italic></italic><sup>2</sup><sub>E</sub> = 50. There is random gamete fusion and a single crossover with probability 0.5 at each meiosis. The population consists of 500 diploid individuals, of whom 100 are selected at random in each generation, each with probability proportional to its fitness. The width of the fitness function is <italic><italic>ω</italic></italic><sup>2</sup> = 25. Over the 10<sup>5</sup> generations shown in the figure, the realized population variables were: average distance of population mean from optimum = 1.13 <italic><italic>σ</italic></italic><sub>P</sub>; coefficient of variation = 0.13; average heritability = 0.63; <italic>z</italic><sub>E</sub> = 0.25; <italic>z</italic><sub>P</sub> = 0.46. The three panels show the population mean tracking the optimum over different time-scales, plotted at 25-generation intervals. (<italic>a</italic>) 1000 generations, (<italic>b</italic>) 10 000 generations, and (<italic>c</italic>) 100 000 generations. Thick line, optimum; thin line, mean.</p>
+        </caption>
+        <graphic xlink:href="rstb20090150f01"/>
+      </fig>
+      <p>There are two ways, however, in which <italic>z</italic><sub>D</sub> might be estimated. The first is to use the initial and final values from a large number of independent studies involving different organisms and characters. This is the method used by <xref ref-type="bibr" rid="RSTB20090150C33">Gingerich (1983)</xref> and by <xref ref-type="bibr" rid="RSTB20090150C50">Kinnison &amp; Hendry (2001)</xref>. The second is to sample a single time-series at random intervals of time. This corresponds to the pattern actually shown by an evolving population, and is the method I have used for analysing the multi-scale model. It would be interesting to estimate <italic>z</italic><sub>D</sub> in this way for real time-series. Unfortunately, very few evolutionary time-series have been reported in sufficient detail. The most extensive I have found describes morphological change in a foraminiforan (<italic>Afrobolivina</italic>) from 92 horizons in Late Cretaceous sediments (<xref ref-type="bibr" rid="RSTB20090150C66">Reyment 1982</xref>). Some less-extensive datasets involve a primate (<xref ref-type="bibr" rid="RSTB20090150C17">Clyde &amp; Gingerich 1994</xref>), a fish (<xref ref-type="bibr" rid="RSTB20090150C7">Bell <italic>et al</italic>. 1985</xref>), ammonites (<xref ref-type="bibr" rid="RSTB20090150C64">Raup &amp; Crick 1981</xref>) and radiolarians (<xref ref-type="bibr" rid="RSTB20090150C48">Kellogg &amp; Hays 1975</xref>). If the rate of evolution in these studies, calculated from the initial and final character states, is plotted on log–log axes, the result is a well-marked negative regression with a slope of −0.8, which is consistent with the Gingerich rule, considering the meagre amount of data (<italic>n</italic> = 13). If we sample the same time-series at various intervals of time, however, we obtain a quite different result: the phenotypic variance (and hence the absolute difference in character state) tends to increase over time in all cases. The <italic>Afrobolivina</italic> series yields <italic>z</italic><sub>P</sub> = 0.51 and hence <italic>z</italic><sub>D</sub> = 0.25. The other studies yield generally larger values for <italic>z</italic><sub>P</sub> (<xref ref-type="table" rid="RSTB20090150TB1">table 1</xref>). The data are too scanty to rely on for precise estimates of the pattern of evolutionary change in morphological characters, but they certainly do not support the hypothesis that <italic>z</italic><sub>P</sub> ≈ 0. <xref ref-type="bibr" rid="RSTB20090150C50">Kinnison &amp; Hendry (2001</xref>, table 2) also found that difference almost always increases over time in much shorter contemporary time-series of evolving populations. It appears that the Gingerich result is a consequence of combining estimates of change from many independent studies, and is not a correct description of the pattern of change within a single evolving population.</p>
+      <table-wrap id="RSTB20090150TB1" position="float">
+        <label>Table 1.</label>
+        <caption>
+          <p>Pattern of long-term morphological change. The variance plot is the regression of log phenotypic variance on log time interval, with slope <italic>z</italic><sub>D</sub> and correlation coefficient <italic>r</italic>. Spatial scale of each survey is given as extent (total time interval, My) and grain (mean sampling interval, My).</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <colgroup span="1">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th align="left" rowspan="2" colspan="1">organism</th>
+              <th align="left" rowspan="2" colspan="1">age</th>
+              <th align="left" colspan="3" rowspan="1">survey<hr/></th>
+              <th align="left" colspan="3" rowspan="1">variance plot<hr/></th>
+            </tr>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">extent</th>
+              <th align="left" rowspan="1" colspan="1">grain</th>
+              <th align="left" rowspan="1" colspan="1">character</th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>z</italic>
+                <sub>D</sub>
+              </th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>r</italic>
+              </th>
+              <th align="left" rowspan="1" colspan="1">authority</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="1" colspan="1">primate, <italic>Cantius</italic></td>
+              <td rowspan="1" colspan="1">Eocene</td>
+              <td rowspan="1" colspan="1">1.6</td>
+              <td rowspan="1" colspan="1">0.04</td>
+              <td rowspan="1" colspan="1">lower molar length</td>
+              <td rowspan="1" colspan="1">1.10</td>
+              <td rowspan="1" colspan="1">0.49</td>
+              <td rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="RSTB20090150C17">Clyde &amp; Gingerich (1994)</xref>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">fish, <italic>Gasterosteus</italic></td>
+              <td rowspan="1" colspan="1">Miocene</td>
+              <td rowspan="1" colspan="1">0.1</td>
+              <td rowspan="1" colspan="1">0.005</td>
+              <td rowspan="1" colspan="1">body length</td>
+              <td rowspan="1" colspan="1">0.22</td>
+              <td rowspan="1" colspan="1">0.10</td>
+              <td rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="RSTB20090150C7">Bell <italic>et al</italic>. (1985)</xref>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">anal fin rays</td>
+              <td rowspan="1" colspan="1">0.68</td>
+              <td rowspan="1" colspan="1">0.12</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">dorsal fin rays</td>
+              <td rowspan="1" colspan="1">1.19</td>
+              <td rowspan="1" colspan="1">0.51</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">post-pterygiophore</td>
+              <td rowspan="1" colspan="1">0.60</td>
+              <td rowspan="1" colspan="1">0.28</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">ammonite, <italic>Anakosmoceras</italic></td>
+              <td rowspan="1" colspan="1">Jurassic</td>
+              <td rowspan="1" colspan="1">1.4</td>
+              <td rowspan="1" colspan="1">0.1</td>
+              <td rowspan="1" colspan="1">shell diameter</td>
+              <td rowspan="1" colspan="1">0.66</td>
+              <td rowspan="1" colspan="1">0.2</td>
+              <td rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="RSTB20090150C64">Raup &amp; Crick (1981)</xref>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">ammonite, <italic>Zugokosmoceras</italic></td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">shell diameter</td>
+              <td rowspan="1" colspan="1">1.12</td>
+              <td rowspan="1" colspan="1">0.39</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">ammonite, <italic>Spinikosmoceras</italic></td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">outer rib size</td>
+              <td rowspan="1" colspan="1">0.46</td>
+              <td rowspan="1" colspan="1">0.16</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">ammonite, <italic>Kosmoceras</italic></td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">outer rib size</td>
+              <td rowspan="1" colspan="1">1.01</td>
+              <td rowspan="1" colspan="1">0.39</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">radiolarian, <italic>Calocycletta</italic></td>
+              <td rowspan="1" colspan="1">Miocene</td>
+              <td rowspan="1" colspan="1">5.75</td>
+              <td rowspan="1" colspan="1">0.36</td>
+              <td rowspan="1" colspan="1">thorax width</td>
+              <td rowspan="1" colspan="1">1.31</td>
+              <td rowspan="1" colspan="1">0.47</td>
+              <td rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="RSTB20090150C48">Kellogg &amp; Hays (1975)</xref>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">radiolarian, <italic>Pterocanium</italic></td>
+              <td rowspan="1" colspan="1">Pliocene</td>
+              <td rowspan="1" colspan="1">3.9</td>
+              <td rowspan="1" colspan="1">0.23</td>
+              <td rowspan="1" colspan="1">thorax length</td>
+              <td rowspan="1" colspan="1">1.68</td>
+              <td rowspan="1" colspan="1">0.64</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">radiolarian, <italic>Pseudocubus</italic></td>
+              <td rowspan="1" colspan="1">Pliocene</td>
+              <td rowspan="1" colspan="1">1.3</td>
+              <td rowspan="1" colspan="1">0.08</td>
+              <td rowspan="1" colspan="1">thorax width</td>
+              <td rowspan="1" colspan="1">1.03</td>
+              <td rowspan="1" colspan="1">0.38</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">foraminiferan, <italic>Afrobolivina</italic></td>
+              <td rowspan="1" colspan="1">Cretaceous</td>
+              <td rowspan="1" colspan="1">0.5</td>
+              <td rowspan="1" colspan="1">0.005</td>
+              <td rowspan="1" colspan="1">pre-loculus diameter</td>
+              <td rowspan="1" colspan="1">0.75</td>
+              <td rowspan="1" colspan="1">0.42</td>
+              <td rowspan="1" colspan="1">
+                <xref ref-type="bibr" rid="RSTB20090150C66">Reyment (1982)</xref>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Morphological change in fossil time-series has often been interpreted as a random walk. For example, <xref ref-type="bibr" rid="RSTB20090150C82">Hunt (2006)</xref> interprets the Cantius data (<xref ref-type="table" rid="RSTB20090150TB1">table 1</xref>) in terms of a random walk. <xref ref-type="bibr" rid="RSTB20090150C29">Estes &amp; Arnold (2007)</xref> found that a random walk of the optimum did not fit the Gingerich data, primarily because it predicted a substantial increase in absolute difference over time. The random walk is a special case of the multi-scale model with <italic>z</italic><sub>E</sub> = 1, which is indeed inconsistent with single estimates of divergence from many independent surveys. However, more realistic models with 0 &lt; <italic>z</italic><sub>E</sub> &lt; 1 do successfully fit values sampled from within a single time-series. The displaced-optimum model of <xref ref-type="bibr" rid="RSTB20090150C29">Estes &amp; Arnold (2007)</xref> is also a special case of the multi-scale model. As time increases, the probability that the interval includes both environmental states increases; hence, the environmental variance increases steeply (<italic>z</italic><sub>E</sub> &gt; 1). For values greater than the displacement interval, however, all comparisons include both environmental states, and the variance is zero. This keeps the long-term divergence, estimated from independent surveys, close to zero. <xref ref-type="bibr" rid="RSTB20090150C16">Clegg <italic>et al</italic>. (2008)</xref> interpreted morphological change over 30 years in an island population of the passerine bird <italic>Zosterops</italic> in terms of fluctuating selection governed by a displaced-optimum model. A multi-scale model shows only a slight increase in variance over time: for adult wing length, for example, <italic>z</italic><sub>P</sub> = 0.16. <xref ref-type="bibr" rid="RSTB20090150C83">Hunt <italic>et al</italic>. (2008)</xref> describe a convincing example of evolution towards a displaced optimum for a freshwater population of sticklebacks (<italic>Gasterosteus</italic>), in which armour and pelvic spines were consistently reduced over a period of several thousand years. Indeed, the displaced-optimum model is likely to be successful in segments of a multi-scale model following some exceptionally wide environmental excursion. Over longer periods of time, however, it is likely to break down, as in the longer term <italic>Gasterosteus</italic> series (<xref ref-type="bibr" rid="RSTB20090150C7">Bell <italic>et al</italic>. 1985</xref>; <xref ref-type="table" rid="RSTB20090150TB1">table 1</xref>), and indeed, in this case, the initially heavily armoured type itself replaced a more lightly armoured type.</p>
+      <p>The multi-scale model of fluctuating selection is more general than the random-walk or displaced-optimum models, generates a correct description of environmental change and is consistent with the little we know quantitatively about the pattern of change in evolving populations. This provides only weak support for the model, however, as many other theories might fit the data; for example, that morphology is directly influenced by the state of the environment. What direct evidence is there of the strong fluctuations in selection that the model requires?</p>
+    </sec>
+    <sec id="s5">
+      <label>5.</label>
+      <title>Fluctuating selection</title>
+      <p>The crucial parameter is the standard deviation of the selection coefficient <italic><italic>σ</italic></italic><sub><italic>s</italic></sub>, or equivalently of the intensity of selection <italic><italic>σ</italic></italic><sub><italic>i</italic></sub>, over time. If this is large relative to the mean, there are likely to be large changes in magnitude and frequent reversals in the direction of selection. It could be calculated directly, from demographic surveys of survival and fecundity, or indirectly, through surveys of genotype frequencies. Either method requires extensive time-series, which are even less readily available for contemporary populations than for fossils. In practice, most studies rely exclusively on frequencies; the capture–recapture study of <italic>Cepaea</italic>, described below, is the only exception I am aware of. Frequencies may vary over time through drift, fluctuating selection, immigration or sampling error. Few studies estimate or eliminate each of these processes, so attributing all changes in frequency to fluctuating selection will give only an upper bound on <italic><italic>σ</italic></italic><sub><italic>s</italic></sub>.</p>
+      <sec id="s5a">
+        <label>(a)</label>
+        <title>Panaxia</title>
+        <p>Although Fisher developed the infinitesimal theory, he was also the author of the first paper to estimate variation in the direction and intensity of selection over time. <xref ref-type="bibr" rid="RSTB20090150C31">Fisher &amp; Ford (1947)</xref> recorded the frequency of variants of the moth <italic>Panaxia</italic> (<italic>Callimorpha</italic>) <italic>dominula</italic> over 8 years in an isolated population of a few thousands of adults. The variation involves the pattern of spotting on the wings, which is governed by a single partially dominant gene, <italic>medionigra</italic>, so that allele frequencies can be obtained from the phenotypic survey. They found that allele frequencies fluctuated irregularly from year to year, to a greater extent than could be accounted for by drift and sampling error; immigration was held to be negligible. This gave rise to a famous controversy (<xref ref-type="bibr" rid="RSTB20090150C85">Wright 1948</xref>) that continues to the present day. The <italic>Panaxia</italic> survey has also continued, so that records now extend over 60 years (with a 10-year gap). During this time, the frequency of <italic>medionigra</italic> has consistently declined to a low but apparently stable value of a few per cent (reviewed by <xref ref-type="bibr" rid="RSTB20090150C19">Cook &amp; Jones 1996</xref>; <xref ref-type="bibr" rid="RSTB20090150C59">O'Hara 2005</xref>). The mean selection coefficient is −0.103, with <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.075. The number of variant individuals was often very small (less than 10), especially in later years, so the estimates are rather imprecise. Moreover, the agent of selection is unknown. This is, however, the longest series of records from a natural population that is currently available.</p>
+      </sec>
+      <sec id="s5b">
+        <label>(b)</label>
+        <title>Cepaea</title>
+        <p><xref ref-type="bibr" rid="RSTB20090150C11">Cain <italic>et al</italic>. (1990)</xref> surveyed a population of the helicid snail <italic>Cepaea nemoralis</italic> living in downland in southern England over a period of 23 consecutive years. Each year, they captured and marked adult snails, and estimated annual survival rates from the frequency of recaptured snails in the following year. The snails mature at 2 years of age, after which the average annual survival is approximately 50 per cent. Hence, the survey gave estimates of one component of fitness, adult survival, over about half the adult lifespan, for a combined sample size of about 10 000 individuals. These estimates were reported separately for morphs differing in the ground colour and banding pattern of the shell, characters that are known to be determined primarily by alleles at two linked loci. The example given in <xref ref-type="fig" rid="RSTB20090150F2">figure 2</xref> shows the survival of brown (determined by a single dominant allele) relative to non-brown individuals. There is no average effect of the allele on relative survival, nor any trend over time, but there are wide fluctuations in relative survival during the survey period. In years where there is a significant (<italic>p</italic> &lt; 0.05) difference between brown and non-brown phenotypes, brown has lower survival in six cases and higher survival in two cases. The selection coefficient calculated from survival rates has <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.65; estimates for other morphs are <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.76 for pink versus yellow, and <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.56 for banded versus unbanded. These are very large values, perhaps because they include an unknown, but probably substantial, contribution from sampling error.</p>
+        <fig id="RSTB20090150F2" position="float">
+          <label>Figure 2.</label>
+          <caption>
+            <p>Fluctuating selection in <italic>Cepaea</italic>. Estimates of survival rates for brown (black squares) and non-brown (white squares) individuals from mark-recapture surveys. The bars are 1 s.e. (adapted from <xref ref-type="bibr" rid="RSTB20090150C11">Cain <italic>et al</italic>. 1990)</xref>. (<italic>a</italic>) Survival rates and (<italic>b</italic>) fluctuation of the selection coefficient.</p>
+          </caption>
+          <graphic xlink:href="rstb20090150f02"/>
+        </fig>
+      </sec>
+      <sec id="s5c">
+        <label>(c)</label>
+        <title>Gasterosteus</title>
+        <p><xref ref-type="bibr" rid="RSTB20090150C84">Reimchen &amp; Nosil (2002)</xref> estimated the intensity of selection acting on spine number in a population of three-spined sticklebacks (<italic>Gasterosteus aculeatus</italic>) by following cohorts over time. The spines provide protection against gape-limited predators, such as diving birds, but may facilitate predation by grappling predators, such as dragonfly larvae. The combined sample size was about 14 000 individuals collected over 12 years, with some missing data. The largest dataset (winter samples of adult males, over 11 years) gave an average value of <italic>i</italic> = 0.03, with <italic><italic>σ</italic></italic><sub><italic>i</italic></sub> = 0.21. Estimates for females, younger life stages and summer conditions yielded an average value of <italic><italic>σ</italic></italic><sub><italic>i</italic></sub> = 0.30. If the estimate for a given series (sex, life stage and season) is plotted on the mean sample size <italic>n</italic>, it is reasonably well-fitted by the function <italic><italic>σ</italic></italic><sub><italic>i</italic></sub> = <italic>L</italic> + exp(−<italic>kn</italic>), where <italic>L</italic> is the limiting value of the estimate of <italic><italic>σ</italic></italic><sub><italic>i</italic></sub> in the very large sample. The best fit is given by <italic>L</italic> = 0.18, which is close to the value for adult males in winter (<italic>n</italic> = 220). There is only a modest range of sample sizes (133–220), however, and not much difference between <italic>L</italic> = 0.18 (<italic>r</italic><sup>2</sup> = 0.57) and <italic>L</italic> = 0 (<italic>r</italic><sup>2</sup> = 0.52). <xref ref-type="bibr" rid="RSTB20090150C84">Reimchen &amp; Nosil (2002)</xref> argue that changes in the direction of selection may be associated with shifts in feeding behaviour between limnetic foraging for zooplankton, when the fish are exposed to predation by birds, and littoral foraging for macrobenthos, when they are attacked by dragonfly larvae.</p>
+      </sec>
+      <sec id="s5d">
+        <label>(d)</label>
+        <title>Daphnia</title>
+        <p><xref ref-type="bibr" rid="RSTB20090150C54">Lynch (1987)</xref> conducted a survey of isozyme genotypes in populations of the cladoceran <italic>Daphnia</italic> that were arguably too large for drift to be important, and too isolated for any substantial level of immigration. He developed sampling theory for estimating variation in the selection coefficient independently of sampling error. Samples were taken at intervals during the growing period, so the mean and variance of the selection coefficient are estimated for the five to 20 vegetative generations occurring per year. His own data yielded an estimate of <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.195 for homozygotes, and he analysed other <italic>Daphnia</italic> data from the literature that gave an average value of <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.11. These are probably the best estimates of <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> currently available.</p>
+      </sec>
+      <sec id="s5e">
+        <label>(e)</label>
+        <title>Ficedula</title>
+        <p>Tarsus length was correlated with viability in a pedigree population of pied flycatchers, <italic>Ficedula hypoleuca</italic>, that was followed for 18 years (<xref ref-type="bibr" rid="RSTB20090150C52">Kruuk <italic>et al</italic>. 2001</xref>). The selection differential fluctuated over time, with <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.13 for phenotypic values and <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.14 for breeding values. It was consistently positive throughout the study period, however, with no convincing evidence for a reversal of sign.</p>
+      </sec>
+      <sec id="s5f">
+        <label>(f)</label>
+        <title>Geospiza</title>
+        <p>The best-known example of fluctuating selection driven by a known selective agent in a natural population is the change of beak shape in the large ground finch (Darwin's finch) <italic>Geospiza fortis</italic> on the island of Daphne Major in the Galapagos. A prolonged drought in 1976–1977 caused a change in the composition of the vegetation by favouring plants with large, tough-shelled seeds. These could be consumed only by finches with unusually large and powerful beaks, and between 1976 and 1978, beak depth increased at a rate of 26.1 kDar (<xref ref-type="bibr" rid="RSTB20090150C8">Boag &amp; Grant 1981</xref>). Heavy rain in 1983 reversed the trend in the vegetation by favouring plants with smaller, softer seeds that germinated more readily and thereby favoured birds with smaller beaks that were more adept at processing them (<xref ref-type="bibr" rid="RSTB20090150C32">Gibbs &amp; Grant 1987</xref>). Within a few years, the response to reversed selection at a rate of 8.8 kDar had more or less restored the status quo (<xref ref-type="bibr" rid="RSTB20090150C35">Grant &amp; Grant 1995</xref>).</p>
+      </sec>
+      <sec id="s5g">
+        <label>(g)</label>
+        <title>Ovis</title>
+        <p><xref ref-type="bibr" rid="RSTB20090150C13">Charbonnel &amp; Pemberton (2005)</xref> detected fluctuating selection at an MHC locus during a 13-year survey of a population of feral sheep, perhaps driven by interactions with parasitic nematodes.</p>
+      </sec>
+      <sec id="s5h">
+        <label>(h)</label>
+        <title>Diaptomus</title>
+        <p><xref ref-type="bibr" rid="RSTB20090150C36">Hairston &amp; Dillon (1990)</xref> surveyed a pond population of the copepod <italic>Diaptomus sanguineus</italic> over 10 years, finding that selection acting on the timing of diapause shifted between years according to the intensity of predation by fish. From their estimates of response to selection and heritability, the mean selection coefficient was <italic>s</italic> = 0.017 with <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.097.</p>
+      </sec>
+      <sec id="s5i">
+        <label>(i)</label>
+        <title>Hordeum</title>
+        <p>The barley Composite Cross V was founded by intercrossing 30 barley cultivars from different regions of the world and subsequently propagated for many years without conscious selection under standard agricultural conditions in California. <xref ref-type="bibr" rid="RSTB20090150C15">Clegg <italic>et al</italic>. (1978)</xref> grew stored seed from populations 10 generations apart in uniform conditions and estimated the fitnesses of single-locus isozyme genotypes. The standard deviation of <italic>s</italic> between populations for homozygotes was <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = 0.087, again an upper bound because the populations being compared are 10 generations apart.</p>
+      </sec>
+      <sec id="s5j">
+        <label>(j)</label>
+        <title>Euphydryas</title>
+        <p><xref ref-type="bibr" rid="RSTB20090150C57">Mueller <italic>et al</italic>. (1985)</xref> scored polymorphic enzyme loci in two populations of the butterfly <italic>Euphydryas</italic> over 8 years. They concluded that drift could not account for the observed variation in frequency at three of these loci in one of the populations. I have reanalysed their data by Lynch's method, excluding two loci with little variation and 1 year in one population when sample size was very small. There seems to be a single case, involving a hexokinase locus, in which fluctuations in frequency are too large to be explained in terms of drift and sampling error. It is possible, however, that immigration contributes to changes of frequency in this highly vagile insect.</p>
+      </sec>
+      <sec id="s5k">
+        <label>(k)</label>
+        <title>Other organisms</title>
+        <p>There are also several shorter term studies that have reported shifts in the magnitude or direction of selection in consecutive years, including flowering time in <italic>Erythroxylum</italic> (<xref ref-type="bibr" rid="RSTB20090150C26">Dominguez &amp; Dirzo 1995</xref>), <italic>Carlina</italic> (<xref ref-type="bibr" rid="RSTB20090150C65">Rees <italic>et al</italic>. 2004</xref>) and <italic>Digitalis</italic> (<xref ref-type="bibr" rid="RSTB20090150C68">Sletvold &amp; Grindeland 2007</xref>), and germination time in <italic>Collinsia</italic> (<xref ref-type="bibr" rid="RSTB20090150C46">Kalisz 1986</xref>). These studies show that selection can change direction over short periods of time, but they might easily be matched or outnumbered by others where consistent selection is observed but not emphasized. Populations of <italic>Cepaea</italic> that have been resampled after a lapse of 15–25 years may be essentially unchanged (<xref ref-type="bibr" rid="RSTB20090150C2">Arthur <italic>et al</italic>. 1993</xref>; <xref ref-type="bibr" rid="RSTB20090150C12">Cameron 2001</xref>) or may show substantial shifts in morph frequencies (<xref ref-type="bibr" rid="RSTB20090150C72">Wall <italic>et al</italic>. 1980</xref>; <xref ref-type="bibr" rid="RSTB20090150C21">Cowie &amp; Jones 1998</xref>; <xref ref-type="bibr" rid="RSTB20090150C20">Cook <italic>et al</italic>. 1999</xref>).</p>
+        <p>These studies are summarized in <xref ref-type="fig" rid="RSTB20090150F3">figure 3</xref>. In most cases, <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> &gt; |<italic>s</italic>|, implying that selection often reverses in direction. One obvious and important reservation is that estimates of <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> may be inflated by sampling error. Where an attempt has been made to eliminate this source of variation (as in the <italic>Daphnia</italic> estimates), the result is unaffected, but in other cases sampling error remains a serious concern. A conservative conclusion might be that the limited evidence available for contemporary selection fails to refute the oligogenic model of adaptive evolution.</p>
+        <fig id="RSTB20090150F3" position="float">
+          <label>Figure 3.</label>
+          <caption>
+            <p>Fluctuating selection in natural populations. The standard deviation of the selection coefficient over time <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> is plotted against its mean absolute value |<italic>s</italic>|. The solid line is <italic><italic>σ</italic></italic><sub><italic>s</italic></sub> = |<italic>s</italic>|.</p>
+          </caption>
+          <graphic xlink:href="rstb20090150f03"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="s6" sec-type="conclusions">
+      <label>6.</label>
+      <title>Conclusion</title>
+      <p>The argument made in this article can be briefly stated as follows.
+<list list-type="roman-lower"><list-item><p>The physical conditions of life change continually on all time-scales,</p></list-item><list-item><p>this contributes to the continual change in community composition,</p></list-item><list-item><p>changes in the physical and biotic conditions of life impose strong directional selection on populations,</p></list-item><list-item><p>as the agents of selection vary continually over time, the direction of selection often changes, and adaptive walks are often interrupted,</p></list-item><list-item><p>beneficial alleles of large effect are likely to be the first to be fixed in an adaptive walk, and</p></list-item><list-item><p>hence, adaptation will often involve alleles of large effect.</p></list-item></list></p>
+      <p>Thus, selection in natural populations is commonplace, often strong, fluctuating and oligogenic. I hope that this argument will help to reconcile the oligogenic theory of adaptation, which has emerged over the past decade from empirical work in the field and in the laboratory, with apparently contradictory observations such as the Gingerich rule of long-term stasis. This shift from the infinitesimal model as the prevalent account of the mechanism of adaptation will have profound implications for evolutionary biology, as it becomes an increasingly experimental field. It is not yet firmly established, however. There is some evidence that the extent of evolutionary change increases indefinitely over time, as predicted by a multi-scale model of the environment, and time-series of genotype frequencies suggest that selection often changes direction. The information currently available is inconclusive, however, because the great application that is required to follow populations of snails, fishes or birds over many years has greatly restricted the number of studies that can be used to validate the basis of the multi-scale oligogenic model. This cannot be remedied in the short term: spatial surveys can be greatly extended simply by applying more effort, but the rhythm of temporal surveys cannot be accelerated.</p>
+      <p>The study of adaptation in the laboratory has been facilitated by the use of microbial systems, which are in effect time machines that make use of the short lifespan of microbes to compress many generations within a short period of calendar time. These experiments have almost all been conducted with single-species cultures living in simple, uniform environments, and we know very little about how populations and communities adapt to complex or changeable conditions of growth (<xref ref-type="bibr" rid="RSTB20090150C3">Barrett <italic>et al</italic>. 2005</xref>). There is considerable scope for experimentation in more realistic conditions, to determine how adaptation is modulated by complex and changing conditions, involving rivals and enemies. More radically, the same approach could be applied to field experiments involving populations living in a completely natural setting, by developing model systems, for example of yeasts or pseudomonads, that could be inoculated into natural communities and subsequently recovered, identified and typed. An ecologically and genetically well-known microbial system could be used to identify the agents of selection (currently almost unknown) that act under natural conditions of growth, and to determine how their action varies in space and time. Formidable logistical difficulties would have to be overcome for this project to succeed, but it would provide a sound basis for testing the multi-scale oligogenic model of evolution.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="RSTB20090150C1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abzhanov</surname><given-names>A.</given-names></name><name><surname>Protas</surname><given-names>M.</given-names></name><name><surname>Grant</surname><given-names>B. R.</given-names></name><name><surname>Grant</surname><given-names>P. R.</given-names></name><name><surname>Tabin</surname><given-names>C. J.</given-names></name></person-group><year>2004</year><article-title><italic>Bmp4</italic> and morphological variation of beaks in Darwin's finches</article-title>. <source>Science</source><volume>305</volume>, <fpage>1462</fpage>–<lpage>1465</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1126/science.1098095">doi:10.1126/science.1098095</ext-link>)</comment><pub-id pub-id-type="pmid">15353802</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arthur</surname><given-names>W.</given-names></name><name><surname>Phillips</surname><given-names>D.</given-names></name><name><surname>Mitchell</surname><given-names>P.</given-names></name></person-group><year>1993</year><article-title>Long-term stability of morph frequency and species distribution in a sand-dune colony of <italic>Cepaea</italic></article-title>. <source>Proc. R. Soc. Lond. B</source><volume>251</volume>, <fpage>159</fpage>–<lpage>163</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1098/rspb.1993.0023">doi:10.1098/rspb.1993.0023</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C78">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Barnett</surname><given-names>S. A.</given-names></name></person-group><year>1958</year><source>A century of Darwin</source> <publisher-loc>Cambridge, MA</publisher-loc>: <publisher-name>Harvard University Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barrett</surname><given-names>R. D. H.</given-names></name><name><surname>MacLean</surname><given-names>R. C.</given-names></name><name><surname>Bell</surname><given-names>G.</given-names></name></person-group><year>2005</year><article-title>Experimental evolution of <italic>Pseudomonas fluorescens</italic> in simple and complex environments</article-title>. <source>Am. Nat.</source><volume>166</volume>, <fpage>470</fpage>–<lpage>480</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1086/444440">doi:10.1086/444440</ext-link>)</comment><pub-id pub-id-type="pmid">16224703</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barrett</surname><given-names>R. D. H.</given-names></name><name><surname>MacLean</surname><given-names>R. C.</given-names></name><name><surname>Bell</surname><given-names>G.</given-names></name></person-group><year>2006</year><article-title>Mutations of intermediate effect are responsible for adaptation in evolving <italic>Pseudomonas fluorescens</italic> populations</article-title>. <source>Biol. Lett.</source><volume>2</volume>, <fpage>236</fpage>–<lpage>238</lpage> (<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1098/rsbl.2006.0439">doi:10.1098/rsbl.2006.0439</ext-link>)<pub-id pub-id-type="pmid">17148371</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barton</surname><given-names>N. H.</given-names></name><name><surname>Keightley</surname><given-names>P. D.</given-names></name></person-group><year>2002</year><article-title>Understanding quantitative genetic variation</article-title>. <source>Nat. Rev. Genet.</source><volume>3</volume>, <fpage>11</fpage>–<lpage>21</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/nrg700">doi:10.1038/nrg700</ext-link>)</comment><pub-id pub-id-type="pmid">11823787</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C6">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bell</surname><given-names>G.</given-names></name></person-group><year>2008</year><source>Selection: the mechanism of evolution</source>, <edition>2nd edn</edition> <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bell</surname><given-names>M. A.</given-names></name><name><surname>Baurngartner</surname><given-names>J. V.</given-names></name><name><surname>Olson</surname><given-names>E. C.</given-names></name></person-group><year>1985</year><article-title>Patterns of temporal change in single morphological characters of a Miocene stickleback fish</article-title>. <source>Paleobiology</source><volume>11</volume>, <fpage>258</fpage>–<lpage>271</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boag</surname><given-names>P. T.</given-names></name><name><surname>Grant</surname><given-names>P. R.</given-names></name></person-group><year>1981</year><article-title>Intense natural selection in a population of Darwin's Finches (Geospizinae) in the Galapagos</article-title>. <source>Science</source><volume>214</volume>, <fpage>82</fpage>–<lpage>85</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1126/science.214.4516.82">doi:10.1126/science.214.4516.82</ext-link>)</comment><pub-id pub-id-type="pmid">17802577</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bone</surname><given-names>E.</given-names></name><name><surname>Farres</surname><given-names>A.</given-names></name></person-group><year>2001</year><article-title>Trends and rates of microevolution in plants</article-title>. <source>Genetica</source><volume>112/113</volume>, <fpage>165</fpage>–<lpage>182</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1023/A:1013378014069">doi:10.1023/A:1013378014069</ext-link>)</comment><pub-id pub-id-type="pmid">11838764</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bost</surname><given-names>B.</given-names></name><name><surname>de Vienne</surname><given-names>D.</given-names></name><name><surname>Hospital</surname><given-names>F.</given-names></name><name><surname>Moreas</surname><given-names>L.</given-names></name><name><surname>Dillman</surname><given-names>C.</given-names></name></person-group><year>2001</year><article-title>Genetic and nongenetic bases for the L-shaped distribution of quantitative trait loci effects</article-title>. <source>Genetics</source><volume>157</volume>, <fpage>1773</fpage>–<lpage>1787</lpage><pub-id pub-id-type="pmid">11290730</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C79">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bulmer</surname><given-names>M. G.</given-names></name></person-group><year>1985</year><source>The mathematical theory of quantitative genetics</source> <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Clarendon Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C80">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cain</surname><given-names>A. J.</given-names></name><name><surname>Sheppard</surname><given-names>P. M.</given-names></name></person-group><year>1954</year><article-title>Natural selection in <italic>Cepaea</italic></article-title>. <source>Genetics</source><volume>39</volume>, <fpage>89</fpage>–<lpage>116</lpage><pub-id pub-id-type="pmid">17247470</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cain</surname><given-names>A. J.</given-names></name><name><surname>Cook</surname><given-names>L. M.</given-names></name><name><surname>Currey</surname><given-names>J. D.</given-names></name></person-group><year>1990</year><article-title>Population size and morph frequency in a long-term study of <italic>Cepaea nemoralis</italic></article-title>. <source>Proc. R. Soc. Lond. B</source><volume>240</volume>, <fpage>231</fpage>–<lpage>250</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1098/rspb.1990.0036">doi:10.1098/rspb.1990.0036</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cameron</surname><given-names>R. A. D.</given-names></name></person-group><year>2001</year><article-title><italic>Cepaea nemoralis</italic> in a hostile environment: continuity, colonizations and morph-frequencies over time</article-title>. <source>Biol. J. Linn. Soc.</source><volume>74</volume>, <fpage>255</fpage>–<lpage>264</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1111/j.1095-8312.2001.tb01390.x">doi:10.1111/j.1095-8312.2001.tb01390.x</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charbonnel</surname><given-names>N.</given-names></name><name><surname>Pemberton</surname><given-names>J.</given-names></name></person-group><year>2005</year><article-title>A long-term genetic study of an ungulate population reveals balancing selection acting on MHC through spatial and temporal fluctuations in frequency</article-title>. <source>Heredity</source><volume>95</volume>, <fpage>377</fpage>–<lpage>388</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/sj.hdy.6800735">doi:10.1038/sj.hdy.6800735</ext-link>)</comment><pub-id pub-id-type="pmid">16118661</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clayton</surname><given-names>G. A.</given-names></name><name><surname>Robertson</surname><given-names>A.</given-names></name></person-group><year>1957</year><article-title>An experimental check on quantitative genetical theory. II. The long-term effects of selection</article-title>. <source>J. Genet.</source><volume>55</volume>, <fpage>152</fpage>–<lpage>170</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1007/BF02981621">doi:10.1007/BF02981621</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clegg</surname><given-names>M. T.</given-names></name><name><surname>Kahler</surname><given-names>A. L.</given-names></name><name><surname>Allard</surname><given-names>R. W.</given-names></name></person-group><year>1978</year><article-title>Estimation of life cycle components of selection in an experimental plant population</article-title>. <source>Genetics</source><volume>89</volume>, <fpage>765</fpage>–<lpage>792</lpage><pub-id pub-id-type="pmid">17248851</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clegg</surname><given-names>S. M.</given-names></name><name><surname>Frentiu</surname><given-names>F. D.</given-names></name><name><surname>Kikkawa</surname><given-names>J.</given-names></name><name><surname>Tavecchia</surname><given-names>G.</given-names></name><name><surname>Owens</surname><given-names>I. P. F.</given-names></name></person-group><year>2008</year><article-title>4000 years of phenotypic change in an island bird: heterogeneity of selection over three microevolutionary time scales</article-title>. <source>Evolution</source><volume>62</volume>, <fpage>2393</fpage>–<lpage>2410</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1111/j.1558-5646.2008.00437.x">doi:10.1111/j.1558-5646.2008.00437.x</ext-link>)</comment><pub-id pub-id-type="pmid">18540948</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clyde</surname><given-names>W. C.</given-names></name><name><surname>Gingerich</surname><given-names>P. D.</given-names></name></person-group><year>1994</year><article-title>Rate of evolution in the dentition of early Eocene <italic>Cantius</italic>: comparison of size and shape</article-title>. <source>Paleobiology</source><volume>20</volume>, <fpage>506</fpage>–<lpage>522</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colosimo</surname><given-names>P. F.</given-names></name><etal/></person-group><year>2005</year><article-title>Widespread parallel evolution in sticklebacks by repeated fixation of ectodysplasin alleles</article-title>. <source>Science</source><volume>307</volume>, <fpage>1928</fpage>–<lpage>1933</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1126/science.1107239">doi:10.1126/science.1107239</ext-link>)</comment><pub-id pub-id-type="pmid">15790847</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cook</surname><given-names>L. M.</given-names></name><name><surname>Jones</surname><given-names>D. A.</given-names></name></person-group><year>1996</year><article-title>The <italic>medionigra</italic> gene in the moth <italic>Panaxia dominula</italic>: the case for selection</article-title>. <source>Phil. Trans. R. Soc. Lond. B</source><volume>351</volume>, <fpage>1623</fpage>–<lpage>1634</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1098/rstb.1996.0146">doi:10.1098/rstb.1996.0146</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cook</surname><given-names>L. M.</given-names></name><name><surname>Cowie</surname><given-names>R. H.</given-names></name><name><surname>Jones</surname><given-names>J. S.</given-names></name></person-group><year>1999</year><article-title>Change in morph frequency in the snail <italic>Cepaea nemoralis</italic> on the Marlborough Downs</article-title>. <source>Heredity</source><volume>82</volume>, <fpage>336</fpage>–<lpage>342</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/sj.hdy.6884920">doi:10.1038/sj.hdy.6884920</ext-link>)</comment><pub-id pub-id-type="pmid">10336709</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cowie</surname><given-names>R. H.</given-names></name><name><surname>Jones</surname><given-names>J. S.</given-names></name></person-group><year>1998</year><article-title>Gene frequency changes in <italic>Cepaea</italic> snails on the Marlborough Downs over 25 years</article-title>. <source>Biol. J. Linn. Soc.</source><volume>65</volume>, <fpage>233</fpage>–<lpage>255</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1006/bijl.1998.0250">doi:10.1006/bijl.1998.0250</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dallinger</surname><given-names>W. H.</given-names></name></person-group><year>1887</year><article-title>Presidential address</article-title>. <source>J. R. Microsc. Soc.</source><volume>7</volume>, <fpage>184</fpage>–<lpage>199</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C23">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Darwin</surname><given-names>C.</given-names></name></person-group><year>1859</year><source>On the origin of species</source> <publisher-loc>London, UK</publisher-loc>: <publisher-name>John Murray</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dobzhansky</surname><given-names>T.</given-names></name></person-group><year>1948</year><article-title>Genetics of natural populations. XVI. Altitudinal and seasonal changes produced by natural selection in certain populations of <italic>Drosophila pseudoobscura</italic> and <italic>Drosophila persimilis</italic></article-title>. <source>Genetics</source><volume>33</volume>, <fpage>158</fpage>–<lpage>176</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doebley</surname><given-names>J.</given-names></name></person-group><year>2004</year><article-title>The genetics of maize evolution</article-title>. <source>Annu. Rev. Genet.</source><volume>38</volume>, <fpage>37</fpage>–<lpage>59</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1146/annurev.genet.38.072902.092425">doi:10.1146/annurev.genet.38.072902.092425</ext-link>)</comment><pub-id pub-id-type="pmid">15568971</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dominguez</surname><given-names>C.</given-names></name><name><surname>Dirzo</surname><given-names>R.</given-names></name></person-group><year>1995</year><article-title>Rainfall and flowering synchrony in a tropical shrub: variable selection on the flowering time of <italic>Erythroxylum havense</italic></article-title>. <source>Evol. Ecol.</source><volume>9</volume>, <fpage>204</fpage>–<lpage>216</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1007/BF01237757">doi:10.1007/BF01237757</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dykhuizen</surname><given-names>D. E.</given-names></name><name><surname>Hartl</surname><given-names>D. L.</given-names></name></person-group><year>1981</year><article-title>Evolution of competitive ability in <italic>Escherichia coli</italic></article-title>. <source>Evolution</source><volume>35</volume>, <fpage>581</fpage>–<lpage>594</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2408204">doi:10.2307/2408204</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C81">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Endler</surname><given-names>J. A.</given-names></name></person-group><year>1986</year><source>Natural selection in the wild</source> <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Princeton University Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Endo</surname><given-names>T.</given-names></name><name><surname>Ikeo</surname><given-names>K.</given-names></name><name><surname>Gojobori</surname><given-names>T.</given-names></name></person-group><year>1996</year><article-title>Large-scale search for genes on which positive selection may operate</article-title>. <source>Mol. Biol. Evol.</source><volume>13</volume>, <fpage>685</fpage>–<lpage>690</lpage><pub-id pub-id-type="pmid">8676743</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Estes</surname><given-names>S.</given-names></name><name><surname>Arnold</surname><given-names>S. J.</given-names></name></person-group><year>2007</year><article-title>Resolving the paradox of stasis: models with stabilizing selection explain evolutionary divergence on all time scales</article-title>. <source>Am. Nat.</source><volume>169</volume>, <fpage>227</fpage>–<lpage>244</lpage><pub-id pub-id-type="pmid">17211806</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C30">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Fisher</surname><given-names>R. A.</given-names></name></person-group><year>1930</year><source>The genetical theory of natural selection</source> <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fisher</surname><given-names>R. A.</given-names></name><name><surname>Ford</surname><given-names>E. B.</given-names></name></person-group><year>1947</year><article-title>The spread of a gene in natural conditions in a colony of the moth <italic>Panaxia dominula</italic> L</article-title>. <source>Heredity</source><volume>1</volume>, <fpage>143</fpage>–<lpage>174</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/hdy.1947.11">doi:10.1038/hdy.1947.11</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gibbs</surname><given-names>H. L.</given-names></name><name><surname>Grant</surname><given-names>P. R.</given-names></name></person-group><year>1987</year><article-title>Ecological consequences of an exceptionally strong El Nino event on Darwin's finches</article-title>. <source>Evolution</source><volume>68</volume>, <fpage>1735</fpage>–<lpage>1746</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gingerich</surname><given-names>P. D.</given-names></name></person-group><year>1983</year><article-title>Rates of evolution: effects of time and temporal scaling</article-title>. <source>Science</source><volume>222</volume>, <fpage>159</fpage>–<lpage>161</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1126/science.222.4620.159">doi:10.1126/science.222.4620.159</ext-link>)</comment><pub-id pub-id-type="pmid">17741657</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C34">
+        <mixed-citation publication-type="journal"><article-title>Global Population Dynamics Database</article-title>. <comment>See <uri xlink:type="simple" xlink:href="http://cpbnts1.bio.ic.ac.uk/gpdd/">http://cpbnts1.bio.ic.ac.uk/gpdd/</uri></comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grant</surname><given-names>P. R.</given-names></name><name><surname>Grant</surname><given-names>B. R.</given-names></name></person-group><year>1995</year><article-title>Predicting microevolutionary responses to directional selection on heritable variation</article-title>. <source>Evolution</source><volume>49</volume>, <fpage>241</fpage>–<lpage>251</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2410334">doi:10.2307/2410334</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hairston</surname><given-names>N. G.</given-names></name><name><surname>Dillon</surname><given-names>T. A.</given-names></name></person-group><year>1990</year><article-title>Fluctuating selection and response in a population of freshwater copepods</article-title>. <source>Evolution</source><volume>44</volume>, <fpage>1796</fpage>–<lpage>1805</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2409508">doi:10.2307/2409508</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haldane</surname><given-names>J. B. S.</given-names></name></person-group><year>1949</year><article-title>Suggestions as to the quantitative measurement of rates of evolution</article-title>. <source>Evolution</source><volume>3</volume>, <fpage>51</fpage>–<lpage>56</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2405451">doi:10.2307/2405451</ext-link>)</comment><pub-id pub-id-type="pmid">18115117</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C38">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Haldane</surname><given-names>J. B. S.</given-names></name><name><surname>Huxley</surname><given-names>J.</given-names></name></person-group><year>1927</year><source>Animal biology</source> <publisher-loc>Oxford, UK</publisher-loc>: <publisher-name>Oxford University Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Halley</surname></name></person-group><year>1996</year><article-title>Ecology, evolution and 1/f noise</article-title>. <source>Trends Ecol. Evol.</source><volume>11</volume>, <fpage>33</fpage>–<lpage>37</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1016/0169-5347(96)81067-6">doi:10.1016/0169-5347(96)81067-6</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hendry</surname><given-names>A. P.</given-names></name><name><surname>Kinnison</surname><given-names>M. T.</given-names></name></person-group><year>1999</year><article-title>The pace of modern life: measuring rates of contemporary microevolution</article-title>. <source>Evolution</source><volume>53</volume>, <fpage>1637</fpage>–<lpage>1653</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2640428">doi:10.2307/2640428</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hendry</surname><given-names>A. P.</given-names></name><name><surname>Farrugia</surname><given-names>T. J.</given-names></name><name><surname>Kinnison</surname><given-names>M. T.</given-names></name></person-group><year>2008</year><article-title>Human influences on rates of phenotypic change in wild animal populations</article-title>. <source>Mol. Ecol.</source><volume>17</volume>, <fpage>20</fpage>–<lpage>29</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1111/j.1365-294X.2007.03428.x">doi:10.1111/j.1365-294X.2007.03428.x</ext-link>)</comment><pub-id pub-id-type="pmid">18173498</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hereford</surname><given-names>J.</given-names></name><name><surname>Hansen</surname><given-names>T. F.</given-names></name><name><surname>Houle</surname><given-names>D.</given-names></name></person-group><year>2004</year><article-title>Comparing strengths of directional selection: how strong is strong?</article-title><source>Evolution</source><volume>58</volume>, <fpage>2133</fpage>–<lpage>2143</lpage><pub-id pub-id-type="pmid">15562680</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holder</surname><given-names>K. K.</given-names></name><name><surname>Bull</surname><given-names>J. J.</given-names></name></person-group><year>2001</year><article-title>Profiles of adaptation in two similar viruses</article-title>. <source>Genetics</source><volume>159</volume>, <fpage>1393</fpage>–<lpage>1404</lpage><pub-id pub-id-type="pmid">11779783</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C82">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hunt</surname><given-names>G.</given-names></name></person-group><year>2006</year><article-title>Fitting and comparing models of phyletic evolution: random walks and beyond</article-title>. <source>Paleobiology</source><volume>32</volume>, <fpage>578</fpage>–<lpage>601</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1666/05070.1">doi:10.1666/05070.1</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C83">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hunt</surname><given-names>G.</given-names></name><name><surname>Bell</surname><given-names>M. A.</given-names></name><name><surname>Travis</surname><given-names>M. P.</given-names></name><name><surname>Hansen</surname><given-names>T.</given-names></name></person-group><year>2008</year><article-title>Evolution towards a new adaptive optimum: phenotypic evolution in a fossil stickleback</article-title>. <source>Evolution</source><volume>62</volume>, <fpage>700</fpage>–<lpage>710</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1111/j.1558-5646.2007.00310.x">doi:10.1111/j.1558-5646.2007.00310.x</ext-link>)</comment><pub-id pub-id-type="pmid">18081713</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C44">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Huxley</surname><given-names>J.</given-names></name></person-group><year>1942</year><source>Evolution: the modern synthesis</source> <publisher-loc>London, UK</publisher-loc>: <publisher-name>George Allen &amp; Unwin</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Inchausti</surname><given-names>P.</given-names></name><name><surname>Halley</surname><given-names>J.</given-names></name></person-group><year>2002</year><article-title>The long-term temporal variability and spectral colour of animal populations</article-title>. <source>Evol. Ecol. Res.</source><volume>4</volume>, <fpage>1033</fpage>–<lpage>1048</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kalisz</surname><given-names>S.</given-names></name></person-group><year>1986</year><article-title>Variable selection on the timing of germination in <italic>Collinsia verna</italic> (Scrophulariaceae)</article-title>. <source>Evolution</source><volume>40</volume>, <fpage>479</fpage>–<lpage>491</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2408571">doi:10.2307/2408571</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kearsey</surname><given-names>M. J.</given-names></name><name><surname>Farquhar</surname><given-names>A. G. L.</given-names></name></person-group><year>1998</year><article-title>QTL analysis in plants: where are we now?</article-title><source>Heredity</source><volume>80</volume>, <fpage>137</fpage>–<lpage>142</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1046/j.1365-2540.1998.00500.x">doi:10.1046/j.1365-2540.1998.00500.x</ext-link>)</comment><pub-id pub-id-type="pmid">9503632</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kellogg</surname><given-names>D. E.</given-names></name><name><surname>Hays</surname><given-names>J. D.</given-names></name></person-group><year>1975</year><article-title>Microevolutionary patterns in Late Cenozoic Radiolaria</article-title>. <source>Paleobiology</source><volume>1</volume>, <fpage>150</fpage>–<lpage>160</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kingsolver</surname><given-names>J. G.</given-names></name><name><surname>Hoekstra</surname><given-names>H. E.</given-names></name><name><surname>Hoekstra</surname><given-names>J. M.</given-names></name><name><surname>Berrigan</surname><given-names>D.</given-names></name><name><surname>Vigneri</surname><given-names>S. N.</given-names></name><name><surname>Hill</surname><given-names>C. E.</given-names></name><name><surname>Hoang</surname><given-names>A.</given-names></name><name><surname>Gibert</surname><given-names>P.</given-names></name><name><surname>Beerli</surname><given-names>P.</given-names></name></person-group><year>2001</year><article-title>The strength of phenotypic selection in natural populations</article-title>. <source>Am. Nat.</source><volume>157</volume>, <fpage>245</fpage>–<lpage>261</lpage><pub-id pub-id-type="pmid">18707288</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kinnison</surname><given-names>M. T.</given-names></name><name><surname>Hendry</surname><given-names>A. P.</given-names></name></person-group><year>2001</year><article-title>The pace of modern life II. From rates of contemporary microevolution to pattern and process</article-title>. <source>Genetica</source><volume>112/113</volume>, <fpage>145</fpage>–<lpage>164</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1023/A:1013375419520">doi:10.1023/A:1013375419520</ext-link>)</comment><pub-id pub-id-type="pmid">11838763</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Koscielny-Bunde</surname><given-names>E.</given-names></name><name><surname>Bunde</surname><given-names>A.</given-names></name><name><surname>Havlin</surname><given-names>S.</given-names></name><name><surname>Roman</surname><given-names>H. E.</given-names></name><name><surname>Goldreich</surname><given-names>Y.</given-names></name><name><surname>Schellnhuber</surname><given-names>J.</given-names></name></person-group><year>1998</year><article-title>Indication of a universal persistence law governing atmospheric variability</article-title>. <source>Phys. Rev. Lett.</source><volume>81</volume>, <fpage>729</fpage>–<lpage>732</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1103/PhysRevLett.81.729">doi:10.1103/PhysRevLett.81.729</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kruuk</surname><given-names>L. E. B.</given-names></name><name><surname>Merila</surname><given-names>J.</given-names></name><name><surname>Sheldo</surname><given-names>B.</given-names></name></person-group><year>2001</year><article-title>Phenotypic selection on a heritable size trait revisited</article-title>. <source>Am. Nat.</source><volume>158</volume>, <fpage>557</fpage>–<lpage>571</lpage><pub-id pub-id-type="pmid">18707351</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leroi</surname><given-names>A. M.</given-names></name></person-group><year>2000</year><article-title>The scale independence of evolution</article-title>. <source>Evol. Dev.</source><volume>2</volume>, <fpage>67</fpage>–<lpage>77</lpage><pub-id pub-id-type="pmid">11258392</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lynch</surname><given-names>M.</given-names></name></person-group><year>1987</year><article-title>The consequences of fluctuating selection for isozyme polymorphisms in Daphnia</article-title>. <source>Genetics</source><volume>115</volume>, <fpage>657</fpage>–<lpage>669</lpage><pub-id pub-id-type="pmid">17246375</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C55">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Mayr</surname><given-names>E.</given-names></name></person-group><year>1966</year><source>Animal species and evolution</source> <publisher-loc>Cambridge, MA</publisher-loc>: <publisher-name>Harvard University Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C56">
+        <mixed-citation publication-type="journal">
+          <article-title>Mouse Phenome Project</article-title>
+          <year>2008</year>
+          <comment>See <uri xlink:type="simple" xlink:href="http://phenome.jax.org/pub-cgi/phenome">http://phenome.jax.org/pub-cgi/phenome</uri></comment>
+        </mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mueller</surname><given-names>L. D.</given-names></name><name><surname>Wilcox</surname><given-names>B. A.</given-names></name><name><surname>Ehrlich</surname><given-names>P. R.</given-names></name><name><surname>Heckel</surname><given-names>D. G.</given-names></name><name><surname>Murphy</surname><given-names>D. D.</given-names></name></person-group><year>1985</year><article-title>A direct assessment of the role of genetic drift in determining allele frequency variation in populations of <italic>Euphydryas editha</italic></article-title>. <source>Genetics</source><volume>110</volume>, <fpage>495</fpage>–<lpage>511</lpage><pub-id pub-id-type="pmid">4018569</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Notley-McRobb</surname><given-names>L.</given-names></name><name><surname>Ferenci</surname><given-names>T.</given-names></name></person-group><year>1999</year><article-title>Adaptive mgl-regulatory mutations and genetic diversity evolving in glucose-limited <italic>Escherichia coli</italic> populations</article-title>. <source>Environ. Microbiol.</source><volume>1</volume>, <fpage>33</fpage>–<lpage>43</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1046/j.1462-2920.1999.00002.x">doi:10.1046/j.1462-2920.1999.00002.x</ext-link>)</comment><pub-id pub-id-type="pmid">11207716</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O'Hara</surname><given-names>R. B.</given-names></name></person-group><year>2005</year><article-title>Comparing the effects of genetic drift and fluctuating selection on genotype frequency changes in the scarlet tiger moth</article-title>. <source>Proc. R. Soc. B</source><volume>272</volume>, <fpage>211</fpage>–<lpage>217</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1098/rspb.2004.2929">doi:10.1098/rspb.2004.2929</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Orr</surname><given-names>H. A.</given-names></name></person-group><year>2001</year><article-title>The genetics of species differences</article-title>. <source>Trends Ecol. Evol.</source><volume>16</volume>, <fpage>343</fpage>–<lpage>350</lpage><pub-id pub-id-type="pmid">11403866</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Orr</surname><given-names>H. A.</given-names></name></person-group><year>2003</year><article-title>The distribution of fitness effects among beneficial mutations</article-title>. <source>Genetics</source><volume>163</volume>, <fpage>1519</fpage>–<lpage>1526</lpage><pub-id pub-id-type="pmid">12702694</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pelletier</surname><given-names>J. D.</given-names></name></person-group><year>1997</year><article-title>Analysis and modeling of the natural variability of climate</article-title>. <source>J. Climate</source><volume>10</volume>, <fpage>1331</fpage>–<lpage>1342</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1175/1520-0442(1997)010%3C1331:AAMOTN%3E2.0.CO;2">doi:10.1175/1520-0442(1997)010&lt;1331:AAMOTN&gt;2.0.CO;2</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pimm</surname><given-names>S. L.</given-names></name><name><surname>Redfearn</surname><given-names>A.</given-names></name></person-group><year>1988</year><article-title>The variability of population densities</article-title>. <source>Nature</source><volume>334</volume>, <fpage>613</fpage>–<lpage>614</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/334613a0">doi:10.1038/334613a0</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raup</surname><given-names>D. M.</given-names></name><name><surname>Crick</surname><given-names>R. E.</given-names></name></person-group><year>1981</year><article-title>Evolution of single characters in the Jurassic ammonite <italic>Kosmoceras</italic></article-title>. <source>Paleobiology</source><volume>7</volume>, <fpage>200</fpage>–<lpage>215</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rees</surname><given-names>M.</given-names></name><name><surname>Childs</surname><given-names>D. Z.</given-names></name><name><surname>Rose</surname><given-names>K. E.</given-names></name><name><surname>Grubb</surname><given-names>P. J.</given-names></name></person-group><year>2004</year><article-title>Evolution of size-dependent flowering in a variable environment: partitioning the effects of fluctuating selection</article-title>. <source>Proc. R. Soc. Lond. B</source><volume>271</volume>, <fpage>471</fpage>–<lpage>475</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1098/rspb.2003.2596">doi:10.1098/rspb.2003.2596</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C84">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reimchen</surname><given-names>T. E.</given-names></name><name><surname>Nosil</surname><given-names>P.</given-names></name></person-group><year>2002</year><article-title>Variable selection regimes predict the evolution of sexual dimorphism in a population of threespine stickleback</article-title>. <source>Evolution</source><volume>58</volume>, <fpage>1274</fpage>–<lpage>1281</lpage><pub-id pub-id-type="pmid">15266976</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reyment</surname><given-names>R. A.</given-names></name></person-group><year>1982</year><article-title>Phenotypic evolution in a Cretaceous foaminifer</article-title>. <source>Evolution</source><volume>36</volume>, <fpage>1182</fpage>–<lpage>1199</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2408152">doi:10.2307/2408152</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C67">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Simpson</surname><given-names>G. G.</given-names></name><name><surname>Roe</surname><given-names>A.</given-names></name><name><surname>Lewontin</surname><given-names>R. C.</given-names></name></person-group><year>1960</year><source>Quantitative zoology</source> <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Harcourt Brace</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sletvold</surname><given-names>N.</given-names></name><name><surname>Grindeland</surname><given-names>J. M.</given-names></name></person-group><year>2007</year><article-title>Fluctuating selection on reproductive timing in <italic>Digitalis purpurea</italic></article-title>. <source>Oikos</source><volume>116</volume>, <fpage>473</fpage>–<lpage>481</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1111/j.2006.0030-1299.15263.x">doi:10.1111/j.2006.0030-1299.15263.x</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stanley</surname><given-names>S. M.</given-names></name><name><surname>Yang</surname><given-names>X.</given-names></name></person-group><year>1987</year><article-title>Approximate evolutionary stasis for bivalve morphology over millions of years: a multivariate, multilineage study</article-title>. <source>Paleobiology</source><volume>13</volume>, <fpage>113</fpage>–<lpage>139</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Steele</surname><given-names>J. H.</given-names></name></person-group><year>1985</year><article-title>A comparison of terrestrial and marine ecological systems</article-title>. <source>Nature</source><volume>313</volume>, <fpage>355</fpage>–<lpage>358</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/313355a0">doi:10.1038/313355a0</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vasseur</surname><given-names>D. A.</given-names></name><name><surname>Yodzis</surname><given-names>P.</given-names></name></person-group><year>2004</year><article-title>The color of environmental noise</article-title>. <source>Ecology</source><volume>85</volume>, <fpage>1146</fpage>–<lpage>1152</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1890/02-3122">doi:10.1890/02-3122</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wall</surname><given-names>S.</given-names></name><name><surname>Carter</surname><given-names>M. A.</given-names></name><name><surname>Clarke</surname><given-names>B.</given-names></name></person-group><year>1980</year><article-title>Temporal changes of gene frequencies in <italic>Cepaea hortensis</italic></article-title>. <source>Biol. J. Linn. Soc.</source><volume>14</volume>, <fpage>303</fpage>–<lpage>317</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1111/j.1095-8312.1980.tb00111.x">doi:10.1111/j.1095-8312.1980.tb00111.x</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C73">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Wallace</surname><given-names>A. R.</given-names></name></person-group><year>1889</year><source>Darwinism. An exposition of natural selection with some of its applications</source> <publisher-loc>London, UK</publisher-loc>: <publisher-name>MacMillan</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C74">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weigensberg</surname><given-names>I.</given-names></name><name><surname>Roff</surname><given-names>D. A.</given-names></name></person-group><year>1996</year><article-title>Natural heritabilities: can they be reliably estimated in the laboratory?</article-title><source>Evolution</source><volume>50</volume>, <fpage>2149</fpage>–<lpage>2157</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2410686">doi:10.2307/2410686</ext-link>)</comment></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C75">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Weismann</surname><given-names>A.</given-names></name></person-group> (ed.) <year>1909</year><article-title>The selection theory</article-title>. In <source>Darwin and modern science</source> (ed. <person-group person-group-type="editor"><name><surname>Seward</surname><given-names>A. C.</given-names></name></person-group>), pp. <fpage>18</fpage>–<lpage>65</lpage> <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C76">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weldon</surname><given-names>W. F. R.</given-names></name></person-group><year>1901</year><article-title>A first study of natural selection in <italic>Clausilia laminata</italic> (Montagu)</article-title>. <source>Biometrika</source><volume>1</volume>, <fpage>109</fpage>–<lpage>124</lpage></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C77">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Wells</surname><given-names>H. G.</given-names></name><name><surname>Huxley</surname><given-names>J.</given-names></name><name><surname>Wells</surname><given-names>G. P.</given-names></name></person-group><year>1934</year><source>Evolution—fact and theory</source> <publisher-loc>London, UK</publisher-loc>: <publisher-name>Cassell</publisher-name></mixed-citation>
+      </ref>
+      <ref id="RSTB20090150C85">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wright</surname><given-names>S.</given-names></name></person-group><year>1948</year><article-title>On the roles of directed and random changes in gene frequency in the genetics of populations</article-title>. <source>Evolution</source><volume>2</volume>, <fpage>279</fpage>–<lpage>294</lpage> <comment>(<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.2307/2405519">doi:10.2307/2405519</ext-link>)</comment><pub-id pub-id-type="pmid">18104586</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p>One contribution of 19 to a Theme Issue ‘<ext-link ext-link-type="uri" xlink:href="http://rstb.royalsocietypublishing.org/content/365/1537.toc">Personal perspectives in the life sciences for the Royal Society's 350th anniversary</ext-link>’.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

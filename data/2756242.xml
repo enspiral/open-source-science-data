@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:30:45Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2756242" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2756242</identifier><datestamp>2009-10-26</datestamp><setSpec>plosgen</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Genet</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosgen</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Genetics</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-7390</issn>
+      <issn pub-type="epub">1553-7404</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2756242</article-id>
+      <article-id pub-id-type="pmid">19855823</article-id>
+      <article-id pub-id-type="publisher-id">09-PLGE-RV-0776R2</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pgen.1000627</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Genetics and Genomics</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Toward the Use of Genomics to Study Microevolutionary Change in Bacteria</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Falush</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>Department of Microbiology, University College Cork, Environmental Research Institute, Lee Road, Cork, Ireland</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Guttman</surname>
+            <given-names>David S.</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">University of Toronto, Canada</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>d.falush@ucc.ie</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <!-- Fake ppub added to accomodate plos workflow change from 03/2008 and 03/2009 -->
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>10</issue>
+      <elocation-id>e1000627</elocation-id>
+      <permissions>
+        <copyright-statement>Daniel Falush. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+      </permissions>
+      <abstract>
+        <p>Bacteria evolve rapidly in response to the environment they encounter. Some environmental changes are experienced numerous times by bacteria from the same population, providing an opportunity to dissect the genetic basis of adaptive evolution. Here I discuss two examples in which the patterns of rapid change provide insight into medically important bacterial phenotypes, namely immune escape by <italic>Neisseria meningitidis</italic> and host specificity of <italic>Campylobacter jejuni</italic>. Genomic analysis of populations of bacteria from these species holds great promise but requires appropriate concepts and statistical tools.</p>
+      </abstract>
+      <counts>
+        <page-count count="5"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <p>Bacteria lack a natural reproductive system, comparable to meiosis in eukaryotes, that segregates genes randomly. Instead, they evolve progressively through mostly small genetic changes, a proportion of which have noteworthy phenotypic effects. Some phenotypes are intrinsically difficult to study in the laboratory: virulence in humans or adaptation to particular ecological niches, for example. For these traits in particular, a promising avenue for scientific investigation is to identify the genetic changes that have provided the basis for their evolution in natural populations.</p>
+    <p>Most human phenotypes are hard to study in vitro and, consequently, methods for relating differences amongst humans to natural genetic variation are well developed. Association studies were proposed as an effective way of identifying genes with small phenotypic effects more than a decade ago <xref ref-type="bibr" rid="pgen.1000627-Risch1">[1]</xref> and, although initially controversial <xref ref-type="bibr" rid="pgen.1000627-Weiss1">[2]</xref>, the recent development of arrays for genotyping hundreds of thousands of single nucleotide polymorphisms (SNPs) scattered across the whole genome has allowed the approach to be successfully applied to many different human diseases and other phenotypes <xref ref-type="bibr" rid="pgen.1000627-Hardy1">[3]</xref>. This success should inspire the development of equivalent protocols within bacteriology.</p>
+    <p>One challenge in developing generally applicable protocols for mapping phenotypic traits in bacteria is that processes by which microevolution occurs vary tremendously between species. For example, the human pathogen <italic>Mycobacterium tuberculosis</italic>, the causal agent of tuberculosis (TB), diverged recently from an obscure organism occasionally isolated from humans in Africa called <italic>Mycobacterium canetti</italic> <xref ref-type="bibr" rid="pgen.1000627-Fabre1">[4]</xref>. <italic>M. tuberculosis</italic> shows very little variation and there is no evidence of strains acquiring DNA by import from other <italic>M. tuberculosis</italic> strains or indeed from any other organism, so that individuals are clones of each other, distinguished only by rare mutations or other small changes. By contrast, individual <italic>Helicobacter pylori</italic>, a cause of gastric cancer, acquire DNA from other members of the species at an extremely high rate. Consequently, as well as varying in gene content <xref ref-type="bibr" rid="pgen.1000627-Gressmann1">[5]</xref>, strains isolated from different host individuals in the same ethnic group typically differ from each other at approximately 3% of nucleotides in core genes, and this diversity segregates nearly randomly <xref ref-type="bibr" rid="pgen.1000627-Suerbaum1">[6]</xref>. The majority of bacterial species fall between these extremes, with their genomes showing signs of both clonal descent and DNA import from other strains.</p>
+    <p>In this essay, I will argue that the clonal mode of reproduction shared by all bacteria and Archaea, in which replication occurs by binary fission, in fact provides an extremely powerful context for association studies. These studies will require both appropriate technologies for genotyping and evolutionary analysis and judiciously chosen strain collections. I will here concentrate on two examples in which placing evolutionary changes in their clonal context provides the power to relate phenotype to genotype. Population-scale genome sequencing promises to allow a full and unbiased catalogue of variation within the same clonal context. This reconstruction will facilitate identification of loci that show correlations with phenotype or anomalous patterns that indicate natural selection, with minimal assumptions about the mechanisms by which phenotypes change.</p>
+    <sec id="s2">
+      <title>Example 1: Immune Escape during Clonal Spread of <italic>Neisseria meningitidis</italic></title>
+      <p><italic>Neisseria meningitidis</italic> lives in the human nasopharynx and is best known for its role in meningitis and other forms of meningococcal disease. <italic>N. meningitidis</italic> is a major cause of morbidity and mortality in childhood in industrialised countries and is responsible for epidemics, principally in Africa and Asia. Many lineages persist stably within human populations, causing little disease. There are a handful of “hyperinvasive” lineages, however, that have a distinct epidemiology, spreading rapidly from location to location and causing clusters of disease cases but not persisting in any one place.</p>
+      <p>Mark Achtman and colleagues examined variation within a single hyperinvasive lineage of <italic>N. meningitidis</italic>, designated subgroup III, over a period of three decades <xref ref-type="bibr" rid="pgen.1000627-Zhu1">[7]</xref>. The strains within subgroup III showed little diversity in most of their housekeeping and other genes surveyed. A few loci were identified that did show variation, however, allowing clonal relationships to be partially reconstructed. This reconstruction demonstrated that there were strong bottlenecks during geographical spread, with a single ancestor for each major wave of infection. It also showed that, notwithstanding the low overall level of variation, certain genes encoding specific antigens changed repeatedly in different countries and pandemic waves.</p>
+      <p>The most remarkable variation was found in the transferrin-binding protein B gene (<italic>tbpB</italic>), which encodes a protein responsible for iron uptake that is expressed on the surface of the bacterium. This gene had evolved on three occasions by nonsynonymous point mutations that altered the structure of the protein and on 21 occasions by import of different versions of the protein from a variety of sources, including from <italic>N. lactamica</italic>, a closely related and entirely noninvasive species that also colonizes humans (<xref ref-type="fig" rid="pgen-1000627-g001">Figure 1</xref>). The import events vary: analysis of similar <italic>tbpB</italic> changes in a closely related lineage showed that between 2 kb and 10 kb of sequence was transferred, which often altered the sequence of the flanking genes as well as <italic>tbpB</italic> <xref ref-type="bibr" rid="pgen.1000627-Linz1">[8]</xref>. In each case, however, an effect of the imported DNA was to change the externally exposed part of the protein from the usual version (called the family 4 version) to one of two antigenically highly distinct versions (family 1 and family 3).</p>
+      <fig id="pgen-1000627-g001" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pgen.1000627.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Acquisition of new <italic>tbpB</italic> genes by subgroup III <italic>Neisseria meningitidis</italic> during epidemic spread.</title>
+          <p>Colours indicate the family of each <italic>tbpB</italic> allele, with red corresponding to family 4, green corresponding to family 1, and blue corresponding to family 3. The bars highlight the time frame, most common <italic>tbpB</italic> type, and geographical extent of each epidemic (in 1987, pilgrims from the Hajj pilgrimage briefly distributed the lineage worldwide). The circles correspond to variant genotypes. Small circles indicating that the variant allele was found in only one strain; large circles indicate it was found in between two and four strains.</p>
+        </caption>
+        <graphic xlink:href="pgen.1000627.g001"/>
+      </fig>
+      <p>The fact that functionally equivalent changes to <italic>tbpB</italic> are achieved by heterogeneous genetic events shows that the large number of imports is not caused by a recombination mechanism that is specific to the locus. Instead it reflects the amplifying effect of natural selection within the large number of bacteria that circulate during epidemics. Imports happen at a low rate throughout the genome, but those that cause an antigenic change at the <italic>tbpB</italic> locus have a selective advantage, meaning that they are observed at a much higher rate than imports elsewhere in the genome.</p>
+      <p>High diversity at a particular antigen locus is usually explained by invoking a mechanism called negative frequency-dependent selection <xref ref-type="bibr" rid="pgen.1000627-Brisson1">[9]</xref>. Hosts who have been exposed to a particular variant develop immune responses against this variant. Bacteria with antigenically distinct variants escape this response, giving them an advantage in colonizing that host. At the population level, this selection should lead to the persistence of multiple variants. Yet, despite this selection for rare variants within individual epidemics, the antigenic diversity of subgroup III did not increase progressively over time but was instead reset at the beginning of each new epidemic, which was started by a strain with a family 4 allele.</p>
+      <p>The continuous generation of subgroup III strains with family 1 and 3 <italic>tbpB</italic> alleles is better explained by a mechanism called source–sink dynamics <xref ref-type="bibr" rid="pgen.1000627-Sokurenko1">[10]</xref>. The source consists of an environment within which transmission of the bacterium is self-sustaining. Sinks consist of environments that bacteria can colonize effectively (perhaps by undergoing genetic modification) but from which onward transmission is ineffective. Here, the sink environment consists of individuals with acquired immunity to subgroup III strains that carry family 4 alleles, while the source is the remainder of the human population. The fact that the variant genotypes capable of colonizing the sink do not spread geographically but instead are repeatedly regenerated locally suggests that that these strains have reduced overall transmission fitness in naïve hosts, which comprise the majority of individuals in populations where an epidemic has not occurred recently.</p>
+      <p>Two other examples of sink environments are the lungs of immunocompromised patients for <italic>Pseudomonas aeruginosa</italic>, and the human urinary tract for <italic>Escherichia coli</italic> <xref ref-type="bibr" rid="pgen.1000627-Sokurenko1">[10]</xref>; as for the <italic>N. meningitidis</italic> example, specific genetic changes have been identified that adapt strains of these bacteria to those environments but at the expense of overall transmission fitness, with the result that infections occur generally sporadically.</p>
+    </sec>
+    <sec id="s3">
+      <title>Example 2: Host Specificity in <italic>Campylobacter jejuni</italic></title>
+      <p><italic>Campylobacter jejuni</italic> is a gram-negative bacterium commonly found in animal feces. It is often associated with poultry and naturally colonises the GI tract of many bird species. <italic>C. jejuni</italic> is one of the most common causes of human gastroenteritis in the world. Infection caused by <italic>Campylobacter</italic> species can be severely debilitating but is rarely life-threatening. Human infection is sporadic and, although poorly prepared food is often thought to be implicated, it is generally difficult to track the source. There has therefore been a substantial effort to isolate bacteria from a wide variety of reservoirs and to genotype them using multilocus sequence typing (MLST), which involves obtaining the DNA sequence for each isolate at a standardized panel of genes (seven for <italic>Campylobacter</italic>) that are chosen because they have an essential function and are present in the vast majority of isolates in the species <xref ref-type="bibr" rid="pgen.1000627-Maiden1">[11]</xref>.</p>
+      <p>The <italic>C. jejuni</italic> strains acquired by chickens are distinct from those of the wild birds around them, even when the poultry are kept outdoors <xref ref-type="bibr" rid="pgen.1000627-Colles1">[12]</xref>. Within farm animals, certain lineages are found with very different frequencies in chickens and cattle, whereas several genotypes are found at high frequency in both (strains with the MLST type ST-21, for example) <xref ref-type="bibr" rid="pgen.1000627-McCarthy1">[13]</xref>. Strains from different farm animals are more similar to each other than they are to strains found, for example, in starlings (a native European bird that is also common in may other countries, including the US) <xref ref-type="bibr" rid="pgen.1000627-Colles2">[14]</xref>.</p>
+      <p>The digestive system of chickens differs from that of cattle in multiple aspects, and their body temperature is several degrees higher than that of cattle. This raises the question of how some lineages are able to compete successfully in both hosts. Mechanisms facilitating rapid phenotypic adaptation include: (1) inbuilt regulatory mechanisms that allow individual bacteria to alter gene expression in response to new environments <xref ref-type="bibr" rid="pgen.1000627-Coulson1">[15]</xref>, (2) “contingency loci” that mutate rapidly, creating phenotypic variation amongst bacteria that are otherwise genetically identical <xref ref-type="bibr" rid="pgen.1000627-Moxon1">[16]</xref>, and (3) import of DNA from other strains that are already adapted to the current environment.</p>
+      <p>A first step toward understanding the evolution of host specificity is to establish whether it is possible to predict the host origin of strains based on their genome sequence. One approach to doing this uses phylogenetic relationships. For example, the program AdaptML (<ext-link ext-link-type="uri" xlink:href="http://almlab.mit.edu/ALME/Software/Software.html">http://almlab.mit.edu/ALME/Software/Software.html</ext-link>) attempts to assign branches of the phylogenetic tree to preferred habitats based on where the strains on that branch were isolated <xref ref-type="bibr" rid="pgen.1000627-Hunt1">[17]</xref>. For <italic>C. jejuni</italic>, habitat can, for example, be equated to host species. The observation of a group of phylogenetically related strains in a single host species might reflect the common ancestor of those strains acquiring the traits required to survive in that species.</p>
+      <p>Since <italic>C. jejuni</italic> recombines frequently, the genome composition of each strain is determined by the sources from which it has imported DNA, as well by which strains it is phylogenetically related to. For example, ST-21, together with its variants, is a lineage analogous to subgroup III of <italic>N. meningitidis</italic>. Like subgroup III, the lineage has imported DNA from other strains on numerous occasions during its spread, with the result that many isolates have variant genotypes that differ from ST-21 at one or two of the seven MLST fragments. By convention, these strains are grouped with ST-21 into the ST-21 clonal complex.</p>
+      <p>ST-21 itself has been found at high frequency in several agricultural species and elsewhere. Therefore, if a new strain is found to be ST-21, this provides little information on where it might have originated. However, for the variants of ST-21, Noel McCarthy and colleagues obtained significantly better than random assignment by predicting hosts based on the frequency with which the variant allele was found in chicken or cattle <xref ref-type="bibr" rid="pgen.1000627-McCarthy1">[13]</xref>. A useful signal of host-of-origin is thus provided by the DNA that each isolate has acquired (<xref ref-type="fig" rid="pgen-1000627-g002">Figure 2</xref>). Furthermore, the high rate of recombination within particular hosts represents a mechanism by which complex adaptations to a particular host species can be acquired quickly subsequent to a host switch.</p>
+      <fig id="pgen-1000627-g002" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pgen.1000627.g002</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>A schematic illustration of the evolution of the <italic>C. jejuni</italic> ST-21 clonal complex in cattle and chickens.</title>
+          <p>The common ancestor of the complex occurred in chickens (red). During evolution, the lineage occasionally switched to a cattle host (indicated by a blue branch) and sometimes back to chicken. The bacteria acquired DNA by homologous recombination from other <italic>C. jejuni</italic> in the same host. Since recombination is assumed to occur from donors within the same host, the gene pool is determined by the genomic composition of the strains that colonize each host. The gene pools are illustrated for two separate loci (right and left facing arrows) in chickens and cattle. The gene pools contain alleles whose frequencies occur at much higher frequency in one host than another (shown in colour) and others that did not (shown in black). The former are informative about the host in which the recombination event occurred, while the latter are not. The recombination event labelled a introduces the left facing black arrow gene from the cattle gene pool and is phylogenetically informative because it defines a lineage that is largely restricted to cattle. The five recombination events labelled b are not phylogenetically informative, since they only affect a single strain in the sample. These events are nevertheless informative because they introduce alleles that are characteristic of the host species. The event labelled c is both phylogenetically informative and characteristic of host. The event labelled d is noninformative.</p>
+        </caption>
+        <graphic xlink:href="pgen.1000627.g002"/>
+      </fig>
+    </sec>
+    <sec id="s4">
+      <title>The Power of Bacterial Genomics</title>
+      <p>Studies in bacteria have two major advantages over those in humans or other mammals when it comes to relating phenotype to genotype based on natural variation. The first is the magnifying effect of natural selection in enormous bacterial populations. This selection acts to rapidly increase the frequency of genotypes that give small fitness advantages in a particular environment, even if these genotypes are generated only rarely. Adaptation in bacteria is likely to be more frequent and to leave more distinctive genetic signatures than in species such as humans where signals of adaptation to local environments have proved to be remarkably subtle <xref ref-type="bibr" rid="pgen.1000627-Coop1">[18]</xref>. The second is the fact that evolution occurs in the context of progressively changing clonal backgrounds. This property can make it possible to identify strains that have extremely similar genomes but nevertheless differ phenotypically <xref ref-type="bibr" rid="pgen.1000627-Beres1">[19]</xref>. These strains represent the natural equivalent of an isogenic line and can allow precise inferences about the effects of natural variation and how different changes interact with each other.</p>
+      <p>In order to fully exploit the advantages of bacteria for detecting phenotypic associations, it is necessary to develop a conceptual and analytical framework within which rapid evolutionary change can be interpreted. One such framework is source–sink dynamics <xref ref-type="bibr" rid="pgen.1000627-Sokurenko1">[10]</xref>. The <italic>Neisseria</italic> example illustrates the power of microevolutionary analysis in a source–sink ecological context to identify first the sink (hosts with immune responses to <italic>tbpB</italic> family 4 alleles) and second the loci under an immediate selective pressure to change within that sink (the <italic>tbpB</italic> gene).</p>
+      <p>Source–sink dynamics cannot be applied to investigate host specificity within <italic>Campylobacter</italic>, because individual host species, e.g., chicken, cattle, and individual species of wild birds, each harbour large, viable populations of bacteria with high rates of within-species transmission and do not represent sinks. Nevertheless, there is a key similarity between the <italic>Neisseria</italic> and <italic>Campylobacter</italic> examples, namely that the strains are repeatedly challenged by an environment that is novel in the recent history of the strain. In the <italic>Neisseria</italic> example, this challenge is repeatedly met by genetic changes at particular antigenic loci, which consequently have extremely atypical patterns of variation. In <italic>Campylobacter</italic> this challenge is met in the context of a high rate of import of DNA across the genome from other <italic>Campylobacter</italic> strains that already colonize the new host.</p>
+      <p>The availability of full genome sequences promises to enhance our understanding of the bacterial responses to new environments in a number of ways. First, phylogenetic relationships will be better resolved. In the <italic>Neisseria</italic> example, a well-resolved tree will elucidate patterns of transmission within epidemics and, for example, whether <italic>tbpB</italic> imports take place at the later stages of each wave and if strains with such imports ever reacquire family 4 alleles and seed later epidemics. In the <italic>Campylobacter</italic> example this will allow estimates of the number of occasions that the ST-21 lineage has jumped between host-species and establish whether there are sublineages that are becoming progressively more adapted to single-host transmission.</p>
+      <p>Second, genomics will provide a complete catalogue of loci whose pattern of descent is atypical of the genome as a whole and therefore either associated with a particular phenotype or putatively affected by selection. In the <italic>Neisseria</italic> example, an elevated rate of change at particular loci and consistency in the nature of those changes would provide signs of selection. In the <italic>Campylobacter</italic> example, loci that are imported at very high frequency and/or that are highly differentiated between host species may be involved in adaptation to a new host. An isolate-by-isolate analysis of the patterns of import should establish whether the multi-host lifestyle of ST-21 and, by extension, of <italic>C. jejuni</italic> as a whole is facilitated by import of DNA from locally adapted strains.</p>
+      <p>Third, genomics will allow detection of epistasis between loci. Epistasis occurs when the fitness effects of alleles at one gene are modified by the genotype at one or more additional genes. In outbreeding diploids, such as mammals, each allele has its fitness tested on a new genetic background in every generation, with the result that epistasis does not leave a distinctive signature in the frequency of particular combinations of alleles unless the loci are closely linked on the same chromosome or selection is very strong.</p>
+      <p>In bacteria, combinations of alleles remain together for many generations wherever they occur in the genome, providing ample opportunity for epistasis to bring particular combinations of alleles to high frequency. For example, subgroup III strains that have imported variant <italic>tbpB</italic> alleles can potentially enhance their fitness by importing other parts of the genome that adapt other strains in the <italic>Neisseria</italic> population to having high fitness when carrying family 1 or family 3 alleles. These parts of the genome could be detected by identifying parallel changes that have occurred on the 21 occasions that a variant <italic>tbpB</italic> allele was imported during the spread of subgroup III strains. Fitness interactions establish functional relationships between loci and represent a central part of the evolutionary landscape, for example triggering the origin of species <xref ref-type="bibr" rid="pgen.1000627-Coyne1">[20]</xref>. Genome sequencing of bacteria should provide key insights on the nature of these interactions in natural populations.</p>
+      <p>In <italic>C. jejuni</italic> and other zoonoses, genomic analyses will facilitate a qualitative advance in our understanding of the epidemiology, ecology, and molecular biology of host switches. These developments will allow accurate delineation of the sources of human infection and an understanding of the factors promoting successful and pathogenic colonization of humans. In <italic>N. meningitidis</italic> and similar bacteria, we will gain a much better understanding of the genetic differences between invasive and noninvasive strains and the particular adaptive strategies that cause lineages to become invasive. These advances will together allow the design of targeted interventions that reduce the burden of human disease.</p>
+    </sec>
+    <sec id="s5">
+      <title>Challenges for the Future</title>
+      <p>Advances in sequencing technology mean that it is becoming economically feasible to obtain complete or nearly complete genome sequences for large samples of bacteria. To better exploit this technology to understand bacterial phenotypes, the field should emulate the research program of human genetics and (1) develop statistical tools that use sequence variation to infer mechanisms of evolution <xref ref-type="bibr" rid="pgen.1000627-McVean1">[21]</xref> and patterns of genetic relationship <xref ref-type="bibr" rid="pgen.1000627-Rosenberg1">[22]</xref>; (2) collect and sequence samples of isolates in which bacteria that differ in phenotypes of interest are matched as far as possible in time and space <xref ref-type="bibr" rid="pgen.1000627-The1">[23]</xref>; and (3) design statistical tools for detecting phenotypic associations <xref ref-type="bibr" rid="pgen.1000627-Marchini1">[24]</xref> and natural selection <xref ref-type="bibr" rid="pgen.1000627-Sabeti1">[25]</xref> by identifying patterns of relationship at particular loci that are atypical of the genome as a whole.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>Mark Achtman, Jim Bull, Jana Haase, Riikka Haukkanen, and Daniel Stoebel provided insightful discussions and comments on the manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pgen.1000627-Risch1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Risch</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Merikangas</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year>1996</year>
+          <article-title>The future of genetic studies of complex human diseases.</article-title>
+          <source>Science</source>
+          <volume>273</volume>
+          <fpage>1516</fpage>
+          <lpage>1517</lpage>
+          <pub-id pub-id-type="pmid">8801636</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Weiss1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weiss</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Terwilliger</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>How many diseases does it take to map a gene with SNPs?</article-title>
+          <source>Nat Genet</source>
+          <volume>26</volume>
+          <fpage>151</fpage>
+          <lpage>157</lpage>
+          <pub-id pub-id-type="pmid">11017069</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Hardy1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hardy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Singleton</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Genomewide association studies and human disease.</article-title>
+          <source>N Engl J Med</source>
+          <volume>360</volume>
+          <fpage>1759</fpage>
+          <lpage>1768</lpage>
+          <pub-id pub-id-type="pmid">19369657</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Fabre1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fabre</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Koeck</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Le Fleche</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Simon</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Herve</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>High genetic diversity revealed by variable-number tandem repeat genotyping and analysis of hsp65 gene polymorphism in a large collection of “<italic>Mycobacterium canettii</italic>” strains indicates that the <italic>M. tuberculosis</italic> complex is a recently emerged clone of “<italic>M. canettii</italic>”.</article-title>
+          <source>J Clin Microbiol</source>
+          <volume>42</volume>
+          <fpage>3248</fpage>
+          <lpage>3255</lpage>
+          <pub-id pub-id-type="pmid">15243089</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Gressmann1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gressmann</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Linz</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Ghai</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Pleissner</surname>
+              <given-names>KP</given-names>
+            </name>
+            <name>
+              <surname>Schlapbach</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2005</year>
+          <article-title>Gain and loss of multiple genes during the evolution of <italic>Helicobacter pylori</italic>.</article-title>
+          <source>PLoS Genet</source>
+          <volume>1</volume>
+          <fpage>e43</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pgen.0010043">10.1371/journal.pgen.0010043</ext-link></comment>
+          <pub-id pub-id-type="pmid">16217547</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Suerbaum1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suerbaum</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Maynard Smith</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bapumia</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Morelli</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>NH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Free recombination within <italic>Helicobacter pylori</italic>.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>95</volume>
+          <fpage>12619</fpage>
+          <lpage>12624</lpage>
+          <pub-id pub-id-type="pmid">9770535</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Zhu1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>van Der</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Falush</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Brieske</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Morelli</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2001</year>
+          <article-title>Fit genotypes and escape variants of subgroup III <italic>Neisseria meningitidis</italic> during three pandemics of epidemic meningitis.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>98</volume>
+          <fpage>5234</fpage>
+          <lpage>5239</lpage>
+          <pub-id pub-id-type="pmid">11287631</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Linz1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Linz</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Schenker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Achtman</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Frequent interspecific genetic exchange between commensal Neisseriae and <italic>Neisseria meningitidis</italic>.</article-title>
+          <source>Mol Microbiol</source>
+          <volume>36</volume>
+          <fpage>1049</fpage>
+          <lpage>1058</lpage>
+          <pub-id pub-id-type="pmid">10844690</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Brisson1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brisson</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Dykhuizen</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>ospC diversity in <italic>Borrelia burgdorferi</italic>: Different hosts are different niches.</article-title>
+          <source>Genetics</source>
+          <volume>168</volume>
+          <fpage>713</fpage>
+          <lpage>722</lpage>
+          <pub-id pub-id-type="pmid">15514047</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Sokurenko1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sokurenko</surname>
+              <given-names>EV</given-names>
+            </name>
+            <name>
+              <surname>Gomulkiewicz</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Dykhuizen</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Source-sink dynamics of virulence evolution.</article-title>
+          <source>Nat Rev Microbiol</source>
+          <volume>4</volume>
+          <fpage>548</fpage>
+          <lpage>555</lpage>
+          <pub-id pub-id-type="pmid">16778839</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Maiden1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maiden</surname>
+              <given-names>MCJ</given-names>
+            </name>
+            <name>
+              <surname>Bygraves</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Feil</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Morelli</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>JE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>1998</year>
+          <article-title>Multilocus sequence typing: A portable approach to the identification of clones within populations of pathogenic microorganisms.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>95</volume>
+          <fpage>3140</fpage>
+          <lpage>3145</lpage>
+          <pub-id pub-id-type="pmid">9501229</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Colles1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colles</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>McCarthy</surname>
+              <given-names>ND</given-names>
+            </name>
+            <name>
+              <surname>Sheppard</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Cody</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Campylobacter infection of broiler chickens in a free-range environment.</article-title>
+          <source>Environ Microbiol</source>
+          <volume>10</volume>
+          <fpage>2042</fpage>
+          <lpage>2050</lpage>
+          <pub-id pub-id-type="pmid">18412548</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-McCarthy1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCarthy</surname>
+              <given-names>ND</given-names>
+            </name>
+            <name>
+              <surname>Colles</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Dingle</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Bagnall</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Manning</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Host-associated genetic import in <italic>Campylobacter jejuni</italic>.</article-title>
+          <source>Emerg Infect Dis</source>
+          <volume>13</volume>
+          <fpage>267</fpage>
+          <lpage>272</lpage>
+          <pub-id pub-id-type="pmid">17479890</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Colles2">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colles</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>McCarthy</surname>
+              <given-names>ND</given-names>
+            </name>
+            <name>
+              <surname>Howe</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Devereux</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Gosler</surname>
+              <given-names>AG</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>Dynamics of <italic>Campylobacter</italic> colonization of a natural host, <italic>Sturnus vulgaris</italic> (European starling).</article-title>
+          <source>Environ Microbiol</source>
+          <volume>11</volume>
+          <fpage>258</fpage>
+          <lpage>267</lpage>
+          <pub-id pub-id-type="pmid">18826435</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Coulson1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coulson</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Ouzounis</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>The phylogenetic diversity of eukaryotic transcription.</article-title>
+          <source>Nucleic Acids Res</source>
+          <volume>31</volume>
+          <fpage>653</fpage>
+          <lpage>660</lpage>
+          <pub-id pub-id-type="pmid">12527774</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Moxon1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moxon</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bayliss</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hood</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Bacterial contingency loci: The role of simple sequence DNA repeats in bacterial adaptation.</article-title>
+          <source>Annu Rev Genet</source>
+          <volume>40</volume>
+          <fpage>307</fpage>
+          <lpage>333</lpage>
+          <pub-id pub-id-type="pmid">17094739</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Hunt1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hunt</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Gevers</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Preheim</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Alm</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2008</year>
+          <article-title>Resource partitioning and sympatric differentiation among closely related bacterioplankton.</article-title>
+          <source>Science</source>
+          <volume>320</volume>
+          <fpage>1081</fpage>
+          <lpage>1085</lpage>
+          <pub-id pub-id-type="pmid">18497299</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Coop1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coop</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pickrell</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Novembre</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kudaravalli</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2009</year>
+          <article-title>The role of geography in human adaptation.</article-title>
+          <source>PLoS Genet</source>
+          <volume>5</volume>
+          <fpage>e1000500</fpage>
+          <comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pgen.1000500">10.1371/journal.pgen.1000500</ext-link></comment>
+          <pub-id pub-id-type="pmid">19503611</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Beres1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beres</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>EW</given-names>
+            </name>
+            <name>
+              <surname>Nagiec</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Sumby</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Porcella</surname>
+              <given-names>SF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2006</year>
+          <article-title>Molecular genetic anatomy of inter- and intraserotype variation in the human bacterial pathogen group A <italic>Streptococcus</italic>.</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>103</volume>
+          <fpage>7059</fpage>
+          <lpage>7064</lpage>
+          <pub-id pub-id-type="pmid">16636287</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Coyne1">
+        <label>20</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coyne</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Orr</surname>
+              <given-names>HA</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <source>Speciation</source>
+          <publisher-loc>Sunderland (MA)</publisher-loc>
+          <publisher-name>Sinauer Associates</publisher-name>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-McVean1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McVean</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Hunt</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Deloukas</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bentley</surname>
+              <given-names>DR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2004</year>
+          <article-title>The fine-scale structure of recombination rate variation in the human genome.</article-title>
+          <source>Science</source>
+          <volume>304</volume>
+          <fpage>581</fpage>
+          <lpage>584</lpage>
+          <pub-id pub-id-type="pmid">15105499</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Rosenberg1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosenberg</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Pritchard</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Cann</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Kidd</surname>
+              <given-names>KK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2002</year>
+          <article-title>Genetic structure of human populations.</article-title>
+          <source>Science</source>
+          <volume>298</volume>
+          <fpage>2381</fpage>
+          <lpage>2385</lpage>
+          <pub-id pub-id-type="pmid">12493913</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-The1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+          <collab>The Wellcome Trust Case Control Consortium</collab>
+          <year>2007</year>
+          <article-title>Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls.</article-title>
+          <source>Nature</source>
+          <volume>447</volume>
+          <fpage>661</fpage>
+          <lpage>678</lpage>
+          <pub-id pub-id-type="pmid">17554300</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Marchini1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marchini</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Howie</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>McVean</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Donnelly</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>A new multipoint method for genome-wide association studies by imputation of genotypes.</article-title>
+          <source>Nat Genet</source>
+          <volume>39</volume>
+          <fpage>906</fpage>
+          <lpage>913</lpage>
+          <pub-id pub-id-type="pmid">17572673</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="pgen.1000627-Sabeti1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sabeti</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Varilly</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Fry</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Lohmueller</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hostetter</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <year>2007</year>
+          <article-title>Genome-wide detection and characterization of positive selection in human populations.</article-title>
+          <source>Nature</source>
+          <volume>449</volume>
+          <fpage>913</fpage>
+          <lpage>918</lpage>
+          <pub-id pub-id-type="pmid">17943131</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The author has declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>The author is funded by Science Foundation of Ireland grant number 05/FE1/B882. The funders had no role in the preparation of the article.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>

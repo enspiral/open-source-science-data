@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2011-07-20T00:32:15Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2657765" metadataPrefix="pmc">http://www.pubmedcentral.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:2657765</identifier><datestamp>2009-03-23</datestamp><setSpec>bioletters</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dtd.nlm.nih.gov/2.0/xsd/archivearticle http://dtd.nlm.nih.gov/2.0/xsd/archivearticle.xsd" article-type="article-commentary" xml:lang="EN">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Biol Lett</journal-id>
+      <journal-id journal-id-type="publisher-id">RSBL</journal-id>
+      <journal-title>Biology Letters</journal-title>
+      <issn pub-type="ppub">1744-9561</issn>
+      <issn pub-type="epub">1744-957X</issn>
+      <publisher>
+        <publisher-name>The Royal Society</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmc">2657765</article-id>
+      <article-id pub-id-type="publisher-id">rsbl20080594</article-id>
+      <article-id pub-id-type="doi">10.1098/rsbl.2008.0594</article-id>
+      <article-id pub-id-type="pmid">19049956</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Opinion Piece</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Exploring the early origins of the synapse by comparative genomics</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kosik</surname>
+            <given-names>Kenneth S.</given-names>
+          </name>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <institution>Neuroscience Research Institute, University of California</institution>
+        <addr-line>Santa Barbara, CA 93106-5060, USA</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1"><label>*</label> (<email>kosik@lifesci.ucsb.edu</email>)</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>2</day>
+        <month>12</month>
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <day>23</day>
+        <month>2</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>1</issue>
+      <fpage>108</fpage>
+      <lpage>111</lpage>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>10</month>
+          <year>2008</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>11</month>
+          <year>2008</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2008 The Royal Society</copyright-statement>
+        <copyright-year>2008</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/">
+          <p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>One set of evolutionary features that has received less attention than the evolution of genes or species is the evolution of cellular machines, the self-contained structures in cells with dedicated functions. Here I suggest that domain expansion through shuffling, duplication, and changes in protein expression level are critical drivers in the evolution of cellular machines. Once established, evolutionary change in these cellular machines tends to occur by paralogy or expansion and modification of the existing core genes. A comparative genomics approach to one cellular machine—the post-synaptic complex—provided preliminary validation of these views. A comparative genomics approach to the entire cellulome may reveal the diversity of cellular machines and their inter-relationships.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>demosponge</kwd>
+        <kwd>porifera</kwd>
+        <kwd>
+          <italic>Amphimedon queenslandica</italic>
+        </kwd>
+        <kwd>post-synaptic scaffold proteins</kwd>
+        <kwd>PDZ domain</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>In the hierarchical organization of organisms, the self-assembly of proteins is a fundamental step towards complexity. Protein complexes, often in conjunction with membranous elements or nucleic acids, form a variety of organelles and other subcellular structures that are vital for the lifestyle of the organism. Many of these subcellular structures are described generically with the implicit assumption that they are similar across very broad phylogenetic distances. Indeed, the core components of organelles such as the proteasome, the nuclear pore, the spliceosome, the RNA-induced silencing complex, the adherens junction, and the synapse, to name but a few, are highly conserved. The self-assembly and structural integrity of these subcellular units arises from interaction domains that are among the most highly conserved regions of the protein components. The fit and fitness of interaction domains places a powerful constraint on evolutionary change within these cellular machines.</p>
+    <p>What belies a relative uniformity among these cellular structures is the pressure of change at levels of the biological hierarchy, which operate outside the confines of the machine. Mutations in the genes, which encode structural proteins, the developmental context from which subcellular structures assemble and organismal change, are among the many factors that affect these machines and may contribute to their adaptive diversification. All the while, function must remain intact. Cellular machines cannot shut down for repairs, upgrades or patches while evolutionary change occurs around them. These considerations lead to the following questions: (i) how diverse are the structural components of cellular machines? and (ii) how does evolutionary change modify cellular machines while maintaining their fundamental structure and function?</p>
+    <p>In approaching these questions, we focused first on the comparative genomics of those genes that encode the structural components of the post-synaptic junction (<xref ref-type="bibr" rid="bib1">Sakarya <italic>et al.</italic> 2007</xref>). A related approach was reported by Gabaldon and colleagues with regard to the evolution of NADH : ubiquinone oxidoreductase (complex I) (<xref ref-type="bibr" rid="bib2">Gabaldon <italic>et al.</italic> 2005</xref>). We catalogued a set of key post-synaptic genes from representative species that branch over long time periods within the animal kingdom. Using the genome of the demosponge, <italic>Amphimedon queenslandica</italic>, the cnidarian <italic>Nematostella vectensis</italic>, <italic>Drosophila melanogaster</italic>, a representative protostome, and <italic>Homo sapiens</italic>, a representative deuterostome, we assembled phylogeny trees for the set of post-synaptic complex genes. The species were selected because they represent major phylogenetic intervals across which the innovations of interest took place.</p>
+    <p>From these data, it was apparent that the genes which encode the core components of the post-synaptic density are present throughout the entirety of the animal kingdom. Therefore, at first pass, the enormous growth of the brain was not associated with major gene gain or loss events in the post-synaptic density. More recently, we have extended this analysis to the pre-synaptic element, which also retains a set of core genes throughout the entirety of animal evolution (C. Conaco &amp; K. S. Kosik 2008, unpublished observations). The exception is the sponge, <italic>A. queenslandica</italic>, a basal animal, which does not possess synapses or neurons. Interestingly, even in the absence of any recognizable synaptic structure, <italic>A. queenslandica</italic> possesses a nearly complete set of post-synaptic scaffolding genes as well as proneural atonal-related bHLH genes coupled with Notch–Delta signalling (<xref ref-type="bibr" rid="bib3">Richards <italic>et al.</italic> 2008</xref>). What is lacking for a complete post-synaptic complex are the ionotropic glutamate receptors (iGluR), which belong to the NMDA/AMPA/Kainate receptor families, neuroligin and the Shaker-type voltage gated K<sup>+</sup> channel. These ‘missing genes’ are present in the cnidarian, <italic>N. vectensis</italic>, as well as all other animals, but absent from the eukaryotic genomes of yeast, <italic>Tetrahymena</italic>, and <italic>Dictyostelium</italic>. From the roll call of <italic>A. queenslandica</italic> synaptic genes, the sponge is missing a set of receptor and channel genes that encode proteins that link the sub-synaptic scaffold to an extracellular input in the synaptic cleft. The missing genes all bind to the synaptic scaffold and form a set of diverse receptors on the post-synaptic membrane which are essential for the complex transduction of the pre-synaptic signal. Whether these genes were gained in Cnidaria or lost in the sponge is unknown.</p>
+    <p>Those ‘post-synaptic’ genes that are present in <italic>A. queenslandica</italic> are likely to be assembled into a complex structure of unknown function in the sponge and may have been exapted in the evolution of the synapse (<xref ref-type="bibr" rid="bib1">Sakarya <italic>et al.</italic> 2007</xref>). Although many details need to be filled in, organisms with post-synaptic densities have changed little with respect to the core features of the scaffolding element. The proto-synaptic structure may have been lifted from a metazoan ancestor, and with only minimal tinkering on the core structure added new gene products to create a novel cellular machine. However, positioning the sponge among the earliest branching events of animals remains imprecise. Recently, sequence evidence suggested that ctenophores (comb jellies) may be the sister group to all other sampled metazoans (<xref ref-type="bibr" rid="bib4">Dunn 2008</xref>). Both cnidarians and ctenophores have synapses and neurons organized as a nerve net. If the sponge branched from an ancestor shared with ctenophores, we might conclude that the modern sponge underwent massive gene loss. Depending on the position of the ctenophores, the evolutionary stem leading to synapses is a common ancestor of all animals or is restricted to descendants from a branch that separated ancestral sponges and all other animals. Thus, modern sponges, which lack synapses and neurons, have either lost their nervous system, or the neural-like structures of ctenophores arose independently of other metazoans. In either case, the sponge resides in a highly informative position with regard to the evolutionary innovations that led to the neuronal synapse.</p>
+    <p>The events which lead to the putative structure(s) in the sponge with its many post-synaptic scaffolding proteins must have required changes in binding events. Pre-existing scaffold proteins acquired or lost ligands for their binding domains. Examples of genes in <italic>A. queenslandica</italic> with nearly identical domain organizations from sponge to human include a <italic>dlg</italic> family member orthologous to PSD-95, and orthologues of S-SCAM, Homer, Shank and GRIP (<xref ref-type="bibr" rid="bib1">Sakarya <italic>et al.</italic> 2007</xref>). The presence of novel ligands, neither the introduction of novel domains nor the reorganization of existing domains, characterizes the difference between the sponge and other animals. New binding partners may create competitive inhibition, steric exclusion or cooperativity, which could be parametrized in terms of a Gibbs free energy derived from a systematic characterization of possible complexes. These changes must maintain the stability of the structure and the added functionality of the machine. Examples abound. Two post-synaptic gene homologues in <italic>Amphimedon</italic>, GKAP and Citron lack a PDZ ligand sequence, although other metazoans include ligand sequences in their orthologous genes. These genes either acquired or lost novel binding features. If the sponge complex is ancestral to the synapse, the inclusion of GKAP and Citron in the post-synaptic complex added new binding partners to the pre-existing scaffold. AMPAR binds to GRIP; however, <italic>Amphimedon</italic> lacks AMPAR, but has a GRIP orthologue. This sponge GRIP orthologue includes a PDZ domain that clades with the orthologous GRIP PDZ domain, which binds AMPAR, a clear example of a PDZ domain enjoying a natural niche without one of its ligands. Stargazin, which links AMPAR to PSD-95, is not found in any invertebrate genomes, and therefore represents a more recent innovation that had to compete with the pre-existing binding partners. In fact, the set of post-synaptic genes missing from the sponge all bind to PDZ domains within proteins that have exact orthologues in the sponge. Presumably, these PDZ domains were occupied with pre-existing ligands, and therefore evolutionary selection appears to have operated on the binding kinetics of the scaffold.</p>
+    <p>Successful interactions added functionality and complexity to the machine. A series of binary events that could result in the assembly of a complex with four pre-existing proteins called A, B, C, D may follow pathways as follows.<disp-formula id="fd1"><label>(1)</label><graphic xlink:href="rsbl20080594e01.jpg" alternate-form-of="M1" position="float"/><mml:math id="M1"><mml:mrow><mml:mtext>A</mml:mtext><mml:mo>+</mml:mo><mml:mtext>B</mml:mtext><mml:mo>→</mml:mo><mml:mtext>AB</mml:mtext><mml:mspace width=".75em"/><mml:mtext>and</mml:mtext><mml:mspace width="0.75em"/><mml:mtext>C</mml:mtext><mml:mo>+</mml:mo><mml:mtext>D</mml:mtext><mml:mo>→</mml:mo><mml:mtext>CD</mml:mtext><mml:mo>,</mml:mo><mml:mspace width="0.25em"/><mml:mtext>then</mml:mtext><mml:mspace width="0.25em"/><mml:mtext>AB</mml:mtext><mml:mo>+</mml:mo><mml:mtext>CD</mml:mtext><mml:mo>→</mml:mo><mml:mtext>ABCD</mml:mtext><mml:mo>,</mml:mo></mml:mrow></mml:math></disp-formula><disp-formula id="fd2"><label>(2)</label><graphic xlink:href="rsbl20080594e02.jpg" alternate-form-of="M2" position="float"/><mml:math id="M2"><mml:mrow><mml:mtext>A</mml:mtext><mml:mo>+</mml:mo><mml:mtext>B</mml:mtext><mml:mo>→</mml:mo><mml:mtext>AB</mml:mtext><mml:mo>,</mml:mo><mml:mspace width="0.25em"/><mml:mtext>then</mml:mtext><mml:mspace width="0.50em"/><mml:mtext>AB</mml:mtext><mml:mo>+</mml:mo><mml:mtext>C</mml:mtext><mml:mo>→</mml:mo><mml:mtext>ABC</mml:mtext><mml:mo>,</mml:mo><mml:mspace width="0.25em"/><mml:mtext>then</mml:mtext><mml:mspace width="0.25em"/><mml:mtext>ABC</mml:mtext><mml:mo>+</mml:mo><mml:mtext>D</mml:mtext><mml:mo>→</mml:mo><mml:mtext>ABCD</mml:mtext><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula>As subcellular machines increase in complexity, their histories could be represented in a lineage tree that leads to a recognizable annotated complex such as the post-synaptic complex. Presumably, ancestral complexes serve some adaptive function that may or may not be related to the function of the observed complex.</p>
+    <p>Many of the protein–protein interactions within a cellular machine are kinetically skewed towards the bound state, so that the machine remains assembled. Dissociation of critical protein partners could disable the machine. Stable interactions of this sort are often mediated by compact sequences within proteins called domains. Domain shuffling, which refers to the duplication of a domain or the insertion of a domain from one gene into another, may be an important contributor to phenotypic complexity. If one imagines a lineage tree for a subcellular structure, its evolutionary path would probably depart from the binary events in the histories noted above. Rather, domain shuffling allows the rapid generation of multiple interaction partners. For example, the introduction of three tandem binding domains into a protein, A, will lead to a scaffolding complex in which ligands (B, C, D) for all of these domains are joined in a single step. This third pathway of complex assembly is as follows:<disp-formula id="fd3"><label>(3)</label><graphic xlink:href="rsbl20080594e03.jpg" alternate-form-of="M3" position="float"/><mml:math id="M3"><mml:mrow><mml:mtext>A</mml:mtext><mml:mo>+</mml:mo><mml:mtext>B</mml:mtext><mml:mo>+</mml:mo><mml:mtext>C</mml:mtext><mml:mo>+</mml:mo><mml:mtext>D</mml:mtext><mml:mo>→</mml:mo><mml:mtext>ABCD</mml:mtext><mml:mo>.</mml:mo></mml:mrow></mml:math></disp-formula>If protein A can exist as a dimer, then the number of protein components doubles. Other ligands (X, Y, Z) with affinities, which are competitive with A, B, C, would diversify the composition of the scaffolds. The expression levels of all these ligands as well as the level of scaffold expression will drive mass action effects and greatly affect the distribution of scaffold compositions, each with a distinct array of ligands.</p>
+    <p>Current genomic data allow one to track synaptic genes not only in basal animals such as sponges that lack synapses, but also prior to the evolution of animals themselves. Choanoflagellates are the closest known relatives of metazoans. In contrast to <italic>A. queenslandica</italic>, the unicellular choanoflagellate <italic>Monosiga brevicollis</italic> genome contains very few orthologues of the post-synaptic gene set (<xref ref-type="bibr" rid="bib5">King 2008</xref>); however, the domains found within the post-synaptic gene are present in a large variety of other contexts. Indeed, comparative sequence analyses have led to the view that tracing domain phylogeny in proteins may more accurately represent the process of gene/protein evolution than entire proteins (<xref ref-type="bibr" rid="bib6">Koonin <italic>et al.</italic> 2000</xref>). As concluded in the report on the <italic>M. brevicollis</italic> genome, the physical linkages among protein domains often differ between <italic>M. brevicollis</italic> and metazoans. Abundant domain shuffling at the origin of Metazoa resulted in a set of synaptic genes that have retained their domain organization throughout all metazoan lineages. The domain organization of most post-synaptic genes became fixed in the sponge either before the origination of synapses in organisms derived from a common ancestor of the sponge and other animals, or was retained when synapses were lost in the sponge.</p>
+    <p>For example, multiple sequence alignments and phylogenetics of PDZ domains can group this domain into distinct clades with a most recent common ancestor that pre-dates metazoans (Sakarya <italic>et al.</italic> <xref ref-type="bibr" rid="bib1">2007</xref>, <xref ref-type="bibr" rid="bib7">2008</xref>). The unique sequence identities of individual PDZ domains make it possible to distinguish the history of each PDZ domain in its conserved position within the larger protein. The <italic>dlg</italic> gene contains three PDZ domains that can be individually claded and the results of this PDZ domain phylogeny suggest the ancient origin of each in a common ancestor that antedated animals. Thus while PDZ domains can be traced back to prokaryotes, the specialization of PDZ domains within a larger motif organization represents a major Neoproterozoic innovation. The specification of PDZ domains by changes in their sequence and organization within a larger domain architecture very likely happened in a period characterized by a series of cladogenic events closely spaced in time near the origin of Metazoa (<xref ref-type="bibr" rid="bib8">Rokas <italic>et al.</italic> 2005</xref>).</p>
+    <p>Over the course of animal evolution, the core set of synaptic genes has neither incurred significant gene loss nor gene gain. What has happened is that the set of core synaptic genes has undergone paralogous expansion. For example, the PSD-95 family is represented by a single gene in <italic>M. brevicollis</italic> and in invertebrates, but in vertebrates expanded to include PSD-95/SAP90, PSD-93/chapsyn-110, SAP-97/hDLG and SAP-102. Diversification has occurred in the region N-terminal to the first PDZ domain, the region between PDZ2 and PDZ3, and the inter-SH3/GK region. Among the functions attributed to these regions of diversification are closely spaced cysteine residues that undergo palmitoylation for differential targeting or differential inclusion of an L27 protein–protein interaction motif for head-to-head multimerization (<xref ref-type="bibr" rid="bib12">Hsueh <italic>et al.</italic> 1997</xref>; <xref ref-type="bibr" rid="bib11">El-Husseini <italic>et al.</italic> 2000</xref>; <xref ref-type="bibr" rid="bib9">Chetkovich <italic>et al.</italic> 2002</xref>; <xref ref-type="bibr" rid="bib10">Christopherson <italic>et al.</italic> 2003</xref>). Paralogous expansion appears to be an important means by which synapses have evolved within the animal kingdom. Alternatively, paralogy may dominate over even longer time periods, but any residual similarity among ancient, highly divergent proteins has fallen below detection levels. Another important trend observed in animal phylogeny is an increasing number of microRNAs (miRNAs) (<xref ref-type="bibr" rid="bib13">Grimson <italic>et al.</italic> 2008</xref>). While <italic>M. brevicollis</italic> lacks miRNAs, <italic>A. queenslandica</italic> has eight miRNAs, <italic>N. vectensis</italic> has 40 miRNAs, the planarian, <italic>Schmidtea mediterranea</italic> has 61 miRNAs, <italic>Caenorhabditis elegans</italic> has 154 miRNAs, <italic>D. melanogaster</italic> has 147 miRNAs, <italic>Mus musculus</italic> has 491 miRNAs and humans have 677 miRNAs. The ability to regulate sets of genes post-transcriptionally may have also contributed to synaptic evolution.</p>
+    <p>The deep organizational structure of the synapse may be better understood through its evolutionary origins. As noted, sponges appear to have a protein complex that uses orthologues of true metazoan synaptic genes and could have a quasi-neural role in mediating long distance communication and coordinated behaviours. For example, the freshwater sponge <italic>Ephydatia muelleri</italic> (Demospongiae, Haplosclerida, Spongillidae) is capable of peristaltic-like contractions to expel waste material from its aquiferous system (<xref ref-type="bibr" rid="bib14">Elliott and Leys 2007</xref>). More importantly, in terms of synapse evolution, a sponge ‘proto-synapse’ would suggest that latent within the synapse lies an ancient relic capable of functioning on its own. Techniques, such as knockouts or RNAi, that alter single genes are limited in yielding the underlying logic of a biological system, whereas comparative genomic techniques could reveal these unsuspected functional units.</p>
+    <p>One can generalize this comparative genomic approach to all subcellular structures as the study of the cellulome. Systematically cataloguing the constituent sets of proteins across many species for each subcellular structure opens a wealth of experimentally tractable questions. We can ask how much species variation exists among a subcellular structure in its protein components and its use of paralogues to diversify structure and extend function. We can ask how new proteins arising from gene innovation get integrated within pre-existing subcellular machines. From these data, we can ask how biological machine evolution tracks with the species tree. We can ask whether smaller units within these machines can be fitted into other machines and whether machine parts jump into new machines or reorganize to invent new machines.</p>
+    <p>Cataloguing this paralogy is the subject of the cellulome.</p>
+  </body>
+  <back>
+    <ack>
+      <p>The author is indebted to Todd Oakley, Onur Sakarya and Boris Shraiman for their insightful conversations.</p>
+    </ack>
+    <ref-list>
+      <ref id="bib9">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chetkovich</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Bunn</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Kawasaki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kohwi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bredt</surname>
+              <given-names>D.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Postsynaptic targeting of alternative postsynaptic density-95 isoforms by distinct mechanisms</article-title>
+          <source>J. Neurosci</source>
+          <volume>22</volume>
+          <year>2002</year>
+          <fpage>6415</fpage>
+          <lpage>6425</lpage>
+          <pub-id pub-id-type="pmid">12151521</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib10">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christopherson</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Sweeney</surname>
+              <given-names>N.T.</given-names>
+            </name>
+            <name>
+              <surname>Craven</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>El-Husseini</surname>
+              <given-names>A.E.-D.</given-names>
+            </name>
+            <name>
+              <surname>Bredt</surname>
+              <given-names>D.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lipid- and protein-mediated multimerization of PSD-95: implications for receptor clustering and assembly of synaptic protein networks</article-title>
+          <source>J. Cell Sci</source>
+          <volume>116</volume>
+          <year>2003</year>
+          <fpage>3213</fpage>
+          <lpage>3219</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1242/jcs.00617">doi:10.1242/jcs.00617</ext-link>
+          <pub-id pub-id-type="pmid">12829740</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib4">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunn</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Broad phylogenomic sampling improves resolution of the animal tree of life</article-title>
+          <source>Nature</source>
+          <volume>452</volume>
+          <year>2008</year>
+          <fpage>745</fpage>
+          <lpage>749</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/nature06614">doi:10.1038/nature06614</ext-link>
+          <pub-id pub-id-type="pmid">18322464</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib11">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El-Husseini</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Craven</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Chetkovich</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Firestein</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Schnell</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Aoki</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Bredt</surname>
+              <given-names>D.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dual palmitoylation of PSD-95 mediates its vesiculotubular sorting, postsynaptic targeting, and ion channel clustering</article-title>
+          <source>J. Cell Biol</source>
+          <volume>148</volume>
+          <year>2000</year>
+          <fpage>159</fpage>
+          <lpage>172</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1083/jcb.148.1.159">doi:10.1083/jcb.148.1.159</ext-link>
+          <pub-id pub-id-type="pmid">10629226</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib14">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elliott</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Leys</surname>
+              <given-names>S.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Coordinated contractions effectively expel water from the aquiferous system of a freshwater sponge</article-title>
+          <source>J. Exp. Biol</source>
+          <volume>210</volume>
+          <year>2007</year>
+          <fpage>3736</fpage>
+          <lpage>3748</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1242/jeb.003392">doi:10.1242/jeb.003392</ext-link>
+          <pub-id pub-id-type="pmid">17951414</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib2">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gabaldon</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rainey</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Huynen</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tracing the evolution of a large protein complex in the eukaryotes, NADH : ubiquinone oxidoreductase (complex I)</article-title>
+          <source>J. Mol. Biol</source>
+          <volume>348</volume>
+          <year>2005</year>
+          <fpage>857</fpage>
+          <lpage>870</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1016/j.jmb.2005.02.067">doi:10.1016/j.jmb.2005.02.067</ext-link>
+          <pub-id pub-id-type="pmid">15843018</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib13">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grimson</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fahey</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Woodcroft</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Chiang</surname>
+              <given-names>H.R.</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Degnan</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Rokhsar</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Bartel</surname>
+              <given-names>D.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Early origins and evolution of microRNAs and Piwi-interacting RNAs in animals</article-title>
+          <source>Nature</source>
+          <volume>455</volume>
+          <year>2008</year>
+          <fpage>1193</fpage>
+          <lpage>1197</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/nature07415">doi:10.1038/nature07415</ext-link>
+          <pub-id pub-id-type="pmid">18830242</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib12">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hsueh</surname>
+              <given-names>Y.P.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Sheng</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Disulfide-linked head-to-head multimerization in the mechanism of ion channel clustering by PSD-95</article-title>
+          <source>Neuron</source>
+          <volume>18</volume>
+          <year>1997</year>
+          <fpage>803</fpage>
+          <lpage>814</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1016/S0896-6273(00)80319-0">doi:10.1016/S0896-6273(00)80319-0</ext-link>
+          <pub-id pub-id-type="pmid">9182804</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib5">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>King</surname>
+              <given-names>N.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The genome of the choanoflagellate <italic>Monosiga brevicollis</italic> and the origin of metazoans</article-title>
+          <source>Nature</source>
+          <volume>451</volume>
+          <year>2008</year>
+          <fpage>783</fpage>
+          <lpage>788</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1038/nature06617">doi:10.1038/nature06617</ext-link>
+          <pub-id pub-id-type="pmid">18273011</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib6">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koonin</surname>
+              <given-names>E.V.</given-names>
+            </name>
+            <name>
+              <surname>Aravind</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kondrashov</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of comparative genomics on our understanding of evolution</article-title>
+          <source>Cell</source>
+          <volume>101</volume>
+          <year>2000</year>
+          <fpage>573</fpage>
+          <lpage>576</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1016/S0092-8674(00)80867-3">doi:10.1016/S0092-8674(00)80867-3</ext-link>
+          <pub-id pub-id-type="pmid">10892642</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib3">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Richards</surname>
+              <given-names>G.S.</given-names>
+            </name>
+            <name>
+              <surname>Simionato</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Perron</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Adamska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vervoort</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Degnan</surname>
+              <given-names>B.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sponge genes provide new insight into the evolutionary origin of the neurogenic circuit</article-title>
+          <source>Curr. Biol</source>
+          <volume>18</volume>
+          <year>2008</year>
+          <fpage>1156</fpage>
+          <lpage>1161</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1016/j.cub.2008.06.074">doi:10.1016/j.cub.2008.06.074</ext-link>
+          <pub-id pub-id-type="pmid">18674909</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib8">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rokas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kruger</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Carroll</surname>
+              <given-names>S.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Animal evolution and the molecular signature of radiations compressed in time</article-title>
+          <source>Science</source>
+          <volume>310</volume>
+          <year>2005</year>
+          <fpage>1933</fpage>
+          <lpage>1938</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1126/science.1116759">doi:10.1126/science.1116759</ext-link>
+          <pub-id pub-id-type="pmid">16373569</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib1">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sakarya</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Armstrong</surname>
+              <given-names>K.A.</given-names>
+            </name>
+            <name>
+              <surname>Adamska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Adamski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>I.F.</given-names>
+            </name>
+            <name>
+              <surname>Tidor</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Degnan</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Oakley</surname>
+              <given-names>T.H.</given-names>
+            </name>
+            <name>
+              <surname>Kosik</surname>
+              <given-names>K.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A post-synaptic scaffold at the origin of the animal kingdom</article-title>
+          <source>PLoS ONE</source>
+          <volume>2</volume>
+          <year>2007</year>
+          <fpage>e506</fpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1371/journal.pone.0000506">doi:10.1371/journal.pone.0000506</ext-link>
+          <pub-id pub-id-type="pmid">17551586</pub-id>
+        </citation>
+      </ref>
+      <ref id="bib7">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sakarya</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kosik</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Oakley</surname>
+              <given-names>T.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reconstructing ancestral genome content based on symmetrical best alignments and Dollo parsimony</article-title>
+          <source>Bioinformatics</source>
+          <volume>24</volume>
+          <year>2008</year>
+          <fpage>606</fpage>
+          <lpage>612</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/doi:10.1093/bioinformatics/btn005">doi:10.1093/bioinformatics/btn005</ext-link>
+          <pub-id pub-id-type="pmid">18184685</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p>One contribution of 10 to a Special Feature on ‘Brain evolution’.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>
